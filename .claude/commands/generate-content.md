@@ -44,7 +44,13 @@ Once all drafts are written, use the `post-ranker` subagent to score every draft
 
 The agent should write a ranking report to `content/drafts/_ranking.md` and update each draft's frontmatter status (`winner` for the top pick, `ranked` for the rest).
 
-## Stage 5: Report
+## Stage 5: Compilation
+
+Once ranking is complete, use the `content-compiler` subagent to compile all of today's ranked drafts and their source research into a single review file.
+
+The agent reads the ranking from `content/drafts/_ranking.md`, pairs each draft with its research file in rank order, and writes the compilation to `content/google doc/YYYY-MM-DD.md` for review in Google Docs.
+
+## Stage 6: Report
 
 After all stages are done, list what was created:
 
@@ -52,5 +58,6 @@ After all stages are done, list what was created:
 2. New files in `content/research/`
 3. New files in `content/drafts/`
 4. The ranking results — show the full scoreboard and announce the winner
+5. Compilation file in `content/google doc/`
 
 Summarize how many research files and drafts were generated this run, and clearly call out which post won and why.

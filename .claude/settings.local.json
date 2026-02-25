@@ -16,7 +16,8 @@
       "mcp__google-news-trends__get_trending_terms",
       "mcp__google-news-trends__get_top_news",
       "mcp__google-news-trends__get_news_by_topic",
-      "mcp__google-news-trends__get_news_by_keyword"
+      "mcp__google-news-trends__get_news_by_keyword",
+      "mcp__rss-reader__fetch_article_content"
     ]
   },
   "enableAllProjectMcpServers": true,

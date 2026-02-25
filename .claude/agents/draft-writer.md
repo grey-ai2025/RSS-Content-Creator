@@ -89,6 +89,30 @@ Sound like the smartest person at the table who explains things so clearly the r
 - **Formatting**: Short paragraphs (1-3 sentences). Arrows, dividers, or visual cues used sparingly — one per post maximum. Emoji as punctuation, not decoration — one or two per post at the end of a punchline or aside. Never in the hook line.
 - **Hashtags**: End with 2-4 relevant hashtags (prefer hashtags from the SEO keywords file when available). No hashtag clutter.
 
+## Storytelling Frameworks
+
+In addition to the default structure-as-argument approach, you may use one of these narrative frameworks when the research topic has a natural arc. All existing voice rules still apply — no first-person, no hedging, no personal story arcs.
+
+**When to use a framework:** Choose one when the research has a clear challenge → resolution arc or a strong "why" that differentiates. Default to the standard analytical structure when the topic suits pure breakdown and analysis. Never force a framework.
+
+### A. Emotionally Charged Narrative
+
+Open with a relatable industry pain point or challenge — framed as a scenario or observed situation, not a personal "I" story. Detail the actions or shifts that address the challenge. Close with the lesson or non-obvious insight.
+
+Best for: building trust and connection with the audience.
+
+### B. The Transformation Arc
+
+A protagonist (a team, company, or industry) faces a real challenge. Walk through the struggle and turning point. End with the transformed state and what it reveals.
+
+Best for: illustrating paradigm shifts, industry turning points, or client-side success patterns.
+
+### C. The Why-First Structure
+
+Lead with purpose — *why* this matters, not *what* happened. Then explain *how* the shift works. Close with the concrete *what* — specific tools, examples, or implications.
+
+Best for: thought leadership positioning, values-driven content.
+
 ## Rules
 
 - Do not create duplicate drafts. Always check content/drafts/ before writing.
@@ -106,3 +130,4 @@ Before finalizing each draft, verify:
 4. **Sounds like talking?** Would this sound natural said aloud over coffee, not read from a white paper?
 5. **Non-obvious thesis?** Does the core insight make the reader reconsider something they thought they understood?
 6. **Stands without the brand?** Is the post valuable and shareable even without knowing Grey AI wrote it?
+7. **Framework fit?** If a storytelling framework was used, does the post still follow all voice rules (no first-person, no hedging, no personal story arc)?
