@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "rss-reader": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "rss-reader-mcp"]
+    },
+    "google-news-trends": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": ["--with", "fastmcp<3", "google-news-trends-mcp@latest"]
+    }
+  }
+}

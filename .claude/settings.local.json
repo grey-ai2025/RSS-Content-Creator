@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:techcrunch.com)",
+      "WebFetch(domain:stripe.com)",
+      "WebFetch(domain:www.bbc.com)",
+      "mcp__rss-reader__fetch_feed_entries",
+      "WebFetch(domain:www.dataslayer.ai)",
+      "WebFetch(domain:www.neuralbuddies.com)",
+      "WebFetch(domain:venturebeat.com)",
+      "WebFetch(domain:theverge.com)",
+      "WebFetch(domain:arstechnica.com)",
+      "WebFetch(domain:technologyreview.com)",
+      "WebFetch(domain:wired.com)",
+      "WebFetch(domain:taplio.com)",
+      "mcp__google-news-trends__get_trending_terms",
+      "mcp__google-news-trends__get_top_news",
+      "mcp__google-news-trends__get_news_by_topic",
+      "mcp__google-news-trends__get_news_by_keyword"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "rss-reader",
+    "google-news-trends"
+  ]
+}
