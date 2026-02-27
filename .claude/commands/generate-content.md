@@ -1,5 +1,5 @@
 ---
-description: Scrape RSS feeds for research then generate LinkedIn drafts
+description: Scrape RSS feeds for research then generate LinkedIn briefs
 ---
 
 Run the full LinkedIn content pipeline:
@@ -30,25 +30,25 @@ Once SEO keywords are ready, use the `news-researcher` subagent to fetch the lat
 - https://datamachina.substack.com/feed
 - https://sciencedaily.com/rss/computers_math/artificial_intelligence.xml
 
-The agent should read the keywords file from `content/seo/` to guide story selection — prioritizing stories that align with trending topics. It must sort all feed items by publication date (newest first) so the most recent stories are always covered. Save research summaries to `content/research/`.
+The agent should read the keywords file from `content/seo/` to guide story selection — prioritizing stories that align with trending topics. It must sort all feed items by publication date (newest first) so the most recent stories are always covered. After selecting candidates, the agent must apply same-day thematic deduplication — grouping stories by core theme and keeping only the strongest per theme to prevent overlapping posts. Save research summaries to `content/research/`.
 
-## Stage 3: Drafting
+## Stage 3: Brief Generation
 
-Once research is complete, use the `draft-writer` subagent to create LinkedIn post drafts from any new research files that don't already have a matching draft.
+Once research is complete, use the `draft-writer` subagent to generate structured briefs for the LinkedIn Growth Engine from any new research files that don't already have a matching brief.
 
-The agent should read the keywords file from `content/seo/` and save drafts to `content/drafts/`.
+The agent should read the keywords file from `content/seo/` and save briefs to `content/drafts/`. Before writing, the agent must check all existing briefs from the past 7 days for thematic overlap — skipping any research file whose core theme is already covered by an existing brief.
 
 ## Stage 4: Ranking
 
-Once all drafts are written, use the `post-ranker` subagent to score every draft against the scroll-stopping checklist, rank them, and pick the winner.
+Once all briefs are written, use the `post-ranker` subagent to score every brief against the brief scoring rubric, rank them, and pick the winner.
 
-The agent should write a ranking report to `content/drafts/_ranking.md` and update each draft's frontmatter status (`winner` for the top pick, `ranked` for the rest).
+The agent should write a ranking report to `content/drafts/_ranking.md` and update each brief's frontmatter status (`winner` for the top pick, `ranked` for the rest).
 
 ## Stage 5: Compilation
 
-Once ranking is complete, use the `content-compiler` subagent to compile all of today's ranked drafts and their source research into a single review file.
+Once ranking is complete, use the `content-compiler` subagent to compile all of today's ranked briefs and their source research into a single review file.
 
-The agent reads the ranking from `content/drafts/_ranking.md`, pairs each draft with its research file in rank order, and writes the compilation to `content/google doc/YYYY-MM-DD.md` for review in Google Docs.
+The agent reads the ranking from `content/drafts/_ranking.md`, pairs each brief with its research file in rank order, and writes the compilation to `content/google doc/YYYY-MM-DD.md` for review in Google Docs.
 
 ## Stage 6: Report
 
@@ -60,4 +60,4 @@ After all stages are done, list what was created:
 4. The ranking results — show the full scoreboard and announce the winner
 5. Compilation file in `content/google doc/`
 
-Summarize how many research files and drafts were generated this run, and clearly call out which post won and why.
+Summarize how many research files and briefs were generated this run, and clearly call out which brief won and why.

@@ -31,3 +31,9 @@ YYYY-MM-DD-slug.md
 ```
 
 For example: `2026-02-25-openai-launches-new-model.md`
+
+## Pipeline Output
+
+This pipeline outputs LinkedIn **briefs**, not finished posts. Briefs contain structured ingredients (headline, key facts, Grey AI angle, 3 hook options, format recommendation, keywords, raw material) designed to be pasted into the Claude.ai "LinkedIn Growth Engine" Project for final post creation and optimization.
+
+The brief format is intentional: research and angle identification happen here in Claude Code. Creative writing, hook selection, carousel design, and engagement optimization happen in the Claude.ai Project which has access to Grey AI's performance benchmarks, carousel templates, post formulas, and audit rubrics.
