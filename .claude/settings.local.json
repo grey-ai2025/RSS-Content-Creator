@@ -31,7 +31,8 @@
       "WebFetch(domain:www.fastcompany.com)",
       "WebFetch(domain:nytimes.com)",
       "WebFetch(domain:www.nytimes.com)",
-      "WebFetch(domain:www.theverge.com)"
+      "WebFetch(domain:www.theverge.com)",
+      "WebFetch(domain:)"
     ]
   },
   "enableAllProjectMcpServers": true,
