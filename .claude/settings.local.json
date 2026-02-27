@@ -17,7 +17,14 @@
       "mcp__google-news-trends__get_top_news",
       "mcp__google-news-trends__get_news_by_topic",
       "mcp__google-news-trends__get_news_by_keyword",
-      "mcp__rss-reader__fetch_article_content"
+      "mcp__rss-reader__fetch_article_content",
+      "WebFetch(domain:www.technologyreview.com)",
+      "WebFetch(domain:unite.ai)",
+      "WebFetch(domain:dailyai.com)",
+      "WebFetch(domain:artificialintelligence-news.com)",
+      "WebFetch(domain:aiweekly.co)",
+      "WebFetch(domain:aihub.org)",
+      "WebFetch(domain:fastcompany.com)"
     ]
   },
   "enableAllProjectMcpServers": true,
