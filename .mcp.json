@@ -2,12 +2,12 @@
   "mcpServers": {
     "rss-reader": {
       "type": "stdio",
-      "command": "npx",
+      "command": "D:\\Program Files\\nodejs\\npx.cmd",
       "args": ["-y", "rss-reader-mcp"]
     },
     "google-news-trends": {
       "type": "stdio",
-      "command": "uvx",
+      "command": "C:\\Users\\Admin\\.local\\bin\\uvx.exe",
       "args": ["--with", "fastmcp<3", "google-news-trends-mcp@latest"]
     }
   }
