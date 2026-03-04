@@ -1,7 +1,7 @@
 ---
 source_file: content/research/2026-03-04-ai-therapy-chatbot-ethical-risks.md
 keywords_file: content/seo/2026-03-04-keywords.md
-status: winner
+status: ranked
 created_date: 2026-03-04
 ---
 
