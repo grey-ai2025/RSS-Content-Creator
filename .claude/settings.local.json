@@ -32,7 +32,11 @@
       "WebFetch(domain:nytimes.com)",
       "WebFetch(domain:www.nytimes.com)",
       "WebFetch(domain:www.theverge.com)",
-      "WebFetch(domain:)"
+      "WebFetch(domain:)",
+      "WebSearch",
+      "WebFetch(domain:socialrails.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:www.wired.com)"
     ]
   },
   "enableAllProjectMcpServers": true,
