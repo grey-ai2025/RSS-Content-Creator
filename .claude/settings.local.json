@@ -36,7 +36,8 @@
       "WebSearch",
       "WebFetch(domain:socialrails.com)",
       "WebFetch(domain:raw.githubusercontent.com)",
-      "WebFetch(domain:www.wired.com)"
+      "WebFetch(domain:www.wired.com)",
+      "WebFetch(domain:d)"
     ]
   },
   "enableAllProjectMcpServers": true,
