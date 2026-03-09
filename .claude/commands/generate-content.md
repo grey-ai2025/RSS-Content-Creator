@@ -4,6 +4,14 @@ description: Scrape RSS feeds for research then generate LinkedIn briefs
 
 Run the full LinkedIn content pipeline:
 
+## Stage 0: LinkedIn Benchmark
+
+Use the `linkedin-analyzer` subagent to scrape top AI/tech influencer LinkedIn profiles and analyze their highest-performing recent posts.
+
+The agent uses Firecrawl MCP tools to scrape influencer activity pages, identifies the top 10-15 posts by engagement, and extracts patterns (hook styles, formats, topics, structure). It saves a benchmark file to `content/benchmarks/`.
+
+This stage runs first so downstream agents (SEO, drafting, ranking) can reference the benchmark data.
+
 ## Stage 1: SEO Keywords
 
 Use the `seo-researcher` subagent to research trending AI/tech keywords for LinkedIn.
@@ -54,10 +62,11 @@ The agent reads the ranking from `content/drafts/_ranking.md`, pairs each brief 
 
 After all stages are done, list what was created:
 
-1. SEO keywords file in `content/seo/`
-2. New files in `content/research/`
-3. New files in `content/drafts/`
-4. The ranking results — show the full scoreboard and announce the winner
-5. Compilation file in `content/google doc/`
+1. LinkedIn benchmark file in `content/benchmarks/`
+2. SEO keywords file in `content/seo/`
+3. New files in `content/research/`
+4. New files in `content/drafts/`
+5. The ranking results — show the full scoreboard and announce the winner
+6. Compilation file in `content/google doc/`
 
-Summarize how many research files and briefs were generated this run, and clearly call out which brief won and why.
+Summarize how many research files and briefs were generated this run, and clearly call out which brief won and why. Note any key insights from the LinkedIn benchmark that influenced the pipeline.

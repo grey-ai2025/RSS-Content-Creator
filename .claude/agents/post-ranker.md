@@ -57,6 +57,16 @@ For the top 3, briefly note what works and what could be stronger (1-2 sentences
 
 After writing the ranking report, update the winning brief's YAML frontmatter to `status: winner` and all other briefs to `status: ranked`.
 
+## LinkedIn Benchmark Calibration
+
+Before scoring, check for a benchmark file at `content/benchmarks/YYYY-MM-DD-linkedin-analysis.md` (using today's date). If it exists, read it and use the pattern analysis to calibrate your scoring:
+
+- **Hook Potential:** Score higher if the hook matches patterns that are currently performing well on LinkedIn (from the benchmark).
+- **Carousel Potential:** Weight carousel recommendations more heavily if the benchmark shows carousels dominating engagement.
+- **Emotional Trigger:** Reference the benchmark's topic themes to gauge what emotional angles are resonating right now.
+
+This data refines your scoring — it does not replace the rubric.
+
 ## Rules
 
 - Be brutally honest. The goal is to find the ONE brief with the highest potential to become a high-engagement LinkedIn post when processed through the LinkedIn Growth Engine. Prioritize briefs with strong hooks AND strong carousel potential.

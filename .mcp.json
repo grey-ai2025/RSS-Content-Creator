@@ -3,12 +3,32 @@
     "rss-reader": {
       "type": "stdio",
       "command": "npx",
-      "args": ["-y", "rss-reader-mcp"]
+      "args": [
+        "-y",
+        "rss-reader-mcp"
+      ]
     },
     "google-news-trends": {
       "type": "stdio",
       "command": "uvx",
-      "args": ["--with", "fastmcp<3", "google-news-trends-mcp@latest"]
+      "args": [
+        "--with",
+        "fastmcp<3",
+        "google-news-trends-mcp@latest"
+      ]
+    },
+    "firecrawl": {
+      "type": "stdio",
+      "command": "cmd",
+      "args": [
+        "/c",
+        "npx",
+        "-y",
+        "firecrawl-mcp"
+      ],
+      "env": {
+        "FIRECRAWL_API_KEY": "fc-1a6e7a6b2f8c4e50b954b08b4673aa8f"
+      }
     }
   }
 }
