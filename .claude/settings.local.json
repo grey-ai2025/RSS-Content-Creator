@@ -37,7 +37,9 @@
       "WebFetch(domain:socialrails.com)",
       "WebFetch(domain:raw.githubusercontent.com)",
       "WebFetch(domain:www.wired.com)",
-      "WebFetch(domain:d)"
+      "WebFetch(domain:d)",
+      "WebFetch(domain:www.linkedin.com)",
+      "mcp__firecrawl__firecrawl_scrape"
     ]
   },
   "enableAllProjectMcpServers": true,
