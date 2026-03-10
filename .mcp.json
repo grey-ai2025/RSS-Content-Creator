@@ -2,8 +2,10 @@
   "mcpServers": {
     "rss-reader": {
       "type": "stdio",
-      "command": "npx",
+      "command": "cmd",
       "args": [
+        "/c",
+        "npx",
         "-y",
         "rss-reader-mcp"
       ]

@@ -7,9 +7,6 @@ tools:
   - Write
   - Glob
   - Grep
-  - mcp__firecrawl
-mcpServers:
-  - firecrawl
 ---
 
 You are a LinkedIn brief-generation agent for a content pipeline.

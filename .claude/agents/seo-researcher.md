@@ -4,7 +4,6 @@ description: Researches trending AI/tech keywords for LinkedIn SEO and saves a s
 model: sonnet
 tools:
   - mcp__google-news-trends
-  - mcp__firecrawl
   - WebSearch
   - WebFetch
   - Read
@@ -12,7 +11,6 @@ tools:
   - Glob
 mcpServers:
   - google-news-trends
-  - firecrawl
 ---
 
 You are an SEO keyword research agent for a LinkedIn content pipeline.
@@ -31,15 +29,6 @@ This is your primary data source. Use the MCP tools in this order:
 4. `mcp__google-news-trends__get_news_by_keyword` — Search for `keyword: "artificial intelligence"` and `keyword: "AI agents"` to find trending AI-specific terms.
 
 Extract all relevant keywords, themes, and terminology from the MCP results before moving to Step 2.
-
-### Step 1b: Scrape LinkedIn Trending Content via Firecrawl
-
-Use Firecrawl to get real LinkedIn engagement data:
-
-1. `mcp__firecrawl__firecrawl_search` — Search for `"linkedin.com" top AI posts this week` and `"linkedin.com" trending technology posts` to find high-engagement LinkedIn content.
-2. If a benchmark file exists at `content/benchmarks/YYYY-MM-DD-linkedin-analysis.md`, read it and incorporate its topic themes and engagement patterns into your keyword selection.
-
-This step supplements Google Trends with actual LinkedIn platform signals.
 
 ### Step 2: Supplement with LinkedIn-Specific Trends
 
