@@ -103,6 +103,15 @@ Before saving, check every item:
 
 Fix any failures before scoring.
 
+## Step 5.5: De-AI Writing Pass
+
+Read `Humanizer/SKILL.md` in full. Apply every pattern in that file to the post — all 24 patterns plus the Personality and Soul guidelines. Use the two-pass audit at the end:
+
+1. Ask: "What still makes this obviously AI-generated?" — list remaining tells
+2. Rewrite those parts
+
+Only then proceed to Step 6.
+
 ## Step 6: Score Against Audit Rubric
 
 Score the post on 6 dimensions (1–5 each, max 30) from `postFormulas.md`:

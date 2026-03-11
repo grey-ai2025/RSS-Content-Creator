@@ -15,6 +15,7 @@ This project is a LinkedIn content pipeline that generates professional posts an
 - `.claude/commands/` — Slash commands for running the pipeline.
 - `LinkedIn Growth Engine/` — Reference files for the post-writer agent: brand voice, performance benchmarks, carousel templates, post formulas, and audit rubric.
 - `Script to Image/` — Reference files for the image-prompt-generator agent: brand rules, image prompt workflows, and imageConfig.json with colors, typography, and layout specs.
+- `Humanizer/` — AI writing pattern removal guide (SKILL.md) read by the post-writer agent to strip AI-isms and add voice before scoring. Based on Wikipedia's "Signs of AI writing" guide (24 patterns).
 
 ## Workflow
 

@@ -31,61 +31,81 @@ Read the post file's frontmatter `format` field:
 ### Step A: Analyze
 Read the post silently. Identify:
 - The core emotion (tension, fear, irony, urgency, confidence)
-- The best visual metaphor for the concept
-- The image headline — max 8 words, NOT the full hook
+- The central argument in one sentence
+- The historical parallel or real-world analogy — ask: "What situation in the physical world, in history, or in everyday life is structurally identical to what this post is arguing?" That situation is your image.
 
-Check `imageConfig.json` `diagram_concept_triggers` — if the post contains a process, before/after, cause-and-effect, or framework, pitch `concept_diagram` as one of the 3 options.
+**The standard to aim for:** A viewer who has never read the caption should understand the post's argument from the image alone. Not because the image labels it — but because the image IS an analogy for it.
+
+**The preferred approach is always a cinematic scene.** Before considering any diagram or text layout, ask: can a photorealistic, cinematic scene carry this idea? If yes, use a scene. Diagrams and stat callouts are fallbacks, not defaults.
 
 ### Step B: Pitch 3 Visual Directions
 
-Present 3 options using layout types from `imageConfig.json`:
+**Option A must always be a Cinematic Scene** — a photorealistic, narrative image where the concept is conveyed through a visual analogy, historical parallel, or real-world scene. No text required. Examples of what this looks like:
+- A 1990s office bulletin board with "COMPUTER LITERACY REQUIRED" circled in red → for a post about AI literacy being the new baseline credential
+- A lone professional facing a backlit locked security door at the end of a dark corridor → for a post about AI being a "promotion gate"
+- A fax machine in a gleaming modern office, obviously unused, covered in dust → for a post about legacy skills being obsoleted
+- A weather forecaster in front of a green screen showing the wrong map → for a post about planning based on outdated models
 
-**Option A: [Name]**
-- Layout: [bold_headline / stat_callout / split_contrast / minimal_quote / visual_metaphor / concept_diagram]
-- Text on image: "[max 8 words]"
-- Visual: [2–3 sentences: scene, mood, colors, metaphor — no generic AI imagery]
-- Why it works: [1 sentence]
+For Option A, describe:
+- Scene: exactly what the viewer sees (setting, objects, people if any — always seen from behind or anonymized)
+- Lighting: where the light comes from, what it emphasizes, what it leaves dark
+- Color treatment: desaturated/warm/cool, and where the single cyan accent appears
+- Atmosphere: the emotional texture — the feeling the viewer gets in their gut before they read a word
+- Text on image: 0–5 words only, or none
 
-**Option B: [Name]**
-...
+**Option B** can be a `split_contrast`, `stat_callout`, or `bold_headline` layout if a strong scene candidate is not obvious.
 
-**Option C: [Name]**
-...
+**Option C** can be a `concept_diagram` only if the post is explaining a framework, process, or multi-step transformation where a diagram adds precision that a scene cannot. Diagrams should never be the first or second option — only the third, and only when warranted.
 
-Then **auto-select the strongest option** and state why. The user can override.
+Then **auto-select the strongest option** and state why. Default to Option A (cinematic scene) unless there is a specific reason a diagram or stat callout serves the argument better.
+
+### How to Find the Cinematic Scene
+
+Work through these questions in order:
+
+1. **Has this happened before?** If the post describes a shift (a skill becoming required, a technology displacing a workflow, an industry being restructured), find the historical moment when the same shift happened previously. That earlier moment is the image. The viewer recognizes the past and maps it to the present.
+
+2. **What does this feel like physically?** If the post is about a gate, show a gate. If it's about a deadline, show a clock. If it's about a gap between where someone is and where they need to be, show that gap as a physical space — a corridor, a chasm, a door.
+
+3. **What object or setting is structurally identical to the argument?** A locked filing cabinet for "organizations hoarding data." A single chair at a long empty boardroom table for "the AI literacy gap in leadership." A boarding gate with one person still on the wrong side for "who gets left behind."
+
+4. **What is the single moment of decision or realization?** Show the moment just before — not the outcome. The figure facing the door, not the door opening. The hand reaching for the filing cabinet key, not the files inside. Tension is more compelling than resolution.
 
 ### Step C: Generate the Prompt
 
-Output the final Gemini prompt in a code block using the template from `instructions.md`:
+For a cinematic scene, use this structure in the code block:
 
 ```
 Generate a LinkedIn post image.
 Canvas: 1080x1080 pixels, square.
 BRAND: Grey AI — AI training company
-BACKGROUND: [specific gradient/color using brand hex codes from imageConfig.json]
-Texture: Subtle film grain throughout.
-VISUAL CONCEPT: [detailed, specific scene — not vague. Describe exactly what the viewer sees.]
-TEXT ON IMAGE (MAX 8 WORDS):
-"[headline text]"
 
-Font: DM Sans Bold
-Color: #FFFFFF
-Position: [centered / left-aligned / overlay]
-Size: Large, dominant
+VISUAL CONCEPT:
+[2–4 sentences describing the scene in precise visual terms: setting, focal object, figure placement if any, depth of field, what is sharp vs. blurred. Write this as a cinematographer's shot description.]
 
-LOGO SAFE ZONE: Keep top-right corner (200x200px area, x=820 y=20) completely empty — no text, no visual elements.
-WATERMARK: "Grey AI" bottom-right, 18pt, white, 70% opacity
-ACCENT COLOR: #ADFBF6 (cyan) — use for [specific element: glow, underline, highlight, icon]
+LIGHTING: [where the light source is, what it illuminates, what falls into shadow, the emotional quality of the light]
+
+COLOR TREATMENT: [dominant palette — usually desaturated with one warm or cyan accent. Describe exactly which element carries the accent and why.]
+
+ATMOSPHERE: [1 sentence: the gut-feeling the viewer gets from this image before they read the caption]
+
+TEXT ON IMAGE: [0–5 words, or "None" — the scene should carry the concept without labels]
+[If text: Font: DM Sans Bold | Color: #FFFFFF | Position: bottom-center | Size: 60pt]
+
+LOGO SAFE ZONE: Keep top-right corner (240x100px area, x=820 y=20) completely empty — no text, no visual elements, no gradients that obscure this zone.
+WATERMARK: "Grey AI" bottom-right, 18pt, white, 60% opacity
+
 RULES:
-- Dark, moody, editorial aesthetic
-- Subtle film grain texture (NOT clean/flat)
-- NO stock people, clip art, generic AI imagery (no glowing brains, robot hands, circuit boards)
-- NO paragraphs or bullet points
-- High contrast, professional
-- The image should make someone stop scrolling before they read a single word
+- Photorealistic and cinematic — not a graphic, not a diagram, not a stock photo
+- Subtle film grain throughout — never flat or clean
+- [Accent color rule: specify exactly which ONE element is cyan, and why that element]
+- NO generic AI imagery — no robots, no glowing brains, no circuit boards, no matrix code
+- [Any scene-specific rules: e.g. "NO modern elements — this is a 1990s scene"]
+- The image must communicate the post's core argument before the viewer reads a single word of the caption
+- Dark, cinematic, editorial aesthetic — not corporate stock photography
 ```
 
-For `concept_diagram` layout, follow the diagram rules in `imageConfig.json` exactly: sharp-corner nodes, straight/90-degree arrows, DM Sans Bold labels, one cyan accent element, max 4 nodes, 40%+ negative space.
+For `concept_diagram` layout (Option C only), follow the diagram rules in `imageConfig.json` exactly: sharp-corner nodes, straight/90-degree arrows, DM Sans Bold labels, one cyan accent element, max 4 nodes, 40%+ negative space.
 
 ---
 
