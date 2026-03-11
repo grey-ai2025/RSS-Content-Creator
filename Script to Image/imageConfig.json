@@ -1,0 +1,171 @@
+{
+  "brand": {
+    "name": "Grey AI",
+    "product": "SPARK Suite™",
+    "website": "www.yoursparkpath.com",
+    "tagline": "AI literacy that actually works"
+  },
+
+  "logo": {
+    "url": "https://res.cloudinary.com/dnv13bm7j/image/upload/v1770309966/GREY_LOGO_miuq6t.svg",
+    "url_png": "https://res.cloudinary.com/dnv13bm7j/image/upload/f_png/v1770309966/GREY_LOGO_miuq6t",
+    "description": "Grey AI logo — icon/symbol + text combo, black and grey colors",
+    "placement": "top-right corner",
+    "safe_zone": {
+      "description": "Gemini must leave this area EMPTY — no text, no visual elements, no gradients that obscure this zone",
+      "x_start": 820,
+      "y_start": 20,
+      "width": 240,
+      "height": 100
+    },
+    "overlay_instructions": "After downloading the Gemini image, overlay the logo PNG at top-right (x=820, y=20) with max width 200px. Use Canva, Figma, or the provided Python script."
+  },
+
+  "dimensions": {
+    "single_post": { "width": 1080, "height": 1080 },
+    "carousel": { "width": 1080, "height": 1350 }
+  },
+
+  "colors": {
+    "black": "#000000",
+    "white": "#FFFFFF",
+    "cyan": "#ADFBF6",
+    "cyan_bright": "#00D4FF",
+    "dark_grey": "#434343",
+    "logo_grey": "#9A9A9A",
+    "light_grey": "#F5F5F5",
+    "charcoal": "#1A1A1A"
+  },
+
+  "typography": {
+    "font_family": "DM Sans",
+    "headline": {
+      "max_words": 8,
+      "weight": "Bold",
+      "color": "#FFFFFF"
+    },
+    "accent_text": {
+      "weight": "Bold",
+      "color": "#ADFBF6"
+    },
+    "diagram_label": {
+      "weight": "Bold",
+      "size": "22-32pt",
+      "color": "#FFFFFF",
+      "note": "Used for node labels and annotations in concept diagrams"
+    }
+  },
+
+  "visual_style": {
+    "philosophy": "Editorial. Bold. Emotional. The image IS the argument — not decoration for it.",
+    "grain_texture": "Subtle film grain on ALL backgrounds. Never flat.",
+    "negative_space": "Min 40% of image should be breathing room",
+    "concept_made_visible": "The highest-performing images don't decorate the caption — they EXPLAIN it. The viewer should understand the core idea from the image alone, before reading a single word of the caption.",
+    "never_do": [
+      "Stock photo people smiling at laptops",
+      "Clip art or cartoon illustrations",
+      "Generic AI imagery (glowing brains, robots, matrix code, circuit boards)",
+      "More than 12 words total on any concept_diagram image",
+      "More than 8 words on any other single image",
+      "Paragraphs or bullet points on the image",
+      "Corporate template aesthetic",
+      "Colorful rounded rectangles with emoji icons (the LinkedIn clip-art trap)",
+      "ANY visual elements in the top-right corner (reserved for logo)"
+    ]
+  },
+
+  "background_styles": {
+    "dark_gradient": {
+      "description": "Deep charcoal to black gradient with subtle grain texture",
+      "usage": "Default for most posts",
+      "colors": ["#1A1A1A", "#000000"]
+    },
+    "cyan_wash": {
+      "description": "Soft cyan-to-white gradient with light grain",
+      "usage": "Uplifting/positive messages",
+      "colors": ["#ADFBF6", "#FFFFFF"]
+    },
+    "split": {
+      "description": "50/50 split — dark left, cyan right",
+      "usage": "Comparison posts",
+      "colors": ["#1A1A1A", "#ADFBF6"]
+    },
+    "light_minimal": {
+      "description": "Off-white with subtle paper texture",
+      "usage": "Quotes and stats",
+      "colors": ["#F5F5F5", "#FFFFFF"]
+    },
+    "dark_diagram": {
+      "description": "Near-black with very subtle grid or dot-matrix texture at low opacity — like technical graph paper in the dark. Gives diagram elements a surface to sit on.",
+      "usage": "concept_diagram layout only",
+      "colors": ["#0D0D0D", "#1A1A1A"],
+      "texture": "Faint 40px grid lines or dot grid at 4% opacity — barely visible, structural"
+    }
+  },
+
+  "layouts": {
+    "bold_headline": {
+      "max_words": 6,
+      "headline_size": "60-90pt",
+      "best_for": "Hot takes, provocative statements"
+    },
+    "visual_metaphor": {
+      "max_words": 5,
+      "headline_size": "36-48pt",
+      "best_for": "Emotional content, storytelling"
+    },
+    "stat_callout": {
+      "max_words": 4,
+      "stat_size": "180-250pt",
+      "best_for": "Data points, research findings"
+    },
+    "split_contrast": {
+      "max_words": 6,
+      "text_size": "36-48pt",
+      "best_for": "Before/after, problem/solution"
+    },
+    "minimal_quote": {
+      "max_words": 8,
+      "text_size": "42-56pt",
+      "best_for": "Insights, lessons learned"
+    },
+    "concept_diagram": {
+      "max_words": 12,
+      "label_size": "22-32pt",
+      "headline_size": "36-48pt",
+      "best_for": "Process flows, comparisons, transformations, frameworks, cause-and-effect — any post where the IDEA can be drawn",
+      "philosophy": "Think editorial infographic meets architectural drawing. NOT a PowerPoint slide. The diagram uses geometry, arrows, and labels to make the concept legible at a glance. The dark background and cyan accent make it feel premium, not corporate.",
+      "diagram_elements": {
+        "nodes": "Simple geometric shapes only — rectangles with sharp corners, circles, or raw text in boxes. Dark fill (#1A1A1A or #000) with white or cyan border (1-2px). No gradients on nodes. No shadows. No rounded corners.",
+        "arrows": "Clean single-line arrows. Straight or 90-degree only — no curves. White (#FFF) at 60% opacity for neutral flow, cyan (#ADFBF6) at 100% for the key transformation or insight arrow.",
+        "labels": "DM Sans Bold, 22-32pt. White for neutral labels. Cyan for the insight or outcome label. ALL CAPS for node labels, sentence case for annotations.",
+        "annotations": "Small secondary text (16-20pt, #9A9A9A) for sub-labels or clarifying context. Used sparingly — max 2 annotations per image.",
+        "accent_element": "One element only gets cyan highlight — the transformation, the solution, the key insight. Everything else stays white/grey. The eye goes straight to cyan."
+      },
+      "composition_rules": [
+        "Left-to-right or top-to-bottom flow only — Western reading direction",
+        "Max 4 nodes per diagram — complexity kills the point",
+        "The concept should be readable in under 3 seconds",
+        "Leave at least 120px margin on all sides",
+        "One dominant headline above or below the diagram — states what the diagram proves",
+        "Diagram sits in center 60% of the image — surrounded by breathing room"
+      ],
+      "reference_aesthetic": "Think: a diagram from a premium research report or a Pentagram-designed annual report. Dark, minimal, typographically precise. Not a whiteboard photo. Not a Canva template."
+    }
+  },
+
+  "diagram_concept_triggers": {
+    "description": "When analyzing a post draft, use concept_diagram when the post contains ANY of these patterns",
+    "triggers": [
+      "A process with distinct steps (do X, then Y, then Z)",
+      "A before/after or problem/solution contrast",
+      "A cause-and-effect relationship",
+      "A framework with named components",
+      "A comparison between two approaches",
+      "A transformation (input → output)",
+      "A hierarchy or priority ranking",
+      "A gap between two states (where people are vs where they should be)"
+    ],
+    "note": "When a concept_diagram is appropriate, pitch it as one of the 3 options — but make it meaningfully different from a split_contrast. The diagram actually DRAWS the concept. The split_contrast just contrasts two text states."
+  }
+}

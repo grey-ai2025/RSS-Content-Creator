@@ -58,7 +58,19 @@ Once ranking is complete, use the `content-compiler` subagent to compile all of 
 
 The agent reads the ranking from `content/drafts/_ranking.md`, pairs each brief with its research file in rank order, and writes the compilation to `content/google doc/YYYY-MM-DD.md` for review in Google Docs.
 
-## Stage 6: Report
+## Stage 6: Post Writing
+
+Once compilation is complete, use the `post-writer` subagent to convert the winning brief into a finished LinkedIn post.
+
+The agent reads the winner from `content/drafts/_ranking.md`, loads all LinkedIn Growth Engine reference files (`LinkedIn Growth Engine/skills.md`, `benchmarks.md`, `carousel-templates.md`, `postFormulas.md`, `instructions.md`), applies the Growth Engine workflow and audit rubric (minimum 20/30), and saves the finished post to `content/posts/YYYY-MM-DD-<winner-slug>.md`.
+
+## Stage 7: Image Prompts
+
+Once the post is written, use the `image-prompt-generator` subagent to generate Gemini image prompts for the finished post.
+
+The agent reads the finished post from `content/posts/`, applies all Script to Image brand rules (`Script to Image/instructions.md`, `Script to Image/imageConfig.json`), selects a visual theme, and saves ready-to-paste Gemini prompts to `content/image-prompts/YYYY-MM-DD.md`.
+
+## Stage 8: Report
 
 After all stages are done, list what was created:
 
@@ -68,5 +80,7 @@ After all stages are done, list what was created:
 4. New files in `content/drafts/`
 5. The ranking results — show the full scoreboard and announce the winner
 6. Compilation file in `content/google doc/`
+7. Finished post in `content/posts/` — include the audit score and format
+8. Image prompts in `content/image-prompts/` — note how many slides/prompts were generated
 
 Summarize how many research files and briefs were generated this run, and clearly call out which brief won and why. Note any key insights from the LinkedIn benchmark that influenced the pipeline.

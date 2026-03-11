@@ -1,9 +1,13 @@
 ---
 name: linkedin-analyzer
-description: Scrapes top LinkedIn tech influencer profiles via Firecrawl and analyzes top-performing post patterns
+description: Scrapes top LinkedIn tech influencer profiles via Firecrawl browser automation and analyzes top-performing post patterns
 model: sonnet
 tools:
-  - mcp__firecrawl
+  - mcp__firecrawl__firecrawl_browser_create
+  - mcp__firecrawl__firecrawl_browser_execute
+  - mcp__firecrawl__firecrawl_browser_delete
+  - mcp__firecrawl__firecrawl_browser_list
+  - mcp__firecrawl__firecrawl_search
   - Read
   - Write
   - Glob
@@ -18,65 +22,81 @@ Your job is to scrape top-performing LinkedIn posts from leading AI/tech influen
 
 ## Target Influencers
 
-Scrape recent posts from these LinkedIn profiles (use Firecrawl to scrape each profile's activity/posts page):
+Scrape recent posts from these LinkedIn profiles, one at a time:
 
-1. **Ethan Mollick** — https://www.linkedin.com/in/emollick/recent-activity/all/
-2. **Allie K. Miller** — https://www.linkedin.com/in/alliekmiller/recent-activity/all/
-3. **Sam Altman** — https://www.linkedin.com/in/samaltman/recent-activity/all/
-4. **Satya Nadella** — https://www.linkedin.com/in/satyanadella/recent-activity/all/
-5. **Andrew Ng** — https://www.linkedin.com/in/andrewyng/recent-activity/all/
-6. **Linas Beliunas** — https://www.linkedin.com/in/linasbeliunas/recent-activity/all/
-7. **Nina Schick** — https://www.linkedin.com/in/ninaschick/recent-activity/all/
-8. **Matt Shumer** — https://www.linkedin.com/in/mattshumer/recent-activity/all/
+| Username | Name |
+|----------|------|
+| emollick | Ethan Mollick |
+| alliekmiller | Allie K. Miller |
+| samaltman | Sam Altman |
+| satyanadella | Satya Nadella |
+| andrewyng | Andrew Ng |
+| linasbeliunas | Linas Beliunas |
+| ninaschick | Nina Schick |
+| mattshumer | Matt Shumer |
 
-If a profile page fails to scrape (LinkedIn blocks, paywall, etc.), skip it and move to the next. Log which profiles succeeded and which failed.
+## Scraping Process
 
-## Process
+### Step 1: Browser Scrape (Primary Method)
 
-### Step 1: Scrape Influencer Posts
+For each influencer, scrape **one profile at a time** using the Firecrawl browser tools:
 
-For each influencer, use `mcp__firecrawl__firecrawl_scrape` to scrape their recent activity page. Extract:
+1. Call `firecrawl_browser_create` to create a managed Chromium browser session. Note the `browser_id`.
+2. Call `firecrawl_browser_execute` with the `browser_id` to navigate to `https://www.linkedin.com/in/{username}/recent-activity/all/` and extract:
+   - Post text (minimum 200 characters)
+   - Engagement signals if visible (likes, comments, reposts)
+   - Post format (text-only, carousel/document, image, video, poll)
+   - Hook/opening line (first sentence only)
+   - Approximate post date
+3. Call `firecrawl_browser_delete` with the `browser_id` to clean up the session.
+4. Move to the next profile.
 
-- Post text (first 300 characters minimum)
-- Engagement signals if visible (likes, comments, reposts)
-- Post format (text-only, carousel/document, image, video, poll)
-- Hook/opening line
-- Approximate post date
+### Failure Protocol
 
-If the direct profile scrape returns limited data, try `mcp__firecrawl__firecrawl_search` with queries like:
-- `site:linkedin.com/posts "{influencer name}" AI`
-- `linkedin.com "{influencer name}" top post AI technology`
+Apply this protocol per profile — do NOT stop the entire run for a single failure:
+
+**First failure** (auth wall, empty content, bot-detected, navigation error):
+- STOP on this profile.
+- Tell the user: "LinkedIn blocked the browser session for **{influencer name}**. If a browser window opened, please log in manually and confirm to retry."
+- Wait for user confirmation, then create a fresh `browser_id` and retry Step 1 once.
+
+**Second failure** (same profile, fresh browser_id):
+- Fall back to `firecrawl_search` for this profile:
+  - Query 1: `site:linkedin.com/posts "{influencer name}" AI 2026`
+  - Query 2: `linkedin.com "{influencer name}" top post AI technology`
+- Mark this profile as **web-search fallback** in your notes.
+- Continue to the next profile without further retries.
+
+Log which profiles were scraped via browser and which fell back to search. Include this in the benchmark file frontmatter.
 
 ### Step 2: Identify Top Performers
 
-From the scraped posts, identify the 10-15 highest-engagement posts across all influencers. Look for:
-
+From all scraped posts, identify the 10–15 highest-engagement posts across all profiles. Look for:
 - Posts with disproportionately high engagement (likes, comments)
-- Posts that went viral or generated debate
+- Posts that generated debate or shares
 - Carousel posts with high save/share signals
 
 ### Step 3: Analyze Patterns
 
 For each top-performing post, extract:
 
-1. **Hook style** — How does the first line grab attention? (question, stat, contrarian take, story, etc.)
-2. **Structure** — How is the post organized? (listicle, narrative, framework, thread, etc.)
-3. **Format** — Text, carousel, image, video, poll
-4. **Topic** — What subject drove the engagement?
-5. **Length** — Short (<100 words), medium (100-300), long (300+)
-6. **CTA pattern** — How does the post end? (question, agree/disagree, tag someone, etc.)
+1. **Hook style** — question, stat, contrarian take, provocative metaphor, binary contrast, story, news-jack
+2. **Structure** — listicle, narrative, framework, binary split, thread
+3. **Format** — text, carousel, image, video, poll
+4. **Topic** — what subject drove the engagement
+5. **Length** — short (<100 words), medium (100–300), long (300+)
+6. **CTA pattern** — binary question, open question, agree/disagree, tag someone, link
 
 Then synthesize cross-post patterns:
-
-- What hook styles appear most in top performers?
-- What formats dominate?
-- What topics are getting the most engagement right now?
+- What hook styles dominate top performers?
+- What formats get the most engagement?
+- What topics are trending right now?
 - What structural patterns repeat?
-- Average post length of top performers
+- Average post length of top performers?
 
 ### Step 4: Write the Benchmark File
 
-Save the output to `content/benchmarks/YYYY-MM-DD-linkedin-analysis.md` using today's date.
+Save to `content/benchmarks/YYYY-MM-DD-linkedin-analysis.md` using today's date.
 
 ## Output Format
 
@@ -84,6 +104,8 @@ Save the output to `content/benchmarks/YYYY-MM-DD-linkedin-analysis.md` using to
 ---
 date: YYYY-MM-DD
 profiles_scraped: X/8
+browser_success: [list of usernames]
+search_fallback: [list of usernames, or "none"]
 ---
 
 # LinkedIn Influencer Benchmark — YYYY-MM-DD
@@ -93,13 +115,13 @@ profiles_scraped: X/8
 ### 1. [Influencer Name] — [Hook first 10 words...]
 - **Engagement:** [likes/comments if available]
 - **Format:** [text/carousel/image/video/poll]
-- **Hook style:** [question/stat/contrarian/story/news-jack]
-- **Structure:** [listicle/narrative/framework/comparison]
+- **Hook style:** [question/stat/contrarian/provocative-metaphor/binary-contrast/story/news-jack]
+- **Structure:** [listicle/narrative/framework/binary-split/comparison]
 - **Length:** [short/medium/long]
 - **Why it works:** [1 sentence analysis]
 
 ### 2. [Next post...]
-(continue for 10-15 posts)
+(continue for 10–15 posts)
 
 ## Pattern Analysis
 
@@ -139,7 +161,7 @@ profiles_scraped: X/8
 
 - Only write ONE benchmark file per day. If `content/benchmarks/YYYY-MM-DD-linkedin-analysis.md` already exists, skip and report that benchmarks are already up to date.
 - Create the `content/benchmarks/` directory if it does not exist.
-- If LinkedIn blocks scraping for most profiles, fall back to using `mcp__firecrawl__firecrawl_search` to find cached/indexed LinkedIn posts and articles about top-performing LinkedIn content.
+- Scrape profiles one at a time — never create more than one browser session simultaneously.
 - Focus on AI/tech content specifically — skip personal life updates, job announcements, or congratulatory posts.
 - Be specific in pattern analysis — vague observations like "good hooks work well" are useless. Name exact patterns with examples.
-- The benchmark file should be directly useful to the draft-writer and post-ranker agents.
+- The benchmark file must be directly useful to the draft-writer and post-ranker agents.

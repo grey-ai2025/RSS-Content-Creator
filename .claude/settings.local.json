@@ -39,7 +39,12 @@
       "WebFetch(domain:www.wired.com)",
       "WebFetch(domain:d)",
       "WebFetch(domain:www.linkedin.com)",
-      "mcp__firecrawl__firecrawl_scrape"
+      "mcp__firecrawl__firecrawl_scrape",
+      "mcp__firecrawl__firecrawl_browser_create",
+      "mcp__firecrawl__firecrawl_browser_execute",
+      "mcp__firecrawl__firecrawl_browser_delete",
+      "mcp__firecrawl__firecrawl_browser_list",
+      "mcp__firecrawl__firecrawl_search"
     ]
   },
   "enableAllProjectMcpServers": true,
