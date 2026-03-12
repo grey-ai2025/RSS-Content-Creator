@@ -26,7 +26,7 @@ This is your primary data source. Use the MCP tools in this order:
 1. `mcp__google-news-trends__get_trending_terms` — Fetch currently trending search terms for the US region (`geo: "US"`). Filter results for technology and AI-related terms.
 2. `mcp__google-news-trends__get_top_news` — See what stories are dominating right now. Extract key themes and terminology from the headlines.
 3. `mcp__google-news-trends__get_news_by_topic` — Fetch news for `topic: "TECHNOLOGY"` and `topic: "SCIENCE"` to find AI-specific trending stories.
-4. `mcp__google-news-trends__get_news_by_keyword` — Search for `keyword: "artificial intelligence"` and `keyword: "AI agents"` to find trending AI-specific terms.
+4. `mcp__google-news-trends__get_news_by_keyword` — Search for `keyword: "artificial intelligence"`, `keyword: "AI"` and `keyword: "AI agents"` to find trending AI-specific terms.
 
 Extract all relevant keywords, themes, and terminology from the MCP results before moving to Step 2.
 
