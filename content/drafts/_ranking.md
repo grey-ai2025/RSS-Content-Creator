@@ -1,36 +1,37 @@
-# Brief Ranking — 2026-03-12
+# Brief Ranking — 2026-03-14
 
 ## Winner
 
-**File:** `2026-03-12-accenture-ai-skills-required-promotion.md`
+**File:** `2026-03-14-rox-ai-1b-sales-agents.md`
 **Score:** 20/20
-**Why:** The "differentiator to gate" reframe is a non-obvious thesis that lands on every professional LinkedIn user simultaneously — it needs no industry filter to trigger FOMO or recognition. The coined phrase "the promotion gate" is ready to deploy, the hook matches the benchmark's single highest-performing pattern (contrarian single-observation), and the text format recommendation is correct and low-friction — making this the brief with both the highest ceiling for shares and the lowest execution risk.
+**Why:** The 150x revenue multiple is a single number that converts an abstract AI trend story into a concrete market verdict — and the binary between legacy-dashboard CRM and continuous-agent CRM is the cleanest structural contrast in today's batch. Every criterion is met at full strength: fresh territory with no overlap in the 7-day window, a hook that front-loads the shock before the reader can scroll past, carousel structure with three genuinely distinct slides, and raw material dense enough in named investors, customers, and competitors to build from without padding.
 
 ---
 
 ## Full Scoreboard
 
-| Rank | File | Hook | Thesis | Anchor | Coined Phrase | Emotion | Breadth | Format | Timely | Unique | Execution | Total |
-|------|------|------|--------|--------|---------------|---------|---------|--------|--------|--------|-----------|-------|
-| 1 | `2026-03-12-accenture-ai-skills-required-promotion.md` | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | **20/20** |
-| 2 | `2026-03-12-perplexity-ai-agent-court-order.md` | 2 | 2 | 2 | 2 | 2 | 1 | 2 | 2 | 2 | 2 | **19/20** |
-| 3 | `2026-03-12-nvidia-26b-open-models-nemoclaw.md` | 2 | 2 | 2 | 1 | 2 | 2 | 1 | 2 | 1 | 2 | **17/20** |
-| 4 | `2026-03-12-manulife-ai-agents-financial-workflows.md` | 2 | 1 | 2 | 2 | 1 | 1 | 2 | 2 | 1 | 2 | **16/20** |
-
-**Criteria (left to right):** Hook strength / Thesis originality / Concrete anchor / Coined phrase potential / Emotional trigger / Audience breadth / Format fit / Timeliness / Uniqueness / Execution quality
+| Rank | File | Hook | Data | Angle | Binary | Emotion | Carousel | Timely | Unique | Audience | Material | Total |
+|------|------|------|------|-------|--------|---------|----------|--------|--------|----------|----------|-------|
+| 1 | `2026-03-14-rox-ai-1b-sales-agents.md` | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | **20/20** |
+| 2 | `2026-03-14-military-ai-chatbots-targeting.md` | 2 | 2 | 2 | 2 | 2 | 1 | 2 | 1 | 2 | 2 | **18/20** |
+| 2 | `2026-03-14-gemini-task-automation-live.md` | 2 | 2 | 2 | 2 | 2 | 1 | 2 | 1 | 2 | 2 | **18/20** |
+| 4 | `2026-03-14-claude-charts-diagrams-visuals.md` | 2 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | **18/20** |
 
 ---
 
 ## Runner-Up Notes
 
-### 2. Perplexity — `2026-03-12-perplexity-ai-agent-court-order.md` — 19/20
-The most structurally urgent brief in the batch: courts are actively drawing the authorization lines that product teams and enterprise architects have been ignoring by assumption. The concealment detail — agent posing as Google Chrome to hide its activity — is visceral, specific, and immediately shareable as evidence of a systemic design problem. "Agentic authorization gap" is a coined phrase that fills a real vocabulary gap, and the contrarian hook ("acting on the user's behalf was not accepted as permission") directly mirrors the Mollick "bright line" pattern that drove the benchmark's highest comment velocity. The single deduction is on Audience Breadth — the legal and technical framing requires domain fluency that limits reach beyond builders and governance leads, reducing its share surface for HR and L&D segments.
+### 2. Military AI — `2026-03-14-military-ai-chatbots-targeting.md` — 18/20
 
-### 3. Nvidia — `2026-03-12-nvidia-26b-open-models-nemoclaw.md` — 17/20
-The strategic reframe is genuinely non-obvious: Nvidia transitioning from picks-and-shovels infrastructure supplier to full-stack AI competitor changes the enterprise procurement question from "which GPU?" to "which agent platform?" The irony buried in the raw material — Nvidia building a direct competitor to the platform its own CEO called "the most important software release probably ever" — is outstanding secondary material. Two deductions hold it back: the carousel format recommendation runs against the benchmark's strong text-only signal for analytical takes (the three angles could be delivered more sharply as a structured text post), and a prior Nvidia brief from 2026-03-05 (investment pullbacks from AI labs) creates a marginal uniqueness flag on the same company at the edge of the 7-day window.
+The hook is the strongest single sentence in today's batch — "'Human in the loop' sounds like accountability. It looks different when the AI ranks the target list and the human has 90 seconds to review it." lands hard because it makes the abstract concrete in one beat, and the 100+ children casualty detail is raw material that no reader can discount. The Grey AI angle is the most sophisticated of the four: the enterprise governance implication ("every AI policy that claims human oversight without defining what oversight requires") applies to every ops and compliance leader in the audience. Two things hold it back from contention. The carousel potential is low — this is a single thesis that demands a text post, and text posts are lower-ceiling for planned carousels. More importantly, military AI governance is the third time this pipeline has covered that territory in nine days (March 5: Pentagon-Anthropic deal; March 10: AI in Iran conflict), which reduces the uniqueness score to 1 even though today's specific angle — human oversight as accountability claim vs. accountability mechanism — is meaningfully distinct.
 
-### 4. Manulife — `2026-03-12-manulife-ai-agents-financial-workflows.md` — 16/20
-"Governance-native AI" is the brief's standout asset — a coined phrase that names something real with no existing label, and one that regulated-industry professionals will adopt as vocabulary. The $1B target and 75% workforce adoption stat are strong data anchors, and the McKinsey contrast (65% of orgs still piloting vs. Manulife's 35 live deployments) sets up a clean benchmark gap. What holds it back is thesis novelty: "pilot to production" is the most crowded frame in enterprise AI content, and the financial services context creates an industry filter that reduces perceived relevance for HR, L&D, and non-FS operations leaders. The JPMorgan AI investment brief from 2026-03-07 also creates a marginal uniqueness flag on the "major financial firm + AI deployment" framing. The carousel format recommendation is the brief's most correct call — this is the one case in today's batch where the list structure genuinely is the value.
+### 2. Gemini Task Automation — `2026-03-14-gemini-task-automation-live.md` — 18/20
+
+"Your phone just used itself" is a textbook open-loop hook — the reader finishes the sentence before they decide whether to keep reading. The governance reframe (consumer food-ordering as live answer to the enterprise AI architecture debate) is exactly the non-obvious thesis that the benchmark confirms drives comment velocity. The production hardware confirmation and the warmed-croissant detail are the kind of specific, memorable raw material that survives a repost. The uniqueness penalty is narrow but real: the March 11 Google Gemini Workspace winner covered the same product family three days ago, which creates a marginal "two Gemini posts in one week" signal even though the angle is substantively different (agentic device automation vs. productivity tool integration). Carousel potential is also weak — the brief correctly recommends text, but that means lower ceiling for the post format most associated with Grey AI saves and shares.
+
+### 4. Claude Charts and Diagrams — `2026-03-14-claude-charts-diagrams-visuals.md` — 18/20
+
+The three-simultaneous-launches story is a genuine signal event — when competitors move in lockstep on an interface change, it is more credible evidence of a shared industry belief than any single product announcement. The "AI as a presentation layer, not a text layer" binary is clean and actionable. Fresh territory with no uniqueness penalty, and the carousel structure is sound (competitive convergence slide, interface shift slide, org implication slide). Two criteria hold it below the others. Data strength is lighter than the field — the brief has no hard engagement numbers, no adoption figures, and the "zero coincidence" claim is asserted rather than evidenced. Raw material quality follows: the three launch descriptions are thin on specifics compared to the Rox brief's named investors, customers, and competitor launch dates. The story is real and timely, but the brief gives a post-writer less to work with.
 
 ---
 
@@ -38,9 +39,9 @@ The strategic reframe is genuinely non-obvious: Nvidia transitioning from picks-
 
 **Uniqueness penalties applied:**
 
-- `2026-03-12-nvidia-26b-open-models-nemoclaw.md` scored 1 on Uniqueness: `2026-03-05-nvidia-pulls-back-openai-anthropic-investments.md` sits at the outer edge of the 7-day window and covers a different angle (investment pullbacks vs. model commitment and platform launch), but the same named company creates a marginal overlap signal. Scored 1 (tangentially related) rather than 0.
-- `2026-03-12-manulife-ai-agents-financial-workflows.md` scored 1 on Uniqueness: `2026-03-07-jpmorgan-ai-20b-investment.md` covers adjacent territory (major financial firm + AI investment) within the 7-day window. The Manulife angle is agents-in-production vs. capital investment, which is meaningfully distinct, but the "financial sector AI" framing has been covered in this pipeline within 7 days.
+- `2026-03-14-military-ai-chatbots-targeting.md` scored 1 on Uniqueness: `2026-03-05-anthropic-pentagon-military-ai-deal.md` (Claude in Iranian airstrike targeting) and `2026-03-10-ai-iran-conflict-information-distortion.md` (AI wartime intelligence dashboards) both sit within the 7-day window and cover military AI governance territory. Today's angle — human oversight as accountability mechanism vs. claim — is distinct, but the "military AI and governance" frame has appeared twice in 9 days. Scored 1 (tangentially related) rather than 0.
+- `2026-03-14-gemini-task-automation-live.md` scored 1 on Uniqueness: `2026-03-11-google-gemini-workspace-upgrades.md` (winner, 3 days ago) covers the same product family. The angle is substantively different (on-device agentic automation vs. Workspace productivity integration), but posting about Gemini again 3 days after a Gemini winner creates a product-family overlap signal. Scored 1.
 
 **Benchmark calibration applied from `content/benchmarks/2026-03-12-linkedin-analysis.md`:**
 
-Text-only posts dominate top performers at ~67% of the benchmark sample. Contrarian single-observation hooks appear across Mollick, Miller, and Schick — the three highest comment-velocity profiles in the benchmark. This directly elevates the Accenture brief (contrarian reframe, text post, single thesis) and the Perplexity brief (contrarian legal take, text post, single structural claim). The benchmark's emphasis on coined terms as social currency ("Silicon Realism", "model overhang", "application-layer underinvestment") validates the scoring weight given to the Coined Phrase criterion — all four briefs were evaluated on whether their phrase candidate is ready to deploy as-is. The Nvidia brief's carousel recommendation was penalised in Format Fit because the benchmark confirms carousels underperform text-only for comment-driven reach unless the list itself is the primary value — the three angles in the Nvidia brief are analytical claims, not a reference list, and would deliver more reach as a structured text post.
+The benchmark confirms carousels outperform text-only for save and share signals when the list itself is the value, and the Rox brief's binary contrast (legacy-dashboard vs. agent-swarm) maps directly to the benchmark's highest-performing structural pattern. The benchmark also confirms that news-jack + structural implication (the "150x multiple isn't optimism — it's a verdict on what legacy sales software is worth" pattern) is Schick and Beliunas's primary mode and drives strong comment threads when the named company and number are specific enough to be contested. Carousel Potential was scored more heavily where the carousel format is validated by the brief's structure — only the Rox and Claude Charts briefs had genuine multi-slide progressions; the other two are single-thesis text posts where carousel would add friction. Hook scoring for the military brief was calibrated against the benchmark's confirmation that contrarian hooks with visceral specifics ("the AI ranks the target list") drive the highest comment velocity.
