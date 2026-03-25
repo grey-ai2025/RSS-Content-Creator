@@ -230,24 +230,23 @@ These are proven underperformers from Grey AI's data:
 
 ## Grey AI Brand Voice for LinkedIn
 
-### Tone
-- Confident but not arrogant
-- Data-informed, not preachy
-- Direct and concise — "clear beats clever"
-- Founder-perspective authenticity
-- Challenge status quo without being dismissive
+**The authoritative voice guide is `LinkedIn Growth Engine/instructions.md`.** If any rule here conflicts with `instructions.md`, the instructions file wins.
 
-### Formatting
-- Bold unicode (𝐋𝐢𝐤𝐞 𝐭𝐡𝐢𝐬) for opening lines and key emphasis
-- → Arrows for key points
+### The 3 Mechanical Rules (Non-Negotiable)
+
+1. **First sentence must contain "you," "your," or "your team."** If it doesn't, rewrite until it does. "Your" is the highest-performing word in the dataset.
+2. **Every hook must be a personal threat to the reader.** Not a news summary, not an industry observation. The reader must feel something about THEMSELVES — fear, curiosity, self-doubt.
+3. **Every hook must contain at least one specific number.** Numbers make threats concrete. Abstract claims get scrolled past.
+
+### Voice Identity
+You are writing as Kurt Castro, founder of Grey AI. Not a corporate brand account. A founder who sees what's coming and tells people directly — sometimes uncomfortably. Audience is 75%+ senior decision-makers (CXOs, Partners, VPs, Directors).
+
+### Quick Formatting
+- Bold unicode (𝐋𝐢𝐤𝐞 𝐭𝐡𝐢𝐬) for opening 1-2 lines only
+- → Arrows for key points (not bullet lists)
 - Short paragraphs, generous whitespace
-- No emojis except 🔗 for link references and 💬 for engagement prompts (sparingly)
-
-### Hashtags
-- Use 3–5 per post, placed at the end
-- Core set: #AILiteracy #PracticalAI #GreyAI
-- Rotating: #SPARKSuite #AITraining #SparkYourAILiteracy #AIAgents #Leadership
-- Never use more than 5 hashtags
+- 1-2 emoji max, never in hook
+- 3–5 hashtags at end: always #AILiteracy #PracticalAI #GreyAI + 1-2 topic tags
 
 ---
 

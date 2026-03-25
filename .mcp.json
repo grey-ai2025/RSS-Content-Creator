@@ -31,6 +31,23 @@
       "env": {
         "FIRECRAWL_API_KEY": "fc-1a6e7a6b2f8c4e50b954b08b4673aa8f"
       }
+    },
+    "n8n-mcp": {
+      "type": "stdio",
+      "command": "cmd",
+      "args": [
+        "/c",
+        "npx",
+        "-y",
+        "n8n-mcp"
+      ],
+      "env": {
+        "MCP_MODE": "stdio",
+        "LOG_LEVEL": "error",
+        "DISABLE_CONSOLE_OUTPUT": "true",
+        "N8N_API_URL": "https://n8n.srv1203909.hstgr.cloud",
+        "N8N_API_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0ZjQyNThiNC04ZjE3LTRmMGMtOWU2OC0wNGVlNTdjM2ZiZjQiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzY3MzkwMzkyfQ.-jigcNOAyH9Du6OSdJHwzX5uTA87jUpWkcrqY7NVrVA"
+      }
     }
   }
 }

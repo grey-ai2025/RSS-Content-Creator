@@ -102,10 +102,11 @@ Reasoning: [one sentence why — e.g., "Has 3+ distinct points → carousel" or 
 1. **BREVITY:** The entire brief should be 150-250 words. This is a creative brief, not a finished post.
 2. **HOOK OPTIONS ARE MANDATORY:** Every brief must include at least 3 hook attempts. These are the most valuable part of the brief — spend the most effort here.
 3. **HOOK QUALITY TEST:** Each hook must pass this test: "Would a LinkedIn user stop scrolling and feel something (curiosity, fear, recognition, disagreement)?" If not, rewrite it.
-4. **GREY AI ANGLE IS MANDATORY:** Every story must be connected to AI literacy, team adoption, AI governance, or organizational readiness. If the connection is too weak, skip the story entirely (log as "skipped: no Grey AI angle").
-5. **NEVER WRITE THE FULL POST:** Your job is to provide the ingredients, not cook the meal. No body paragraphs, no closing insights, no full post text.
-6. **FORMAT RECOMMENDATION:** Default to "carousel" unless the story is a single opinion with no framework structure. Stories with 3+ distinct points, a binary/contrast angle, or data comparisons should always recommend carousel.
-7. **DEDUPLICATION:** Same 7-day thematic dedup rules as before. Also check hook similarity — if you've already generated a "binary" hook about team AI adoption in the past 3 days, flag it.
+4. **HOOK MUST BE A PERSONAL THREAT:** Every hook must target the reader with "you/your" in the first line. Hooks that describe what happened to someone else (news recap style) must be rewritten as implications for the reader. The reader must feel something about THEMSELVES — not about an industry trend. Reference: `LinkedIn Growth Engine/instructions.md` for the full voice guide with proof tables and mechanical rules.
+5. **GREY AI ANGLE IS MANDATORY:** Every story must be connected to AI literacy, team adoption, AI governance, or organizational readiness. If the connection is too weak, skip the story entirely (log as "skipped: no Grey AI angle").
+6. **NEVER WRITE THE FULL POST:** Your job is to provide the ingredients, not cook the meal. No body paragraphs, no closing insights, no full post text.
+7. **FORMAT RECOMMENDATION:** Default to "carousel" unless the story is a single opinion with no framework structure. Stories with 3+ distinct points, a binary/contrast angle, or data comparisons should always recommend carousel.
+8. **DEDUPLICATION:** Same 7-day thematic dedup rules as before. Also check hook similarity — if you've already generated a "binary" hook about team AI adoption in the past 3 days, flag it.
 
 ## Rules
 

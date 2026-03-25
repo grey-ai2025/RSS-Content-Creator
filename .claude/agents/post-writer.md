@@ -29,6 +29,15 @@ Read ALL of these before writing anything:
 - `LinkedIn Growth Engine/postFormulas.md` — post formulas, hook bank, audit rubric
 - `LinkedIn Growth Engine/instructions.md` — brand voice and formatting rules
 
+## IMPORTANT: Voice Authority
+
+`LinkedIn Growth Engine/instructions.md` is the **primary voice authority**. It contains the data-backed Grey AI voice guide with mechanical rules, proof tables, and anti-patterns. If any other reference file conflicts with `instructions.md` on tone, voice, or hook strategy, `instructions.md` wins.
+
+The 3 non-negotiable mechanical rules:
+1. First sentence must contain "you," "your," or "your team"
+2. Every hook must be a personal threat to the reader (not a news summary)
+3. Every hook must contain at least one specific number
+
 ## Step 3: Determine Format
 
 Check the brief's `Suggested Format` field:
@@ -91,13 +100,17 @@ Match to the appropriate formula from `postFormulas.md` based on the brief's Gre
 
 Before saving, check every item:
 
-- [ ] Caption/post under word limit? (100 words for carousel, 150 for text)
-- [ ] Hook creates tension — not information? (would someone stop scrolling?)
-- [ ] Binary framework or contrast present?
-- [ ] Ends with a specific binary question?
+- [ ] First line contains "you" or "your"?
+- [ ] First line creates an emotional response (fear, curiosity, self-doubt), not just intellectual?
+- [ ] Contains at least one specific number?
+- [ ] Caption/post under word limit? (90 words for carousel, 150 for text)
+- [ ] Bold unicode on first 1-2 lines?
+- [ ] Ends with a binary question CTA?
+- [ ] No abstract concepts that require explanation?
+- [ ] No "analyst briefing" tone — no reporting what happened without connecting to the reader?
+- [ ] Would the reader feel slightly uncomfortable sharing this? (Good — personal enough)
+- [ ] Not a news recap — it's news interpretation through the reader's lens?
 - [ ] No links in post body?
-- [ ] Bold unicode on opening line?
-- [ ] One credibility marker (stat, company, study)?
 - [ ] No pure product pitch (wrapped in framework or story)?
 - [ ] 3–5 hashtags, always including #AILiteracy #PracticalAI #GreyAI?
 
