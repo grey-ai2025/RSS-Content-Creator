@@ -1,10 +1,10 @@
-# Brief Ranking — 2026-03-25
+# Brief Ranking — 2026-03-26
 
 ## Winner
 
-**File:** `2026-03-25-openai-sora-shutdown-disney.md`
+**File:** `2026-03-26-ai-skills-gap-power-users-pulling-ahead.md`
 **Score:** 20/20
-**Why:** The stat-gap hook ("A $1 billion deal. The most recognized AI brand in the world. $2.1 million in revenue.") is universally legible to any business leader with zero domain knowledge — the Disney/OpenAI brand recognition makes it immediately credible, and "your AI investment thesis needs to survive contact with that number" directly implicates the reader's own decisions in a way none of the other briefs match. It also carries the sharpest binary in the batch (AI that generates attention vs. AI that generates revenue), the richest narrative arc (deepfakes, court-ordered name change, $1B deal collapse, 66% download drop), and maps precisely to the highest-engagement question Grey AI's audience is actively wrestling with: where do AI investments actually create durable value?
+**Why:** The binary hook ("Two types of workers exist right now — you already know which group is more promotable") is a textbook execution of the benchmark's top-performing contrarian/binary pattern, and the brief's raw material is unusually dense: real usage data (not survey), a named structural stat (35% entry-level decline from Revelio Labs), a concrete law firm example, and three academically corroborated evidence threads. It hits Grey AI's core audience (team leaders, L&D, HR) with maximum directness on the topic the benchmark identifies as the single biggest engagement driver — AI capability acceleration and what it means for human work.
 
 ---
 
@@ -12,34 +12,43 @@
 
 | Rank | File | Hook | Data | Angle | Binary | Emotion | Carousel | Timely | Unique | Audience | Material | Total |
 |------|------|------|------|-------|--------|---------|----------|--------|--------|----------|----------|-------|
-| 1 | `2026-03-25-openai-sora-shutdown-disney.md` | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 20/20 |
-| 2 | `2026-03-25-granola-enterprise-ai-mcp.md` | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 20/20 |
-| 3 | `2026-03-25-bank-of-america-ai-agents-banking.md` | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 2 | 2 | 19/20 |
-| 4 | `2026-03-25-anthropic-claude-code-auto-mode.md` | 2 | 1 | 2 | 2 | 2 | 1 | 2 | 1 | 2 | 1 | 16/20 |
-| 5 | `2026-03-25-databricks-lakewatch-ai-security.md` | 1 | 2 | 1 | 2 | 1 | 1 | 2 | 2 | 1 | 2 | 15/20 |
-| 6 | `2026-03-25-mozilla-cq-stack-overflow-agents.md` | 2 | 1 | 2 | 2 | 1 | 1 | 1 | 2 | 1 | 1 | 14/20 |
+| 1 | `2026-03-26-ai-skills-gap-power-users-pulling-ahead.md` | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 20/20 |
+| 2 | `2026-03-26-data-center-tax-ai-job-losses.md` | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 20/20 |
+| 3 | `2026-03-26-eu-ai-act-delays-nudify-ban.md` | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 20/20 |
+| 4 | `2026-03-26-openclaw-agents-manipulation-security.md` | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 2 | 2 | 19/20 |
+| 5 | `2026-03-26-google-turboquant-memory-compression.md` | 1 | 2 | 1 | 2 | 1 | 2 | 2 | 2 | 1 | 2 | 16/20 |
+| 5 | `2026-03-26-figure-robot-white-house-education.md` | 2 | 1 | 1 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 16/20 |
+| 5 | `2026-03-26-shield-ai-2b-raise-defense-tech.md` | 1 | 2 | 1 | 2 | 1 | 2 | 2 | 2 | 1 | 2 | 16/20 |
+
+### Tiebreaker Note (Ranks 1–3)
+
+Three briefs scored 20/20. The tiebreaker is hook potential — specifically, which hook best matches the benchmark's dominant contrarian/binary pattern. The `ai-skills-gap` binary hook ("Two types of workers exist right now... You already know which group is more promotable") edges out the others because it pairs personal recognition with a belief-dismantling structure — the exact formula the benchmark identifies as the highest-performing LinkedIn hook type. The `data-center-tax` ICE stat hook is more shareable as a single data point but has narrower carousel depth. The `eu-ai-act` contrarian hook is sharp but serves a more restricted compliance audience.
 
 ---
 
 ## Runner-Up Notes
 
-**2. `2026-03-25-granola-enterprise-ai-mcp.md` — 20/20**
-The 6x valuation stat gap ("$250M to $1.5B in under a year") is the cleanest single-number opener in the batch, and the "your meeting notes aren't a productivity feature anymore — they're infrastructure" reframe is a genuinely surprising concept inversion with strong save motivation from team leaders building AI workflows. The MCP angle is the benchmark's top trending topic and the named enterprise customers (Cursor, Mistral AI, Asana) add instant credibility. What keeps it at #2 is hook accessibility: the Sora hook requires zero prior knowledge to land at full force, while the Granola hook requires knowing or caring about a startup the audience may not have heard of. In a close call, the more universally accessible hook wins.
+**Rank 2 — `2026-03-26-data-center-tax-ai-job-losses.md` (20/20)**
+The ICE polling stat ("AI has lower public approval than ICE") is a genuine stop-scroll data point and the best single shareable fact across all seven briefs today. What keeps this at Rank 2 is that the brief's core argument (the AI industry owes a social contract to displaced workers) is powerful but slightly less directly actionable for team leaders and L&D managers — Grey AI's core audience — versus the skills gap framing that lands the urgency at both the individual and organizational level simultaneously.
 
-**3. `2026-03-25-bank-of-america-ai-agents-banking.md` — 19/20**
-The back-office vs. client-facing binary is the most structurally clean contrast in the batch, and the "11,000 FTE equivalent already running, 1,000 advisers just added" stat sequence builds genuine momentum. The analyst "boring from a product standpoint" quote provides excellent counterpoint tension — deployment at scale while observers say the product hasn't matched the promise. The single Uniqueness point deducted reflects a tangential overlap with the 03-23 legal industry deployment brief: both make the same structural argument (AI crosses a professional services threshold with real consequences), though the industries and mechanisms are distinct. Strong carousel candidate with a natural three-slide progression.
+**Rank 3 — `2026-03-26-eu-ai-act-delays-nudify-ban.md` (20/20)**
+The contrarian hook ("If your compliance team is treating that as breathing room, they're reading the wrong signal") is benchmark-level sharp, and the juxtaposition of slow systemic regulation versus fast visible harm enforcement is a genuinely original lens on a widely-covered story. The brief loses the tiebreaker on audience breadth — it speaks most precisely to governance and legal teams, a narrower slice of the Grey AI audience than the skills gap or social contract briefs that land for any people-managing leader.
+
+**Rank 4 — `2026-03-26-openclaw-agents-manipulation-security.md` (19/20)**
+The behavioral vs. technical attack binary is the strongest conceptual framework of any brief today, and the specific documented behaviors (guilt-tripping disabling tools, disk exhaustion, autonomous press escalation threat) provide vivid, memorable carousel content. The single point deduction on Uniqueness reflects tangential overlap with yesterday's Databricks AI security brief — a different angle but the same security-governance space. This is the strongest brief in the batch for a security-and-governance-focused post and worth holding for a future slot.
 
 ---
 
 ## Scoring Notes
 
-**Tiebreaker applied — Sora over Granola (both 20/20):**
-Per the rubric, ties are broken by hook potential. Both hooks are stat-gap openers with strong scroll-stopping tension. The Sora hook wins on universal accessibility: the Disney, Marvel, Pixar, and OpenAI brand recognition means the contrast between the $1B deal and the $2.1M revenue figure lands for any professional, not just those already tracking the AI startup ecosystem. The Granola hook requires the reader to care about a specific startup's valuation to feel the full weight of the 6x jump — a narrower initial audience.
+**Tiebreaker applied — ai-skills-gap over data-center-tax and eu-ai-act (all 20/20):**
+Per the rubric, ties are broken by hook potential. The `ai-skills-gap` binary hook wins because it is universally accessible to any professional in the target audience — it requires no policy knowledge, no compliance background, and no domain expertise. The reader only needs to be a person who works. The benchmark's top-performing hooks all share this quality: they land the punch before the reader can decide whether to care about the topic.
 
-**Benchmark calibration applied from `content/benchmarks/2026-03-25-linkedin-analysis.md`:**
-The benchmark reveals carousel format in only ~7% of top performers from this scrape. This was noted but did not reduce Carousel Potential scores — the criterion evaluates structural fit for Grey AI's carousel-native pipeline, not predicted engagement based on one day's scrape. More consequentially, the benchmark confirms stat-gap and contrarian hooks as the two dominant patterns across top performers, which directly supported elevated Hook scores for the Sora shutdown, Granola MCP, and bank-of-america briefs. The benchmark's "named framework" insight (Silicon Realism, context vault, Turing-AGI Test) also calibrated the Sora brief positively — the "attention vs. revenue" binary is a nameable, ownable concept that a skilled post-writer can develop into a recurring Grey AI framework.
+**Benchmark calibration applied from `content/benchmarks/2026-03-26-linkedin-analysis.md`:**
+The benchmark confirms the contrarian/binary take as the dominant high-engagement hook pattern (5 of 15 top posts). The pattern "name the widely-held belief, dismantle it in sentence two" scores highest across all 8 profiles. This directly elevated the Hook scores for `ai-skills-gap`, `data-center-tax`, and `openclaw`. The benchmark also confirms that AI capability acceleration and job displacement is the single biggest engagement topic — which boosted Emotional Trigger and Audience Relevance for the `ai-skills-gap` and `data-center-tax` briefs. Carousel format (0% in the top 15 benchmark posts) was noted but did not reduce Carousel Potential scores — that criterion evaluates structural fit for Grey AI's carousel-native pipeline, not predicted text-only engagement.
 
 **Uniqueness penalties applied:**
-- `bank-of-america-ai-agents-banking` scored 1 (not 2) on Uniqueness for tangential overlap with `2026-03-23-ai-transforming-legal-industry.md` — both cover AI crossing a high-stakes professional services threshold, though banking deployment with named financial scale is substantively distinct from legal industry billing restructuring.
-- `anthropic-claude-code-auto-mode` scored 1 on Uniqueness for tangential overlap with `2026-03-23-openai-automated-researcher-agent.md` — both are in the agentic AI space, though the governance architecture angle (AI auditing AI) is meaningfully distinct from the autonomous research agent framing.
-- `databricks-lakewatch-ai-security` scored 1 on Audience Relevance (not Uniqueness) — the story is fresh territory but speaks more naturally to CTOs and security architects than to the broader team leader, L&D, and HR audience that defines Grey AI's core readership.
+- `openclaw-agents-manipulation-security` scored 1 on Uniqueness for tangential overlap with yesterday's `2026-03-25-databricks-lakewatch-ai-security.md` — both address AI security and governance, though behavioral manipulation versus infrastructure security are substantively distinct attack surfaces.
+- `google-turboquant-memory-compression` scored 1 on Audience Relevance — fresh territory, but the story speaks primarily to CTOs and infrastructure decision-makers rather than team leaders, L&D, and HR.
+- `figure-robot-white-house-education` scored 1 on Audience Relevance and 1 on Raw Material Quality — the narrative is compelling but lacks the data density to sustain a multi-slide carousel, and humanoid robotics is peripheral for most of Grey AI's core audience.
+- `shield-ai-2b-raise-defense-tech` scored 1 on Audience Relevance — defense tech is a strong story but requires the audience to accept a conceptual bridge (military AI governance shapes enterprise governance) that L&D and HR professionals are unlikely to cross without extensive framing.
