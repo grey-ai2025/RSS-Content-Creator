@@ -47,6 +47,24 @@ Which type shows up more on your team?
 ```
 **Word count:** 97 words ✅
 
+### Alternate Example (Entity-Action opener)
+```
+𝐒𝐚𝐦𝐞 𝐀𝐈 𝐭𝐨𝐨𝐥. 𝐓𝐰𝐨 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐬. 𝐓𝐰𝐨 𝐨𝐩𝐩𝐨𝐬𝐢𝐭𝐞 𝐦𝐢𝐬𝐭𝐚𝐤𝐞𝐬.
+
+One handed it everything — vague prompts, no review, vibes-based delegation.
+
+The other won't touch it — spending hours on tasks a good prompt handles in minutes.
+
+The people winning? They know which 20% AI should own and which 80% still needs their judgment.
+
+→ That's not a tool problem. That's a literacy problem.
+
+Which mistake shows up more on your team?
+
+#AILiteracy #PracticalAI #GreyAI
+```
+**Word count:** 82 words ✅ — Note: This is Grey AI's actual top-performing post (35.4% ER). It does NOT start with "Your."
+
 ---
 
 ## Formula 2: The Stat Gap
@@ -90,6 +108,25 @@ Is your team actually using AI — or just poking at it?
 #AILiteracy #PracticalAI #SPARKSuite
 ```
 **Word count:** 93 words ✅
+
+### Alternate Example (Stat-Consequence opener)
+```
+𝟔𝟎% 𝐮𝐬𝐚𝐠𝐞. 𝟐𝟎% 𝐝𝐞𝐥𝐞𝐠𝐚𝐭𝐢𝐨𝐧.
+𝐓𝐡𝐚𝐭 𝐠𝐚𝐩 𝐢𝐬 𝐭𝐡𝐞 𝐩𝐫𝐨𝐛𝐥𝐞𝐦.
+
+People are touching AI constantly — rewriting emails, summarizing docs, fixing typos.
+
+But hand it a real task? Let it run end to end? Nope.
+
+Because nobody taught them how to delegate to AI.
+
+That's not a technology problem. That's a training problem.
+
+Is your team actually using AI — or just poking at it?
+
+#AILiteracy #PracticalAI #SPARKSuite
+```
+**Word count:** 72 words ✅ — Leads with numbers, not "Your."
 
 ---
 
@@ -303,3 +340,57 @@ Score each post 1–5 on these dimensions before publishing:
 
 **Minimum score to publish:** 20/30
 **Target score:** 25+/30
+
+**Note:** This rubric is used for quick self-audit. For full scoring, see `LinkedIn Growth Engine/scoring-rubric.md` which uses an 8-dimension × 1-10 scale with hard gates.
+
+---
+
+## Hook Rotation Guide
+
+No two consecutive posts should use the same opener category. This prevents the monotony of every post starting with "Your..."
+
+| Category | First Word(s) | Example | When to Use |
+|----------|--------------|---------|-------------|
+| **Entity-Action** | [Company/Person] just... | "JPMorgan just started tracking AI usage across 65,000 employees." | When a recognizable institution did something alarming |
+| **Stat-Consequence** | [Number]... | "A $1 billion Disney deal produced $2.1M in revenue." | When numbers create dissonance or reveal a gap |
+| **Contrarian** | [Challenges belief]... | "The AI skills gap isn't about skills. It's about confidence." | When challenging conventional wisdom |
+| **You/Your** | Your [team/company]... | "Your AI coding tool might be running a Chinese model." | When direct personal threat is the strongest play |
+| **Mystery Entity** | A [role/entity]... | "A CEO just said out loud what most boards are only thinking." | When anonymity + curiosity creates stronger pull |
+| **Metaphor** | [Unexpected comparison]... | "You and AI are in a toxic relationship." | When reframing through analogy |
+
+**RULE:** Check the `opener_type` in the last 3 posts in `content/posts/` before selecting. Never repeat the same category as the most recent post.
+
+---
+
+## CTA Variety Guide
+
+No more than 2 consecutive posts should use the same CTA type.
+
+| Type | Pattern | Example | Best For |
+|------|---------|---------|----------|
+| **Binary Question** | X or Y? | "Is your team picking an assistant — or picking a platform?" | Binary/contrast posts where the reader can self-identify |
+| **Verdict Close** | Declarative landing | "The supply chain opacity problem just got a proof of concept." | When the post's argument is so strong the close should land, not ask |
+| **Reframe Question** | Single shift question | "What if the bottleneck isn't the tool?" | When the post challenges assumptions — one question reframes everything |
+| **Challenge** | Direct action prompt | "Name one workflow your team has actually delegated to AI. Just one." | When you want specific, experience-based comments |
+
+**RULE:** Check the `cta_type` in the last 3 posts in `content/posts/` before selecting.
+
+---
+
+## Default Post Template
+
+Use this structure unless the strategy clearly requires a different one:
+
+```
+[Hook — tension, curiosity, contrast, or consequence]
+
+[Sharp reframing line — shifts how reader sees the issue]
+
+[Proof, shift, or notable signal — concrete evidence]
+
+[What this changes in practice — the consequence]
+
+[Why this matters now — urgency or stakes]
+
+[Easy-to-answer CTA — one of the 4 types]
+```

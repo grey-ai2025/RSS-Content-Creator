@@ -14,8 +14,6 @@
       "type": "stdio",
       "command": "uvx",
       "args": [
-        "--with",
-        "fastmcp<3",
         "google-news-trends-mcp@latest"
       ]
     },

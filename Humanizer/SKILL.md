@@ -390,6 +390,34 @@ Avoiding AI patterns is only half the job. Sterile, voiceless writing is just as
 
 ---
 
+### 25. Formulaic Opener Repetition
+
+**Problem:** AI content systems produce consecutive posts that all begin with the same word or phrase pattern, creating visible monotony in a feed. This is one of the strongest signals of template-driven, non-human content.
+
+**Signs to watch:**
+- 3+ consecutive posts starting with "Your..." or "You..."
+- All hooks in a batch following the same syntactic structure (e.g., "Your [noun] is [verb]...")
+- CTAs that all use the same binary question format
+- Every post using the same emotional register (fear/anxiety)
+
+**Before (5 consecutive posts):**
+> "Your company isn't tracking..."
+> "Your team's AI assistant choice..."
+> "Your team is splitting into..."
+> "Your AI investment thesis..."
+> "Your AI coding tool might be..."
+
+**After (5 consecutive posts with rotation):**
+> "JPMorgan just started tracking AI usage across 65,000 employees." (entity-action)
+> "Same AI tool. Two professionals. Two opposite mistakes." (contrarian)
+> "The AI skills gap isn't about coding. It's about systems thinking." (contrarian)
+> "Your team is splitting into 2 groups right now." (you/your — used sparingly)
+> "A $1 billion Disney deal produced $2.1M in revenue." (stat-consequence)
+
+**Fix:** Check the last 3-5 published posts. If they share an opener pattern (same first word, same syntactic structure, same emotional register), rewrite the current hook to use a different entry point. Variety signals a human writer with range; repetition signals a template.
+
+---
+
 ## Process
 
 1. Read the input text carefully

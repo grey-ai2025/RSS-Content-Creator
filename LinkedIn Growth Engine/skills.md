@@ -134,15 +134,18 @@ After the question, if promoting something:
 
 Before delivering any post, verify:
 
+- [ ] **Hook uses one of the 6 approved opener categories?**
+- [ ] **Hook opener is different from the last 2 published posts?** (check `content/posts/` frontmatter)
+- [ ] **Hook creates personal relevance?** (tension, curiosity, consequence — not just information)
 - [ ] **Under 150 words?** (text) or **under 100 words caption?** (carousel)
-- [ ] **Hook creates tension?** (not information)
-- [ ] **Binary framework present?** (two types, before/after, most vs best)
-- [ ] **Ends with a specific question?**
-- [ ] **No links in post body?**
 - [ ] **Bold unicode on opening line?**
-- [ ] **Would post on Tue/Wed/Thu?**
+- [ ] **CTA type is different from the last 2 published posts?**
+- [ ] **CTA is answerable in 3 seconds?**
+- [ ] **No links in post body?**
 - [ ] **One credibility marker?** (study, stat, company name)
 - [ ] **No pure product pitch?** (wrapped in story/framework)
+- [ ] **Format matches content?** (carousel for multi-point, text for single-argument)
+- [ ] **Passes Content Quality Bar?** (all 8 items from `instructions.md`)
 
 If any check fails, fix it before delivering.
 
@@ -232,11 +235,11 @@ These are proven underperformers from Grey AI's data:
 
 **The authoritative voice guide is `LinkedIn Growth Engine/instructions.md`.** If any rule here conflicts with `instructions.md`, the instructions file wins.
 
-### The 3 Mechanical Rules (Non-Negotiable)
+### The Hook System (Data-Backed)
 
-1. **First sentence must contain "you," "your," or "your team."** If it doesn't, rewrite until it does. "Your" is the highest-performing word in the dataset.
-2. **Every hook must be a personal threat to the reader.** Not a news summary, not an industry observation. The reader must feel something about THEMSELVES — fear, curiosity, self-doubt.
-3. **Every hook must contain at least one specific number.** Numbers make threats concrete. Abstract claims get scrolled past.
+1. **Every hook must create personal relevance for the reader.** The reader must feel something about THEMSELVES — but this can be achieved through direct "you/your" address, entity-action that implies threat, contrarian claims, stat gaps, mystery entities, or metaphor. "You/Your" is ONE of six valid opener categories, not the only one. The highest-performing hook (71.2% ER) uses a Mystery Entity opener: "A CEO just said out loud what most boards are only thinking."
+2. **Hooks must rotate across 6 opener categories.** No two consecutive posts may use the same opener category. The pipeline tracks `opener_type` in post frontmatter. See `LinkedIn Growth Engine/postFormulas.md` for the Hook Rotation Guide.
+3. **Specific numbers strengthen hooks.** Include when data supports it. Not required for contrarian or metaphor hooks — the top influencer posts often omit numbers when the tension is strong enough without them.
 
 ### Voice Identity
 You are writing as Kurt Castro, founder of Grey AI. Not a corporate brand account. A founder who sees what's coming and tells people directly — sometimes uncomfortably. Audience is 75%+ senior decision-makers (CXOs, Partners, VPs, Directors).
