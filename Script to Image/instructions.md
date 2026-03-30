@@ -112,14 +112,21 @@ Two frontier labs agreed to the terms...
 Read ALL slides. Identify:
 - The overall narrative arc (what's the emotional journey?)
 - The visual theme that should unify all slides (one metaphor, one world)
-- Which slides need visual drama vs. which are text-driven
 - The accent element that carries across all slides (a recurring visual motif)
+- For each slide: the **real-world analogy** — ask: "What physical object, setting, or situation is structurally identical to what this slide is arguing?"
+
+**Carousels MUST use Option A (Cinematic Scene) style.** Every slide (except CTA) must be a photorealistic, narrative scene where the concept is conveyed through a specific, tangible real-world analogy — not abstract tech imagery. The viewer should understand each slide's argument from the image alone, before reading any text.
+
+**How to find the right scenes:** For each slide, ask: (1) What physical object IS this argument? (2) Has this happened before in history? (3) What does this feel like physically? Each slide must have a DIFFERENT but THEMATICALLY CONNECTED real-world object/scene from the same visual world.
+
+**What to AVOID:** Abstract tech scenes (generic server racks, monitoring screens, empty corridors), scenes with no specific objects (a phone face-down, a laptop on a dark desk), imagery that could illustrate ANY post (dark hallways, bokeh lights, vague silhouettes).
 
 ### Step 2: Pitch the Visual Theme
-Present 2-3 THEME options for the entire carousel (not per-slide):
+Present 2-3 THEME options for the entire carousel (not per-slide). All themes must use the cinematic scene approach:
 
 **Theme A: "[Name]"**
-- Visual world: [describe the unified visual environment — e.g., "dark war room with screens", "split corridor light vs shadow", "chess pieces on a board"]
+- Visual world: [describe the unified real-world environment — e.g., "corporate real estate decisions," "industrial logistics and procurement," "financial ledger and boardroom artifacts"]
+- Per-slide objects: [list the specific physical object for each slide]
 - Recurring motif: [the visual element that appears on every slide in different forms]
 - Color treatment: [how cyan accent is used across slides]
 - Text treatment: [how headlines appear — centered, left-weighted, overlaid on visual]
@@ -150,27 +157,38 @@ Generate slide [N] of [TOTAL] for a LinkedIn carousel.
 Canvas: 1080x1350 pixels, portrait.
 BRAND: Grey AI — AI training company
 BACKGROUND: [SAME across all slides — specific gradient using brand hex codes]
-Texture: Subtle film grain (IDENTICAL across all slides)
-VISUAL CONCEPT: [unique to this slide — what visual represents THIS specific point]
+
+VISUAL CONCEPT:
+[2–4 sentences describing the specific real-world scene: what physical object is the focal point, what setting it lives in, what condition it is in, what detail carries the argument. Write as a cinematographer's shot description.]
+
+LIGHTING: [where the light source is, what it illuminates, what falls into shadow, the emotional quality of the light]
+
+COLOR TREATMENT: [dominant palette — usually desaturated. Describe exactly which ONE element carries the cyan accent and why.]
+
+ATMOSPHERE: [1 sentence: the gut-feeling the viewer gets before reading the caption]
+
 TEXT ON IMAGE (MAX 15 WORDS):
 "[headline from the slide content — condensed to max 15 words]"
 
 Font: DM Sans Bold
 Color: #FFFFFF
 Position: [SAME position across all slides]
+Cyan accent (#ADFBF6): [which word or phrase is rendered in cyan]
 
 SLIDE NUMBER: '[N]/[TOTAL]' top-right, 18pt, #9A9A9A
-LOGO SAFE ZONE: Keep top-right corner (200x200px area) clear on slide 1 and last slide.
+LOGO SAFE ZONE: Keep top-right corner (240x100px area, x=820 y=20) completely empty.
 WATERMARK: "Grey AI" bottom-right, 18pt, white, 70% opacity — on slide 1 and last slide ONLY.
-ACCENT COLOR: #ADFBF6 (cyan) — [SAME usage across all slides]
-RULES:
+ACCENT COLOR: #ADFBF6 (cyan) — [specify the ONE physical object or element that carries cyan]
 
-This slide must look IDENTICAL in style to all other slides in this deck
-Dark, moody, editorial aesthetic
-Subtle film grain texture (NOT clean/flat)
-NO stock people, clip art, generic AI imagery
-NO paragraphs or bullet points on the image
-High contrast, professional
+RULES:
+- This slide must look IDENTICAL in style, color treatment, grain texture, and typography to all other slides in this deck
+- Photorealistic and cinematic — not a graphic, not a diagram, not a stock photo
+- Subtle film grain throughout — never flat or clean
+- Dark, moody, editorial aesthetic — not corporate stock photography
+- NO stock people, clip art, generic AI imagery (no robots, glowing brains, circuit boards, matrix code)
+- NO paragraphs or bullet points on the image
+- High contrast, professional
+- The image must communicate the slide's argument before the viewer reads a single word
 
 
 ### Slide-Type Visual Guidelines
