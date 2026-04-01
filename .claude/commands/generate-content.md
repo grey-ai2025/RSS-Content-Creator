@@ -70,7 +70,15 @@ Once the post is written, use the `image-prompt-generator` subagent to generate 
 
 The agent reads the finished post from `content/posts/`, applies all Script to Image brand rules (`Script to Image/instructions.md`, `Script to Image/imageConfig.json`), selects a visual theme, and saves ready-to-paste Gemini prompts to `content/image-prompts/YYYY-MM-DD.md`.
 
-## Stage 8: Report
+## Stage 8: Comment Generation
+
+Once the post is written, use the `comment-generator` subagent to find recent LinkedIn posts from AI/tech influencers and draft ready-to-paste comments in the Grey AI founder voice.
+
+The agent reads today's SEO keywords from `content/seo/`, today's finished post from `content/posts/`, and the voice guide from `LinkedIn Growth Engine/instructions.md`. It uses Firecrawl search and web search to find 12-15 recent LinkedIn posts from the 8 benchmark influencers (Ethan Mollick, Allie K. Miller, Sam Altman, Satya Nadella, Andrew Ng, Linas Beliunas, Nina Schick, Matt Shumer) plus additional AI/tech voices discovered via keyword search. For each post, it drafts a 2-3 sentence comment that adds a specific insight or contrarian angle — never generic "great post" filler. Comments are split into pre-publish (6-8) and post-publish (5-7) batches. Saves to `content/comments/YYYY-MM-DD.md`.
+
+This stage can run in parallel with image prompts (Stage 7) since both only depend on the finished post.
+
+## Stage 9: Report
 
 After all stages are done, list what was created:
 
@@ -82,5 +90,6 @@ After all stages are done, list what was created:
 6. Compilation file in `content/google doc/`
 7. Finished post in `content/posts/` — include the audit score and format
 8. Image prompts in `content/image-prompts/` — note how many slides/prompts were generated
+9. Comments file in `content/comments/` — note how many comments were generated and the pre/post-publish split
 
-Summarize how many research files and briefs were generated this run, and clearly call out which brief won and why. Note any key insights from the LinkedIn benchmark that influenced the pipeline.
+Summarize how many research files and briefs were generated this run, and clearly call out which brief won and why. Note any key insights from the LinkedIn benchmark that influenced the pipeline. Remind the user to post pre-publish comments 15-30 minutes before publishing and post-publish comments within 1 hour after.

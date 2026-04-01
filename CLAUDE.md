@@ -11,7 +11,8 @@ This project is a LinkedIn content pipeline that generates professional posts an
 - `content/google doc/` — Daily compilation files pairing ranked briefs with their source research, formatted for Google Docs review.
 - `content/posts/` — Finished LinkedIn posts produced by the post-writer agent. Each file contains a publish-ready caption and full slide content (or text post body), with audit score and checklist.
 - `content/image-prompts/` — Gemini image prompts produced by the image-prompt-generator agent. Each file contains ready-to-paste prompts for Google AI Studio, one per carousel slide or one for a single image.
-- `.claude/agents/` — Agent definitions (linkedin-analyzer, seo-researcher, news-researcher, draft-writer, post-ranker, content-compiler, post-writer, image-prompt-generator).
+- `content/comments/` — Daily LinkedIn comment files produced by the comment-generator agent. Each file contains 12-15 ready-to-paste comments on other influencers' posts, split into pre-publish and post-publish batches for algorithm growth.
+- `.claude/agents/` — Agent definitions (linkedin-analyzer, seo-researcher, news-researcher, draft-writer, post-ranker, content-compiler, post-writer, image-prompt-generator, comment-generator).
 - `.claude/commands/` — Slash commands for running the pipeline.
 - `LinkedIn Growth Engine/` — Reference files for the post-writer agent: brand voice, performance benchmarks, carousel templates, post formulas, and audit rubric.
 - `Script to Image/` — Reference files for the image-prompt-generator agent: brand rules, image prompt workflows, and imageConfig.json with colors, typography, and layout specs.
@@ -27,7 +28,8 @@ This project is a LinkedIn content pipeline that generates professional posts an
 6. **Compilation** — The `content-compiler` agent reads the ranking, pairs each brief with its source research in rank order, and writes a single compilation file to `content/google doc/` for easy review and copy-paste into Google Docs.
 7. **Post Writing** — The `post-writer` agent reads the winning brief and all `LinkedIn Growth Engine/` reference files, applies the Growth Engine workflow and 6-dimension audit rubric (minimum 20/30), and writes a finished LinkedIn post (carousel slides + caption, or text post) to `content/posts/`.
 8. **Image Prompts** — The `image-prompt-generator` agent reads the finished post and all `Script to Image/` reference files, selects a visual theme, and writes ready-to-paste Gemini prompts to `content/image-prompts/`.
-9. **Review & Publish** — Review the finished post in `content/posts/`, paste the Gemini prompts from `content/image-prompts/` into Google AI Studio to generate images, add the Grey AI logo overlay in Canva, and post manually to LinkedIn.
+9. **Comment Generation** — The `comment-generator` agent finds 12-15 recent LinkedIn posts from AI/tech influencers (the 8 benchmark profiles + keyword-discovered voices), then drafts thoughtful 2-3 sentence comments in the Grey AI founder voice. Comments are split into pre-publish and post-publish batches. Saves to `content/comments/`.
+10. **Review & Publish** — Review the finished post in `content/posts/`, paste the Gemini prompts from `content/image-prompts/` into Google AI Studio to generate images, add the Grey AI logo overlay in Canva. Post pre-publish comments from `content/comments/` 15-30 minutes before publishing, then publish the post, then post the remaining comments within 1 hour.
 
 Run the full pipeline with the `/generate-content` command.
 
@@ -41,7 +43,7 @@ YYYY-MM-DD-slug.md
 
 For example: `2026-02-25-openai-launches-new-model.md`
 
-Files in `content/google doc/` and `content/image-prompts/` use date-only naming:
+Files in `content/google doc/`, `content/image-prompts/`, and `content/comments/` use date-only naming:
 
 ```
 YYYY-MM-DD.md
@@ -49,9 +51,10 @@ YYYY-MM-DD.md
 
 ## Pipeline Output
 
-The pipeline produces a finished LinkedIn post and matching Gemini image prompts each run:
+The pipeline produces a finished LinkedIn post, matching Gemini image prompts, and ready-to-paste comments each run:
 
 - `content/posts/YYYY-MM-DD-<slug>.md` — Finished post with caption, slides (or text body), and audit score
 - `content/image-prompts/YYYY-MM-DD.md` — Gemini prompts to paste into Google AI Studio
+- `content/comments/YYYY-MM-DD.md` — 12-15 comments to post on other influencers' LinkedIn posts (pre and post-publish batches)
 
 After generating images, overlay the Grey AI logo PNG at top-right (x=820, y=20, max-width 200px) in Canva or Figma before publishing.
