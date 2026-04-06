@@ -82,6 +82,13 @@ Before writing, define the strategic angle:
 
 Generate **15 opening lines** for the post, spread across the 6 opener categories. At least 2 hooks must NOT start with "you/your."
 
+**Winning formula (April 6 audit):** The top 3 highest-engagement Grey AI posts (32.8%, 19.7%, 14.7% ER) all combined three things in the hook:
+1. A **concrete dollar amount or numeric multiple** ($2.1M, 150x, $1B)
+2. A **reframe** structured as "X isn't Y, it's Z" (e.g., "150x isn't optimism, it's a verdict")
+3. A **personal-stakes verb** putting the reader's role/decision on the line (your team, your investment thesis, your platform decision)
+
+At least 5 of the 15 hooks must follow this formula. If the brief contains a usable dollar figure, the selected hook MUST contain it.
+
 For each hook, note which opener category it uses.
 
 Then rank the top 3 based on:
@@ -111,13 +118,25 @@ Each version should have slightly different emphasis:
 
 ### For Carousel Posts
 
-**Caption (60–100 words):**
+**Caption (target 80–150 words for credibility-led posts; 60–100 for news-jacks):**
 - Open with the selected hook
 - Add 1–2 sentences of context that deepen the hook
 - End with the selected CTA
 - No links in caption body
-- Bold unicode on the opening line
+- **PLAIN TEXT ONLY** — never use 𝐛𝐨𝐥𝐝 mathematical Unicode characters anywhere. They suppress LinkedIn reach (April 6 audit: only 1 of 16 bold-Unicode posts cleared 100 impressions). Emphasis comes from line breaks and word choice.
 - 3–5 hashtags at the end
+
+**Credibility Layer (REQUIRED unless the brief is a news-jack):**
+
+Every non-news-jack caption must include all three of these credibility elements. A "news-jack" means a 24-hour reactive post on a breaking story with no analytical framing — most Grey AI posts are NOT news-jacks and DO need the credibility layer.
+
+1. **Source attribution.** Name the research firm, institution, or report producer that generated the data (Experian, McKinsey, Stanford, BLS, KPMG, Anthropic, etc.). This is NOT a violation of the "never mention source publications or articles" rule — that rule is about news outlets (TechCrunch, NYT, Wired). Naming the *research producer* is what gives the post a credibility floor. Format: "Experian's 2026 Future of Fraud Forecast just landed." or "A new Stanford study just measured…" Place this in the first 1–2 lines.
+
+2. **One concrete, fact-checkable detail.** Replace any vague abstraction in the body with one specific named example a skeptic could verify — a named threat type, a named company case, a named mechanism, a specific scenario. The April 6 audit's top performers all had this: "$2.1M Disney deal," "150x revenue multiple," "8x better than GPT-4." The reader must be able to point at one detail and check it.
+
+3. **Institutional self-report stat.** When the research includes a self-reported figure from the affected institutions themselves (e.g., "84% of financial institutions call AI strategic; 65% admit they lack the data infrastructure"), include it in the body. Self-reports beat external estimates because the affected party is admitting the gap. If the research has no self-report figure, use the most concrete external stat with the most specific denominator.
+
+If the brief lacks any of these three elements, the post-writer must extract them from the source research file before drafting the caption. If the research file genuinely contains none, flag this in the output and choose a different brief.
 
 **Slides (5–8 slides):**
 Match to the appropriate carousel template. For each slide:
@@ -129,7 +148,7 @@ SLIDE [N] — [SLIDE TYPE]
 ### For Text Posts
 
 - 80–150 words total (hard limit)
-- Bold unicode on the very first line
+- **PLAIN TEXT ONLY** — no 𝐛𝐨𝐥𝐝 Unicode characters (reach killer per April 6 audit)
 - Short paragraphs — 1–3 sentences max, generous line breaks
 - Use → arrows for key points, not bullet lists
 - One specific credibility marker
@@ -138,11 +157,13 @@ SLIDE [N] — [SLIDE TYPE]
 
 ## Step 8: CTA Generation
 
-Generate **5 CTA options** across the 4 CTA types:
-1. Binary Question — "X or Y?"
-2. Verdict Close — declarative landing
-3. Reframe Question — single perspective-shifting question
-4. Challenge — direct prompt for action
+Generate **6 CTA options** across these CTA types:
+1. **Forced Binary** — "a, b, or c — pick one" (PREFERRED per April 6 audit; Challenge CTAs collapsed to 1 comment across 16 posts)
+2. **Naming Ask** — "Name the person on your team who owns this" (PREFERRED — identity framing was the only CTA that pulled comments)
+3. Binary Question — "X or Y?"
+4. Verdict Close — declarative landing
+5. Reframe Question — single perspective-shifting question
+6. Challenge — direct prompt for action (use sparingly; underperformed in audit)
 
 Rank by likely comment rate. Select the best CTA that uses a different type from the last 2 posts.
 
@@ -166,6 +187,10 @@ Score each of the 3 draft versions on the **8-dimension rubric** (1-10 each) fro
 - Hook strength must be ≥ 8
 - Readability must be ≥ 8
 - Engagement potential must be ≥ 8
+- **No bold-Unicode characters** anywhere in caption or slides (𝐀𝐁𝐂, 𝟏𝟐𝟑, etc.) — automatic fail
+- **One screenshot-ready quotable line** present (≤12 words, standalone, designed to be reshared) — automatic fail if missing. Audit found 0 reposts across 16 posts because no line was quotable.
+- **One "so what" payoff line** present immediately before the CTA — connects the body to the reader's life
+- **Carousel slide cap: 5–6 slides max.** 7+ slides cause mid-deck drop-off (April 6 audit: 03/19 hit 101 impressions but only 5 likes — readers dropped before payoff)
 
 If ALL 3 versions fail a hard gate, **loop back to Step 6** and regenerate hooks with specific rewrite instructions addressing the failure.
 
@@ -276,6 +301,11 @@ SLIDE N — CTA
 - [x] De-AI pass completed
 - [x] Tone drift checklist passed
 - [x] Content quality bar passed (all 8 items)
+- [x] No bold-Unicode characters (audit hard gate)
+- [x] Quotable line present (≤12 words, screenshot-ready)
+- [x] "So what" payoff line present before CTA
+- [x] Carousel ≤6 slides (if applicable)
+- [x] Credibility layer present (source attribution + one fact-checkable detail + institutional self-report stat) — REQUIRED unless news-jack
 ```
 
 ## Rules

@@ -37,14 +37,15 @@ Score each brief 1-10 on every dimension. Use the definitions from `scoring-rubr
 
 | # | Dimension | What to evaluate |
 |---|-----------|-----------------|
-| 1 | **Hook Strength** | Do ANY of the hook options create instant "stop scrolling" tension? Score the BEST hook, not the average. Does it create personal relevance through any of the 6 opener categories? |
+| 1 | **Hook Strength** | Do ANY of the hook options create instant "stop scrolling" tension? Score the BEST hook, not the average. Does it create personal relevance through any of the 6 opener categories? **+2 boost** if the top hook contains a concrete dollar figure or numeric multiple AND a "X isn't Y, it's Z" reframe AND a personal-stakes verb (the April 6 audit-winning formula). **-2 penalty** if no hook contains a concrete number when the research has one available. |
 | 2 | **Clarity** | Can the post idea be understood in under 5 seconds from the brief's strategy section? |
 | 3 | **Readability** | Will the final post be easy to scan on mobile? Does the brief's content support short, punchy paragraphs? |
 | 4 | **Point of View** | Does the brief have a strong, opinionated stance? Or is it a neutral summary? |
 | 5 | **Consequence** | Does the brief explain what changes in practice? Or just what happened? |
-| 6 | **Engagement Potential** | Would the target audience want to comment? Are the CTA options easy to answer? Would the hook generate discussion? |
+| 6 | **Engagement Potential** | Would the target audience want to comment? Are the CTA options easy to answer? Would the hook generate discussion? **+1 boost** if a Forced Binary or Naming Ask CTA is present and recommended (these were the only CTAs that pulled comments in the April 6 audit). |
 | 7 | **Mobile Friendliness** | Does the brief's content lend itself to short paragraphs and scannable format? |
-| 8 | **Brand Fit** | Does this sound like Grey AI — sharp, direct, human, slightly provocative? Not corporate, not neutral, not analyst-like? |
+| 8 | **Brand Fit** | Does this sound like Grey AI — sharp, direct, human, slightly provocative? Not corporate, not neutral, not analyst-like? **Auto-fail to 3/10** if the topic is inside-baseball with no clear "what changes for a person like you" angle (April 6 audit: AI safety internals and infra orchestration topics collapsed to 0% ER). |
+| 8b | **Credibility** (non-news-jack briefs only) | Does the brief's CREDIBILITY LAYER section contain all three: (1) named research producer / institution, (2) one concrete fact-checkable detail, (3) institutional self-report stat? Score 8–10 if all three present. Score 5–7 if one missing. **Hard cap at 6 if two or more missing.** Skip this dimension if the brief is marked as a news-jack. |
 | 9 | **Hook Variety** | Does the brief's strongest hook use a DIFFERENT opener category from the last 3 published posts? 1-3 = same as last post, 4-6 = same as 2-ago, 7-10 = fresh category |
 | 10 | **Format Variety** | Does the brief recommend a format different from the last 3 published posts? 1-3 = same as last 3, 4-6 = same as last 1-2, 7-10 = different format |
 

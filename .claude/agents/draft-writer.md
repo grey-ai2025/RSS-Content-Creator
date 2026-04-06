@@ -82,11 +82,22 @@ After the YAML frontmatter, each brief must use this exact structure:
 - [Third fact if relevant]
 - Source credibility: [what institution/company/research backs this]
 
+## CREDIBILITY LAYER (mandatory unless news-jack)
+Every non-news-jack brief must explicitly surface these three credibility ingredients so the post-writer can drop them straight into the caption:
+
+1. **Source attribution**: [Name the research firm, institution, or report producer — e.g., "Experian's 2026 Future of Fraud Forecast", "Stanford HAI 2026 Index", "McKinsey State of AI 2026". This is the research producer, not a news outlet. If the only source is a news article with no underlying research firm, flag this as a credibility risk.]
+2. **One concrete fact-checkable detail**: [A single named example a skeptic could verify — a specific company case, named threat type, named mechanism, dollar figure with denominator, dated event. Replace any abstraction in the post body with this. If the research contains no specific named detail, flag this brief as low-credibility.]
+3. **Institutional self-report stat**: [A figure where the affected institutions themselves admit the gap — e.g., "65% of financial institutions admit they don't have the data infrastructure to make their AI fraud systems work." Self-reports beat external estimates. If none exists, use the most concrete external stat with the most specific denominator.]
+
+**Is this a news-jack?** [yes / no — yes only if the post is a 24-hour reactive take on a breaking story with no analytical framing. Default: no.]
+
 ## GREY AI ANGLE
 [1-2 sentences: How does this connect to AI literacy, team adoption, AI governance, or organizational readiness?]
 
 ## HOOK OPTIONS
 Generate 15 hooks across all 6 opener categories. At least 2 must NOT start with "you/your."
+
+**WINNING FORMULA (April 6 audit):** Top 3 Grey AI posts (32.8%, 19.7%, 14.7% ER) all combined: (1) concrete dollar/multiple ($2.1M, 150x), (2) "X isn't Y, it's Z" reframe, (3) personal-stakes verb (your team, your investment thesis). At least 5 of the 15 hooks must follow this formula. If the research contains any usable dollar figure, the top 3 ranked hooks MUST include it.
 
 Label each hook with its opener category:
 
@@ -108,12 +119,13 @@ Label each hook with its opener category:
 Reasoning: [one sentence — e.g., "Has 3+ distinct comparison points → carousel" or "Single contrarian take → text"]
 
 ## CTA OPTIONS
-5 CTA options across the 4 types:
-1. **[Binary Question]** [CTA text]
-2. **[Verdict Close]** [CTA text]
-3. **[Reframe Question]** [CTA text]
-4. **[Challenge]** [CTA text]
-5. **[type]** [CTA text]
+6 CTA options across these types (PREFER Forced Binary and Naming Ask — only CTAs that pulled comments in April 6 audit):
+1. **[Forced Binary]** [a, b, or c — pick one]
+2. **[Naming Ask]** [name the person on your team who owns this]
+3. **[Binary Question]** [X or Y?]
+4. **[Verdict Close]** [declarative landing]
+5. **[Reframe Question]** [single perspective-shift question]
+6. **[Challenge]** [direct prompt — use sparingly]
 
 Best CTA: [which one and why]
 

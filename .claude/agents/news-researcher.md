@@ -34,6 +34,7 @@ Before selecting which stories to cover, you MUST read the keywords file at `con
 
 **Filtering rules:**
 
+- **Personal-stake gate (April 6 audit):** Every selected story must have a clear "what changes for a person like you" angle — an executive, manager, IC, or buyer must be able to see what shifts in their day, role, budget, or career. Inside-baseball topics with no personal stake (AI safety internals, infra orchestration mechanics, model release notes without enterprise impact) collapsed to 0% engagement in the audit and must be skipped, even if they match a trending keyword.
 - **Only cover stories that match at least one Trending Topic** from the keywords file. Compare each RSS item's headline, summary, and themes against the trending topics list.
 - **Exception:** Up to 2 stories may bypass keyword filtering IF they represent an exceptionally newsworthy event — a major industry shift, massive funding round (>$100M), breaking policy change, or landmark technical breakthrough. These must still be published within the last 48 hours.
 - **If no keywords file exists**, fall back to recency and professional relevance only.
