@@ -62,9 +62,10 @@ Record which opener categories and CTA types were used in the last 3 posts. The 
 Check the brief's `Suggested Format` field:
 - If it says **carousel** → write a carousel post
 - If it says **text** → write a text post
-- If unspecified → check content type:
-  - Contrarian takes, single-argument posts, news-jacks → default to **text**
-  - Binary frameworks, data comparisons, multi-point analyses → default to **carousel**
+- If unspecified → **default to carousel** (April 13 audit: Grey AI carousel ER is 4.6x higher than text; 0 carousels were posted Apr 6–10 and impressions dropped 68%). Only use text for:
+  - Pure news-jacks under 100 words
+  - Single contrarian takes with no comparison structure
+  - Topics where the entire argument fits in one punchy paragraph
 
 ## Step 5: Strategy Extraction
 
@@ -147,11 +148,12 @@ SLIDE [N] — [SLIDE TYPE]
 
 ### For Text Posts
 
-- 80–150 words total (hard limit)
+- **60–120 words total (hard limit — tightened from 150 per April 13 audit).** The top text posts by engagement across both internal data and influencer benchmarks (Beliunas 927 comments, Mollick 386 comments, Grey AI's 32.8% ER post) are all under 100 words. The emotional hook does the work — long text posts dilute it. If the story needs more than 120 words, it should be a carousel, not text.
 - **PLAIN TEXT ONLY** — no 𝐛𝐨𝐥𝐝 Unicode characters (reach killer per April 6 audit)
 - Short paragraphs — 1–3 sentences max, generous line breaks
 - Use → arrows for key points, not bullet lists
 - One specific credibility marker
+- **One screenshot-ready line** — a standalone ≤12-word sentence designed to be quote-reposted
 - End with the selected CTA
 - 3–5 hashtags at the end
 
@@ -190,6 +192,7 @@ Score each of the 3 draft versions on the **8-dimension rubric** (1-10 each) fro
 - **No bold-Unicode characters** anywhere in caption or slides (𝐀𝐁𝐂, 𝟏𝟐𝟑, etc.) — automatic fail
 - **One screenshot-ready quotable line** present (≤12 words, standalone, designed to be reshared) — automatic fail if missing. Audit found 0 reposts across 16 posts because no line was quotable.
 - **One "so what" payoff line** present immediately before the CTA — connects the body to the reader's life
+- **CTA must never pre-answer the question.** The question must be genuinely ambiguous to invite comments. If the post body already tells the reader the answer, the CTA is dead — no one comments to agree with what you just said. April 13 audit: a post asked "a, b, or c?" then said "the answer is already (c)" — 0 comments. The CTA must leave the answer open.
 - **Carousel slide cap: 5–6 slides max.** 7+ slides cause mid-deck drop-off (April 6 audit: 03/19 hit 101 impressions but only 5 likes — readers dropped before payoff)
 
 If ALL 3 versions fail a hard gate, **loop back to Step 6** and regenerate hooks with specific rewrite instructions addressing the failure.
@@ -252,7 +255,7 @@ status: ready
 
 ## Caption
 
-[Full caption text with bold unicode opener, body, CTA, hashtags]
+[Full caption text — plain text only, no bold Unicode — with hook, body, CTA, hashtags]
 
 ## Slides (if carousel)
 

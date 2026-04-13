@@ -137,17 +137,28 @@ Best CTA: [which one and why]
 [2-4 sentences of the strongest quotes, data points, or specific details from the research file]
 ```
 
+## Pre-Writing Gate: Personal-Stakes Filter (April 13 audit)
+
+Before writing a brief for any research file, apply this gate:
+
+**"Would a founder running a 10-50 person company change a decision based on this story?"**
+
+If the answer is no — if the story only matters to policy analysts, regulators, enterprise CISOs, or AI researchers — **skip it entirely**. Do not write a brief. Log it as skipped with the reason.
+
+The April 13 audit showed 4/5 posts with 0% ER because they covered inside-baseball topics (NLRB labor filings, government ethics disputes, enterprise fraud frameworks) that Grey AI's audience (founders, SMB operators, team leads) could not see themselves in.
+
 ## Brief Generation Rules
 
 1. **BREVITY:** The entire brief should be 250-400 words (expanded from previous 150-250 to accommodate strategy section and 15 hooks).
 2. **15 HOOKS MANDATORY:** Every brief must include 15 hook attempts across all 6 opener categories. These are the most valuable part of the brief.
 3. **HOOK DIVERSITY REQUIRED:** At least 2 of the top 3 hooks must use DIFFERENT opener categories. At least 2 hooks must NOT start with "you/your."
-4. **HOOKS MUST CREATE PERSONAL RELEVANCE:** Every hook must make the reader feel something about their own situation. This can be achieved through direct address, entity-action that implies threat, contrarian claims that challenge their beliefs, stat gaps that expose blind spots, mystery that creates curiosity, or metaphors that reframe their experience. Reference: `LinkedIn Growth Engine/instructions.md` for the Hook Rotation System.
-5. **GREY AI ANGLE IS MANDATORY:** Every story must be connected to AI literacy, team adoption, AI governance, or organizational readiness. If the connection is too weak, skip the story entirely.
-6. **NEVER WRITE THE FULL POST:** Your job is to provide the ingredients, not cook the meal.
-7. **FORMAT RECOMMENDATION:** Default to carousel when content has 3+ distinct points, a binary/contrast angle, or data comparisons. Default to text for contrarian takes, single arguments, and news-jacks.
-8. **5 CTA OPTIONS MANDATORY:** Include 5 CTA options across the 4 types (binary-question, verdict-close, reframe-question, challenge).
-9. **DEDUPLICATION:** Same 7-day thematic dedup rules as before. Also check hook similarity and opener category repetition across recent briefs.
+4. **TOP-RANKED HOOK MUST USE WINNING FORMULA (April 13 audit — enforced):** The #1 ranked hook in every brief MUST contain all three elements: (1) concrete dollar figure or numeric multiple, (2) "X isn't Y, it's Z" reframe, (3) personal-stakes verb targeting the reader's decision. If the research lacks a usable dollar figure, use the most concrete number available. The April 13 audit showed that partial application (e.g., $ anchor without personal stakes) still produced 0% ER.
+5. **HOOKS MUST CREATE PERSONAL RELEVANCE:** Every hook must make the reader feel something about their own situation. This can be achieved through direct address, entity-action that implies threat, contrarian claims that challenge their beliefs, stat gaps that expose blind spots, mystery that creates curiosity, or metaphors that reframe their experience. Reference: `LinkedIn Growth Engine/instructions.md` for the Hook Rotation System.
+6. **GREY AI ANGLE IS MANDATORY:** Every story must be connected to AI literacy, team adoption, AI governance, or organizational readiness. If the connection is too weak, skip the story entirely.
+7. **NEVER WRITE THE FULL POST:** Your job is to provide the ingredients, not cook the meal.
+8. **CAROUSEL IS THE DEFAULT FORMAT (April 13 audit):** Default to carousel for any topic with a binary/contrast structure, 2+ distinct points, or data comparisons. The winning hook formula ("X isn't Y, it's Z") inherently creates a contrast structure, so most briefs using the formula should recommend carousel. Grey AI's carousel ER is 4.6x higher than text; document posts average 6.6% ER vs 2.4% for text (Q1 2026 LinkedIn data). Default to text ONLY for pure news-jacks under 100 words or single contrarian takes with no comparison structure.
+9. **6 CTA OPTIONS MANDATORY:** Include 6 CTA options across the types (Forced Binary and Naming Ask preferred per April 6 audit).
+10. **DEDUPLICATION:** Same 7-day thematic dedup rules as before. Also check hook similarity and opener category repetition across recent briefs.
 
 ## Rules
 
