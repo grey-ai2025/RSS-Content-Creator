@@ -1,4 +1,16 @@
-# Brief Ranking — 2026-04-13
+# Brief Ranking — 2026-04-14
+
+## Winner
+
+**File:** `2026-04-14-exhale-product-launch.md`
+**Score:** n/a — product launch brief, manually selected
+**Opener type:** Metaphor (recommended: "Executive parents are operating two companies simultaneously. One has a chief of staff. The other runs on willpower.")
+**CTA type:** Reframe Question (recommended: "What's the one thing in your personal life that absolutely should be automated by now — and isn't?")
+**Why:** Product launch post for Exhale (exhale.bot) — Grey AI's AI-managed personal life system for executive parents. Manually promoted to winner; not scored against other briefs. Hook rotation: last post was stat-consequence (Apr 13), so metaphor/mystery/contrarian are preferred. CTA rotation: forced-binary and naming-ask used in last 2 posts, so reframe-question preferred.
+
+---
+
+# Brief Ranking — 2026-04-13 (archived)
 
 ## Winner
 
