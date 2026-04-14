@@ -2,6 +2,58 @@
 
 ## Winner
 
+**File:** `2026-04-14-vercel-ai-agents-revenue-ipo.md`
+**Score:** 97/100
+**Opener type:** Stat-Consequence
+**CTA type:** Forced Binary
+**Why:** This brief delivers the most complete execution of the April 6 winning formula — a two-number tension hook ($100M to $340M), a decisive "X isn't Y, it's Z" reframe ("the debate just got answered by a financial statement"), and a present-tense past-tense consequence that makes the "wait and see" posture immediately uncomfortable. Every scoring dimension except rotation (a shared flaw across all four briefs today) reaches ceiling or near-ceiling. The benchmark data confirms agentic AI economics is the highest-engagement topic on LinkedIn AI feeds in April 2026, and this brief has the sharpest single claim in the batch.
+
+---
+
+## Full Scoreboard
+
+| Rank | File | Hook | Clarity | Read | POV | Conseq | Engage | Mobile | Brand | Cred | Variety-H | Variety-F | Total |
+|------|------|------|---------|------|-----|--------|--------|--------|-------|------|-----------|-----------|-------|
+| 1 | `2026-04-14-vercel-ai-agents-revenue-ipo.md` | 10 | 10 | 9 | 10 | 10 | 10 | 9 | 10 | 10 | 5 | 4 | 97/100 |
+| 2 | `2026-04-14-openai-platform-war-memo-anthropic.md` | 10 | 9 | 9 | 10 | 9 | 10 | 9 | 9 | 9 | 5 | 4 | 93/100 |
+| 3 | `2026-04-14-openai-acquires-hiro-financial-planning.md` | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 5 | 4 | 90/100 |
+| 4 | `2026-04-14-microsoft-copilot-agent-fragmentation.md` | 8 | 9 | 9 | 9 | 8 | 9 | 9 | 8 | 9 | 5 | 4 | 87/100 |
+
+**Scoring notes:**
+- Hook: Briefs 1 and 2 earn the full +2 boost (concrete dollar/numeric multiple + "X isn't Y, it's Z" reframe + personal-stakes verb all present in the hook line). Brief 3 earns +1 (dollar anchor and reframe present, personal-stakes verb arrives one beat late in the hook). Brief 4 scores 8 base with no boost — top hook lacks a dollar figure and the winning formula is incomplete.
+- Engage: All four briefs earn the +1 boost for recommending Forced Binary as the best CTA (April 6 audit confirmed only Forced Binary and Naming Ask pulled comments).
+- Variety-H (Hook Variety): All four top hooks are Stat-Consequence. Stat-Consequence was used 2 posts ago (April 13 Stanford). Score: 5/10 for all four (same-as-2-ago tier). No brief earns a rotation advantage over the others.
+- Variety-F (Format Variety): All four briefs recommend carousel. Last 3 posts are all carousel. Base 2/10, plus +2 carousel boost (April 13 audit: carousel ER is 4.6x text). Net: 4/10 for all four.
+- All four briefs pass all three hard gates: Hook ≥ 8, Readability ≥ 8, Engagement ≥ 8.
+
+---
+
+## Runner-Up Notes
+
+**#2 — `2026-04-14-openai-platform-war-memo-anthropic.md` (93/100)**
+The strongest POV in the batch — "OpenAI isn't building a better AI, it's building a better moat" — and the only brief where a named, sourced internal document from the subject company itself functions as the credibility anchor. The "you are choosing an operating system, not a tool" reframe has the longest shelf life of any insight here, and it scores ceiling on both POV and Engagement. Drops below the winner because the consequence is one step more abstract: switching costs a founder will feel in 18 months vs. revenue that already happened. The Contrarian hook option ("Picking the best AI model isn't the game anymore. OpenAI's own CRO wrote that.") should be evaluated by the post-writer as the lead hook for better rotation variety.
+
+**#3 — `2026-04-14-openai-acquires-hiro-financial-planning.md` (90/100)**
+The $230M dollar anchor is the sharpest single-number hook in the batch and the "shut it down in 30 days" detail is the best strategic-intent signal across all four briefs. Drops to third because the audience impact is slightly narrower (founders thinking about financial modeling tools specifically vs. founders thinking about AI adoption posture broadly) and the personal-stakes moment arrives one beat late in the top hook. The Forced Binary CTA (a/b/c financial modeling workflow) is excellent — the "spreadsheets" option is the honest answer for most founders under 50 people and will drive recognition-comments.
+
+**#4 — `2026-04-14-microsoft-copilot-agent-fragmentation.md` (87/100)**
+The hidden insight is genuinely strong ("Microsoft's agent fragmentation is a competitive defense against OpenAI bypassing its M365 distribution layer — not a product vision"), but the top hook ("Three Microsoft AI agents. Zero published guidance.") does not fully execute the winning formula — it describes a gap without reframing what the reader misunderstood. The known resolution date (June Build conference) also caps urgency in a way the other three briefs avoid. Best run later in the week with the Contrarian hook option elevated to lead position.
+
+---
+
+## Rotation Context
+
+Last 3 posts opener types: metaphor (Apr 14), stat-consequence (Apr 13), entity-action (Apr 11)
+Last 3 posts CTA types: reframe-question (Apr 14), forced-binary (Apr 13), forced-binary (Apr 11)
+Last 3 posts formats: carousel (Apr 14), carousel (Apr 13), carousel (Apr 11)
+Recommended opener for today: Contrarian or Mystery — neither appears in the last 3 posts. The winner brief's #2 hook ("Agentic AI isn't a technology that's almost ready. It's a technology that already tripled one company's annual revenue — and the company running it didn't need to wait for a benchmark to confirm it.") is Contrarian, retains the revenue figure in sentence 2, and would score 7-8 on Hook Variety vs. 5/10 for the Stat-Consequence top hook. Post-writer should weigh this tradeoff.
+
+---
+
+# Brief Ranking — 2026-04-14 (Exhale product launch — archived)
+
+## Winner
+
 **File:** `2026-04-14-exhale-product-launch.md`
 **Score:** n/a — product launch brief, manually selected
 **Opener type:** Metaphor (recommended: "Executive parents are operating two companies simultaneously. One has a chief of staff. The other runs on willpower.")
