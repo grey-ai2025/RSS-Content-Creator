@@ -1,3 +1,62 @@
+# Brief Ranking — 2026-04-16
+
+## Winner
+
+**File:** `2026-04-16-snap-layoffs-ai-workforce.md`
+**Score:** 92/100
+**Opener type:** Stat-Consequence (top hook); post-writer should consider Contrarian alternative for better rotation
+**CTA type:** Forced Binary (a/b/c self-identification on role-level AI evaluation)
+**Why:** The Snap brief delivers all three elements of the April 6 winning formula in its top hook — three concrete anchors ($1.36B revenue, 460M users, 1,000 jobs), a clean "X isn't Y, it's Z" reframe (not a distress layoff, it's AI math), and personal stakes that land directly on every founder planning headcount. The Q1 2026 four-company evidence chain (SAP, Workday, Duolingo, Snap) converts a single news story into a decision framework, which is the Grey AI post type with the highest engagement ceiling.
+
+---
+
+## Full Scoreboard
+
+| Rank | File | Hook | Clarity | Read | POV | Conseq | Engage | Mobile | Brand | Cred | Variety-H | Variety-F | Total |
+|------|------|------|---------|------|-----|--------|--------|--------|-------|------|-----------|-----------|-------|
+| 1 | 2026-04-16-snap-layoffs-ai-workforce.md | 10 | 9 | 9 | 9 | 10 | 9 | 9 | 9 | 10 | 3 | 5 | 92/100 |
+| 2 | 2026-04-16-allbirds-newbird-ai-pivot.md | 9 | 9 | 8 | 9 | 8 | 8 | 8 | 7 | 10 | 3 | 5 | 84/100 |
+| 3 | 2026-04-16-adobe-firefly-ai-agent.md | 9 | 9 | 8 | 8 | 8 | 8 | 8 | 8 | 9 | 3 | 5 | 83/100 |
+
+**Hard gate results — all three briefs passed:**
+- Hook Strength minimum 8/10: Snap 10, NewBird 9, Adobe 9 — all pass
+- Readability minimum 8/10: Snap 9, NewBird 8, Adobe 8 — all pass
+- Engagement Potential minimum 8/10: Snap 9, NewBird 8, Adobe 8 — all pass
+
+**Score notes:**
+- Hook Strength: Snap earns the full +2 April 6 formula boost (three concrete dollar/numeric anchors + "X isn't Y, it's Z" reframe + personal-stakes verb all present in the hook line). NewBird's top hook qualifies for partial credit — four concrete numbers and a clean reframe, but the personal-stakes verb is implied rather than explicitly directed at the reader in the hook line itself; score 9. Adobe's top hook has named-app specificity and a strong reframe but no dollar/multiple anchor in the hook line; score 9, no boost, no penalty (a concrete number "one command" is present).
+- Engagement: Snap earns the +1 boost — Forced Binary is present and explicitly recommended as the best CTA (April 6 audit confirmed Forced Binary and Naming Ask are the only CTAs that pulled comments). NewBird and Adobe recommend Reframe Question as best CTA, so no +1 boost, though both have Forced Binary as an option.
+- Hook Variety: All three briefs score 3/10 — all top hooks use Stat-Consequence, which was the opener type of the most recently published post (2026-04-13-stanford-ai-index). This is the single largest scoring gap across today's slate and a flag for the post-writer: the winner's Contrarian hook option (#2 ranked: "Increasing AI reliance isn't a vague tech-sector buzzword anymore...") is a fresher choice and would score 7/10 on Hook Variety, since Contrarian was last used two posts ago (2026-04-14-vercel).
+- Format Variety: All three briefs recommend carousel — same as last 3 posts. Base score 3/10. The +2 carousel boost (April 13 audit: carousel ER is 4.6x text at Grey AI's follower count) was applied to all three, yielding net 5/10. Not a tiebreaker differentiator.
+- Credibility (8b): All three briefs pass the three-element credibility test. Snap and NewBird both score 10. Adobe scores 9 (all three elements present; Claude integration detail is verifiable but the "entering public beta in weeks" timing is slightly softer than Snap's dated public filing).
+- Brand Fit: NewBird AI scores 7 — the capital-markets-froth angle is sharp but the operational consequence is narrower than Snap or Adobe. The primary audience is "founders evaluating AI infrastructure vendors" rather than all founders. Not an auto-fail (the vendor evaluation question is relevant to 10-50 person companies) but a genuine gap versus the other two briefs. Snap and Adobe both score 9 and 8 respectively because their core decision (which roles does AI make redundant; does our creative team structure reflect the agentic era) is immediate and broadly applicable.
+
+---
+
+## Runner-Up Notes
+
+**2026-04-16-allbirds-newbird-ai-pivot.md (84/100)**
+The NewBird AI brief has the strongest credibility layer of the three — five concrete verifiable numbers, a named historical precedent (Long Blockchain, December 2017, Nasdaq-delisted 18 months later), and a "both things are true simultaneously" reframe that is genuinely sophisticated and uncomfortable. The gap versus the winner is Brand Fit (7 vs. 9): the operational consequence for a 10-50 person company is one step more abstract than Snap's workforce question. Founders must translate "AI label generates speculative froth" into a practical vendor evaluation action — that translation is real but adds friction. If posted, the Contrarian hook (#2 ranked: "GPU compute demand for AI is real... that genuine demand is also the exact narrative a failed shoe company is using to generate a 400% stock pop without owning a single GPU") is a fresher opener category than the Stat-Consequence top hook.
+
+**2026-04-16-adobe-firefly-ai-agent.md (83/100)**
+The Adobe brief is technically sound with a clean reframe ("the knowledge of how to navigate professional tools is now a prompt") and a specific, verifiable product mechanism (seven apps, one conversational interface, Claude integration confirmed). The gap versus the winner is Consequence (8 vs. 10): the Adobe story gives founders something worth knowing about creative team economics, but the urgency is lower — the beta hasn't shipped yet and there is no external pressure forcing the decision immediately. The brief also leaves engagement on the table by recommending Reframe Question over the Forced Binary CTA option, which is the audit-confirmed higher-comment type. If posted, the Contrarian hook (#2 ranked: "The value of a trained Adobe designer isn't their taste. It is their knowledge of which tool handles which step...") is a stronger choice for rotation.
+
+---
+
+## Rotation Context
+
+Last 3 posts opener types: contrarian (2026-04-14-vercel), metaphor (2026-04-14-exhale), stat-consequence (2026-04-13-stanford)
+Last 3 posts CTA types: naming-ask (2026-04-14-vercel), reframe-question (2026-04-14-exhale), forced-binary (2026-04-13-stanford)
+Last 3 posts formats: carousel, carousel, carousel
+
+Recommended opener for today: Entity-Action or You/Your — neither has appeared in the last 3 posts, making them the freshest available categories (10/10 Hook Variety). Contrarian is also acceptable (last used 2 posts ago = 7/10 Hook Variety). The winning Snap brief has strong Entity-Action hook options ("Snap CEO Evan Spiegel framed 1,000 layoffs as a move toward a smaller, more focused team powered by AI tools...") and Contrarian options ("Increasing AI reliance isn't a vague tech-sector buzzword anymore...") that the post-writer should evaluate over the Stat-Consequence top hook.
+
+Recommended CTA for today: Forced Binary — last used 2026-04-13 (three posts ago, well outside the 2-post repetition window). The winning brief's recommended Forced Binary (a/b/c on whether the org has formally evaluated role-level AI redundancy) is the strongest available CTA and is not in rotation conflict.
+
+---
+
+---
+
 # Brief Ranking — 2026-04-14
 
 ## Winner

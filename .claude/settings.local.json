@@ -44,7 +44,9 @@
       "mcp__firecrawl__firecrawl_browser_execute",
       "mcp__firecrawl__firecrawl_browser_delete",
       "mcp__firecrawl__firecrawl_browser_list",
-      "mcp__firecrawl__firecrawl_search"
+      "mcp__firecrawl__firecrawl_search",
+      "WebFetch(domain:blog.linkboost.co)",
+      "WebFetch(domain:hai.stanford.edu)"
     ]
   },
   "enableAllProjectMcpServers": true,
