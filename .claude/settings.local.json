@@ -46,7 +46,8 @@
       "mcp__firecrawl__firecrawl_browser_list",
       "mcp__firecrawl__firecrawl_search",
       "WebFetch(domain:blog.linkboost.co)",
-      "WebFetch(domain:hai.stanford.edu)"
+      "WebFetch(domain:hai.stanford.edu)",
+      "WebFetch(domain:github.com)"
     ]
   },
   "enableAllProjectMcpServers": true,
