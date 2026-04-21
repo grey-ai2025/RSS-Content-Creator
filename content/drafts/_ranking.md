@@ -1,3 +1,73 @@
+# Brief Ranking — 2026-04-20
+
+## Winner
+
+**File:** `2026-04-20-q1-2026-vc-ai-dominates.md`
+**Score:** 90/100
+**Opener type:** Stat-Consequence
+**CTA type:** Forced Binary
+**Why:** This brief delivers the tightest three-element hook of the four — "$242B absorbed, the bill arrives at your desk as HubSpot's $0.50-per-conversation pricing — not as a VC headline" — with the dollar anchor, category reframe, and personal-stakes verb all landing in a single sentence. It separates from the field on both Consequence (10/10) and Credibility (10/10): the HubSpot repricing is a named, verifiable, operationally concrete event that founders can check against their own renewal schedule today, converting a macro finance story into an immediate procurement decision.
+
+---
+
+## Full Scoreboard
+
+| Rank | File | Hook | Clarity | Read | POV | Conseq | Engage | Mobile | Brand | Cred | Variety-H | Variety-F | Total |
+|------|------|------|---------|------|-----|--------|--------|--------|-------|------|-----------|-----------|-------|
+| 1 | `2026-04-20-q1-2026-vc-ai-dominates.md` | 10 | 8 | 9 | 9 | 10 | 10 | 9 | 9 | 10 | 3 | 3 | 90/100 |
+| 2 | `2026-04-20-cursor-2b-raise-ai-coding.md` | 10 | 9 | 9 | 9 | 9 | 10 | 9 | 9 | 9 | 3 | 3 | 89/100 |
+| 3 | `2026-04-20-app-store-vibe-coding-boom.md` | 10 | 9 | 9 | 9 | 9 | 10 | 9 | 8 | 9 | 3 | 3 | 88/100 |
+| 4 | `2026-04-20-dairy-queen-ai-drive-thru.md` | 9 | 9 | 9 | 9 | 8 | 10 | 9 | 9 | 7 | 3 | 3 | 85/100 |
+
+**Hard gate results — all four briefs passed:**
+- Hook Strength minimum 8/10: VC 10, Cursor 10, App Store 10, Dairy Queen 9 — all pass
+- Readability minimum 8/10: VC 9, Cursor 9, App Store 9, Dairy Queen 9 — all pass
+- Engagement Potential minimum 8/10: VC 10, Cursor 10, App Store 10, Dairy Queen 10 — all pass
+
+**Scoring notes:**
+
+- **Hook Strength:** Three of four briefs earn the full +2 April 6 formula boost (concrete dollar/numeric anchor + "X isn't Y, it's Z" reframe + personal-stakes verb all in the same hook sentence). Dairy Queen's top hook scores 9 base without full boost because its anchor figure (90% order accuracy) is materially contested — Bloomberg 2023 reporting showed Presto's system includes undisclosed human backup workers in the Philippines, meaning the number that powers the hook may include human-assisted completions. Using a disputed stat as the single-sentence anchor weakens formula purity. The other three briefs have clean, independently verifiable numeric anchors.
+
+- **Clarity:** The VC brief scores 8 rather than 9 because its central argument requires a two-step bridge — "$242B VC capital → HubSpot repricing → your desk" — that takes slightly more cognitive work than the Cursor brief's one-step hook ("$2B ARR → your team's policy is a $6B problem"). The bridge is clear once made, but it is a step more complex than the other three briefs on first read.
+
+- **Consequence:** The VC brief and the Cursor brief both score 10. VC wins because the HubSpot repricing is a named event with a specific dollar figure ($0.50/conversation, $1/lead) that founders can apply to their own usage data today — it is a contract-level consequence, not an organizational posture question. Cursor's "two-year compounding lag" is real but slightly more abstract; the gap closes if the post body names a specific dollar-per-developer figure. App Store and Dairy Queen score 9: both have concrete consequences but neither reaches the immediacy of "this will appear on your next renewal invoice."
+
+- **Engagement Potential:** All four briefs earn the full +1 boost. Every brief recommends a Forced Binary as its best CTA — the only CTA type confirmed by the April 6 audit to consistently generate comments. All four Forced Binary options are 3-second answerable with strong self-identification mechanics.
+
+- **Brand Fit:** The VC brief earns 9 — the "repricing wave" angle is sharp, opinionated, and directly threatening to a founder who hasn't thought about outcome-based pricing yet. Dairy Queen scores 7 — the comparison to a franchise drive-thru is memorable and deliberately uncomfortable, but the brief's own transparency note (the 90% figure may be contaminated) creates a factual ambiguity that could undercut credibility if a sharp commenter raises it. Brand Fit requires confidence in the claim being made; a contested anchor introduces hesitation that Grey AI's voice cannot afford.
+
+- **Credibility (8b — all briefs are non-news-jacks):** VC scores 10: KPMG Venture Pulse Q1 2026 (named institution), HubSpot $0.50/conversation pricing (concrete fact-checkable detail founders can verify today), and 86% of dollars in mega-rounds (KPMG self-report stat). All three elements are clean, named, and independently verifiable. Cursor scores 9: a16z/Thrive/Battery/Nvidia participation confirmed (named institution), $2B ARR February 2026 + Nvidia direct participation (concrete fact-checkable), Composer model gross margin profitability (institutional self-report). App Store scores 9: Appfigures Q1 2026 (named institution), 104%/80% launch data (concrete fact-checkable), Apple SVP public acknowledgment of surge (institutional self-report). Dairy Queen scores 7: Presto named (vendor), 90% accuracy (concrete but disputed by Bloomberg 2023 human-backup reporting), Dairy Queen institutional upsell disclosure (self-report). Two of the three credibility elements are present cleanly; the key fact-checkable detail is contestable, capping the score below 8.
+
+- **Hook Variety and Format Variety:** All four briefs score identically — 3/10 on Hook Variety, 3/10 on Format Variety. Every brief's top hook uses Stat-Consequence, the same category as the most recent published post (Apr 18 tokenmaxxing). All four recommend carousel, matching all three recent posts. The +2 carousel boost (April 13 audit: carousel ER is 4.6x text at Grey AI's follower count) is applied to all four, lifting Format Variety from 1 to 3. This is a uniform rotation debt across today's entire slate — no brief earns a differentiation advantage on either dimension. The post-writer should evaluate whether substituting a fresher opener category from the available hook options can address this without abandoning formula strength (see Rotation Context below).
+
+---
+
+## Runner-Up Notes
+
+**2nd: `2026-04-20-cursor-2b-raise-ai-coding.md` (89/100)**
+The Cursor brief is the most instantly legible of the four — the "$2B ARR / $6B problem" hook requires zero bridging logic and the personal-stakes landing ("your team's policy") is the hardest-hitting direct address in today's set. The Forced Binary CTA ("standardized or calling it a strategy?") is the strongest comment-density driver in the slate because both answers ("yes, we standardized on X" and "no, individuals pick their own tools") produce substantive comments that signal authentic engagement. What keeps it out of first place is Consequence: the organizational standardization gap is real but slightly more abstract than a HubSpot renewal invoice — the VC brief's consequence can be acted on by pulling up a software contract today. If the post writer anchors a specific dollar-per-developer figure in the body (cost to onboard a new developer onto a non-standardized stack vs. a standardized one), the Consequence score closes to parity with the winner.
+
+**3rd: `2026-04-20-app-store-vibe-coding-boom.md` (88/100)**
+The App Store brief has the most emotionally resonant personal-stakes line of the set — "the person building your competitor's app this weekend has never written code" — and the 104% surge number creates genuine urgency through its pace compression ("this April" makes it feel immediate rather than quarterly). Brand Fit scores 8 rather than 9 because the brief flags the fraud angle (fake Ledger Live app, $9.5M drained) but does not resolve it into a clear editorial stance. Grey AI's voice requires a strong opinion on the tension point, not just its acknowledgment. A brief that says "the democratization is real and so is the risk layer it's creating" and stops there reads as neutral at exactly the moment the audience expects the provocative take. A clean resolution — either "the fraud risk is the cost of admission and operators should still build" or "the fraud risk is the structural flaw in Apple's review capacity that operators need to understand before shipping" — would push Brand Fit to 9.
+
+---
+
+## Rotation Context
+
+**Last 3 posts opener types:** stat-consequence (2026-04-18-tokenmaxxing), entity-action (2026-04-16-snap), contrarian (2026-04-14-vercel)
+**Last 3 posts CTA types:** forced-binary (2026-04-18), forced-binary (2026-04-16), naming-ask (2026-04-14)
+**Last 3 posts formats:** carousel (Apr 18), carousel (Apr 16), carousel (Apr 14)
+
+**Recommended opener for today:** you-your, mystery, or metaphor — all three are completely fresh across the last 3 published posts and would score 10/10 on Hook Variety. The winning VC brief has strong alternatives available: the Metaphor hook ("SaaS per-seat pricing is the taxi medallion of the AI era. HubSpot just switched to Uber surge. The rest of your stack is watching.") retains the HubSpot repricing argument and uses a culturally resonant reframe that would earn saves from founders who will use the framing in their own team conversations. The You/Your option ("Your HubSpot renewal isn't going to look like last year's...") delivers the $0.50/conversation figure and immediate personal stakes. Either would lift Hook Variety from 3/10 to 10/10, adding 7 points to the total post score. The post-writer has the authority to substitute a fresher opener without changing the underlying brief's argument.
+
+**Recommended CTA for today:** naming-ask or reframe-question. Forced-binary has appeared in 2 of the last 3 posts (Apr 18 and Apr 16), placing it at the edge of the repetition window. The winning brief's Option 2 (Naming Ask: "Who on your team owns vendor contract review? Name them — because HubSpot's repricing model is the preview, not the exception.") is a strong alternative that maintains comment density while improving CTA rotation. If the post-writer stays with Forced Binary, the specific question must be different enough from the Apr 16 and Apr 18 versions that the audience does not perceive structural repetition.
+
+**Format note:** This is the fourth consecutive carousel. The April 13 audit confirms carousel ER is 4.6x text at Grey AI's follower count, which justifies the format choice. However, format monotony risk compounds past four posts. The next brief in the queue should be evaluated for text format if its argument is a single-thesis, sub-150-word take — the VC brief's HubSpot repricing could theoretically run as a tight text post (130–140 words) if the carousel format is deprioritized for rotation health.
+
+---
+
+---
+
 # Brief Ranking — 2026-04-18
 
 ## Winner
