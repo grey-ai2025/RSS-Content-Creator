@@ -115,23 +115,23 @@ Label each hook with its opener category:
 3. [hook] — [opener category] — [why]
 
 ## SUGGESTED FORMAT
-[carousel / text]
-Reasoning: [one sentence — e.g., "Has 3+ distinct comparison points → carousel" or "Single contrarian take → text"]
+[carousel / single-image / text]
+Reasoning: [one sentence — e.g., "Has 3+ distinct comparison points → carousel" or "One strong claim + one cinematic visual → single-image" or "Short reactive take on named voice → text". No default; pick what the content actually needs. Single-image is under-used on this account — try it first when one dominant claim pairs with one strong visual.]
 
 ## CTA OPTIONS
-6 CTA options across these types (PREFER Forced Binary and Naming Ask — only CTAs that pulled comments in April 6 audit):
-1. **[Forced Binary]** [a, b, or c — pick one]
-2. **[Naming Ask]** [name the person on your team who owns this]
-3. **[Binary Question]** [X or Y?]
-4. **[Verdict Close]** [declarative landing]
-5. **[Reframe Question]** [single perspective-shift question]
-6. **[Challenge]** [direct prompt — use sparingly]
+6 CTA options. **At least 3 must be opinion-bait questions** where the reader has a strong opinion they want to share publicly (April 22 audit — Forced Binary template collapsed to 1 comment across 7 posts):
+1. **[Opinion-Bait]** [a question where the reader has a slightly contrarian opinion they want to argue — e.g., "Name the worst AI vendor pitch you got this quarter."]
+2. **[Disagreement-Bait]** ["[Named industry voice] said X. I think they're wrong. Where do you land?"]
+3. **[Naming Ask]** [name the person on your team who owns this]
+4. **[Reframe Question]** [single perspective-shift question with no obvious answer]
+5. **[Verdict Close]** [declarative landing — only when the body is a strong narrative]
+6. **[Forced Binary]** [a, b, or c — pick one. DEPRECATED. Only include if NO post in the last 7 days used this template. Otherwise omit and add a second opinion-bait variant.]
 
-Best CTA: [which one and why]
+Best CTA: [which one and why — must be opinion-bait, disagreement-bait, naming-ask, or reframe-question unless no Forced Binary has run in the past 7 days]
 
 ## KEYWORDS
 - Trending topics to weave in: [2-3 from keywords file]
-- Hashtags: [3-5 from keywords file]
+- Hashtags: [2-3 SPECIFIC hashtags max — April 22 audit cap. Prefer specific tags (#AgenticAI, #EnterpriseProcurement) over broad ones (#ArtificialIntelligence, #FutureOfWork). Rotate across the week — never recommend the same 3 tags two days in a row.]
 
 ## RAW MATERIAL
 [2-4 sentences of the strongest quotes, data points, or specific details from the research file]
@@ -152,13 +152,14 @@ The April 13 audit showed 4/5 posts with 0% ER because they covered inside-baseb
 1. **BREVITY:** The entire brief should be 250-400 words (expanded from previous 150-250 to accommodate strategy section and 15 hooks).
 2. **15 HOOKS MANDATORY:** Every brief must include 15 hook attempts across all 6 opener categories. These are the most valuable part of the brief.
 3. **HOOK DIVERSITY REQUIRED:** At least 2 of the top 3 hooks must use DIFFERENT opener categories. At least 2 hooks must NOT start with "you/your."
-4. **TOP-RANKED HOOK MUST USE WINNING FORMULA (April 13 audit — enforced):** The #1 ranked hook in every brief MUST contain all three elements: (1) concrete dollar figure or numeric multiple, (2) "X isn't Y, it's Z" reframe, (3) personal-stakes verb targeting the reader's decision. If the research lacks a usable dollar figure, use the most concrete number available. The April 13 audit showed that partial application (e.g., $ anchor without personal stakes) still produced 0% ER.
+4. **TOP-RANKED HOOK MUST USE WINNING FORMULA + HOOK SIMPLICITY (April 13 + April 22 audits — enforced):** The #1 ranked hook in every brief MUST contain all three elements: (1) concrete dollar figure or numeric multiple, (2) "X isn't Y, it's Z" reframe, (3) personal-stakes verb targeting the reader's decision. **CRITICAL: only ONE numeric anchor in the hook line.** April 22 audit showed posts that stacked 2+ numbers in line 1 (HubSpot 3 stats, Hightouch 3 stats) collapsed; posts with one stat per beat (Apple Siri, Stanford) hit 28–33% CTR. Additional supporting stats go in the body, never the opening line. If the research lacks a usable dollar figure, use the most concrete number available.
 5. **HOOKS MUST CREATE PERSONAL RELEVANCE:** Every hook must make the reader feel something about their own situation. This can be achieved through direct address, entity-action that implies threat, contrarian claims that challenge their beliefs, stat gaps that expose blind spots, mystery that creates curiosity, or metaphors that reframe their experience. Reference: `LinkedIn Growth Engine/instructions.md` for the Hook Rotation System.
 6. **GREY AI ANGLE IS MANDATORY:** Every story must be connected to AI literacy, team adoption, AI governance, or organizational readiness. If the connection is too weak, skip the story entirely.
 7. **NEVER WRITE THE FULL POST:** Your job is to provide the ingredients, not cook the meal.
-8. **CAROUSEL IS THE DEFAULT FORMAT (April 13 audit):** Default to carousel for any topic with a binary/contrast structure, 2+ distinct points, or data comparisons. The winning hook formula ("X isn't Y, it's Z") inherently creates a contrast structure, so most briefs using the formula should recommend carousel. Grey AI's carousel ER is 4.6x higher than text; document posts average 6.6% ER vs 2.4% for text (Q1 2026 LinkedIn data). Default to text ONLY for pure news-jacks under 100 words or single contrarian takes with no comparison structure.
-9. **6 CTA OPTIONS MANDATORY:** Include 6 CTA options across the types (Forced Binary and Naming Ask preferred per April 6 audit).
-10. **DEDUPLICATION:** Same 7-day thematic dedup rules as before. Also check hook similarity and opener category repetition across recent briefs.
+8. **FORMAT IS A PER-BRIEF DECISION (April 23 update — no default):** Recommend the format that fits the content. Carousel for 3+ comparison points or progressive-reveal arguments. **Single-image for one strong claim with one strong visual — try this first when applicable; it is the most under-used format on this account.** Text for short reactive takes under 100 words or commentary on a named voice. The April 22 audit confirmed format is a 1.2x lever; engagement-per-post is a 5–10x lever. Do NOT default to carousel.
+9. **6 CTA OPTIONS MANDATORY — opinion-bait dominant:** Include 6 CTA options. At least 3 must be opinion-bait questions where the reader has a strong public position to share. The (a)/(b)/(c) Forced Binary template is deprecated (April 22 audit — 5 of last 7 posts used it, 1 total comment) and may only be included if no post in the last 7 days used it.
+10. **HASHTAG CAP — 2–3 SPECIFIC TAGS (April 22 audit):** Recommend 2–3 hashtags max in KEYWORDS, prefer specific over broad, and rotate across the week. Never recommend the same 3 tags two days in a row.
+11. **DEDUPLICATION:** Same 7-day thematic dedup rules as before. Also check hook similarity, opener category repetition, AND CTA template repetition across recent briefs.
 
 ## Rules
 

@@ -61,11 +61,14 @@ Record which opener categories and CTA types were used in the last 3 posts. The 
 
 Check the brief's `Suggested Format` field:
 - If it says **carousel** → write a carousel post
+- If it says **single-image** → write a single-image post (caption + one image prompt; no slides)
 - If it says **text** → write a text post
-- If unspecified → **default to carousel** (April 13 audit: Grey AI carousel ER is 4.6x higher than text; 0 carousels were posted Apr 6–10 and impressions dropped 68%). Only use text for:
-  - Pure news-jacks under 100 words
-  - Single contrarian takes with no comparison structure
-  - Topics where the entire argument fits in one punchy paragraph
+- If unspecified → choose the format that best fits the content (April 23 update — no default format):
+  - **Carousel** when the post has 3+ distinct comparison points or a multi-step argument that benefits from progressive reveal
+  - **Single-image** when one strong claim pairs with one strong visual (the most under-used format on this account — try it first when a story has one dominant data point or one cinematic scene)
+  - **Text** for short reactive takes under 100 words, contrarian one-liners, or commentary on a named industry voice
+
+The April 22 audit confirmed format is a 1.2x lever; engagement-per-post is a 5–10x lever. Do NOT default to carousel just because of an old audit. Choose based on what the content actually needs.
 
 ## Step 5: Strategy Extraction
 
@@ -125,7 +128,7 @@ Each version should have slightly different emphasis:
 - End with the selected CTA
 - No links in caption body
 - **PLAIN TEXT ONLY** — never use 𝐛𝐨𝐥𝐝 mathematical Unicode characters anywhere. They suppress LinkedIn reach (April 6 audit: only 1 of 16 bold-Unicode posts cleared 100 impressions). Emphasis comes from line breaks and word choice.
-- 3–5 hashtags at the end
+- **2–3 hashtags max** (April 22 audit — see below). Prefer specific tags (#AgenticAI, #EnterpriseProcurement) over broad ones (#ArtificialIntelligence, #FutureOfWork). Rotate the actual tags used across the week — never append the same 3 tags to every post.
 
 **Credibility Layer (REQUIRED unless the brief is a news-jack):**
 
@@ -148,24 +151,39 @@ SLIDE [N] — [SLIDE TYPE]
 
 ### For Text Posts
 
-- **60–120 words total (hard limit — tightened from 150 per April 13 audit).** The top text posts by engagement across both internal data and influencer benchmarks (Beliunas 927 comments, Mollick 386 comments, Grey AI's 32.8% ER post) are all under 100 words. The emotional hook does the work — long text posts dilute it. If the story needs more than 120 words, it should be a carousel, not text.
+- **60–120 words total (hard limit — tightened from 150 per April 13 audit).** The top text posts by engagement across both internal data and influencer benchmarks (Beliunas 927 comments, Mollick 386 comments, Grey AI's 32.8% ER post) are all under 100 words. The emotional hook does the work — long text posts dilute it. If the story needs more than 120 words, switch to single-image or carousel format.
 - **PLAIN TEXT ONLY** — no 𝐛𝐨𝐥𝐝 Unicode characters (reach killer per April 6 audit)
 - Short paragraphs — 1–3 sentences max, generous line breaks
 - Use → arrows for key points, not bullet lists
 - One specific credibility marker
 - **One screenshot-ready line** — a standalone ≤12-word sentence designed to be quote-reposted
 - End with the selected CTA
-- 3–5 hashtags at the end
+- **2–3 hashtags max** (April 22 audit). Specific over broad. Rotate across the week.
+
+### For Single-Image Posts
+
+- **Caption: 80–150 words.** Same hook → context → CTA structure as carousel caption.
+- **PLAIN TEXT ONLY** — no bold Unicode anywhere.
+- **One image prompt** describing the single visual (one cinematic scene, one data viz, or one quote card — never abstract tech imagery).
+- The image carries one idea only. If the post needs to communicate 3+ comparison points, switch to carousel.
+- **2–3 hashtags max.**
+- **One screenshot-ready line** in the caption (≤12 words, standalone, designed to be quoted).
 
 ## Step 8: CTA Generation
 
-Generate **6 CTA options** across these CTA types:
-1. **Forced Binary** — "a, b, or c — pick one" (PREFERRED per April 6 audit; Challenge CTAs collapsed to 1 comment across 16 posts)
-2. **Naming Ask** — "Name the person on your team who owns this" (PREFERRED — identity framing was the only CTA that pulled comments)
-3. Binary Question — "X or Y?"
-4. Verdict Close — declarative landing
-5. Reframe Question — single perspective-shifting question
-6. Challenge — direct prompt for action (use sparingly; underperformed in audit)
+Generate **6 CTA options** across these CTA types. **At least 3 must be opinion-bait questions** where the reader has to take a public position they want to argue for.
+
+1. **Opinion-Bait Question** (PREFERRED — April 22 audit) — a question where the reader has a strong, slightly contrarian opinion they want to share. Examples: "Name the worst AI vendor pitch you got this quarter." / "Which AI tool did your team try, hate, and quietly stop using?" / "What's the one thing you stopped automating because it backfired?"
+2. **Disagreement Bait** (PREFERRED) — "[Named industry voice] said X. I think they're wrong. Where do you land?"
+3. **Naming Ask** — "Name the person on your team who owns this." (Identity framing was a comment-puller in April 6 audit; still effective if not used in last 3 posts.)
+4. **Reframe Question** — single perspective-shifting question with no obvious answer.
+5. **Verdict Close** — declarative landing (use only when the body is a strong narrative).
+6. **Forced Binary** — "(a), (b), or (c) — pick one." **DEPRECATED — use AT MOST once per 7-day window.** April 22 audit: 5 of last 7 posts used this template, total 1 comment. Templated and overused. Do not select unless no instance has run in the past 7 days AND the choices genuinely require thought.
+
+**Rejection rules for CTAs:**
+- Reject any CTA the reader can answer silently in their head with no urge to type.
+- Reject any CTA where the post body has already pre-answered the question.
+- Reject any (a)/(b)/(c) format if one has run in the past 7 days (check `content/posts/`).
 
 Rank by likely comment rate. Select the best CTA that uses a different type from the last 2 posts.
 
@@ -189,11 +207,14 @@ Score each of the 3 draft versions on the **8-dimension rubric** (1-10 each) fro
 - Hook strength must be ≥ 8
 - Readability must be ≥ 8
 - Engagement potential must be ≥ 8
-- **No bold-Unicode characters** anywhere in caption or slides (𝐀𝐁𝐂, 𝟏𝟐𝟑, etc.) — automatic fail
+- **No bold-Unicode characters** anywhere in caption or slides (𝐀𝐁𝐂, 𝟏𝟐𝟑, etc.) — automatic fail. Run a regex check on the final caption and slide text against the bold-Unicode block (U+1D400–U+1D7FF) before saving.
+- **Hashtag cap: 3 maximum** (April 22 audit). 4+ hashtags = automatic fail.
+- **Hook simplicity: max ONE numeric anchor in the opening sentence** (April 22 audit). Stacking 2+ numbers in line 1 = automatic fail. Additional stats go in the body, never the hook.
 - **One screenshot-ready quotable line** present (≤12 words, standalone, designed to be reshared) — automatic fail if missing. Audit found 0 reposts across 16 posts because no line was quotable.
-- **One "so what" payoff line** present immediately before the CTA — connects the body to the reader's life
+- **One "so what" payoff line** present immediately before the CTA — connects the body to the reader's life.
 - **CTA must never pre-answer the question.** The question must be genuinely ambiguous to invite comments. If the post body already tells the reader the answer, the CTA is dead — no one comments to agree with what you just said. April 13 audit: a post asked "a, b, or c?" then said "the answer is already (c)" — 0 comments. The CTA must leave the answer open.
-- **Carousel slide cap: 5–6 slides max.** 7+ slides cause mid-deck drop-off (April 6 audit: 03/19 hit 101 impressions but only 5 likes — readers dropped before payoff)
+- **CTA repetition gate** (April 22 audit): the (a)/(b)/(c) Forced Binary template is automatic fail if any post in the last 7 days used it. Check `content/posts/` for the previous 7 files before approving the CTA.
+- **Carousel slide cap: 5–6 slides max.** 7+ slides cause mid-deck drop-off (April 6 audit: 03/19 hit 101 impressions but only 5 likes — readers dropped before payoff).
 
 If ALL 3 versions fail a hard gate, **loop back to Step 6** and regenerate hooks with specific rewrite instructions addressing the failure.
 
@@ -244,10 +265,10 @@ Save to `content/posts/YYYY-MM-DD-<winner-slug>.md` using today's date and the w
 ```markdown
 ---
 brief: YYYY-MM-DD-<slug>
-format: carousel | text
+format: carousel | single-image | text
 audit_score: X/80
 opener_type: entity-action | stat-consequence | contrarian | you-your | mystery | metaphor
-cta_type: binary-question | verdict-close | reframe-question | challenge
+cta_type: opinion-bait | disagreement-bait | naming-ask | reframe-question | verdict-close | forced-binary
 status: ready
 ---
 
@@ -305,6 +326,9 @@ SLIDE N — CTA
 - [x] Tone drift checklist passed
 - [x] Content quality bar passed (all 8 items)
 - [x] No bold-Unicode characters (audit hard gate)
+- [x] Hashtag count ≤ 3 (April 22 audit hard gate)
+- [x] Hook contains at most ONE numeric anchor in opening sentence (April 22 audit hard gate)
+- [x] CTA is opinion-bait, naming-ask, or disagreement-bait (NOT (a)/(b)/(c) unless none in last 7 days)
 - [x] Quotable line present (≤12 words, screenshot-ready)
 - [x] "So what" payoff line present before CTA
 - [x] Carousel ≤6 slides (if applicable)
