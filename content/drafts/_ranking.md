@@ -1,12 +1,12 @@
-# Brief Ranking — 2026-04-27
+# Brief Ranking — 2026-04-28
 
 ## Winner
 
-**File:** `2026-04-27-anthropic-agent-commerce-experiment.md`
-**Score:** 99/100
-**Opener type:** Contrarian
+**File:** `content/drafts/2026-04-28-ai-hype-vs-profit-missing-step.md`
+**Score:** 92/100
+**Opener type:** Stat-Consequence
 **CTA type:** Opinion-Bait
-**Why:** This brief delivers a single ego-threatening reframe — your AI prompt work doesn't determine negotiation outcomes, your model tier does — backed by first-party Anthropic experimental data with all three credibility elements present at full strength. The Contrarian opener category is fresh against the last 3 posts (Metaphor, Stat-Consequence, Entity-Action), the opinion-bait CTA forces founders to self-locate on a deliberate-vs-default spectrum that most will recognize immediately, and the consequence layer (invisible performance gap, deals lost without awareness) is the strongest in today's set.
+**Why:** The Mercor 480-task hook delivers all three formula elements (single numeric anchor + "agents weren't broken" reframe + "workflows they were plugged into" personal-stakes verb) in a clean, unparsable-without-re-reading construction — backed by an airtight three-criteria credibility layer — and the Opinion-Bait CTA forces every founder who has deployed agents to publicly locate their deployment on a spectrum, generating the self-disclosure comments the April 6 audit identified as the dominant comment-driver.
 
 ---
 
@@ -14,82 +14,85 @@
 
 | Rank | File | Hook | Clarity | Read | POV | Conseq | Engage | Mobile | Brand | Cred | Variety-H | Variety-F | Total |
 |------|------|------|---------|------|-----|--------|--------|--------|-------|------|-----------|-----------|-------|
-| 1 | `2026-04-27-anthropic-agent-commerce-experiment.md` | 9 | 10 | 9 | 10 | 10 | 9 | 9 | 9 | 10 | 9 | 5 | 99/100 |
-| 2 | `2026-04-27-google-prompt-injection-ai-agents.md` | 9 | 9 | 9 | 9 | 10 | 10 | 9 | 9 | 10 | 5 | 3 | 92/100 |
-| 3 | `2026-04-27-musk-altman-openai-trial.md` | 10 | 9 | 8 | 9 | 9 | 8 | 9 | 8 | 7 | 5 | 5 | 87/100 |
+| 1 | `2026-04-28-ai-hype-vs-profit-missing-step.md` | 10 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 5 | 5 | 92/100 |
+| 2 | `2026-04-28-openai-phone-agents-replace-apps.md` | 9 | 7 | 8 | 9 | 8 | 8 | 8 | 8 | 9 | 5 | 5 | 84/100 |
 
-All three briefs pass all three hard gates (Hook ≥ 8, Readability ≥ 8, Engagement ≥ 8).
+### Hard Gate Pass/Fail
+
+| File | Hook ≥8 | Readability ≥8 | Engagement ≥8 | Result |
+|------|---------|---------------|---------------|--------|
+| `2026-04-28-ai-hype-vs-profit-missing-step.md` | 10 ✓ | 9 ✓ | 9 ✓ | PASS |
+| `2026-04-28-openai-phone-agents-replace-apps.md` | 9 ✓ | 8 ✓ | 8 ✓ | PASS |
+
+Both briefs clear all three hard gates. Winner determined by total score.
 
 ---
 
 ## Scoring Notes
 
-### Hook Strength
+### Brief A — ai-hype-vs-profit-missing-step
 
-**Anthropic Commerce (9/10):** Scored against the Contrarian variant — "In agent-mediated negotiations, better instructions don't determine the outcome. The model does. Anthropic ran 186 real-money deals through AI agents and found that instruction quality had no meaningful effect on price or close rate — but model tier determined who won." This hook is clean: full "X isn't Y, it's Z" reframe (instruction quality is not the driver, model tier is), ego-discomfort trigger for anyone who has invested in prompt engineering, named company, named transaction count, named result. Avoids the stacked-numbers penalty: the memory rule (April 22 audit) flags two or more numbers in line 1 as a CTR killer, and the top-ranked Stat-Consequence hook in this brief ("186 deals. $4,000 in real money.") opens with two numeric anchors in consecutive beats. The Contrarian variant is the safer and stronger hook. No +2 boost applies (no dollar figure or verified multiple in line 1). No -2 penalty (concrete numbers exist in the research and appear in secondary beats). Score: 9.
+**Hook (10/10):** Top hook (Stat-Consequence): "480 workplace tasks. Three major AI labs. One result: every agent failed most of what it was assigned. The agents weren't broken — the workflows they were plugged into weren't rebuilt for the way agents actually work." All three formula elements present in a single clean block: one numeric anchor (480 — no stacking), "X isn't Y, it's Z" reframe ("agents weren't broken — workflows weren't rebuilt"), personal-stakes verb ("the workflows they were plugged into" implicates any founder who deployed into existing processes). +2 boost applied. No "you/your" opener. No stat stacking. Base 8 + 2 = 10.
 
-**Google Prompt Injection (9/10):** Scored as Entity-Action — "Google researchers scanned billions of public web pages and found a growing pattern of hidden commands designed to hijack AI agents. The attack uses your agent's own credentials. Your existing security tools cannot detect it. The pages are already published — they are waiting for your agent to visit." Named entity, concrete scale (billions of pages), present-tense urgency ("already published — waiting for your agent to visit"). "Billions of pages" is a scale indicator but not a dollar figure or verified numeric multiple in the April 6 audit sense. No +2 boost. No -2 penalty (the research has no dollar anchor to withhold). Score: 9.
+**Clarity (9/10):** Single reframe — agents fail because workflows weren't redesigned, not because models are weak — lands in under 5 seconds. The "missing Step 2" framing is immediately graspable to any founder who has deployed agents and not seen ROI.
 
-**OpenAI Trial (10/10 after boost):** Scored as Stat-Consequence top pick — "$150 billion in damages and a forced restructuring — that's what Musk is asking the court to impose on the platform your API workflows run through. The trial started today. The verdict is a live variable in your AI vendor stack." Winning formula: concrete dollar anchor ($150B) + "X isn't Y, it's Z" reframe (trial isn't tech drama — it's a live vendor risk variable) + personal-stakes verb ("your API workflows," "your AI vendor stack"). All three elements in the hook. +2 boost applied. Score: 8 base + 2 = 10.
+**Readability (9/10):** Single-image format. Content structures naturally into short declarative blocks. The three-column visual (OpenAI / Anthropic / Google DeepMind — one shared result) and the "Steps 1/2/3" framework with Step 2 blank are both mobile-scannable.
 
-### Credibility Layer
+**Point of View (9/10):** Confrontational and specific: "Any founder who deployed AI agents into existing workflows without redesigning those workflows has not implemented AI. They have installed a faster tool into a slow process." Direct, opinionated claim that most AI vendors actively contradict.
 
-**Anthropic Commerce (10/10):** All three elements present and strong. (1) Named source: Anthropic "Project Deal" — first-party internal research from the company building the models under comparison. (2) Concrete fact-checkable detail: 186 deals, $4,000+ in real transactions, 69 participants — specific enough to verify against any Anthropic-published research disclosure. (3) Institutional self-report: Anthropic's own finding that "users represented by more advanced models get objectively better outcomes" — the company building the models admits, from its own experiment, that model tiers produce unequal commercial results. This is an institutional self-report of the exact risk Anthropic is positioned to close.
+**Consequence (9/10):** Named labs, named task count, named failure mode, named fix. The "faster tool in a slow process" framing makes the consequence concrete and immediate. ROI gap has a specific causal explanation, not just a description. Passes the "what changes in practice" test cleanly.
 
-**Google Prompt Injection (10/10):** All three elements present. (1) Named source: Google DeepMind researchers, named dataset (Common Crawl — a known, publicly accessible repository of billions of crawled web pages). (2) Concrete fact-checkable detail: the named attack scenario — AI recruiter visits candidate's website, ingests hidden command, silently exfiltrates employee directory to external address while activity logs show normal behavior — is a step-by-step mechanism any security professional can verify against the described vulnerability class. (3) Institutional self-report: Google's own recommendation requires deploying a second "sanitiser" model to verify content before the primary agent reads it. This is an admission from the researchers who identified the vulnerability that the current single-model agent architecture is insufficient for safe external content processing.
+**Engagement (9/10):** Opinion-Bait CTA (Option 1): "Has your team formally redesigned any workflow around your AI agents — or deployed agents into processes originally designed for human workers? Most teams know exactly which answer is honest." The "most teams know exactly which answer is honest" line creates mild social pressure that converts passive scrollers into commenters. +1 boost for Opinion-Bait CTA (confirmed comment-magnet type per April 6 audit). CTA is 3-second answerable.
 
-**OpenAI Trial (7/10):** Two of three elements present at full strength; the third is partial. (1) Named source: public court proceedings, Oakland CA, jury selection confirmed April 27, 2026 — verifiable against public docket. (2) Concrete fact-checkable detail: Satya Nadella listed as a witness in filed court documents — a single named, verifiable claim. (3) Institutional self-report: the brief frames Google's ($40B) and Microsoft's multi-billion investment as implied institutional confidence in the for-profit structure — but this is an inferred position from the absence of a public contingency statement, not a named institutional self-report stat. Partial credit. Per rubric, one missing element scores 5-7. Score: 7.
+**Mobile (9/10):** Single-image format. Brief content supports the punchy paragraph layout. No density risk.
 
-### Hook Variety
+**Brand Fit (9/10):** Diagnostic voice targeting the exact AI literacy gap Grey AI's SPARK Suite addresses. "No vendor sells Step 2" is the confrontational insight that makes the training feel inevitable without naming it. Topic passes the "would a 10-50 person founder change a decision based on this?" test immediately — yes: every founder with deployed agents and unmet ROI has a stake in the answer.
 
-**Anthropic Commerce (9/10):** Contrarian — not used in any of the last 3 posts (Metaphor Apr 25, Stat-Consequence Apr 24, Entity-Action Apr 23). Fresh category. Score: 9.
+**Credibility (9/10):** All three criteria met: (1) Mercor named as AI evaluation platform with non-advocate positioning (business depends on accurate measurement); (2) 480 tasks, three named labs, universal majority-failure rate — most concrete and falsifiable single claim in either brief; (3) Anthropic's own methodology disclosure (task-level assessments, not production deployment results) as institutional self-report — stronger because it comes from the company whose agents failed the study.
 
-**Google Prompt Injection (5/10):** Entity-Action — used in post -3 (Apr 23, Sullivan & Cromwell hallucination). Same as two posts ago. Score: 5.
+**Hook Variety (5/10):** Stat-Consequence opener. Last 3 posts: contrarian (Apr 27), metaphor (Apr 25), stat-consequence (Apr 24). Stat-Consequence used 3 posts ago — 4-6 range. Both briefs share this penalty equally; it does not differentiate the winner.
 
-**OpenAI Trial (5/10):** Stat-Consequence — used in post -2 (Apr 24, Microsoft Copilot Agent Mode). Same as two posts ago. Score: 5.
+**Format Variety (5/10):** Single-image. Last 3 posts: text, text, single-image (Apr 24). Single-image used 3 posts ago — 4-6 range. No carousel boost. Both briefs share this penalty equally.
 
-### Format Variety
+---
 
-**Anthropic Commerce (5/10):** Text recommended. Most recent post (Apr 25, DeepSeek) was text. Same as 1 post ago. Score: 5.
+### Brief B — openai-phone-agents-replace-apps
 
-**Google Prompt Injection (3/10):** Single-image recommended. Post -2 (Apr 24) was single-image. Post -3 (Apr 23) was single-image. Two of last 3 posts used single-image. Score: 3.
+**Hook (9/10):** Top hook (Stat-Consequence): "One billion weekly ChatGPT users and a phone in development that replaces apps with agents: that's not a product announcement. That's the distribution model your SaaS app was built for being scheduled for replacement in 2028." All three formula elements are present and +2 boost applies, but the construction "the distribution model your SaaS app was built for being scheduled for replacement" is grammatically dense — requires one re-read to parse cleanly. The benchmark notes hooks under 10 words outperform longer hooks by 40%; this hook runs long and stacks context before landing the reframe. Base 7 + 2 = 9.
 
-**OpenAI Trial (5/10):** Text recommended. Same logic as Anthropic Commerce. Score: 5. No carousel boost applicable to any brief.
+**Clarity (7/10):** The "destination app vs. callable capability" reframe requires the supporting argument before it fully lands. The core product strategy implication (agent-OS routes intent to APIs, not apps) is not immediately obvious from the hook alone. Readers who are not SaaS product founders may not self-locate in the first sentence. Falls below the 5-second clarity standard for a general senior-executive audience.
 
-### Engagement Potential
+**Readability (8/10):** Single-image format. Binary split visual is clean and scannable. Meets the hard gate floor but does not exceed it.
 
-**Google Prompt Injection (10/10):** Base score 9, +1 boost applied. The recommended CTA is Option 3 (Naming Ask) — "Name the person on your team who is responsible for AI agent security across every agent that processes external content." The April 6 audit confirmed Naming Ask as one of two CTA types that actually pulled comments. Naming Ask is present and recommended. Score: 9 + 1 = 10.
+**Point of View (9/10):** "SaaS founders building destination apps in 2026 may be building for a distribution channel hardware shipping in 2028 is designed to bypass." Clear and opinionated, with a specific time horizon. "The product strategy decision belongs in 2026, not 2028 when the hardware ships" is a strong closer.
 
-**Anthropic Commerce (9/10):** Recommended CTA is Opinion-Bait (Option 1) — "Has your team made a deliberate decision about which model tier your AI agents use in customer-facing or negotiation contexts — or did you default to whatever was provisioned at setup?" Benchmark-aligned, forces self-disclosure on the deliberate-vs-default spectrum. No Naming Ask or Forced Binary, so no +1 boost. Score: 9.
+**Consequence (8/10):** Concrete but contingent — hardware shipping in 2028 is a supply-chain forecast, not a confirmed outcome. The consequence is real but conditional on the hardware arriving on schedule. Less immediately verifiable than the Mercor 480-task failure data, which documents failure already occurring in deployed production systems.
 
-**OpenAI Trial (8/10):** Recommended CTA is Reframe Question (Option 4) — "If the outcome of the OpenAI trial changed your platform's pricing, access, or corporate structure overnight — does your AI stack have a contingency, or would that be the moment you start building one?" Strong psychological activation, but the conditional framing ("if the outcome changed") is one step removed from the reader's immediate reality. No +1 boost. Score: 8.
+**Engagement (8/10):** Recommended CTA is Reframe Question (Option 4): "If a user told their AI agent to get the outcome your product delivers — without ever opening your app — does your current architecture let the agent do that?" Strong and specific, but skews to SaaS/product founders — narrows the commenter pool. Project memory flags Opinion-Bait as the preferred CTA type; the brief designates Reframe Question as best, missing that alignment. Reframe-question was also used 2 posts ago (Apr 25) — CTA repetition risk. Meets the hard gate floor at 8 but does not earn the +1 boost.
 
-### Brand Fit
+**Mobile (8/10):** Single-image, clean binary structure. Meets the bar.
 
-**Anthropic Commerce and Google Prompt Injection (both 9/10):** Both pass the auto-fail test — a founder running a 10-50 person company deploying AI agents in procurement, sales, or recruiting would change a deployment decision based on either post. Both are sharp, direct, and slightly uncomfortable. Neither reads like a policy brief or analyst summary. April 13 audit auto-fail topics (NLRB labor law, government ethics disputes, enterprise fraud frameworks, AI safety internals) do not apply. Score: 9.
+**Brand Fit (8/10):** Sharp and confrontational. However the audience is narrower (SaaS/product founders specifically) versus Brief A's broader "any founder who deployed agents" frame. Still passes the 10-50 person company decision test — a SaaS founder would change a product roadmap decision based on this.
 
-**OpenAI Trial (8/10):** Passes the auto-fail test — a founder building on OpenAI's API has a stake in the trial outcome. However, the brand fit is mildly weakened by the conditional nature of the risk. The benchmark takeaway explicitly rewards "threshold already crossed" framing over "this might happen." The trial is real and live, but the vendor risk is contingent on a verdict that has not yet occurred. The post must frame a possible outcome as a current planning variable — a legitimate reframe, but one that requires the reader to accept a conditional premise. The other two briefs describe things that are already happening to agents already deployed. Score: 8.
+**Credibility (9/10):** All three criteria met: (1) Ming-Chi Kuo named with documented supply-chain methodology and named hardware partners; (2) ChatGPT's one-billion weekly user count is a named, trackable present-tense metric; (3) Nothing's CEO independently predicting "apps will eventually go away" is a named executive at a named company confirming the thesis from outside OpenAI.
+
+**Hook Variety (5/10):** Stat-Consequence — same situation as Brief A.
+
+**Format Variety (5/10):** Single-image — same situation as Brief A.
 
 ---
 
 ## Runner-Up Notes
 
-**Rank 2 — Google Prompt Injection (92/100)**
-The strongest consequence layer in today's set alongside Anthropic Commerce, and the named attack scenario (AI recruiter silently exfiltrating an employee directory through a candidate's website) is visceral and immediately applicable to any founder running an HR bot or research agent. The Naming Ask CTA earns the +1 engagement boost — one of only two CTA types confirmed to pull comments. What prevents it from winning: Entity-Action opener was already used in post -3, and single-image format repeats posts -2 and -3, so both rotation dimensions score in the penalty range. With a fresh opener category and a different format, this brief would challenge for the top position.
+**Rank 1 — ai-hype-vs-profit-missing-step (92/100):** The Mercor hook is the stronger of the two — three formula elements in a clean short construction, an airtight credibility layer across all three required criteria, and an Opinion-Bait CTA that aligns with project memory and the April 6 audit findings. The 8-point margin over the runner-up comes primarily from Clarity (9 vs. 7) and Engagement (9 vs. 8). The only structural weakness is the Stat-Consequence opener used 3 posts ago, which both briefs share — it is not a differentiator.
 
-**Rank 1 — Anthropic Commerce (99/100)**
-No meaningful weaknesses. The only dimension below 9 is Format Variety (text, same as Apr 25) — a structural drag common to most briefs this week, not a brief-specific failure. The Contrarian hook avoids the stacked-numbers problem that plagued the top-ranked Stat-Consequence option while maintaining the "X isn't Y, it's Z" reframe. The experimental data (186 deals, $4,000, 69 participants, all three credibility elements present at full strength) is the most airtight sourcing in today's set.
-
-**Rank 3 — OpenAI Trial (87/100)**
-Passes all hard gates and earns the only +2 hook boost of the three briefs — the $150B dollar anchor, reframe, and personal-stakes verb combination is textbook winning formula. The brief loses ground on Credibility (institutional self-report is inferred rather than sourced) and Brand Fit (conditional risk framing vs. threshold already crossed). The trial is genuinely newsworthy and the vendor risk argument is real, but it competes against two briefs that describe risks already active in deployed systems. Publishable, but not today's winner.
+**Rank 2 — openai-phone-agents-replace-apps (84/100):** The hook has the right ingredients but the grammatical construction loses clarity at scroll speed. The audience is narrower (SaaS product founders), the consequence is contingent on a 2028 hardware timeline, and the recommended CTA type (Reframe Question) was used 2 posts ago and misses the memory preference for Opinion-Bait. All three hard gates pass. This brief would be stronger on a day when the rotation context favors a Stat-Consequence or Contrarian opener, and with the CTA rewritten to Opinion-Bait.
 
 ---
 
 ## Rotation Context
 
-Last 3 posts opener types: Metaphor (Apr 25), Stat-Consequence (Apr 24), Entity-Action (Apr 23)
-Last 3 posts CTA types: Reframe-Question (Apr 25), Opinion-Bait (Apr 24), Reframe-Question (Apr 23)
-Last 3 posts formats: Text (Apr 25), Single-Image (Apr 24), Single-Image (Apr 23)
-Recommended opener for today: Contrarian — not used in any of the last 3 posts; also the dominant hook pattern in the Apr 27 benchmark (~40% of top performers use contrarian proclamation/reframe structure)
-Recommended CTA type: Opinion-Bait — used once in last 3 posts (Apr 24); avoids Reframe-Question repetition (used in 2 of last 3 posts); benchmark confirms opinion-bait outperforms forced binary for comment volume
-Recommended format: Text — matches winner's suggested format; single-image has appeared in 2 of last 3 posts; carousel would earn +2 boost but no brief in today's set recommends it as primary
+Last 3 posts opener types: contrarian (Apr 27), metaphor (Apr 25), stat-consequence (Apr 24)
+Last 3 posts CTA types: opinion-bait (Apr 27), reframe-question (Apr 25), opinion-bait (Apr 24)
+Last 3 posts formats: text (Apr 27), text (Apr 25), single-image (Apr 24)
+Recommended opener for today: entity-action or you-your — both absent from last 3 posts; neither brief uses these categories, so stat-consequence (used 3 posts ago) is the best available option given the hook quality on offer

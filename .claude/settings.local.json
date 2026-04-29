@@ -48,7 +48,9 @@
       "WebFetch(domain:blog.linkboost.co)",
       "WebFetch(domain:hai.stanford.edu)",
       "WebFetch(domain:github.com)",
-      "Bash(python -c \"import pandas as pd; xl = pd.ExcelFile\\('LinkedIn Growth Engine/audit-data/April 22.xls'\\); print\\('Sheets:', xl.sheet_names\\); [print\\('\\\\n=== SHEET:', s, '===\\\\n', pd.read_excel\\(xl, sheet_name=s\\).to_string\\(\\)\\) for s in xl.sheet_names]\")"
+      "Bash(python -c \"import pandas as pd; xl = pd.ExcelFile\\('LinkedIn Growth Engine/audit-data/April 22.xls'\\); print\\('Sheets:', xl.sheet_names\\); [print\\('\\\\n=== SHEET:', s, '===\\\\n', pd.read_excel\\(xl, sheet_name=s\\).to_string\\(\\)\\) for s in xl.sheet_names]\")",
+      "WebFetch(domain:www.oneusefulthing.org)",
+      "WebFetch(domain:www.axios.com)"
     ]
   },
   "enableAllProjectMcpServers": true,
