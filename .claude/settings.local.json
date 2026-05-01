@@ -13,10 +13,6 @@
       "WebFetch(domain:technologyreview.com)",
       "WebFetch(domain:wired.com)",
       "WebFetch(domain:taplio.com)",
-      "mcp__google-news-trends__get_trending_terms",
-      "mcp__google-news-trends__get_top_news",
-      "mcp__google-news-trends__get_news_by_topic",
-      "mcp__google-news-trends__get_news_by_keyword",
       "mcp__rss-reader__fetch_article_content",
       "WebFetch(domain:www.technologyreview.com)",
       "WebFetch(domain:unite.ai)",
@@ -50,12 +46,12 @@
       "WebFetch(domain:github.com)",
       "Bash(python -c \"import pandas as pd; xl = pd.ExcelFile\\('LinkedIn Growth Engine/audit-data/April 22.xls'\\); print\\('Sheets:', xl.sheet_names\\); [print\\('\\\\n=== SHEET:', s, '===\\\\n', pd.read_excel\\(xl, sheet_name=s\\).to_string\\(\\)\\) for s in xl.sheet_names]\")",
       "WebFetch(domain:www.oneusefulthing.org)",
-      "WebFetch(domain:www.axios.com)"
+      "WebFetch(domain:www.axios.com)",
+      "WebFetch(domain:asanify.com)"
     ]
   },
   "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [
-    "rss-reader",
-    "google-news-trends"
+    "rss-reader"
   ]
 }

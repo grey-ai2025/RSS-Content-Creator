@@ -16,7 +16,7 @@ This stage runs first so downstream agents (SEO, drafting, ranking) can referenc
 
 Use the `seo-researcher` subagent to research trending AI/tech keywords for LinkedIn.
 
-The agent uses Google Trends MCP tools directly to find currently trending topics, then supplements with web searches for LinkedIn-specific hashtag and engagement data. It saves a structured keywords file to `content/seo/`.
+The agent uses Playwright to scrape Google Trends and Google News for currently trending topics, then supplements with web searches for LinkedIn-specific hashtag and engagement data. It saves a structured keywords file to `content/seo/`.
 
 ## Stage 2: Research
 

@@ -10,13 +10,6 @@
         "rss-reader-mcp"
       ]
     },
-    "google-news-trends": {
-      "type": "stdio",
-      "command": "uvx",
-      "args": [
-        "google-news-trends-mcp@latest"
-      ]
-    },
     "firecrawl": {
       "type": "stdio",
       "command": "cmd",
