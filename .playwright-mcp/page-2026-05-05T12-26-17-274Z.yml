@@ -1,0 +1,2152 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]: generative AI
+          - button "Advanced search" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]:
+                - img [ref=e23]
+              - tooltip [ref=e25]: Advanced search
+          - button "Clear search" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - button "Search" [ref=e30] [cursor=pointer]:
+            - img [ref=e31]
+        - generic [ref=e34]:
+          - generic [ref=e39]:
+            - button "Help" [ref=e40] [cursor=pointer]:
+              - img [ref=e42]
+            - tooltip [ref=e44]: Help
+          - generic [ref=e49]:
+            - button "Settings" [ref=e50] [cursor=pointer]:
+              - img [ref=e52]
+            - tooltip [ref=e55]: Settings
+      - generic [ref=e57]:
+        - button "Google apps" [ref=e61] [cursor=pointer]:
+          - img [ref=e62]
+        - link "Sign in" [ref=e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/search?q%3Dgenerative%2BAI%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/search?q%3Dgenerative%2BAI%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e68]:
+      - tablist [ref=e69]:
+        - tab "Home" [ref=e70] [cursor=pointer]:
+          - tab "Home" [ref=e71]
+        - tab "For you" [ref=e72] [cursor=pointer]:
+          - tab "For you" [ref=e73]
+        - tab "Following" [ref=e74] [cursor=pointer]:
+          - tab "Following" [ref=e75]
+        - tab "U.S." [ref=e78] [cursor=pointer]:
+          - tab "U.S." [ref=e79]
+        - tab "World" [ref=e80] [cursor=pointer]:
+          - tab "World" [ref=e81]
+        - tab "Local" [ref=e82] [cursor=pointer]:
+          - tab "Local" [ref=e83]
+        - tab "Business" [ref=e84] [cursor=pointer]:
+          - tab "Business" [ref=e85]
+        - tab "Technology" [ref=e86] [cursor=pointer]:
+          - tab "Technology" [ref=e87]
+        - tab "Entertainment" [ref=e88] [cursor=pointer]:
+          - tab "Entertainment" [ref=e89]
+      - generic [ref=e93]:
+        - button "More" [ref=e94] [cursor=pointer]:
+          - img [ref=e96]
+        - tooltip [ref=e98]: More
+  - main [ref=e102]:
+    - generic [ref=e104]:
+      - generic [ref=e107]:
+        - generic [ref=e108]:
+          - link [ref=e110] [cursor=pointer]:
+            - /url: ./read/CBMiZEFVX3lxTE8ycXlsbGF1cnYyYm92TWRwR0EzY190RWdnMTF1Tjl0ZUpNdFRqVnVSVHZLZW1sVnFGVGlfdjlPTXhOVWVsWi01TnFqUUhnREFTeEQzUk1GUUpxTDRaVGJQQkx3aFo?hl=en-US&gl=US&ceid=US%3Aen
+          - generic [ref=e112]:
+            - generic [ref=e113]:
+              - generic [ref=e116]: Phys.org
+              - generic [ref=e120]:
+                - generic:
+                  - button "More - Study warns cost-cutting use of generative AI could increase cyber-attack risks" [ref=e121] [cursor=pointer]:
+                    - img [ref=e123]
+                  - tooltip [ref=e125]: More
+            - link "Study warns cost-cutting use of generative AI could increase cyber-attack risks - Phys.org - Yesterday" [ref=e126] [cursor=pointer]:
+              - /url: ./read/CBMiZEFVX3lxTE8ycXlsbGF1cnYyYm92TWRwR0EzY190RWdnMTF1Tjl0ZUpNdFRqVnVSVHZLZW1sVnFGVGlfdjlPTXhOVWVsWi01TnFqUUhnREFTeEQzUk1GUUpxTDRaVGJQQkx3aFo?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Study warns cost-cutting use of generative AI could increase cyber-attack risks
+          - figure [ref=e127]
+        - time [ref=e129]: Yesterday
+      - generic [ref=e130]:
+        - separator [ref=e132]
+        - generic [ref=e134]:
+          - generic [ref=e135]:
+            - link [ref=e137] [cursor=pointer]:
+              - /url: ./read/CBMidkFVX3lxTFBoRFk2TEg5X3RBdEJGOW1HSHNPX1VOTmNxYk1Xbk15anIzNkJHb3JGRTM3MlRSNmNabEtacmFXZnllQldoVVJwNDQ5T0lMV2lxaFpWeTZFbDA0TVVaSENGUklwLTFzYTRMNlRSaDJvdW40dFJKWGfSAYoBQVVfeXFMT2p4R0dkMmZGeXp6dHRIUlJDYi1uOG1IWHl0Z2hNeHYwTDlPekRTekJzVmpOWldDZFFFTExHbW0taEFvbGY2QkIzNlhabG9TNkhMU1M3WnpDTzJVYzgzb1FUSEFXM3RWaGdrNnpHUlhvbGRES01mTTVyaUVldktudTZNTmRZc1NrSkJR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e139]:
+              - generic [ref=e140]:
+                - generic [ref=e143]: IEEE Spectrum
+                - generic [ref=e147]:
+                  - generic:
+                    - button "More - Deepfake Detection Dataset Aims to Keep Up With Generative AI" [ref=e148] [cursor=pointer]:
+                      - img [ref=e150]
+                    - tooltip [ref=e152]: More
+              - link "Deepfake Detection Dataset Aims to Keep Up With Generative AI - IEEE Spectrum - 2 days ago - By Michelle Hampson" [ref=e153] [cursor=pointer]:
+                - /url: ./read/CBMidkFVX3lxTFBoRFk2TEg5X3RBdEJGOW1HSHNPX1VOTmNxYk1Xbk15anIzNkJHb3JGRTM3MlRSNmNabEtacmFXZnllQldoVVJwNDQ5T0lMV2lxaFpWeTZFbDA0TVVaSENGUklwLTFzYTRMNlRSaDJvdW40dFJKWGfSAYoBQVVfeXFMT2p4R0dkMmZGeXp6dHRIUlJDYi1uOG1IWHl0Z2hNeHYwTDlPekRTekJzVmpOWldDZFFFTExHbW0taEFvbGY2QkIzNlhabG9TNkhMU1M3WnpDTzJVYzgzb1FUSEFXM3RWaGdrNnpHUlhvbGRES01mTTVyaUVldktudTZNTmRZc1NrSkJR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Deepfake Detection Dataset Aims to Keep Up With Generative AI
+          - generic [ref=e154]:
+            - time [ref=e155]: 2 days ago
+            - separator [ref=e156]
+            - generic [ref=e157]: By Michelle Hampson
+      - generic [ref=e158]:
+        - separator [ref=e160]
+        - generic [ref=e162]:
+          - generic [ref=e163]:
+            - link [ref=e165] [cursor=pointer]:
+              - /url: ./read/CBMigAFBVV95cUxNSVFma2VEamZVejZSS2ozSTVOUkhuenZtZ3luNV95MF9IUmJ0U0Rhek4yd3BZMG1MdGtXdE12RFQzYXVDRTRyUW5XY3BtSkF3cGQ0Q0V3ZUpjVUFmR3VqYmlybUZrU0dJbDNZZFpJVzFURzZyTTVOczBuZmNpM2l1TA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e167]:
+              - generic [ref=e168]:
+                - generic [ref=e171]: Tech Xplore
+                - generic [ref=e175]:
+                  - generic:
+                    - button "More - No digital content is safe from generative AI, researchers say" [ref=e176] [cursor=pointer]:
+                      - img [ref=e178]
+                    - tooltip [ref=e180]: More
+              - link "No digital content is safe from generative AI, researchers say - Tech Xplore - 16 hours ago - By Tonia Moxley" [ref=e181] [cursor=pointer]:
+                - /url: ./read/CBMigAFBVV95cUxNSVFma2VEamZVejZSS2ozSTVOUkhuenZtZ3luNV95MF9IUmJ0U0Rhek4yd3BZMG1MdGtXdE12RFQzYXVDRTRyUW5XY3BtSkF3cGQ0Q0V3ZUpjVUFmR3VqYmlybUZrU0dJbDNZZFpJVzFURzZyTTVOczBuZmNpM2l1TA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: No digital content is safe from generative AI, researchers say
+            - figure [ref=e182]
+          - generic [ref=e183]:
+            - time [ref=e184]: 16 hours ago
+            - separator [ref=e185]
+            - generic [ref=e186]: By Tonia Moxley
+      - generic [ref=e187]:
+        - separator [ref=e189]
+        - generic [ref=e191]:
+          - generic [ref=e192]:
+            - link [ref=e194] [cursor=pointer]:
+              - /url: ./read/CBMimAFBVV95cUxNOGt3RTd2SjU3YkxhWmJBVV9nZEZPTFI3Ni13dE9OU2xzTjZoQWs5WGl2OW9IRFd1X1RoZ05mS2haSDExTTJ5VVkySEFKMXprMVVPYkR0MWo5MU1WeEYteDAwNlN2ZFhiMEVWQWFOb25FWVVSb2dBVTcxbmdwOXM5bjVmLTRDbDBhT0ZCNlREZklSSkF0M2VTSw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e196]:
+              - generic [ref=e197]:
+                - generic [ref=e200]: The Motley Fool
+                - generic [ref=e204]:
+                  - generic:
+                    - button "More - My Top 2 Generative AI Stocks for Long-Term Investors for May 2026" [ref=e205] [cursor=pointer]:
+                      - img [ref=e207]
+                    - tooltip [ref=e209]: More
+              - link "My Top 2 Generative AI Stocks for Long-Term Investors for May 2026 - The Motley Fool - 15 hours ago - By Leo Sun" [ref=e210] [cursor=pointer]:
+                - /url: ./read/CBMimAFBVV95cUxNOGt3RTd2SjU3YkxhWmJBVV9nZEZPTFI3Ni13dE9OU2xzTjZoQWs5WGl2OW9IRFd1X1RoZ05mS2haSDExTTJ5VVkySEFKMXprMVVPYkR0MWo5MU1WeEYteDAwNlN2ZFhiMEVWQWFOb25FWVVSb2dBVTcxbmdwOXM5bjVmLTRDbDBhT0ZCNlREZklSSkF0M2VTSw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: My Top 2 Generative AI Stocks for Long-Term Investors for May 2026
+            - figure [ref=e211]
+          - generic [ref=e212]:
+            - time [ref=e213]: 15 hours ago
+            - separator [ref=e214]
+            - generic [ref=e215]: By Leo Sun
+      - generic [ref=e216]:
+        - separator [ref=e218]
+        - generic [ref=e220]:
+          - generic [ref=e221]:
+            - link [ref=e223] [cursor=pointer]:
+              - /url: ./read/CBMilwFBVV95cUxPTDIwSDF2XzlMbHdjWmlhLXdHLXlLb2ZGSkV6cDVTbmFkRHU2SGFVVkRrSTJTc2FfRnp1a0V0UWhEcEJuekUyNkFMaWdKVjJjVVNDMmVuTlhMUWxaRTUyOENQRnJ1V3l1d3RQZWphUmgweWh3SDBBcFFjdTZJRFVNcnF3QmpmaFlwTjdEUElycWNXTW9XbnAw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e225]:
+              - generic [ref=e226]:
+                - generic [ref=e229]: Seeking Alpha
+                - generic [ref=e233]:
+                  - generic:
+                    - 'button "More - Fiverr: The Fight For Relevance In The Generative AI Era" [ref=e234] [cursor=pointer]':
+                      - img [ref=e236]
+                    - tooltip [ref=e238]: More
+              - 'link "Fiverr: The Fight For Relevance In The Generative AI Era - Seeking Alpha - 23 hours ago - By Richard Durant" [ref=e239] [cursor=pointer]':
+                - /url: ./read/CBMilwFBVV95cUxPTDIwSDF2XzlMbHdjWmlhLXdHLXlLb2ZGSkV6cDVTbmFkRHU2SGFVVkRrSTJTc2FfRnp1a0V0UWhEcEJuekUyNkFMaWdKVjJjVVNDMmVuTlhMUWxaRTUyOENQRnJ1V3l1d3RQZWphUmgweWh3SDBBcFFjdTZJRFVNcnF3QmpmaFlwTjdEUElycWNXTW9XbnAw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Fiverr: The Fight For Relevance In The Generative AI Era"
+            - figure [ref=e240]
+          - generic [ref=e241]:
+            - time [ref=e242]: 23 hours ago
+            - separator [ref=e243]
+            - generic [ref=e244]: By Richard Durant
+      - generic [ref=e245]:
+        - separator [ref=e247]
+        - generic [ref=e249]:
+          - generic [ref=e250]:
+            - link [ref=e252] [cursor=pointer]:
+              - /url: ./read/CBMiggFBVV95cUxNSExnMGFuUk1JbGx6c1BvNWpTc0daWTRPYldFN1FEVkx0SkZ3SV9FQVNGZzN3M1VId1NHQlA5eHkxa1Y4bFdHdTVRWU55LUlrSS1IbXo4ZGMySlppQ3AxTWNTYmxkNml4cVVER2ExS3V3dEloT01xalBFa0MwaW9fZTJn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e254]:
+              - generic [ref=e255]:
+                - generic [ref=e258]: Digiday
+                - generic [ref=e262]:
+                  - generic:
+                    - button "More - Inside the current state of generative AI in the creator economy" [ref=e263] [cursor=pointer]:
+                      - img [ref=e265]
+                    - tooltip [ref=e267]: More
+              - link "Inside the current state of generative AI in the creator economy - Digiday - Yesterday" [ref=e268] [cursor=pointer]:
+                - /url: ./read/CBMiggFBVV95cUxNSExnMGFuUk1JbGx6c1BvNWpTc0daWTRPYldFN1FEVkx0SkZ3SV9FQVNGZzN3M1VId1NHQlA5eHkxa1Y4bFdHdTVRWU55LUlrSS1IbXo4ZGMySlppQ3AxTWNTYmxkNml4cVVER2ExS3V3dEloT01xalBFa0MwaW9fZTJn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Inside the current state of generative AI in the creator economy
+            - figure [ref=e269]
+          - time [ref=e271]: Yesterday
+      - generic [ref=e272]:
+        - separator [ref=e274]
+        - generic [ref=e276]:
+          - generic [ref=e277]:
+            - link [ref=e279] [cursor=pointer]:
+              - /url: ./read/CBMilwFBVV95cUxNbEk2YlQ4VmpkRV9MZDRsc0NGRTRkLTBOTUtMOTBaeUVpc1JsMWlLOTE5bjkzLXNnazRFckZPOWxRMWdRSl9kTGdqSUZoeWNMa3RzUmxZalBTSk93bTZ2QnNyc1laUnU4dGJpMFZ1WTZxVnpSb3FtcE9lb1F5eVlBQXdGWHVVb3gxcUxZUWxkV1l2a3o3M2p3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e281]:
+              - generic [ref=e282]:
+                - generic [ref=e285]: Fortune
+                - generic [ref=e289]:
+                  - generic:
+                    - button "More - Microsoft researchers have revealed the 40 jobs most exposed to AI—and even teachers make the list" [ref=e290] [cursor=pointer]:
+                      - img [ref=e292]
+                    - tooltip [ref=e294]: More
+              - link "Microsoft researchers have revealed the 40 jobs most exposed to AI—and even teachers make the list - Fortune - Jul 31, 2025 - By Preston Fore" [ref=e295] [cursor=pointer]:
+                - /url: ./read/CBMilwFBVV95cUxNbEk2YlQ4VmpkRV9MZDRsc0NGRTRkLTBOTUtMOTBaeUVpc1JsMWlLOTE5bjkzLXNnazRFckZPOWxRMWdRSl9kTGdqSUZoeWNMa3RzUmxZalBTSk93bTZ2QnNyc1laUnU4dGJpMFZ1WTZxVnpSb3FtcE9lb1F5eVlBQXdGWHVVb3gxcUxZUWxkV1l2a3o3M2p3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Microsoft researchers have revealed the 40 jobs most exposed to AI—and even teachers make the list
+            - figure [ref=e296]
+          - generic [ref=e297]:
+            - time [ref=e298]: Jul 31, 2025
+            - separator [ref=e299]
+            - generic [ref=e300]: By Preston Fore
+      - generic [ref=e301]:
+        - separator [ref=e303]
+        - generic [ref=e305]:
+          - generic [ref=e306]:
+            - link [ref=e308] [cursor=pointer]:
+              - /url: ./read/CBMiZkFVX3lxTE9MUWlOb3BzT1F4NjctcVl6SU9kalVQWW5aSFJjUVV1Szl1bGl1T0dERkZ6Vjk2T29wZnV0YmNPdkU4MXpJeGZhdXVBdDFoRWIxVm5MbGdrUGsyMUhieVRtVFYxeXV4QQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e310]:
+              - generic [ref=e311]:
+                - generic [ref=e314]: Eurogamer.net
+                - generic [ref=e318]:
+                  - generic:
+                    - 'button "More - Despite Krafton''s \"AI-first\" ambitions, absolutely no generative AI has been involved in Subnautica 2: \"It''s not something we''re using at all\"" [ref=e319] [cursor=pointer]':
+                      - img [ref=e321]
+                    - tooltip [ref=e323]: More
+              - 'link "Despite Krafton''s \"AI-first\" ambitions, absolutely no generative AI has been involved in Subnautica 2: \"It''s not something we''re using at all\" - Eurogamer.net - 5 days ago - By Connor Makar" [ref=e324] [cursor=pointer]':
+                - /url: ./read/CBMiZkFVX3lxTE9MUWlOb3BzT1F4NjctcVl6SU9kalVQWW5aSFJjUVV1Szl1bGl1T0dERkZ6Vjk2T29wZnV0YmNPdkU4MXpJeGZhdXVBdDFoRWIxVm5MbGdrUGsyMUhieVRtVFYxeXV4QQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Despite Krafton's \"AI-first\" ambitions, absolutely no generative AI has been involved in Subnautica 2: \"It's not something we're using at all\""
+            - figure [ref=e325]
+          - generic [ref=e326]:
+            - time [ref=e327]: 5 days ago
+            - separator [ref=e328]
+            - generic [ref=e329]: By Connor Makar
+      - generic [ref=e330]:
+        - separator [ref=e332]
+        - generic [ref=e334]:
+          - generic [ref=e335]:
+            - link [ref=e337] [cursor=pointer]:
+              - /url: ./read/CBMijAFBVV95cUxPVDBJLVF5NVhONE5iLXdWdFNmV0tESnpKdlBBM253TGhGLTE0d0RYNXdOc0JSdDdpR2VjZlJKR2I2TDc5cjJpYnlOZEJHTW5WTjRVWVZtRV9lVm5lV3FtQ3R2M015WmJPLWw5Tmg3LS1PblplOHUwQWtlRDB5ZVRyWHZfT1N3eVNPQ3hVYg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e339]:
+              - generic [ref=e340]:
+                - generic [ref=e343]: Laravel News
+                - generic [ref=e347]:
+                  - generic:
+                    - 'button "More - LLPhant: A PHP Generative AI Framework Inspired by LangChain" [ref=e348] [cursor=pointer]':
+                      - img [ref=e350]
+                    - tooltip [ref=e352]: More
+              - 'link "LLPhant: A PHP Generative AI Framework Inspired by LangChain - Laravel News - Apr 22 - By Paul Redmond" [ref=e353] [cursor=pointer]':
+                - /url: ./read/CBMijAFBVV95cUxPVDBJLVF5NVhONE5iLXdWdFNmV0tESnpKdlBBM253TGhGLTE0d0RYNXdOc0JSdDdpR2VjZlJKR2I2TDc5cjJpYnlOZEJHTW5WTjRVWVZtRV9lVm5lV3FtQ3R2M015WmJPLWw5Tmg3LS1PblplOHUwQWtlRDB5ZVRyWHZfT1N3eVNPQ3hVYg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "LLPhant: A PHP Generative AI Framework Inspired by LangChain"
+            - figure [ref=e354]
+          - generic [ref=e355]:
+            - time [ref=e356]: Apr 22
+            - separator [ref=e357]
+            - generic [ref=e358]: By Paul Redmond
+      - generic [ref=e359]:
+        - separator [ref=e361]
+        - generic [ref=e363]:
+          - generic [ref=e364]:
+            - link [ref=e366] [cursor=pointer]:
+              - /url: ./read/CBMikAFBVV95cUxNb29iT0FZNV82azA4eW5VNXpsZWhaVjZiNUw0R0VUUFB0TWtraFRkaC0tWFMwTGg2LUc3ckZKUXlsSDQ2a2FZZ1pKLWJOSFQzQ2RwYU5oM1dHSFVDbUlMQXRNS0NCZGViR0ZWSm9uenZlRmpuVTNlcjdrZk1iZENWbjZTcTVhc012eXRUdzJNajI?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e368]:
+              - generic [ref=e369]:
+                - generic [ref=e372]: Research at Google
+                - generic [ref=e376]:
+                  - generic:
+                    - button "More - Towards developing future-ready skills with generative AI" [ref=e377] [cursor=pointer]:
+                      - img [ref=e379]
+                    - tooltip [ref=e381]: More
+              - link "Towards developing future-ready skills with generative AI - Research at Google - Apr 13" [ref=e382] [cursor=pointer]:
+                - /url: ./read/CBMikAFBVV95cUxNb29iT0FZNV82azA4eW5VNXpsZWhaVjZiNUw0R0VUUFB0TWtraFRkaC0tWFMwTGg2LUc3ckZKUXlsSDQ2a2FZZ1pKLWJOSFQzQ2RwYU5oM1dHSFVDbUlMQXRNS0NCZGViR0ZWSm9uenZlRmpuVTNlcjdrZk1iZENWbjZTcTVhc012eXRUdzJNajI?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Towards developing future-ready skills with generative AI
+            - figure [ref=e383]
+          - time [ref=e385]: Apr 13
+      - generic [ref=e386]:
+        - separator [ref=e388]
+        - generic [ref=e390]:
+          - generic [ref=e391]:
+            - link [ref=e393] [cursor=pointer]:
+              - /url: ./read/CBMitAFBVV95cUxQQk9WZzN6aVY1TWFrMDdHdVJmNXVvWFNMWWY1RC1YbTlpWnk0ZDRzUjlHTkdDRklGcXFncHJiaWpHZ2YtX1M2X29vTk5rOE9LYVBHVVl2UjFXUW5uUHRIRGpFVkNKOWNtT0VlRl9PaFc1cDFsNFNsb2ZUUFZmUnI4N3NFYTNmc3RQXy1pWXBkbnRZaUhCaFMycjlpd1AxTUd6MXI3VUNjSG5XUUxoRnlOYXJjc0s?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e395]:
+              - generic [ref=e396]:
+                - generic [ref=e399]: VPM
+                - generic [ref=e403]:
+                  - generic:
+                    - button "More - Chesterfield students turn to generative AI for problem solving" [ref=e404] [cursor=pointer]:
+                      - img [ref=e406]
+                    - tooltip [ref=e408]: More
+              - link "Chesterfield students turn to generative AI for problem solving - VPM - 15 hours ago - By Billy Shields" [ref=e409] [cursor=pointer]:
+                - /url: ./read/CBMitAFBVV95cUxQQk9WZzN6aVY1TWFrMDdHdVJmNXVvWFNMWWY1RC1YbTlpWnk0ZDRzUjlHTkdDRklGcXFncHJiaWpHZ2YtX1M2X29vTk5rOE9LYVBHVVl2UjFXUW5uUHRIRGpFVkNKOWNtT0VlRl9PaFc1cDFsNFNsb2ZUUFZmUnI4N3NFYTNmc3RQXy1pWXBkbnRZaUhCaFMycjlpd1AxTUd6MXI3VUNjSG5XUUxoRnlOYXJjc0s?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Chesterfield students turn to generative AI for problem solving
+            - figure [ref=e410]
+          - generic [ref=e411]:
+            - time [ref=e412]: 15 hours ago
+            - separator [ref=e413]
+            - generic [ref=e414]: By Billy Shields
+      - generic [ref=e415]:
+        - separator [ref=e417]
+        - generic [ref=e419]:
+          - generic [ref=e420]:
+            - link [ref=e422] [cursor=pointer]:
+              - /url: ./read/CBMi5gFBVV95cUxQRWNxemY1Y3FoRlBDN1RUcE05QzV1UjFYVDEtRVUzUF84c1hueWFDdjZjS09pNTQ1YXFYUDRvRXRTaTZrQ0JmUW1haTIwS2cyUG1xMEN5Q0ZFbWhjQ3NZUngtbnN2MFlqazlnQzdaOVVUaWROamg4UjlBdnVfbGVGWW81VUJxMXVOemhyeWdsalEwNjVSZ3owWVpsRjZRSUNvYUNKT01zb2tVb2ZpQWlVU25vMHJDX1VhSGdiRFdQVGtZbnFBOWFlMnR3NkhVdmZRdXM1OEEzQmQ4RHpCalV5djBtVVdtdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e424]:
+              - generic [ref=e425]:
+                - generic [ref=e428]: FashionNetwork USA
+                - generic [ref=e432]:
+                  - generic:
+                    - button "More - Fashion entrepreneur Thomas Cohen, formerly of Bonton and Merci, aims to create a SACEM for generative AI" [ref=e433] [cursor=pointer]:
+                      - img [ref=e435]
+                    - tooltip [ref=e437]: More
+              - link "Fashion entrepreneur Thomas Cohen, formerly of Bonton and Merci, aims to create a SACEM for generative AI - FashionNetwork USA - 3 hours ago - By Olivier Guyot" [ref=e438] [cursor=pointer]:
+                - /url: ./read/CBMi5gFBVV95cUxQRWNxemY1Y3FoRlBDN1RUcE05QzV1UjFYVDEtRVUzUF84c1hueWFDdjZjS09pNTQ1YXFYUDRvRXRTaTZrQ0JmUW1haTIwS2cyUG1xMEN5Q0ZFbWhjQ3NZUngtbnN2MFlqazlnQzdaOVVUaWROamg4UjlBdnVfbGVGWW81VUJxMXVOemhyeWdsalEwNjVSZ3owWVpsRjZRSUNvYUNKT01zb2tVb2ZpQWlVU25vMHJDX1VhSGdiRFdQVGtZbnFBOWFlMnR3NkhVdmZRdXM1OEEzQmQ4RHpCalV5djBtVVdtdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Fashion entrepreneur Thomas Cohen, formerly of Bonton and Merci, aims to create a SACEM for generative AI
+            - figure [ref=e439]
+          - generic [ref=e440]:
+            - time [ref=e441]: 3 hours ago
+            - separator [ref=e442]
+            - generic [ref=e443]: By Olivier Guyot
+      - generic [ref=e444]:
+        - separator [ref=e446]
+        - generic [ref=e448]:
+          - generic [ref=e449]:
+            - link [ref=e451] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxQUTRNWFl2TFpnZ2Z3bjFmR0Y1ZmZaVGNNaHVYZk0tT3EyMEwwNFJRQnpKWUVYdTNhWnhsVGNFaUhDWFFqVmxVV2pqNWo1TDM0QzRyOHA4cDJweElNcEZNYy14VEx6RjVQRTZqUlNEcEF5XzJVUFRjcno3TGNOTHI2UFJfOUpEMlZoSWsyNzJ5VmtBcUd1RmZzRHY2Z2lLR3JlcDg0dWhxaHNNSTRsZ0Iw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e453]:
+              - generic [ref=e454]:
+                - generic [ref=e457]: Ohio University
+                - generic [ref=e461]:
+                  - generic:
+                    - button "More - OHIO faculty invited to apply to Human-first AI Initiative Faculty Fellows program" [ref=e462] [cursor=pointer]:
+                      - img [ref=e464]
+                    - tooltip [ref=e466]: More
+              - link "OHIO faculty invited to apply to Human-first AI Initiative Faculty Fellows program - Ohio University - 6 hours ago" [ref=e467] [cursor=pointer]:
+                - /url: ./read/CBMirwFBVV95cUxQUTRNWFl2TFpnZ2Z3bjFmR0Y1ZmZaVGNNaHVYZk0tT3EyMEwwNFJRQnpKWUVYdTNhWnhsVGNFaUhDWFFqVmxVV2pqNWo1TDM0QzRyOHA4cDJweElNcEZNYy14VEx6RjVQRTZqUlNEcEF5XzJVUFRjcno3TGNOTHI2UFJfOUpEMlZoSWsyNzJ5VmtBcUd1RmZzRHY2Z2lLR3JlcDg0dWhxaHNNSTRsZ0Iw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: OHIO faculty invited to apply to Human-first AI Initiative Faculty Fellows program
+            - figure [ref=e468]
+          - time [ref=e470]: 6 hours ago
+      - generic [ref=e471]:
+        - separator [ref=e473]
+        - generic [ref=e475]:
+          - generic [ref=e476]:
+            - link [ref=e478] [cursor=pointer]:
+              - /url: ./read/CBMia0FVX3lxTE1PQWE1TGtnR3lfaGVpcU5HMUtiNG5kRFhVcFBhTGt1ck5McllUT3ZySWhiZ21QQk1UMHkxUy0wRnd6VHZoR1VxaWxPUWh1dGNxQUs4YVF1ZzQwRkRfeVNod0w1Vy1wdDl4WXNn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e480]:
+              - generic [ref=e481]:
+                - generic [ref=e484]: Databricks
+                - generic [ref=e488]:
+                  - generic:
+                    - 'button "More - Agentic AI vs Generative AI: Comparing Autonomy, Workflows, and Use Cases" [ref=e489] [cursor=pointer]':
+                      - img [ref=e491]
+                    - tooltip [ref=e493]: More
+              - 'link "Agentic AI vs Generative AI: Comparing Autonomy, Workflows, and Use Cases - Databricks - 16 hours ago" [ref=e494] [cursor=pointer]':
+                - /url: ./read/CBMia0FVX3lxTE1PQWE1TGtnR3lfaGVpcU5HMUtiNG5kRFhVcFBhTGt1ck5McllUT3ZySWhiZ21QQk1UMHkxUy0wRnd6VHZoR1VxaWxPUWh1dGNxQUs4YVF1ZzQwRkRfeVNod0w1Vy1wdDl4WXNn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Agentic AI vs Generative AI: Comparing Autonomy, Workflows, and Use Cases"
+            - figure [ref=e495]
+          - time [ref=e497]: 16 hours ago
+      - generic [ref=e498]:
+        - separator [ref=e500]
+        - generic [ref=e502]:
+          - generic [ref=e503]:
+            - link [ref=e505] [cursor=pointer]:
+              - /url: ./read/CBMipwFBVV95cUxPWDBxOTBncWdqUENKZ1FVV3pRWTJub0FDc3JDWmFVc1lLMkhIcGZURHpZcnlqMEJWYlZtSnNyUkdhSlg3NkhuUGI5clNqNDZuVDNXRUptTGNXdXBZNFE0QmRVNmlucVN1eVFKTUtPMENyazM3bmpwSW90TUxKLWtmQnlCU3lld3VjbDNQMjYxbWoyYlctMUZlN0tWZHJTZzVDRzRneS10MA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e507]:
+              - generic [ref=e508]:
+                - generic [ref=e511]: The New York Times
+                - generic [ref=e515]:
+                  - generic:
+                    - button "More - How Are Your Teachers Handling Writing in the Age of A.I.?" [ref=e516] [cursor=pointer]:
+                      - img [ref=e518]
+                    - tooltip [ref=e520]: More
+              - link "How Are Your Teachers Handling Writing in the Age of A.I.? - The New York Times - 3 hours ago - By Katherine Schulten" [ref=e521] [cursor=pointer]:
+                - /url: ./read/CBMipwFBVV95cUxPWDBxOTBncWdqUENKZ1FVV3pRWTJub0FDc3JDWmFVc1lLMkhIcGZURHpZcnlqMEJWYlZtSnNyUkdhSlg3NkhuUGI5clNqNDZuVDNXRUptTGNXdXBZNFE0QmRVNmlucVN1eVFKTUtPMENyazM3bmpwSW90TUxKLWtmQnlCU3lld3VjbDNQMjYxbWoyYlctMUZlN0tWZHJTZzVDRzRneS10MA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How Are Your Teachers Handling Writing in the Age of A.I.?
+            - figure [ref=e522]
+          - generic [ref=e523]:
+            - time [ref=e524]: 3 hours ago
+            - separator [ref=e525]
+            - generic [ref=e526]: By Katherine Schulten
+      - generic [ref=e527]:
+        - separator [ref=e529]
+        - generic [ref=e531]:
+          - generic [ref=e532]:
+            - link [ref=e534] [cursor=pointer]:
+              - /url: ./read/CBMihwFBVV95cUxOVEZPdVF2bEFZVXFEcV9VbWYtcDh1SWZMMllzaVVvME1jSHlzcm1vNEc1NndJSVhseVlJdXFYb194WDVRTzhSSWlscC00WnJhcHB0ZGJUNFBLWnhuWmlmZy1hUlJGQnAzQUZQTVdOalpCY1Z6eXFBdjZHOHlvaElDZkw2dnlrMWPSAYwBQVVfeXFMUFNjLUN0WjA4d0FKZzVOZnZVOFJHaFFUUmlXTWhaNDVodnZjVDRQX0R5WXNkeXdJME5CT2ZuRWpKWmNWazhCRU9FZTVfYXVGYmI3S3F6dDFramx3V0N5WEsxUUdLTHRkeHhFT2pHTUhBYXoyM0sxeEZTTFZCNDdwSjRYTFNNeVBKNmwwMTg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e536]:
+              - generic [ref=e537]:
+                - generic [ref=e540]: WRIC ABC 8News
+                - generic [ref=e544]:
+                  - generic:
+                    - button "More - Digital content is not safe from generative AI, VT research says" [ref=e545] [cursor=pointer]:
+                      - img [ref=e547]
+                    - tooltip [ref=e549]: More
+              - link "Digital content is not safe from generative AI, VT research says - WRIC ABC 8News - 19 hours ago - By Julia Broberg" [ref=e550] [cursor=pointer]:
+                - /url: ./read/CBMihwFBVV95cUxOVEZPdVF2bEFZVXFEcV9VbWYtcDh1SWZMMllzaVVvME1jSHlzcm1vNEc1NndJSVhseVlJdXFYb194WDVRTzhSSWlscC00WnJhcHB0ZGJUNFBLWnhuWmlmZy1hUlJGQnAzQUZQTVdOalpCY1Z6eXFBdjZHOHlvaElDZkw2dnlrMWPSAYwBQVVfeXFMUFNjLUN0WjA4d0FKZzVOZnZVOFJHaFFUUmlXTWhaNDVodnZjVDRQX0R5WXNkeXdJME5CT2ZuRWpKWmNWazhCRU9FZTVfYXVGYmI3S3F6dDFramx3V0N5WEsxUUdLTHRkeHhFT2pHTUhBYXoyM0sxeEZTTFZCNDdwSjRYTFNNeVBKNmwwMTg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Digital content is not safe from generative AI, VT research says
+            - figure [ref=e551]
+          - generic [ref=e552]:
+            - time [ref=e553]: 19 hours ago
+            - separator [ref=e554]
+            - generic [ref=e555]: By Julia Broberg
+      - generic [ref=e556]:
+        - separator [ref=e558]
+        - generic [ref=e560]:
+          - generic [ref=e561]:
+            - link [ref=e563] [cursor=pointer]:
+              - /url: ./read/CBMihAFBVV95cUxOTmFOQlRwNU5yTld4anYzZWpteE9FdnlzdVJwNVVOXzhZa1N4MXNTNGhuMHdBUTFSVW9xT2RJTm9sbVhwOFBBUklxTGVVOUtNRnJCRnEwX0ViaXVudUdoc0dtUlJIMV9DQU9rMWNHdWhVN2xaQTNUVXl4R3ZGTmlBQjNMeTY?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e565]:
+              - generic [ref=e566]:
+                - generic [ref=e569]: AI Business
+                - generic [ref=e573]:
+                  - generic:
+                    - button "More - A New Way of Searching for Jobs with LinkedIn" [ref=e574] [cursor=pointer]:
+                      - img [ref=e576]
+                    - tooltip [ref=e578]: More
+              - link "A New Way of Searching for Jobs with LinkedIn - AI Business - 2 hours ago - By Shaun Sutner & Esther Shittu" [ref=e579] [cursor=pointer]:
+                - /url: ./read/CBMihAFBVV95cUxOTmFOQlRwNU5yTld4anYzZWpteE9FdnlzdVJwNVVOXzhZa1N4MXNTNGhuMHdBUTFSVW9xT2RJTm9sbVhwOFBBUklxTGVVOUtNRnJCRnEwX0ViaXVudUdoc0dtUlJIMV9DQU9rMWNHdWhVN2xaQTNUVXl4R3ZGTmlBQjNMeTY?hl=en-US&gl=US&ceid=US%3Aen
+                - text: A New Way of Searching for Jobs with LinkedIn
+            - figure [ref=e580]
+          - generic [ref=e581]:
+            - time [ref=e582]: 2 hours ago
+            - separator [ref=e583]
+            - generic [ref=e584]: By Shaun Sutner & Esther Shittu
+      - generic [ref=e585]:
+        - separator [ref=e587]
+        - generic [ref=e589]:
+          - generic [ref=e590]:
+            - link [ref=e592] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxPRUdyODRXejB2dkZteHVSRlczTDRJYW8tNmhSRHZpa25fdjl2OXJVeGF0X2NrMURtQkF2X1Vpa090RVFGOFBabUY1MzNKM2QyZ0hKWEZSbk1GbzgtdHA3TWlFNmNTeG9rSmk0S1FqUkx0VVNiUzhiT3pFenFJVk5idVYxZElycWlFdWV0QU5vbmNjZS1xNTNvV2lXcnVqd9IBowFBVV95cUxPWlF3bW55WDYwNWxsR0dnVzlFVWVRMXE1QmhGazd3YWlsMG1yWFpxNG9nQWlXNU1hbEpkZG9DZGFRd0xaVWdqcWluYlpIU1Bjd2JoMlhGOU5feTRDN04wdENwSGZ4eGs2QXFfcW03T3prNnJrb0VuTVJuaHM4UTlUMTFmUmVqSGxuc0J3S0ZLVjhISVVjdjkwYmFTa1pYNThIc2tj?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e594]:
+              - generic [ref=e595]:
+                - generic [ref=e598]: ABC7 New York
+                - generic [ref=e602]:
+                  - generic:
+                    - button "More - Roomba pioneer aims to crack the household market again with an AI-powered pet robot" [ref=e603] [cursor=pointer]:
+                      - img [ref=e605]
+                    - tooltip [ref=e607]: More
+              - link "Roomba pioneer aims to crack the household market again with an AI-powered pet robot - ABC7 New York - 33 minutes ago - By Matt O'Brien" [ref=e608] [cursor=pointer]:
+                - /url: ./read/CBMingFBVV95cUxPRUdyODRXejB2dkZteHVSRlczTDRJYW8tNmhSRHZpa25fdjl2OXJVeGF0X2NrMURtQkF2X1Vpa090RVFGOFBabUY1MzNKM2QyZ0hKWEZSbk1GbzgtdHA3TWlFNmNTeG9rSmk0S1FqUkx0VVNiUzhiT3pFenFJVk5idVYxZElycWlFdWV0QU5vbmNjZS1xNTNvV2lXcnVqd9IBowFBVV95cUxPWlF3bW55WDYwNWxsR0dnVzlFVWVRMXE1QmhGazd3YWlsMG1yWFpxNG9nQWlXNU1hbEpkZG9DZGFRd0xaVWdqcWluYlpIU1Bjd2JoMlhGOU5feTRDN04wdENwSGZ4eGs2QXFfcW03T3prNnJrb0VuTVJuaHM4UTlUMTFmUmVqSGxuc0J3S0ZLVjhISVVjdjkwYmFTa1pYNThIc2tj?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Roomba pioneer aims to crack the household market again with an AI-powered pet robot
+            - figure [ref=e609]
+          - generic [ref=e610]:
+            - time [ref=e611]: 33 minutes ago
+            - separator [ref=e612]
+            - generic [ref=e613]: By Matt O'Brien
+      - generic [ref=e614]:
+        - separator [ref=e616]
+        - generic [ref=e618]:
+          - generic [ref=e619]:
+            - link [ref=e621] [cursor=pointer]:
+              - /url: ./read/CBMickFVX3lxTE5JeC1wai1uSlJQYTE2UzRnWW55Ym0xRGVsUUs0VktCMlhwVlk0RFBsLVJ3Sm9taG9rRjNKbG5DcmNwdE4wNlBiUVdtVU1rRkoycW51UDF2TjFEVWliVGZaTk1XeDYzM0IzMi1Jc0V2ZUhxdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e623]:
+              - generic [ref=e624]:
+                - generic [ref=e627]: Automotive News
+                - generic [ref=e631]:
+                  - generic:
+                    - 'button "More - Column: The case for dealership communities in an AI-driven market" [ref=e632] [cursor=pointer]':
+                      - img [ref=e634]
+                    - tooltip [ref=e636]: More
+              - 'link "Column: The case for dealership communities in an AI-driven market - Automotive News - 1 hour ago - By Mark Hollmer" [ref=e637] [cursor=pointer]':
+                - /url: ./read/CBMickFVX3lxTE5JeC1wai1uSlJQYTE2UzRnWW55Ym0xRGVsUUs0VktCMlhwVlk0RFBsLVJ3Sm9taG9rRjNKbG5DcmNwdE4wNlBiUVdtVU1rRkoycW51UDF2TjFEVWliVGZaTk1XeDYzM0IzMi1Jc0V2ZUhxdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Column: The case for dealership communities in an AI-driven market"
+            - figure [ref=e638]
+          - generic [ref=e639]:
+            - time [ref=e640]: 1 hour ago
+            - separator [ref=e641]
+            - generic [ref=e642]: By Mark Hollmer
+      - generic [ref=e643]:
+        - separator [ref=e645]
+        - generic [ref=e647]:
+          - generic [ref=e648]:
+            - link [ref=e650] [cursor=pointer]:
+              - /url: ./read/CBMipwFBVV95cUxQWEtYa3VPRFB2WG9oNS04bjNPWDRBVFVRVnA2UGhGN0VDMmNndy1QZ0FNRFB5MU9STFZfUjZ4cUxzUHI4SWVNRHZQYldPcjhRYzcxdl9QM2ZXdXlfMVZyUF94VUVXaHZMamtFUFUxbTBiVDluYkE2Zk13d3pJLTViMXU5a0NVUDlWcmF0MkdpZXd6dnhrUVFBYTgwZjdFVkpxTkhObjE3RQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e652]:
+              - generic [ref=e653]:
+                - generic [ref=e656]: Computerworld
+                - generic [ref=e660]:
+                  - generic:
+                    - button "More - AI-led job cuts don’t always mean stronger ROI — Gartner" [ref=e661] [cursor=pointer]:
+                      - img [ref=e663]
+                    - tooltip [ref=e665]: More
+              - link "AI-led job cuts don’t always mean stronger ROI — Gartner - Computerworld - 26 minutes ago - By Matthew Finnegan" [ref=e666] [cursor=pointer]:
+                - /url: ./read/CBMipwFBVV95cUxQWEtYa3VPRFB2WG9oNS04bjNPWDRBVFVRVnA2UGhGN0VDMmNndy1QZ0FNRFB5MU9STFZfUjZ4cUxzUHI4SWVNRHZQYldPcjhRYzcxdl9QM2ZXdXlfMVZyUF94VUVXaHZMamtFUFUxbTBiVDluYkE2Zk13d3pJLTViMXU5a0NVUDlWcmF0MkdpZXd6dnhrUVFBYTgwZjdFVkpxTkhObjE3RQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI-led job cuts don’t always mean stronger ROI — Gartner
+            - figure [ref=e667]
+          - generic [ref=e668]:
+            - time [ref=e669]: 26 minutes ago
+            - separator [ref=e670]
+            - generic [ref=e671]: By Matthew Finnegan
+      - generic [ref=e672]:
+        - separator [ref=e674]
+        - generic [ref=e676]:
+          - generic [ref=e677]:
+            - link [ref=e679] [cursor=pointer]:
+              - /url: ./read/CBMimgFBVV95cUxNak5tNGY2cGRZanRyRW51N3JvUExYcGxLcDZSXzMtaUhmdU1VUmlERFZsTTFUNWdERXE3ak9WamZnSDRQLUxRWFhIcFZIT1Y0M2U4X2JReGx6UHlEOFB4MGxUVW83S215dm92T3kzUjJwRURuTkFtSnhRX0N0SjRDRkxGb3gxQmxmZlJqc0NWb0hjdzlyMWt3cXZ3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e681]:
+              - generic [ref=e682]:
+                - generic [ref=e685]: Gallup.com
+                - generic [ref=e689]:
+                  - generic:
+                    - button "More - AI Is Changing Creative Work, but the Arts Aren't Disappearing" [ref=e690] [cursor=pointer]:
+                      - img [ref=e692]
+                    - tooltip [ref=e694]: More
+              - link "AI Is Changing Creative Work, but the Arts Aren't Disappearing - Gallup.com - Yesterday - By Christos A. Makridis" [ref=e695] [cursor=pointer]:
+                - /url: ./read/CBMimgFBVV95cUxNak5tNGY2cGRZanRyRW51N3JvUExYcGxLcDZSXzMtaUhmdU1VUmlERFZsTTFUNWdERXE3ak9WamZnSDRQLUxRWFhIcFZIT1Y0M2U4X2JReGx6UHlEOFB4MGxUVW83S215dm92T3kzUjJwRURuTkFtSnhRX0N0SjRDRkxGb3gxQmxmZlJqc0NWb0hjdzlyMWt3cXZ3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI Is Changing Creative Work, but the Arts Aren't Disappearing
+            - figure [ref=e696]
+          - generic [ref=e697]:
+            - time [ref=e698]: Yesterday
+            - separator [ref=e699]
+            - generic [ref=e700]: By Christos A. Makridis
+      - generic [ref=e701]:
+        - separator [ref=e703]
+        - generic [ref=e705]:
+          - generic [ref=e706]:
+            - link [ref=e708] [cursor=pointer]:
+              - /url: ./read/CBMiekFVX3lxTE5TVmhyUUhPTnQ5RVFXYjg4aGZFRDAzeTZ4LWZ1ZDA2Zi1MN2c0Y2lkS0pja3pXQUV6eTZiam9sZGlDVFc5TUJhbm9qZ1hvUlp6aWpKZ0RpYXZONkZOTERIOFg1Q2ZabWJIWVZLQjFmdTBwcFhvR1FqRkNR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e710]:
+              - generic [ref=e711]:
+                - generic [ref=e714]: AOL.com
+                - generic [ref=e718]:
+                  - generic:
+                    - button "More - My Top 2 Generative AI Stocks for Long-Term Investors for May 2026" [ref=e719] [cursor=pointer]:
+                      - img [ref=e721]
+                    - tooltip [ref=e723]: More
+              - link "My Top 2 Generative AI Stocks for Long-Term Investors for May 2026 - AOL.com - 15 hours ago - By Leo Sun" [ref=e724] [cursor=pointer]:
+                - /url: ./read/CBMiekFVX3lxTE5TVmhyUUhPTnQ5RVFXYjg4aGZFRDAzeTZ4LWZ1ZDA2Zi1MN2c0Y2lkS0pja3pXQUV6eTZiam9sZGlDVFc5TUJhbm9qZ1hvUlp6aWpKZ0RpYXZONkZOTERIOFg1Q2ZabWJIWVZLQjFmdTBwcFhvR1FqRkNR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: My Top 2 Generative AI Stocks for Long-Term Investors for May 2026
+            - figure [ref=e725]
+          - generic [ref=e726]:
+            - time [ref=e727]: 15 hours ago
+            - separator [ref=e728]
+            - generic [ref=e729]: By Leo Sun
+      - generic [ref=e730]:
+        - separator [ref=e732]
+        - generic [ref=e734]:
+          - generic [ref=e735]:
+            - link [ref=e737] [cursor=pointer]:
+              - /url: ./read/CBMimgFBVV95cUxPNjZaUnJvRHZ1SU5TbDZHbHRqUFNHVnpUbnpFX2Y2bWRHTFZqanQ1QVRPQ0wza0xOaW14Tm1KZjJvazhiSnp5Szcwd1Itd3VCXzh3TXhCNGc4UkxVY25sc3VzTTI4b1U1bGtpaGNSY3JsdEF0QnAwS2F4QjBZWHMtdDJ2MXo0T2ZMX1NLdnBReS10dW8xUDVzVWZR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e739]:
+              - generic [ref=e740]:
+                - generic [ref=e743]: WSMV
+                - generic [ref=e747]:
+                  - generic:
+                    - button "More - Monarrch unveils new AI regulation technology at Nashville event" [ref=e748] [cursor=pointer]:
+                      - img [ref=e750]
+                    - tooltip [ref=e752]: More
+              - link "Monarrch unveils new AI regulation technology at Nashville event - WSMV - 9 hours ago - By Braden Ross" [ref=e753] [cursor=pointer]:
+                - /url: ./read/CBMimgFBVV95cUxPNjZaUnJvRHZ1SU5TbDZHbHRqUFNHVnpUbnpFX2Y2bWRHTFZqanQ1QVRPQ0wza0xOaW14Tm1KZjJvazhiSnp5Szcwd1Itd3VCXzh3TXhCNGc4UkxVY25sc3VzTTI4b1U1bGtpaGNSY3JsdEF0QnAwS2F4QjBZWHMtdDJ2MXo0T2ZMX1NLdnBReS10dW8xUDVzVWZR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Monarrch unveils new AI regulation technology at Nashville event
+            - figure [ref=e754]
+          - generic [ref=e755]:
+            - time [ref=e756]: 9 hours ago
+            - separator [ref=e757]
+            - generic [ref=e758]: By Braden Ross
+      - generic [ref=e759]:
+        - separator [ref=e761]
+        - generic [ref=e763]:
+          - generic [ref=e764]:
+            - link [ref=e766] [cursor=pointer]:
+              - /url: ./read/CBMimAFBVV95cUxNNEJWNGxxekd2cU1Oel9EU1FzZXFDM0dSSjNOZ0ZPZ3Z5a3lfeHdvRko2SEZxWUlqSThWdmhzMlFUNkhYZFgzQkRQY29mS3UzOThtb3ZmTWpHNWtjczlZejRrdmFpQkFYNmNCZ05pWHllMGR6SUlESUUzaXdoWUU1NDFGTklLdmxJSktJNm16V0lLMFFnbWlBTA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e768]:
+              - generic [ref=e769]:
+                - generic [ref=e772]: AI Business
+                - generic [ref=e776]:
+                  - generic:
+                    - button "More - IBM Pursues Enterprise AI With Agents for Hybrid Cloud, Mainframes" [ref=e777] [cursor=pointer]:
+                      - img [ref=e779]
+                    - tooltip [ref=e781]: More
+              - link "IBM Pursues Enterprise AI With Agents for Hybrid Cloud, Mainframes - AI Business - 5 hours ago - By Shaun Sutner" [ref=e782] [cursor=pointer]:
+                - /url: ./read/CBMimAFBVV95cUxNNEJWNGxxekd2cU1Oel9EU1FzZXFDM0dSSjNOZ0ZPZ3Z5a3lfeHdvRko2SEZxWUlqSThWdmhzMlFUNkhYZFgzQkRQY29mS3UzOThtb3ZmTWpHNWtjczlZejRrdmFpQkFYNmNCZ05pWHllMGR6SUlESUUzaXdoWUU1NDFGTklLdmxJSktJNm16V0lLMFFnbWlBTA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: IBM Pursues Enterprise AI With Agents for Hybrid Cloud, Mainframes
+            - figure [ref=e783]
+          - generic [ref=e784]:
+            - time [ref=e785]: 5 hours ago
+            - separator [ref=e786]
+            - generic [ref=e787]: By Shaun Sutner
+      - generic [ref=e788]:
+        - separator [ref=e790]
+        - generic [ref=e792]:
+          - generic [ref=e793]:
+            - link [ref=e795] [cursor=pointer]:
+              - /url: ./read/CBMifkFVX3lxTE4wWGowZE1CYUFRcFNwVjZZRWFDbllpdWZfbTJRajdXRjhrNWEzM1dReG1RakZaN1VrQUw3UURnazJuUVF2aHVlME1TM0J4aE9KYzJvcUluSmdFWEhzWFROR0xnQXhXTm82SmtUd2F3eDRidDNvQ1d5ek4wU25Gdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e797]:
+              - generic [ref=e798]:
+                - generic [ref=e801]: AI Business
+                - generic [ref=e805]:
+                  - generic:
+                    - button "More - AI and Agents Can Supercharge Your Business Model" [ref=e806] [cursor=pointer]:
+                      - img [ref=e808]
+                    - tooltip [ref=e810]: More
+              - link "AI and Agents Can Supercharge Your Business Model - AI Business - 11 hours ago - By Esther Shittu" [ref=e811] [cursor=pointer]:
+                - /url: ./read/CBMifkFVX3lxTE4wWGowZE1CYUFRcFNwVjZZRWFDbllpdWZfbTJRajdXRjhrNWEzM1dReG1RakZaN1VrQUw3UURnazJuUVF2aHVlME1TM0J4aE9KYzJvcUluSmdFWEhzWFROR0xnQXhXTm82SmtUd2F3eDRidDNvQ1d5ek4wU25Gdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI and Agents Can Supercharge Your Business Model
+            - figure [ref=e812]
+          - generic [ref=e813]:
+            - time [ref=e814]: 11 hours ago
+            - separator [ref=e815]
+            - generic [ref=e816]: By Esther Shittu
+      - generic [ref=e817]:
+        - separator [ref=e819]
+        - generic [ref=e821]:
+          - generic [ref=e822]:
+            - link [ref=e824] [cursor=pointer]:
+              - /url: ./read/CBMijwFBVV95cUxOQ2xTQm1OWGY3NTFYS1NUdmlKamFvNXQ5LUlCT2otN193by1iQzdOLXRRaDI1cG94VGIzN0RxaUpfYmtPaFo3eHNRM2lxMWV0Q2t4cW0ybE5HejVOSWJCTFg4ME9OaTZvVHl3ZWJUSGJLUlBQVjVtRmNrMEJHZEFNQzd3VEZnY2F6eHgtdFJOOA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e826]:
+              - generic [ref=e827]:
+                - generic [ref=e830]: govtech.com
+                - generic [ref=e834]:
+                  - generic:
+                    - button "More - Miovison Launches AI Agent for Traffic Data and Management" [ref=e835] [cursor=pointer]:
+                      - img [ref=e837]
+                    - tooltip [ref=e839]: More
+              - link "Miovison Launches AI Agent for Traffic Data and Management - govtech.com - 14 hours ago - By Thad Rueter" [ref=e840] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxOQ2xTQm1OWGY3NTFYS1NUdmlKamFvNXQ5LUlCT2otN193by1iQzdOLXRRaDI1cG94VGIzN0RxaUpfYmtPaFo3eHNRM2lxMWV0Q2t4cW0ybE5HejVOSWJCTFg4ME9OaTZvVHl3ZWJUSGJLUlBQVjVtRmNrMEJHZEFNQzd3VEZnY2F6eHgtdFJOOA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Miovison Launches AI Agent for Traffic Data and Management
+            - figure [ref=e841]
+          - generic [ref=e842]:
+            - time [ref=e843]: 14 hours ago
+            - separator [ref=e844]
+            - generic [ref=e845]: By Thad Rueter
+      - generic [ref=e846]:
+        - separator [ref=e848]
+        - generic [ref=e850]:
+          - generic [ref=e851]:
+            - link [ref=e853] [cursor=pointer]:
+              - /url: ./read/CBMif0FVX3lxTE5KSHhQS0JtcW10YzJpSWN2UEF2OUs5N21jMXVHVXlLTnJid3dkcExlUnBVOVM3ekdtVjlUUVQzUUdCZzhlWmIwVVp0RWRldUtScHZpRDdxdWF1Z3JJLTVSdmtQMjdXTFhCNmRibDhjblA2cmZYeGI5YXprakV6Z1E?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e855]:
+              - generic [ref=e856]:
+                - generic [ref=e859]: MarTech
+                - generic [ref=e863]:
+                  - generic:
+                    - button "More - The third parties shaping your brand in AI search" [ref=e864] [cursor=pointer]:
+                      - img [ref=e866]
+                    - tooltip [ref=e868]: More
+              - link "The third parties shaping your brand in AI search - MarTech - 22 minutes ago - By Kevin Cotch" [ref=e869] [cursor=pointer]:
+                - /url: ./read/CBMif0FVX3lxTE5KSHhQS0JtcW10YzJpSWN2UEF2OUs5N21jMXVHVXlLTnJid3dkcExlUnBVOVM3ekdtVjlUUVQzUUdCZzhlWmIwVVp0RWRldUtScHZpRDdxdWF1Z3JJLTVSdmtQMjdXTFhCNmRibDhjblA2cmZYeGI5YXprakV6Z1E?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The third parties shaping your brand in AI search
+            - figure [ref=e870]
+          - generic [ref=e871]:
+            - time [ref=e872]: 22 minutes ago
+            - separator [ref=e873]
+            - generic [ref=e874]: By Kevin Cotch
+      - generic [ref=e875]:
+        - separator [ref=e877]
+        - generic [ref=e879]:
+          - generic [ref=e880]:
+            - link [ref=e882] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxPVnQ2OGtSX0FSM2xQZTUtTklsSHJqV2lFNmFyYTFJWV9fbExaV25aWTVFRmRYelVLMWJkd0UxNkxXVEtUdWpBWkxrWlA4eHJ2LW5jNG4yVmRaZFFoSS1ERzhMZW1WOFU0TU4yMjJjM3g1ek84Unh4SWMtNzk0S29aYjdjdFd5RHppNWVOUE1yb3I5LU9rcURyMGxhUEdJZl9TNnUtSlg3ZVI1ek5jUVE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e884]:
+              - generic [ref=e885]:
+                - generic [ref=e888]: Computerworld
+                - generic [ref=e892]:
+                  - generic:
+                    - button "More - AI is more accurate than doctors in emergency diagnoses — study" [ref=e893] [cursor=pointer]:
+                      - img [ref=e895]
+                    - tooltip [ref=e897]: More
+              - link "AI is more accurate than doctors in emergency diagnoses — study - Computerworld - 18 hours ago - By Viktor Eriksson" [ref=e898] [cursor=pointer]:
+                - /url: ./read/CBMirgFBVV95cUxPVnQ2OGtSX0FSM2xQZTUtTklsSHJqV2lFNmFyYTFJWV9fbExaV25aWTVFRmRYelVLMWJkd0UxNkxXVEtUdWpBWkxrWlA4eHJ2LW5jNG4yVmRaZFFoSS1ERzhMZW1WOFU0TU4yMjJjM3g1ek84Unh4SWMtNzk0S29aYjdjdFd5RHppNWVOUE1yb3I5LU9rcURyMGxhUEdJZl9TNnUtSlg3ZVI1ek5jUVE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI is more accurate than doctors in emergency diagnoses — study
+            - figure [ref=e899]
+          - generic [ref=e900]:
+            - time [ref=e901]: 18 hours ago
+            - separator [ref=e902]
+            - generic [ref=e903]: By Viktor Eriksson
+      - generic [ref=e904]:
+        - separator [ref=e906]
+        - generic [ref=e908]:
+          - generic [ref=e909]:
+            - link [ref=e911] [cursor=pointer]:
+              - /url: ./read/CBMi7wFBVV95cUxNSm5QTk1OOENZNVYxbEFrT3NFbktib3YwQktPa2NycUl5QjVMSVRtVVpPcnVNUHVsd2FIUGxIanlBdWtMZVB4c1ZhSHRvd1gwQmFwOTB1RnljMlYxeTNodHZJR2UyMDZQWnJhempZMDlBWHF5Sll4dlVfNWkxYTFOa2otZEN0X19vTnpnUmNac3lQUmxBeEZuZGNRZXVQZW02Um92Y01NU2x2Z2dwYXVUc1RhVjVvQXdNQk0yWmVtU1FWU0VYcDFEbWk4UC0xaHJObHIydHVDNzBKUklTS2tBMF9DNG5jS21GMERha0NTMA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e913]:
+              - generic [ref=e914]:
+                - generic [ref=e917]: MarketScale
+                - generic [ref=e921]:
+                  - generic:
+                    - 'button "More - Scaling Career-Ready Skills: How Adaptive Learning and Generative AI Are Transforming Higher Education" [ref=e922] [cursor=pointer]':
+                      - img [ref=e924]
+                    - tooltip [ref=e926]: More
+              - 'link "Scaling Career-Ready Skills: How Adaptive Learning and Generative AI Are Transforming Higher Education - MarketScale - 22 hours ago - By Darin Francis" [ref=e927] [cursor=pointer]':
+                - /url: ./read/CBMi7wFBVV95cUxNSm5QTk1OOENZNVYxbEFrT3NFbktib3YwQktPa2NycUl5QjVMSVRtVVpPcnVNUHVsd2FIUGxIanlBdWtMZVB4c1ZhSHRvd1gwQmFwOTB1RnljMlYxeTNodHZJR2UyMDZQWnJhempZMDlBWHF5Sll4dlVfNWkxYTFOa2otZEN0X19vTnpnUmNac3lQUmxBeEZuZGNRZXVQZW02Um92Y01NU2x2Z2dwYXVUc1RhVjVvQXdNQk0yWmVtU1FWU0VYcDFEbWk4UC0xaHJObHIydHVDNzBKUklTS2tBMF9DNG5jS21GMERha0NTMA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Scaling Career-Ready Skills: How Adaptive Learning and Generative AI Are Transforming Higher Education"
+            - figure [ref=e928]
+          - generic [ref=e929]:
+            - time [ref=e930]: 22 hours ago
+            - separator [ref=e931]
+            - generic [ref=e932]: By Darin Francis
+      - generic [ref=e933]:
+        - separator [ref=e935]
+        - generic [ref=e937]:
+          - generic [ref=e938]:
+            - link [ref=e940] [cursor=pointer]:
+              - /url: ./read/CBMizwFBVV95cUxQblR5WmZVbW5tQURodVBoaWU0SEMyYXZJamoyZmtybms2RzdQSzlYYldmVUQ2NkE2cVhzN2xQSGlseEZvenNhTjFwQkg1dkItd3hQQkJoWV9SYlN2RHB4Y1ZURVdNVzRadE9aNV9sa01OVWlDd2NCLXAwd0VOQXg3VEhBbXQxY0dNbHhTVEsxb0F2WFZNNll1MmVjTkswbTc5T1ZaNmdHM3hMUFpxdEk4aDY2ZktsNzVzX1dhTWQ5SndwMDdKZzJIU2U1NXpwd3M?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e942]:
+              - generic [ref=e943]:
+                - generic [ref=e946]: GosuGamers
+                - generic [ref=e950]:
+                  - generic:
+                    - button "More - Neverness to Everness accused of using gen AI for Weathering With You-like artwork" [ref=e951] [cursor=pointer]:
+                      - img [ref=e953]
+                    - tooltip [ref=e955]: More
+              - link "Neverness to Everness accused of using gen AI for Weathering With You-like artwork - GosuGamers - Yesterday" [ref=e956] [cursor=pointer]:
+                - /url: ./read/CBMizwFBVV95cUxQblR5WmZVbW5tQURodVBoaWU0SEMyYXZJamoyZmtybms2RzdQSzlYYldmVUQ2NkE2cVhzN2xQSGlseEZvenNhTjFwQkg1dkItd3hQQkJoWV9SYlN2RHB4Y1ZURVdNVzRadE9aNV9sa01OVWlDd2NCLXAwd0VOQXg3VEhBbXQxY0dNbHhTVEsxb0F2WFZNNll1MmVjTkswbTc5T1ZaNmdHM3hMUFpxdEk4aDY2ZktsNzVzX1dhTWQ5SndwMDdKZzJIU2U1NXpwd3M?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Neverness to Everness accused of using gen AI for Weathering With You-like artwork
+            - figure [ref=e957]
+          - time [ref=e959]: Yesterday
+      - generic [ref=e960]:
+        - separator [ref=e962]
+        - generic [ref=e964]:
+          - generic [ref=e965]:
+            - link [ref=e967] [cursor=pointer]:
+              - /url: ./read/CBMiowFBVV95cUxQV1NlWEViMHk4T1IyRGVXVmU0ZFNWRGU4dnh2dWtDLUNaaTZnQ1dSNmlLS2FOc3F3X0hHNVZBdDhtRnlmOWVwMnZKVkJIRUNyaHhHSE5WR042SmFJRkRfVTg1dHFPZmJxay0tdXJLOXdWR21rMGZNZ1RNbnJsemYwUFJBdmNZWVliZzVkaG1acnJqNmM0YWh1NDB3a2Fnc082NFRj?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e969]:
+              - generic [ref=e970]:
+                - generic [ref=e973]: eMarketer
+                - generic [ref=e977]:
+                  - generic:
+                    - button "More - As generative AI dominates marketer's minds, the metaverse is collecting dust" [ref=e978] [cursor=pointer]:
+                      - img [ref=e980]
+                    - tooltip [ref=e982]: More
+              - link "As generative AI dominates marketer's minds, the metaverse is collecting dust - eMarketer - Yesterday" [ref=e983] [cursor=pointer]:
+                - /url: ./read/CBMiowFBVV95cUxQV1NlWEViMHk4T1IyRGVXVmU0ZFNWRGU4dnh2dWtDLUNaaTZnQ1dSNmlLS2FOc3F3X0hHNVZBdDhtRnlmOWVwMnZKVkJIRUNyaHhHSE5WR042SmFJRkRfVTg1dHFPZmJxay0tdXJLOXdWR21rMGZNZ1RNbnJsemYwUFJBdmNZWVliZzVkaG1acnJqNmM0YWh1NDB3a2Fnc082NFRj?hl=en-US&gl=US&ceid=US%3Aen
+                - text: As generative AI dominates marketer's minds, the metaverse is collecting dust
+            - figure [ref=e984]
+          - time [ref=e986]: Yesterday
+      - generic [ref=e987]:
+        - separator [ref=e989]
+        - generic [ref=e991]:
+          - generic [ref=e992]:
+            - link [ref=e994] [cursor=pointer]:
+              - /url: ./read/CBMijwFBVV95cUxQTkdDRThqOThyYU9HYVV4Mk9lbmlXR3h2eDBpZlE0MGF3aEZRMW5aUlBoUjBBSWptdmxMdV95cWd4ejJoMDhPUmFMZ1pVVWtsbUs3c0ttbDFaMlpCeGVfeWoxRFY4ZHZBQ01xeFZQVEZWMERGeER3QXZmOWJBNXJGSVhWRS1FUWlXWk9oOEtBaw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e996]:
+              - generic [ref=e997]:
+                - generic [ref=e1000]: Statista
+                - generic [ref=e1004]:
+                  - generic:
+                    - button "More - Highest grossing generative AI apps in India in 2025, by in-app purchase revenue" [ref=e1005] [cursor=pointer]:
+                      - img [ref=e1007]
+                    - tooltip [ref=e1009]: More
+              - link "Highest grossing generative AI apps in India in 2025, by in-app purchase revenue - Statista - 15 hours ago" [ref=e1010] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxQTkdDRThqOThyYU9HYVV4Mk9lbmlXR3h2eDBpZlE0MGF3aEZRMW5aUlBoUjBBSWptdmxMdV95cWd4ejJoMDhPUmFMZ1pVVWtsbUs3c0ttbDFaMlpCeGVfeWoxRFY4ZHZBQ01xeFZQVEZWMERGeER3QXZmOWJBNXJGSVhWRS1FUWlXWk9oOEtBaw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Highest grossing generative AI apps in India in 2025, by in-app purchase revenue
+            - figure [ref=e1011]
+          - time [ref=e1013]: 15 hours ago
+      - generic [ref=e1014]:
+        - separator [ref=e1016]
+        - generic [ref=e1018]:
+          - generic [ref=e1019]:
+            - link [ref=e1021] [cursor=pointer]:
+              - /url: ./read/CBMieEFVX3lxTE1oSlJaT1dmeDN3NFE4Z1k2cjh4WU45YWNOTm5ybkdqdXVTaXU2d0dldkdLMVliRVEzVEJkM2RTa1k0OC1WTG9sYUFIYng4ZDFJOEplTjB4eElVdEp2T1NIdDZ6MjVQX0FDWGlJdHIxcUhTZzJJS2RkYw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1023]:
+              - generic [ref=e1024]:
+                - generic [ref=e1027]: Snowflake
+                - generic [ref=e1031]:
+                  - generic:
+                    - button "More - The ROI of Gen AI and Agents 2026" [ref=e1032] [cursor=pointer]:
+                      - img [ref=e1034]
+                    - tooltip [ref=e1036]: More
+              - link "The ROI of Gen AI and Agents 2026 - Snowflake - Yesterday" [ref=e1037] [cursor=pointer]:
+                - /url: ./read/CBMieEFVX3lxTE1oSlJaT1dmeDN3NFE4Z1k2cjh4WU45YWNOTm5ybkdqdXVTaXU2d0dldkdLMVliRVEzVEJkM2RTa1k0OC1WTG9sYUFIYng4ZDFJOEplTjB4eElVdEp2T1NIdDZ6MjVQX0FDWGlJdHIxcUhTZzJJS2RkYw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The ROI of Gen AI and Agents 2026
+            - figure [ref=e1038]
+          - time [ref=e1040]: Yesterday
+      - generic [ref=e1041]:
+        - separator [ref=e1043]
+        - generic [ref=e1045]:
+          - generic [ref=e1046]:
+            - link [ref=e1048] [cursor=pointer]:
+              - /url: ./read/CBMiuAFBVV95cUxOaXEtaV9YS3Vwemp5QUk3cDVNTnc0X3NDZWlQd2pRUFMtV0FLWUt3ejBkU2dVUkQ0T0xtOURwR2s4UHJZVGJubUZMV2dMZ3hpSXhpVUpEcExkalJGbU5hTXVqREJFSm9LT0JXMWRjZE52OWFhZ2pQZlVwSFQzOGxEOXRtcjRGZzZLZ1VULTY2elp3UkxkazA1d05ZOU9oOTl5VnFTbkcwWUhhR2pNSjJjWXBZZ3JaRFVT?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1050]:
+              - generic [ref=e1051]:
+                - generic [ref=e1054]: GamesBeat
+                - generic [ref=e1058]:
+                  - generic:
+                    - button "More - Roblox wants its upcoming Roblox Reality product to balance generative AI with creator control" [ref=e1059] [cursor=pointer]:
+                      - img [ref=e1061]
+                    - tooltip [ref=e1063]: More
+              - link "Roblox wants its upcoming Roblox Reality product to balance generative AI with creator control - GamesBeat - 17 hours ago - By Alexander Lee" [ref=e1064] [cursor=pointer]:
+                - /url: ./read/CBMiuAFBVV95cUxOaXEtaV9YS3Vwemp5QUk3cDVNTnc0X3NDZWlQd2pRUFMtV0FLWUt3ejBkU2dVUkQ0T0xtOURwR2s4UHJZVGJubUZMV2dMZ3hpSXhpVUpEcExkalJGbU5hTXVqREJFSm9LT0JXMWRjZE52OWFhZ2pQZlVwSFQzOGxEOXRtcjRGZzZLZ1VULTY2elp3UkxkazA1d05ZOU9oOTl5VnFTbkcwWUhhR2pNSjJjWXBZZ3JaRFVT?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Roblox wants its upcoming Roblox Reality product to balance generative AI with creator control
+            - figure [ref=e1065]
+          - generic [ref=e1066]:
+            - time [ref=e1067]: 17 hours ago
+            - separator [ref=e1068]
+            - generic [ref=e1069]: By Alexander Lee
+      - generic [ref=e1070]:
+        - separator [ref=e1072]
+        - generic [ref=e1074]:
+          - generic [ref=e1075]:
+            - link [ref=e1077] [cursor=pointer]:
+              - /url: ./read/CBMiuAJBVV95cUxPN204dEpQSVh5R3ZmNEExOWhJam9RNG82ajROQmxYdWszNkVCTjBTd2xKZ0FpdjBQUUZld2VDV1c2d2JOanEtYjFwZTdsRFdwNTRrMDZielFibGRSekJGRzFid05ibDVBTVlna1ZuSVdVVUdzT0h6ZkljT3RISTR4ZW11OTN4d1F3X1pFWXdCbTd2SThxQWVNbTBLS2lCVU5YS0tZZXFjdWRtSWlTcmpnUmh3a3drWTRpc0VNRHhLRlE1dFN6NTd6a3pNS1JYQ3BINUx4ZnU1cEtWNnJveXdTZkF5RGFzOXZWZWFycnZsbDNERy1nMUpHcWJLNkZnNEV4clA4TzM2M1pWMzFtZFZUVVczY2laamJBQ084R0JOeUpyY1dfVDhTUDV6dTRMc3N1eDR6Q2diYW4?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1079]:
+              - generic [ref=e1080]:
+                - generic [ref=e1083]: PR Newswire
+                - generic [ref=e1087]:
+                  - generic:
+                    - button "More - HUMAIN ONE, Powered by AWS, Will Be the Industry's First Enterprise-Grade Operating System for Building, Deploying, and Governing Autonomous AI Agents at Scale" [ref=e1088] [cursor=pointer]:
+                      - img [ref=e1090]
+                    - tooltip [ref=e1092]: More
+              - link "HUMAIN ONE, Powered by AWS, Will Be the Industry's First Enterprise-Grade Operating System for Building, Deploying, and Governing Autonomous AI Agents at Scale - PR Newswire - Yesterday" [ref=e1093] [cursor=pointer]:
+                - /url: ./read/CBMiuAJBVV95cUxPN204dEpQSVh5R3ZmNEExOWhJam9RNG82ajROQmxYdWszNkVCTjBTd2xKZ0FpdjBQUUZld2VDV1c2d2JOanEtYjFwZTdsRFdwNTRrMDZielFibGRSekJGRzFid05ibDVBTVlna1ZuSVdVVUdzT0h6ZkljT3RISTR4ZW11OTN4d1F3X1pFWXdCbTd2SThxQWVNbTBLS2lCVU5YS0tZZXFjdWRtSWlTcmpnUmh3a3drWTRpc0VNRHhLRlE1dFN6NTd6a3pNS1JYQ3BINUx4ZnU1cEtWNnJveXdTZkF5RGFzOXZWZWFycnZsbDNERy1nMUpHcWJLNkZnNEV4clA4TzM2M1pWMzFtZFZUVVczY2laamJBQ084R0JOeUpyY1dfVDhTUDV6dTRMc3N1eDR6Q2diYW4?hl=en-US&gl=US&ceid=US%3Aen
+                - text: HUMAIN ONE, Powered by AWS, Will Be the Industry's First Enterprise-Grade Operating System for Building, Deploying, and Governing Autonomous AI Agents at Scale
+            - figure [ref=e1094]
+          - time [ref=e1096]: Yesterday
+      - generic [ref=e1097]:
+        - separator [ref=e1099]
+        - generic [ref=e1101]:
+          - generic [ref=e1102]:
+            - link [ref=e1104] [cursor=pointer]:
+              - /url: ./read/CBMiqAFBVV95cUxNa0FpQmg4LXRzZXd4aW1Eb3dqZExJT0pvV0tTNHZ1dU1VYjNHZmh6MkNLTXBLLTBEMHNoRDNIc2gwRUVCaGJ2NHQ5bGZfeGNrQXd1T1ZtTi1sdXlOZGhDcWRhOXk5dUFXMmR3NXliTGluelhBZ2x5ZFFiVTZWXy1ZZHk2SGx1NUQ0aDVZZjlXcXJnTUtsMWk3aWpWUWstZ0RySkdQSjBFTWs?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1106]:
+              - generic [ref=e1107]:
+                - generic [ref=e1110]: Computerworld
+                - generic [ref=e1114]:
+                  - generic:
+                    - button "More - Microsoft now has more than 20M paying Copilot users" [ref=e1115] [cursor=pointer]:
+                      - img [ref=e1117]
+                    - tooltip [ref=e1119]: More
+              - link "Microsoft now has more than 20M paying Copilot users - Computerworld - 18 hours ago - By Viktor Eriksson" [ref=e1120] [cursor=pointer]:
+                - /url: ./read/CBMiqAFBVV95cUxNa0FpQmg4LXRzZXd4aW1Eb3dqZExJT0pvV0tTNHZ1dU1VYjNHZmh6MkNLTXBLLTBEMHNoRDNIc2gwRUVCaGJ2NHQ5bGZfeGNrQXd1T1ZtTi1sdXlOZGhDcWRhOXk5dUFXMmR3NXliTGluelhBZ2x5ZFFiVTZWXy1ZZHk2SGx1NUQ0aDVZZjlXcXJnTUtsMWk3aWpWUWstZ0RySkdQSjBFTWs?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Microsoft now has more than 20M paying Copilot users
+            - figure [ref=e1121]
+          - generic [ref=e1122]:
+            - time [ref=e1123]: 18 hours ago
+            - separator [ref=e1124]
+            - generic [ref=e1125]: By Viktor Eriksson
+      - generic [ref=e1126]:
+        - separator [ref=e1128]
+        - generic [ref=e1130]:
+          - generic [ref=e1131]:
+            - link [ref=e1133] [cursor=pointer]:
+              - /url: ./read/CBMiggFBVV95cUxNSDI1ZU9kNURDcmdtYm5mcXNLZmhWdTlBZ0RmRnRhRmxTVmtvcGNhbnVJa0hXd0tfNHFiU2g1RmFaa0UzRFB5U0stMk51VnlYaEVPemVnSnlsdzBvMVNCOHhBZHFfY1FYVjkxT2lRZzdyOGd1QkdHY3B5TXRVTjN6ci13?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1135]:
+              - generic [ref=e1136]:
+                - generic [ref=e1139]: Yahoo News Canada
+                - generic [ref=e1143]:
+                  - generic:
+                    - button "More - The AI Revolution In Coding Offers A Preview Of Medicine’s Future" [ref=e1144] [cursor=pointer]:
+                      - img [ref=e1146]
+                    - tooltip [ref=e1148]: More
+              - link "The AI Revolution In Coding Offers A Preview Of Medicine’s Future - Yahoo News Canada - 3 hours ago - By Robert Pearl" [ref=e1149] [cursor=pointer]:
+                - /url: ./read/CBMiggFBVV95cUxNSDI1ZU9kNURDcmdtYm5mcXNLZmhWdTlBZ0RmRnRhRmxTVmtvcGNhbnVJa0hXd0tfNHFiU2g1RmFaa0UzRFB5U0stMk51VnlYaEVPemVnSnlsdzBvMVNCOHhBZHFfY1FYVjkxT2lRZzdyOGd1QkdHY3B5TXRVTjN6ci13?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The AI Revolution In Coding Offers A Preview Of Medicine’s Future
+            - figure [ref=e1150]
+          - generic [ref=e1151]:
+            - time [ref=e1152]: 3 hours ago
+            - separator [ref=e1153]
+            - generic [ref=e1154]: By Robert Pearl
+      - generic [ref=e1155]:
+        - separator [ref=e1157]
+        - generic [ref=e1159]:
+          - generic [ref=e1160]:
+            - link [ref=e1162] [cursor=pointer]:
+              - /url: ./read/CBMi7AFBVV95cUxNS1RpVlQ3R3JGZHFCcVlCdUxkblJ5RW9MOVZUeldvLUdGX2E2dmk0dEtETHlBc0pteVhQczA3MVktRy1fZkpRdXprTkVNZW5OSDNNVTdBdlZRNDFtcFdyNDRkajVaWDNZcVRXZWZ5NUFXbUhaazc1LW56clZBUXpsUlRIcHFMUUJMNjd1WWZ0Tm4yaS1YbFRMWTBSSjVFblA1d2IxbXFIUjhMNmQxbXh1NlAyQWthWGtQelVJRDN3V0lySk15M1BVSzFSRW4xekc5U0tvcnhHWFVzbmdIa2F1RlpjRDVMczVaMDVaNA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1164]:
+              - generic [ref=e1165]:
+                - generic [ref=e1168]: CDO Magazine
+                - generic [ref=e1172]:
+                  - generic:
+                    - 'button "More - Women Leading the Charge: Navigating Data Governance, AI Trust, and Literacy in the Era of Generative AI | Watch Now" [ref=e1173] [cursor=pointer]':
+                      - img [ref=e1175]
+                    - tooltip [ref=e1177]: More
+              - 'link "Women Leading the Charge: Navigating Data Governance, AI Trust, and Literacy in the Era of Generative AI | Watch Now - CDO Magazine - 22 hours ago" [ref=e1178] [cursor=pointer]':
+                - /url: ./read/CBMi7AFBVV95cUxNS1RpVlQ3R3JGZHFCcVlCdUxkblJ5RW9MOVZUeldvLUdGX2E2dmk0dEtETHlBc0pteVhQczA3MVktRy1fZkpRdXprTkVNZW5OSDNNVTdBdlZRNDFtcFdyNDRkajVaWDNZcVRXZWZ5NUFXbUhaazc1LW56clZBUXpsUlRIcHFMUUJMNjd1WWZ0Tm4yaS1YbFRMWTBSSjVFblA1d2IxbXFIUjhMNmQxbXh1NlAyQWthWGtQelVJRDN3V0lySk15M1BVSzFSRW4xekc5U0tvcnhHWFVzbmdIa2F1RlpjRDVMczVaMDVaNA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Women Leading the Charge: Navigating Data Governance, AI Trust, and Literacy in the Era of Generative AI | Watch Now"
+          - time [ref=e1180]: 22 hours ago
+      - generic [ref=e1181]:
+        - separator [ref=e1183]
+        - generic [ref=e1185]:
+          - generic [ref=e1186]:
+            - link [ref=e1188] [cursor=pointer]:
+              - /url: ./read/CBMipAFBVV95cUxQR2g5d1VrenBEbk9VcER4bmY1VGVkdi1raEhOYU9LQV9KVFNSLURKNHhxZnd0ckZsYndmYXZQcUxQMXJxZU5WM3lqOUZtdlZkU0FtVjhSMHJDVk90XzRpb1BQcmlQYncxZTNReGhRYkpXdVdlaUtvSTdWWk9NVG5ZV2h5UGY2azctWDhEX0szb1N1THBybkZETXhDcDJNVHBUWmlnRA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1190]:
+              - generic [ref=e1191]:
+                - generic [ref=e1194]: Android Police
+                - generic [ref=e1198]:
+                  - generic:
+                    - button "More - I stopped using Google Photos' AI edits — and my photos look better for it" [ref=e1199] [cursor=pointer]:
+                      - img [ref=e1201]
+                    - tooltip [ref=e1203]: More
+              - link "I stopped using Google Photos' AI edits — and my photos look better for it - Android Police - 2 hours ago - By Dhruv Bhutani" [ref=e1204] [cursor=pointer]:
+                - /url: ./read/CBMipAFBVV95cUxQR2g5d1VrenBEbk9VcER4bmY1VGVkdi1raEhOYU9LQV9KVFNSLURKNHhxZnd0ckZsYndmYXZQcUxQMXJxZU5WM3lqOUZtdlZkU0FtVjhSMHJDVk90XzRpb1BQcmlQYncxZTNReGhRYkpXdVdlaUtvSTdWWk9NVG5ZV2h5UGY2azctWDhEX0szb1N1THBybkZETXhDcDJNVHBUWmlnRA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: I stopped using Google Photos' AI edits — and my photos look better for it
+            - figure [ref=e1205]
+          - generic [ref=e1206]:
+            - time [ref=e1207]: 2 hours ago
+            - separator [ref=e1208]
+            - generic [ref=e1209]: By Dhruv Bhutani
+      - generic [ref=e1210]:
+        - separator [ref=e1212]
+        - generic [ref=e1214]:
+          - generic [ref=e1215]:
+            - link [ref=e1217] [cursor=pointer]:
+              - /url: ./read/CBMimgFBVV95cUxQeW05bUs5T1h5SFQ3ZTJVd1NTdUNQWjhjU2pBZGZEaWd5eG0tVDg3czFLT2FsRkppakNPaVdFVi15RERkejh4NE1MSnFQV1lJQkk5c0hGMVJmbzhBTTZpVlVRbFRKdkMtdmtONHhyN2VPOGlWOEFNWVZFSEdCa0l4SkRPTWY3MHkxX1hieEgwNjE4dWtCZUtDZ2Vn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1219]:
+              - generic [ref=e1220]:
+                - generic [ref=e1223]: cio.com
+                - generic [ref=e1227]:
+                  - generic:
+                    - 'button "More - Measuring AI-enabled success: 3 KPIs CIOs should track" [ref=e1228] [cursor=pointer]':
+                      - img [ref=e1230]
+                    - tooltip [ref=e1232]: More
+              - 'link "Measuring AI-enabled success: 3 KPIs CIOs should track - cio.com - 22 hours ago" [ref=e1233] [cursor=pointer]':
+                - /url: ./read/CBMimgFBVV95cUxQeW05bUs5T1h5SFQ3ZTJVd1NTdUNQWjhjU2pBZGZEaWd5eG0tVDg3czFLT2FsRkppakNPaVdFVi15RERkejh4NE1MSnFQV1lJQkk5c0hGMVJmbzhBTTZpVlVRbFRKdkMtdmtONHhyN2VPOGlWOEFNWVZFSEdCa0l4SkRPTWY3MHkxX1hieEgwNjE4dWtCZUtDZ2Vn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Measuring AI-enabled success: 3 KPIs CIOs should track"
+            - figure [ref=e1234]
+          - time [ref=e1236]: 22 hours ago
+      - generic [ref=e1237]:
+        - separator [ref=e1239]
+        - generic [ref=e1241]:
+          - generic [ref=e1242]:
+            - link [ref=e1244] [cursor=pointer]:
+              - /url: ./read/CBMixAFBVV95cUxQV2V1WmVlUmEyN3FfcFdLQk5NUE1OUkdYaml0b2hpWEl4TEs2LU41S09WQjhGR0Q5QnB6SlU1WXMxUDJydE1PbGxkTFE5MjBmZFp5Z0tvN0I0M2Q4ZFdjMGMtVUFiS2duUmVBUTZIMzhKSFBzV0NyTTNGUHVveUg2Qm0xUlYtOHBHRGhiQUp0U2lXcW94WU1pTVBhYXpEREdkZEFheGlDci1NOENUVm91WmpiRlY1UWJlYVhRTXpPZHpMWjNy?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1246]:
+              - generic [ref=e1247]:
+                - generic [ref=e1250]: The Good Men Project
+                - generic [ref=e1254]:
+                  - generic:
+                    - button "More - How Human Skills Unleash the Real Power of Generative AI With Anthony Salcito" [ref=e1255] [cursor=pointer]:
+                      - img [ref=e1257]
+                    - tooltip [ref=e1259]: More
+              - link "How Human Skills Unleash the Real Power of Generative AI With Anthony Salcito - The Good Men Project - 19 hours ago - By Julie Kratz" [ref=e1260] [cursor=pointer]:
+                - /url: ./read/CBMixAFBVV95cUxQV2V1WmVlUmEyN3FfcFdLQk5NUE1OUkdYaml0b2hpWEl4TEs2LU41S09WQjhGR0Q5QnB6SlU1WXMxUDJydE1PbGxkTFE5MjBmZFp5Z0tvN0I0M2Q4ZFdjMGMtVUFiS2duUmVBUTZIMzhKSFBzV0NyTTNGUHVveUg2Qm0xUlYtOHBHRGhiQUp0U2lXcW94WU1pTVBhYXpEREdkZEFheGlDci1NOENUVm91WmpiRlY1UWJlYVhRTXpPZHpMWjNy?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How Human Skills Unleash the Real Power of Generative AI With Anthony Salcito
+            - figure [ref=e1261]
+          - generic [ref=e1262]:
+            - time [ref=e1263]: 19 hours ago
+            - separator [ref=e1264]
+            - generic [ref=e1265]: By Julie Kratz
+      - generic [ref=e1266]:
+        - separator [ref=e1268]
+        - generic [ref=e1270]:
+          - generic [ref=e1271]:
+            - link [ref=e1273] [cursor=pointer]:
+              - /url: ./read/CBMikwFBVV95cUxOLXh6VHJ3SGZwNHhzNmotTFlObEhuczhBUGJNMVczb25yOWMzM1pQT1cxOVZuWW1hRTBSdW8xTzRxZGVaQ3dVUEl0WThWTUxGcFNWclNLUVFNbHpONUFyRUNEa19rZzQ1WXAxUnppc0pfZXVqMUhia1A0VmpZamNXcXVaSGRkeFk5dmYwZWVWUTBjTUE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1275]:
+              - generic [ref=e1276]:
+                - generic [ref=e1279]: Montreal Gazette
+                - generic [ref=e1283]:
+                  - generic:
+                    - button "More - AI ‘hallucinations’ risk undermining legal system, McGill researcher warns" [ref=e1284] [cursor=pointer]:
+                      - img [ref=e1286]
+                    - tooltip [ref=e1288]: More
+              - link "AI ‘hallucinations’ risk undermining legal system, McGill researcher warns - Montreal Gazette - 2 hours ago" [ref=e1289] [cursor=pointer]:
+                - /url: ./read/CBMikwFBVV95cUxOLXh6VHJ3SGZwNHhzNmotTFlObEhuczhBUGJNMVczb25yOWMzM1pQT1cxOVZuWW1hRTBSdW8xTzRxZGVaQ3dVUEl0WThWTUxGcFNWclNLUVFNbHpONUFyRUNEa19rZzQ1WXAxUnppc0pfZXVqMUhia1A0VmpZamNXcXVaSGRkeFk5dmYwZWVWUTBjTUE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI ‘hallucinations’ risk undermining legal system, McGill researcher warns
+            - figure [ref=e1290]
+          - time [ref=e1292]: 2 hours ago
+      - generic [ref=e1293]:
+        - separator [ref=e1295]
+        - generic [ref=e1297]:
+          - generic [ref=e1298]:
+            - link [ref=e1300] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxQUzdfQzVLU0cxeENJcVNONjA4VkNpNjVsRFB0Rl9WMm5UdkJQZDVhMlhqcUl1cW11ZDlPZk1RYUlNS3lqNngwT2tWQlBRcDJ1MXg0VGZrTi1QV0xMMEhXU3U4ODBTYVFhX1dtYUFGb0J1V09PS3JKSlZVSUtRMWxyTGtLOGpwaF9rTW5MSmZBYjZpZFIwRms4S0pvaU94bExaU1luVnYySzJMdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1302]:
+              - generic [ref=e1303]:
+                - generic [ref=e1306]: The BayNet
+                - generic [ref=e1310]:
+                  - generic:
+                    - button "More - Is That Real? A Guide To Identifying Fake Wildlife Videos Created With Generative AI" [ref=e1311] [cursor=pointer]:
+                      - img [ref=e1313]
+                    - tooltip [ref=e1315]: More
+              - link "Is That Real? A Guide To Identifying Fake Wildlife Videos Created With Generative AI - The BayNet - 2 days ago" [ref=e1316] [cursor=pointer]:
+                - /url: ./read/CBMiqgFBVV95cUxQUzdfQzVLU0cxeENJcVNONjA4VkNpNjVsRFB0Rl9WMm5UdkJQZDVhMlhqcUl1cW11ZDlPZk1RYUlNS3lqNngwT2tWQlBRcDJ1MXg0VGZrTi1QV0xMMEhXU3U4ODBTYVFhX1dtYUFGb0J1V09PS3JKSlZVSUtRMWxyTGtLOGpwaF9rTW5MSmZBYjZpZFIwRms4S0pvaU94bExaU1luVnYySzJMdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Is That Real? A Guide To Identifying Fake Wildlife Videos Created With Generative AI
+            - figure [ref=e1317]
+          - time [ref=e1319]: 2 days ago
+      - generic [ref=e1320]:
+        - separator [ref=e1322]
+        - generic [ref=e1324]:
+          - generic [ref=e1325]:
+            - link [ref=e1327] [cursor=pointer]:
+              - /url: ./read/CBMilgFBVV95cUxPTDhaTzBqTWdVa2hZTEl5RmdCVVFWX3pxRDV3ZmFieDJvdE9fWHc4M21WOHZ0aEgwaDFVX29WUUlHcUh3SHFJeF8tcWRuQlR1ZkwyY05QbGZvcXBCRFlkYklGcXBIdTk4Sk9wdXpjRXd3b1owYW9lTFFvT1VfMlBZNDJ5SGtlZWc2N1VuYTFNQ3c3MDN1ckE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1329]:
+              - generic [ref=e1330]:
+                - generic [ref=e1333]: Let's Data Science
+                - generic [ref=e1337]:
+                  - generic:
+                    - button "More - AI-Driven Attacks Deepen Global Cybersecurity Gap" [ref=e1338] [cursor=pointer]:
+                      - img [ref=e1340]
+                    - tooltip [ref=e1342]: More
+              - link "AI-Driven Attacks Deepen Global Cybersecurity Gap - Let&#39;s Data Science - 2 hours ago" [ref=e1343] [cursor=pointer]:
+                - /url: ./read/CBMilgFBVV95cUxPTDhaTzBqTWdVa2hZTEl5RmdCVVFWX3pxRDV3ZmFieDJvdE9fWHc4M21WOHZ0aEgwaDFVX29WUUlHcUh3SHFJeF8tcWRuQlR1ZkwyY05QbGZvcXBCRFlkYklGcXBIdTk4Sk9wdXpjRXd3b1owYW9lTFFvT1VfMlBZNDJ5SGtlZWc2N1VuYTFNQ3c3MDN1ckE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI-Driven Attacks Deepen Global Cybersecurity Gap
+            - figure [ref=e1344]
+          - time [ref=e1346]: 2 hours ago
+      - generic [ref=e1347]:
+        - separator [ref=e1349]
+        - generic [ref=e1351]:
+          - generic [ref=e1352]:
+            - link [ref=e1354] [cursor=pointer]:
+              - /url: ./read/CBMi0gFBVV95cUxNVmFmZWdvQTZSQVk2Z3FNTkZvYW9fblVoUmk3OXoyVndPdzJuN0lmVFI2WFljM2syWm01VE1DVjBJVEVHdWJCQ0tvdUlyWXhKTVZLOFJqTENjczJqUHRBZWNoVVBOZ1ZSMFlYVlA3LUU1YXRpS1hLNER3a28wWWQtUm42SVRvXzBwZEtIOGlWQzRSZHB3dmpwOTdpbmdnNUJRX295NVVVYm5PMVNlNjZIanZ6VXNsY0wzLVh0YlhKcjJIWkVGbm0zQU1oWEpUOEQzVWfSAdcBQVVfeXFMUHctU1RDVGpPdlJ5MUtnWTJ1ajJ4aTZJalN1SVNLeUllTmVWWm5aMlAwU29pTjBJSFk4N05LQXlGOVAwQzktVzVLTnJpQ2hxdWsyLTRfNXAzODItLUFROVo4RWpVRmNLVDZXMUN3UFpBUmJ5dDhaQUNEdTFBOGl1ZlR1Z240bVZQWTZBOEhzMEc4UWxvT0dTbllJbzNpWTJURG5vMDA4Q0FwRFZUYnlNZGRvazFoeEQxZ2RTalpqakNIcktEeUtONUJkSnpxX3g5dzFVWTZrWWM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1356]:
+              - generic [ref=e1357]:
+                - generic [ref=e1360]: India Today
+                - generic [ref=e1364]:
+                  - generic:
+                    - button "More - Is the use of generative AI lowering your confidence?" [ref=e1365] [cursor=pointer]:
+                      - img [ref=e1367]
+                    - tooltip [ref=e1369]: More
+              - link "Is the use of generative AI lowering your confidence? - India Today - 10 hours ago - By Priyali Prakash" [ref=e1370] [cursor=pointer]:
+                - /url: ./read/CBMi0gFBVV95cUxNVmFmZWdvQTZSQVk2Z3FNTkZvYW9fblVoUmk3OXoyVndPdzJuN0lmVFI2WFljM2syWm01VE1DVjBJVEVHdWJCQ0tvdUlyWXhKTVZLOFJqTENjczJqUHRBZWNoVVBOZ1ZSMFlYVlA3LUU1YXRpS1hLNER3a28wWWQtUm42SVRvXzBwZEtIOGlWQzRSZHB3dmpwOTdpbmdnNUJRX295NVVVYm5PMVNlNjZIanZ6VXNsY0wzLVh0YlhKcjJIWkVGbm0zQU1oWEpUOEQzVWfSAdcBQVVfeXFMUHctU1RDVGpPdlJ5MUtnWTJ1ajJ4aTZJalN1SVNLeUllTmVWWm5aMlAwU29pTjBJSFk4N05LQXlGOVAwQzktVzVLTnJpQ2hxdWsyLTRfNXAzODItLUFROVo4RWpVRmNLVDZXMUN3UFpBUmJ5dDhaQUNEdTFBOGl1ZlR1Z240bVZQWTZBOEhzMEc4UWxvT0dTbllJbzNpWTJURG5vMDA4Q0FwRFZUYnlNZGRvazFoeEQxZ2RTalpqakNIcktEeUtONUJkSnpxX3g5dzFVWTZrWWM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Is the use of generative AI lowering your confidence?
+            - figure [ref=e1371]
+          - generic [ref=e1372]:
+            - time [ref=e1373]: 10 hours ago
+            - separator [ref=e1374]
+            - generic [ref=e1375]: By Priyali Prakash
+      - generic [ref=e1376]:
+        - separator [ref=e1378]
+        - generic [ref=e1380]:
+          - generic [ref=e1381]:
+            - link [ref=e1383] [cursor=pointer]:
+              - /url: ./read/CBMijgFBVV95cUxOeTZ2WGpiMVlMak1iMlpybzU5VDlaR1c5Y09pc21MTktmR2RkZFNrV0M1bmpZdkh1d1hZX2V1Zld5UXlYOTBtOFBZajlYeVJ6R1VnOGZheVZSeXRtNTNGemsxSVF1Z0pwTVlGZGNkS0Jielp1ek94d1ZoeDNUQUhDQnY2a013WWdVTEJQVmRR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1385]:
+              - generic [ref=e1386]:
+                - generic [ref=e1389]: Fierce Sensors
+                - generic [ref=e1393]:
+                  - generic:
+                    - button "More - NXP debuts SensorGPT and SensorStage for developers" [ref=e1394] [cursor=pointer]:
+                      - img [ref=e1396]
+                    - tooltip [ref=e1398]: More
+              - link "NXP debuts SensorGPT and SensorStage for developers - Fierce Sensors - 21 minutes ago - By Matt Hamblen" [ref=e1399] [cursor=pointer]:
+                - /url: ./read/CBMijgFBVV95cUxOeTZ2WGpiMVlMak1iMlpybzU5VDlaR1c5Y09pc21MTktmR2RkZFNrV0M1bmpZdkh1d1hZX2V1Zld5UXlYOTBtOFBZajlYeVJ6R1VnOGZheVZSeXRtNTNGemsxSVF1Z0pwTVlGZGNkS0Jielp1ek94d1ZoeDNUQUhDQnY2a013WWdVTEJQVmRR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NXP debuts SensorGPT and SensorStage for developers
+            - figure [ref=e1400]
+          - generic [ref=e1401]:
+            - time [ref=e1402]: 21 minutes ago
+            - separator [ref=e1403]
+            - generic [ref=e1404]: By Matt Hamblen
+      - generic [ref=e1405]:
+        - separator [ref=e1407]
+        - generic [ref=e1409]:
+          - generic [ref=e1410]:
+            - link [ref=e1412] [cursor=pointer]:
+              - /url: ./read/CBMivgFBVV95cUxPNUE3VTE0S0ZIU3VTUVVnbEtvMnhCQ1VjUldvWUZTQTNRU0ZjYUMyQ2ltOG9RbXpOME1QNDliRWhkTWItb1RwV1U2LXVVdHZwRFFmWDJhdFVrYmJxUFRSU2tMS0ZVRzB3U1RZLU4wV0NYM2JlS3hjVWNLdFBRX0I0aWJIdWRWc19SSjBCSFZUY1c1ZTAyckZqc2ozSjUzUWxHUlFkdlRCZzBqUzNFek1ZS3pNOXdBdVhQc2ZkQm9R?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1414]:
+              - generic [ref=e1415]:
+                - generic [ref=e1418]: McKinsey & Company
+                - generic [ref=e1422]:
+                  - generic:
+                    - 'button "More - Generative AI in healthcare: Adoption matures as agentic AI emerges" [ref=e1423] [cursor=pointer]':
+                      - img [ref=e1425]
+                    - tooltip [ref=e1427]: More
+              - 'link "Generative AI in healthcare: Adoption matures as agentic AI emerges - McKinsey &amp; Company - Apr 16 - By Jessica Lamb" [ref=e1428] [cursor=pointer]':
+                - /url: ./read/CBMivgFBVV95cUxPNUE3VTE0S0ZIU3VTUVVnbEtvMnhCQ1VjUldvWUZTQTNRU0ZjYUMyQ2ltOG9RbXpOME1QNDliRWhkTWItb1RwV1U2LXVVdHZwRFFmWDJhdFVrYmJxUFRSU2tMS0ZVRzB3U1RZLU4wV0NYM2JlS3hjVWNLdFBRX0I0aWJIdWRWc19SSjBCSFZUY1c1ZTAyckZqc2ozSjUzUWxHUlFkdlRCZzBqUzNFek1ZS3pNOXdBdVhQc2ZkQm9R?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Generative AI in healthcare: Adoption matures as agentic AI emerges"
+            - figure [ref=e1429]
+          - generic [ref=e1430]:
+            - time [ref=e1431]: Apr 16
+            - separator [ref=e1432]
+            - generic [ref=e1433]: By Jessica Lamb
+      - generic [ref=e1434]:
+        - separator [ref=e1436]
+        - generic [ref=e1438]:
+          - generic [ref=e1439]:
+            - link [ref=e1441] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxOV0RraGpxYkhIdmZXY2VpcEI1eURXdm5Cc0E2Tk0wQ0sxRlc2ZHJqQ1NWc3pvdEI5REJrVGhIMlh4MHdUc3NJRWdFZzdDY1VieDFaSzlKclNRcFZiLWVTQ1F5OEVwMVlNWVE1TDRCSzNLMTVjSEZjY3dYWkZ2VEJjU3cyd29vejVkN1I0Ump6VTZkZ0NfbGE3SnRFc040OEc3YkJ0WXYyV3B1VWVaUEE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1443]:
+              - generic [ref=e1444]:
+                - generic [ref=e1447]: Business Insider
+                - generic [ref=e1451]:
+                  - generic:
+                    - button "More - Wall Street's $1.5 Billion Plan to Build the 'McKinsey of AI'" [ref=e1452] [cursor=pointer]:
+                      - img [ref=e1454]
+                    - tooltip [ref=e1456]: More
+              - link "Wall Street's $1.5 Billion Plan to Build the 'McKinsey of AI' - Business Insider - 15 hours ago" [ref=e1457] [cursor=pointer]:
+                - /url: ./read/CBMirgFBVV95cUxOV0RraGpxYkhIdmZXY2VpcEI1eURXdm5Cc0E2Tk0wQ0sxRlc2ZHJqQ1NWc3pvdEI5REJrVGhIMlh4MHdUc3NJRWdFZzdDY1VieDFaSzlKclNRcFZiLWVTQ1F5OEVwMVlNWVE1TDRCSzNLMTVjSEZjY3dYWkZ2VEJjU3cyd29vejVkN1I0Ump6VTZkZ0NfbGE3SnRFc040OEc3YkJ0WXYyV3B1VWVaUEE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Wall Street's $1.5 Billion Plan to Build the 'McKinsey of AI'
+            - figure [ref=e1458]
+          - time [ref=e1460]: 15 hours ago
+      - generic [ref=e1461]:
+        - separator [ref=e1463]
+        - generic [ref=e1465]:
+          - generic [ref=e1466]:
+            - link [ref=e1468] [cursor=pointer]:
+              - /url: ./read/CBMikwFBVV95cUxOVGhxZ1ZqdU54enpZd21oa3lXYS1qLTd2ZXdwaUFQS3oxbDhySmYxNkl1UTdoOWFLTHctU1R1TWFLZzZsMC1YSlJiVlJkcFpXLXozMjkyY1FaNkJfaktnSFJtTFdjbVJsclhDeUVzS3dYTVl2bnRVNjdQOFVxY1JtVkxjQTZEMWRod3Y4bmhZVXU4QVk?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1470]:
+              - generic [ref=e1471]:
+                - generic [ref=e1474]: FashionNetwork - The World's Fashion Business News
+                - generic [ref=e1478]:
+                  - generic:
+                    - button "More - Coty taps into AI to build content system" [ref=e1479] [cursor=pointer]:
+                      - img [ref=e1481]
+                    - tooltip [ref=e1483]: More
+              - link "Coty taps into AI to build content system - FashionNetwork - The World&#39;s Fashion Business News - 9 hours ago - By Jennifer Braun" [ref=e1484] [cursor=pointer]:
+                - /url: ./read/CBMikwFBVV95cUxOVGhxZ1ZqdU54enpZd21oa3lXYS1qLTd2ZXdwaUFQS3oxbDhySmYxNkl1UTdoOWFLTHctU1R1TWFLZzZsMC1YSlJiVlJkcFpXLXozMjkyY1FaNkJfaktnSFJtTFdjbVJsclhDeUVzS3dYTVl2bnRVNjdQOFVxY1JtVkxjQTZEMWRod3Y4bmhZVXU4QVk?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Coty taps into AI to build content system
+            - figure [ref=e1485]
+          - generic [ref=e1486]:
+            - time [ref=e1487]: 9 hours ago
+            - separator [ref=e1488]
+            - generic [ref=e1489]: By Jennifer Braun
+      - generic [ref=e1490]:
+        - separator [ref=e1492]
+        - generic [ref=e1494]:
+          - generic [ref=e1495]:
+            - link [ref=e1497] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxPa04wbFdnaFRhOHU0YzBZb3Z2cWVpamlfVUJLTi1VT2hLUUJuZ0p5WUJKWnVPSlFDWDhpWHlmTEhxRUQ0U2ljMldUbkM3U3MwSW9FdU5SZF9JMWFUbDRONzNjTWs1Zk5pbnhPY082eFVBUFRsXzRQc1B6QTNsVVFnZWRHN3gzZkVoUDJsWnFSbHM0UmlEREk3X25kRWNReGtmM002Rnp3WkZYSGdzWWc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1499]:
+              - generic [ref=e1500]:
+                - generic [ref=e1503]: The New Yorker
+                - generic [ref=e1507]:
+                  - generic:
+                    - button "More - When, If Ever, Will A.I. Actually Make Money?" [ref=e1508] [cursor=pointer]:
+                      - img [ref=e1510]
+                    - tooltip [ref=e1512]: More
+              - link "When, If Ever, Will A.I. Actually Make Money? - The New Yorker - Yesterday - By John Cassidy" [ref=e1513] [cursor=pointer]:
+                - /url: ./read/CBMirgFBVV95cUxPa04wbFdnaFRhOHU0YzBZb3Z2cWVpamlfVUJLTi1VT2hLUUJuZ0p5WUJKWnVPSlFDWDhpWHlmTEhxRUQ0U2ljMldUbkM3U3MwSW9FdU5SZF9JMWFUbDRONzNjTWs1Zk5pbnhPY082eFVBUFRsXzRQc1B6QTNsVVFnZWRHN3gzZkVoUDJsWnFSbHM0UmlEREk3X25kRWNReGtmM002Rnp3WkZYSGdzWWc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: When, If Ever, Will A.I. Actually Make Money?
+            - figure [ref=e1514]
+          - generic [ref=e1515]:
+            - time [ref=e1516]: Yesterday
+            - separator [ref=e1517]
+            - generic [ref=e1518]: By John Cassidy
+      - generic [ref=e1519]:
+        - separator [ref=e1521]
+        - generic [ref=e1523]:
+          - generic [ref=e1524]:
+            - link [ref=e1526] [cursor=pointer]:
+              - /url: ./read/CBMieEFVX3lxTE5ZQlJFZU5lQ0hiWElTaWtVa3k2NzhLTnhSVWR5d0UwZ0NDMkltYk1Fb2pXQTdmcVdta3ZWUjQtY2VBVUZ4SkhPeFRSTUY4NHZGVVlxaDFJemYwbXNOUHgzUmlFLVNtLWNSUTM2SjFWNFhYX19meHp6Ng?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1528]:
+              - generic [ref=e1529]:
+                - generic [ref=e1532]: Bradenton Herald
+                - generic [ref=e1536]:
+                  - generic:
+                    - 'button "More - From search results to trip planning: How AI is reshaping hospitality discovery" [ref=e1537] [cursor=pointer]':
+                      - img [ref=e1539]
+                    - tooltip [ref=e1541]: More
+              - 'link "From search results to trip planning: How AI is reshaping hospitality discovery - Bradenton Herald - 20 hours ago" [ref=e1542] [cursor=pointer]':
+                - /url: ./read/CBMieEFVX3lxTE5ZQlJFZU5lQ0hiWElTaWtVa3k2NzhLTnhSVWR5d0UwZ0NDMkltYk1Fb2pXQTdmcVdta3ZWUjQtY2VBVUZ4SkhPeFRSTUY4NHZGVVlxaDFJemYwbXNOUHgzUmlFLVNtLWNSUTM2SjFWNFhYX19meHp6Ng?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "From search results to trip planning: How AI is reshaping hospitality discovery"
+            - figure [ref=e1543]
+          - time [ref=e1545]: 20 hours ago
+      - generic [ref=e1546]:
+        - separator [ref=e1548]
+        - generic [ref=e1550]:
+          - generic [ref=e1551]:
+            - link [ref=e1553] [cursor=pointer]:
+              - /url: ./read/CBMiwgFBVV95cUxOMUNwOFc5SGsxZ3lLQWVIQUozWks5V2lYNUZaQTlBRnZ5Z19aYzR5TnIyM240aTVxaHBXWktxRkVSTWNCZkVTQmh0dnFrdWF3N0xDOE9rNHRMOUdCZlI0bjV1UDFUUjhCUzRHWkNzYk9oV1hWSTNSWTZzWTRFdi1GbzZ6QVAyMktrVV9nT19YOVRUc0V1bDJVTTUzajd5Zy1HanNKMENlc0U3U2tab3hES2Rucjg1WS16SW95OXRxeWlodw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1555]:
+              - generic [ref=e1556]:
+                - generic [ref=e1559]: Computerworld
+                - generic [ref=e1563]:
+                  - generic:
+                    - button "More - Relying on LLMs is nearly impossible when AI vendors keep changing things" [ref=e1564] [cursor=pointer]:
+                      - img [ref=e1566]
+                    - tooltip [ref=e1568]: More
+              - link "Relying on LLMs is nearly impossible when AI vendors keep changing things - Computerworld - Yesterday - By Evan Schuman" [ref=e1569] [cursor=pointer]:
+                - /url: ./read/CBMiwgFBVV95cUxOMUNwOFc5SGsxZ3lLQWVIQUozWks5V2lYNUZaQTlBRnZ5Z19aYzR5TnIyM240aTVxaHBXWktxRkVSTWNCZkVTQmh0dnFrdWF3N0xDOE9rNHRMOUdCZlI0bjV1UDFUUjhCUzRHWkNzYk9oV1hWSTNSWTZzWTRFdi1GbzZ6QVAyMktrVV9nT19YOVRUc0V1bDJVTTUzajd5Zy1HanNKMENlc0U3U2tab3hES2Rucjg1WS16SW95OXRxeWlodw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Relying on LLMs is nearly impossible when AI vendors keep changing things
+            - figure [ref=e1570]
+          - generic [ref=e1571]:
+            - time [ref=e1572]: Yesterday
+            - separator [ref=e1573]
+            - generic [ref=e1574]: By Evan Schuman
+      - generic [ref=e1575]:
+        - separator [ref=e1577]
+        - generic [ref=e1579]:
+          - generic [ref=e1580]:
+            - link [ref=e1582] [cursor=pointer]:
+              - /url: ./read/CBMifkFVX3lxTFBZQk10VWU3a2xQb3ljZlVSTnQ1QnNVd1Y3bnF6MlI0SEhneFVKSnM3a3BDQVRKR3dJUVBmVnNjNkJEMUFINWpkZi1jQzYyVUxPTlB4TlphdEdibjJJU3pBYW1PQjRYMjlvdkM4VFViRE1CWjVlWk95Z0tDenVrUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1584]:
+              - generic [ref=e1585]:
+                - generic [ref=e1588]: Ground Truths | Eric Topol
+                - generic [ref=e1592]:
+                  - generic:
+                    - button "More - The Paradox of Medical AI Implementation" [ref=e1593] [cursor=pointer]:
+                      - img [ref=e1595]
+                    - tooltip [ref=e1597]: More
+              - link "The Paradox of Medical AI Implementation - Ground Truths | Eric Topol - 2 days ago - By Eric Topol" [ref=e1598] [cursor=pointer]:
+                - /url: ./read/CBMifkFVX3lxTFBZQk10VWU3a2xQb3ljZlVSTnQ1QnNVd1Y3bnF6MlI0SEhneFVKSnM3a3BDQVRKR3dJUVBmVnNjNkJEMUFINWpkZi1jQzYyVUxPTlB4TlphdEdibjJJU3pBYW1PQjRYMjlvdkM4VFViRE1CWjVlWk95Z0tDenVrUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The Paradox of Medical AI Implementation
+            - figure [ref=e1599]
+          - generic [ref=e1600]:
+            - time [ref=e1601]: 2 days ago
+            - separator [ref=e1602]
+            - generic [ref=e1603]: By Eric Topol
+      - generic [ref=e1604]:
+        - separator [ref=e1606]
+        - generic [ref=e1608]:
+          - generic [ref=e1609]:
+            - link [ref=e1611] [cursor=pointer]:
+              - /url: ./read/CBMilAFBVV95cUxQQ0g1bWxnV2JpOU9reWFSbDE5Y2NfWUprekxpREQzUVdodmVEN1NWUEVmOXBnMU5lTHV3bFpMSWdSbU9UTW1wSnVoTkZxbmRXVkVFYUw5aUlCZV9GYjQ3QnI4NWV5WDZGZUhfUzRWaVhQbXBJOVlUV2trQnhMVlNnei02MTZnOU9CaUUwTDA2Yzg3N0Vx?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1613]:
+              - generic [ref=e1614]:
+                - generic [ref=e1617]: Let's Data Science
+                - generic [ref=e1621]:
+                  - generic:
+                    - button "More - Watchmakers Adopt AI and Space-Themed Innovation" [ref=e1622] [cursor=pointer]:
+                      - img [ref=e1624]
+                    - tooltip [ref=e1626]: More
+              - link "Watchmakers Adopt AI and Space-Themed Innovation - Let&#39;s Data Science - 7 hours ago" [ref=e1627] [cursor=pointer]:
+                - /url: ./read/CBMilAFBVV95cUxQQ0g1bWxnV2JpOU9reWFSbDE5Y2NfWUprekxpREQzUVdodmVEN1NWUEVmOXBnMU5lTHV3bFpMSWdSbU9UTW1wSnVoTkZxbmRXVkVFYUw5aUlCZV9GYjQ3QnI4NWV5WDZGZUhfUzRWaVhQbXBJOVlUV2trQnhMVlNnei02MTZnOU9CaUUwTDA2Yzg3N0Vx?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Watchmakers Adopt AI and Space-Themed Innovation
+            - figure [ref=e1628]
+          - time [ref=e1630]: 7 hours ago
+      - generic [ref=e1631]:
+        - separator [ref=e1633]
+        - generic [ref=e1635]:
+          - generic [ref=e1636]:
+            - link [ref=e1638] [cursor=pointer]:
+              - /url: ./read/CBMitgFBVV95cUxPT0RQTFBoc0x5MUVLV21LRUpVbURMSkNUaWNXRWpnVE1ScmZFOTFfQXRoS25sXy1ranpZZ2VjNWxqTVFBRS1XbkZBOUh2azlnRFR4Vk9wZlVsTGk2eEF3ZEcxNi1yR2NVWVpQVk9mcGM2dWNJQkN5cHNSV3ltd0ZqU2VCMThVMkFBN0dGelQtMWxLbEpGQ2xfcHMwYmtiVm0zOTgyaWRMd011YVc0UVBzWXNIZ09td9IBuwFBVV95cUxQRGxBdUVQVnNFcW5sSkdXNUwydVdMZmp3ZldiWE5TOVNhZTRFbUpkZ2tyODR3RkZpYkJKWnN0MFduTEpSbFNXdHE1b3JnRFl5RHlVYU1ROVp5bzlpUll1UEdoT08zX05ZMVpMdFh3eWR3VllaVnM5VTB5RXhCWFRqVk5NeVZ1M1dOaU5VdWxsYWJVMHUxcnJGMDBZN2hfaHkxZTNicUFHWHNoQUxhUzA3amo3d0RrSk5zUmJ3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1640]:
+              - generic [ref=e1641]:
+                - generic [ref=e1644]: The National Law Review
+                - generic [ref=e1648]:
+                  - generic:
+                    - button "More - The American Bar Association and Mississippi Bar Are Giving Lawyers Flawed AI Guidance" [ref=e1649] [cursor=pointer]:
+                      - img [ref=e1651]
+                    - tooltip [ref=e1653]: More
+              - link "The American Bar Association and Mississippi Bar Are Giving Lawyers Flawed AI Guidance - The National Law Review - 21 hours ago - By Oliver Roberts" [ref=e1654] [cursor=pointer]:
+                - /url: ./read/CBMitgFBVV95cUxPT0RQTFBoc0x5MUVLV21LRUpVbURMSkNUaWNXRWpnVE1ScmZFOTFfQXRoS25sXy1ranpZZ2VjNWxqTVFBRS1XbkZBOUh2azlnRFR4Vk9wZlVsTGk2eEF3ZEcxNi1yR2NVWVpQVk9mcGM2dWNJQkN5cHNSV3ltd0ZqU2VCMThVMkFBN0dGelQtMWxLbEpGQ2xfcHMwYmtiVm0zOTgyaWRMd011YVc0UVBzWXNIZ09td9IBuwFBVV95cUxQRGxBdUVQVnNFcW5sSkdXNUwydVdMZmp3ZldiWE5TOVNhZTRFbUpkZ2tyODR3RkZpYkJKWnN0MFduTEpSbFNXdHE1b3JnRFl5RHlVYU1ROVp5bzlpUll1UEdoT08zX05ZMVpMdFh3eWR3VllaVnM5VTB5RXhCWFRqVk5NeVZ1M1dOaU5VdWxsYWJVMHUxcnJGMDBZN2hfaHkxZTNicUFHWHNoQUxhUzA3amo3d0RrSk5zUmJ3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The American Bar Association and Mississippi Bar Are Giving Lawyers Flawed AI Guidance
+            - figure [ref=e1655]
+          - generic [ref=e1656]:
+            - time [ref=e1657]: 21 hours ago
+            - separator [ref=e1658]
+            - generic [ref=e1659]: By Oliver Roberts
+      - generic [ref=e1660]:
+        - separator [ref=e1662]
+        - generic [ref=e1664]:
+          - generic [ref=e1665]:
+            - link [ref=e1667] [cursor=pointer]:
+              - /url: ./read/CBMiZkFVX3lxTE5ZZTh5MEQ1YmxUSGZpRXc5X2tNdTJETkhlWVpiWkoza0dDT19NMWdtZVhaQnlrTGxGVUVnU2d3S1hiU2pRVnZyZUpsdmQ2LTBhbnpuYzJRbXZMYldEcFFfN2oycmxIZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1669]:
+              - generic [ref=e1670]:
+                - generic [ref=e1673]: Databricks
+                - generic [ref=e1677]:
+                  - generic:
+                    - button "More - What is Generative AI in Marketing?" [ref=e1678] [cursor=pointer]:
+                      - img [ref=e1680]
+                    - tooltip [ref=e1682]: More
+              - link "What is Generative AI in Marketing? - Databricks - Apr 20" [ref=e1683] [cursor=pointer]:
+                - /url: ./read/CBMiZkFVX3lxTE5ZZTh5MEQ1YmxUSGZpRXc5X2tNdTJETkhlWVpiWkoza0dDT19NMWdtZVhaQnlrTGxGVUVnU2d3S1hiU2pRVnZyZUpsdmQ2LTBhbnpuYzJRbXZMYldEcFFfN2oycmxIZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: What is Generative AI in Marketing?
+            - figure [ref=e1684]
+          - time [ref=e1686]: Apr 20
+      - generic [ref=e1687]:
+        - separator [ref=e1689]
+        - generic [ref=e1691]:
+          - generic [ref=e1692]:
+            - link [ref=e1694] [cursor=pointer]:
+              - /url: ./read/CBMikgFBVV95cUxQZFFBUndMOW1INDJrVVFINFg3UFkyZEpVbEpGSjZGUXA1REVTelZVUm9uSUVLUHFPMDhkMTc1bHBjdVhEWmhjb25nTVNVTUFGQmNzME9XSnpnMEtLOXJCcmVzY01TUHRpT0xYN21zVHpGUDVlLVl6alVhOGFZWTNjQ0JfNmpmRG5QdTBoYmZaN2ZvUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1696]:
+              - generic [ref=e1697]:
+                - generic [ref=e1700]: Let's Data Science
+                - generic [ref=e1704]:
+                  - generic:
+                    - button "More - Fiverr Faces Generative AI Relevance Challenge" [ref=e1705] [cursor=pointer]:
+                      - img [ref=e1707]
+                    - tooltip [ref=e1709]: More
+              - link "Fiverr Faces Generative AI Relevance Challenge - Let&#39;s Data Science - 23 hours ago" [ref=e1710] [cursor=pointer]:
+                - /url: ./read/CBMikgFBVV95cUxQZFFBUndMOW1INDJrVVFINFg3UFkyZEpVbEpGSjZGUXA1REVTelZVUm9uSUVLUHFPMDhkMTc1bHBjdVhEWmhjb25nTVNVTUFGQmNzME9XSnpnMEtLOXJCcmVzY01TUHRpT0xYN21zVHpGUDVlLVl6alVhOGFZWTNjQ0JfNmpmRG5QdTBoYmZaN2ZvUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Fiverr Faces Generative AI Relevance Challenge
+            - figure [ref=e1711]
+          - time [ref=e1713]: 23 hours ago
+      - generic [ref=e1714]:
+        - separator [ref=e1716]
+        - generic [ref=e1718]:
+          - generic [ref=e1719]:
+            - link [ref=e1721] [cursor=pointer]:
+              - /url: ./read/CBMiSEFVX3lxTE1Ed1VsRWNIZGZ4WTlSUG1WNlBzMzRwemRrYWlDc0xvRmpRUFo4dDE3VWVaYWJaZUZSLWlkaFo0QklXRFhqemFFRQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1723]:
+              - generic [ref=e1724]:
+                - generic [ref=e1727]: Università della Svizzera italiana | USI
+                - generic [ref=e1731]:
+                  - generic:
+                    - 'button "More - The generative AI surge: between opportunity and risk" [ref=e1732] [cursor=pointer]':
+                      - img [ref=e1734]
+                    - tooltip [ref=e1736]: More
+              - 'link "The generative AI surge: between opportunity and risk - Università della Svizzera italiana | USI - Yesterday" [ref=e1737] [cursor=pointer]':
+                - /url: ./read/CBMiSEFVX3lxTE1Ed1VsRWNIZGZ4WTlSUG1WNlBzMzRwemRrYWlDc0xvRmpRUFo4dDE3VWVaYWJaZUZSLWlkaFo0QklXRFhqemFFRQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "The generative AI surge: between opportunity and risk"
+            - figure [ref=e1738]
+          - time [ref=e1740]: Yesterday
+      - generic [ref=e1741]:
+        - separator [ref=e1743]
+        - generic [ref=e1745]:
+          - generic [ref=e1746]:
+            - link [ref=e1748] [cursor=pointer]:
+              - /url: ./read/CBMilgFBVV95cUxPMmxjOXQyUFZ6MVg5Tm42NlJVUWJWRy16ck1SNjRFR2ZLWng3YXNzdHFpSks5SExoR1pJNVdfWHl0bHZUbzRrZWJyaDlERmM0a3VXbXU4U0NtTnI1RmpoVzhRVnJZYXZVSlJMZkJObllNbjh0UWd0TzVMY051cGp6R2w4Y2JURTl0M2NzNDkyaXBvQWl3b0HSAZYBQVVfeXFMTzJsYzl0MlBWejFYOU5uNjZSVVFiVkctenJNUjY0RUdmS1p4N2Fzc3RxaUpLOUhMaEdaSTVXX1h5dGx2VG80a2Vicmg5REZjNGt1V211OFNDbU5yNUZqaFc4UVZyWWF2VUpSTGZCTm5ZTW44dFFndE81TGNOdXBqekdsOGNiVEU5dDNjczQ5Mmlwb0Fpd29B?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1750]:
+              - generic [ref=e1751]:
+                - generic [ref=e1754]: UrbanMatter
+                - generic [ref=e1758]:
+                  - generic:
+                    - button "More - Why Businesses Invest in Generative AI Consulting Services in 2026" [ref=e1759] [cursor=pointer]:
+                      - img [ref=e1761]
+                    - tooltip [ref=e1763]: More
+              - link "Why Businesses Invest in Generative AI Consulting Services in 2026 - UrbanMatter - 1 hour ago" [ref=e1764] [cursor=pointer]:
+                - /url: ./read/CBMilgFBVV95cUxPMmxjOXQyUFZ6MVg5Tm42NlJVUWJWRy16ck1SNjRFR2ZLWng3YXNzdHFpSks5SExoR1pJNVdfWHl0bHZUbzRrZWJyaDlERmM0a3VXbXU4U0NtTnI1RmpoVzhRVnJZYXZVSlJMZkJObllNbjh0UWd0TzVMY051cGp6R2w4Y2JURTl0M2NzNDkyaXBvQWl3b0HSAZYBQVVfeXFMTzJsYzl0MlBWejFYOU5uNjZSVVFiVkctenJNUjY0RUdmS1p4N2Fzc3RxaUpLOUhMaEdaSTVXX1h5dGx2VG80a2Vicmg5REZjNGt1V211OFNDbU5yNUZqaFc4UVZyWWF2VUpSTGZCTm5ZTW44dFFndE81TGNOdXBqekdsOGNiVEU5dDNjczQ5Mmlwb0Fpd29B?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Why Businesses Invest in Generative AI Consulting Services in 2026
+            - figure [ref=e1765]
+          - time [ref=e1767]: 1 hour ago
+      - generic [ref=e1768]:
+        - separator [ref=e1770]
+        - generic [ref=e1772]:
+          - generic [ref=e1773]:
+            - link [ref=e1775] [cursor=pointer]:
+              - /url: ./read/CBMiaEFVX3lxTE1JNVF0QzN5MVdmNEE1VGZNR1pNdWZDT1JsM0tYemE0MmJVOG0yNDE5MktZcDhJa2w2V1lNSmFUM3piTmMxT1BJZExZVUswdnctZWszcHRsd0N2SjNCVlVhamx1aXlsV3dY?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1777]:
+              - generic [ref=e1778]:
+                - generic [ref=e1781]: Mirage News
+                - generic [ref=e1785]:
+                  - generic:
+                    - button "More - Moral Reckoning Of AI" [ref=e1786] [cursor=pointer]:
+                      - img [ref=e1788]
+                    - tooltip [ref=e1790]: More
+              - link "Moral Reckoning Of AI - Mirage News - 11 hours ago" [ref=e1791] [cursor=pointer]:
+                - /url: ./read/CBMiaEFVX3lxTE1JNVF0QzN5MVdmNEE1VGZNR1pNdWZDT1JsM0tYemE0MmJVOG0yNDE5MktZcDhJa2w2V1lNSmFUM3piTmMxT1BJZExZVUswdnctZWszcHRsd0N2SjNCVlVhamx1aXlsV3dY?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Moral Reckoning Of AI
+            - figure [ref=e1792]
+          - time [ref=e1794]: 11 hours ago
+      - generic [ref=e1795]:
+        - separator [ref=e1797]
+        - generic [ref=e1799]:
+          - generic [ref=e1800]:
+            - link [ref=e1802] [cursor=pointer]:
+              - /url: ./read/CBMimAFBVV95cUxQS0p1NEZPZ1F2Z2c5dk1SaXlQMTdVY2cya25qSlNQMS1CTzBwUzJfYlZWcHBTeHdRUnVTOTRqekJOTnB5U0RlQzFKZTRnMFN1VXJkSVQ1M1pTa0dsRlpGb2J2YlVqYnE4Tm8wX3lNR0JkdEt4T0JEdEhHR0REakJ1X09JUFJKZ0pLczJsdy10VzNENzRLVEVXaQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1804]:
+              - generic [ref=e1805]:
+                - generic [ref=e1808]: Let's Data Science
+                - generic [ref=e1812]:
+                  - generic:
+                    - button "More - Generative AI reshapes workflows in creator economy" [ref=e1813] [cursor=pointer]:
+                      - img [ref=e1815]
+                    - tooltip [ref=e1817]: More
+              - link "Generative AI reshapes workflows in creator economy - Let&#39;s Data Science - Yesterday" [ref=e1818] [cursor=pointer]:
+                - /url: ./read/CBMimAFBVV95cUxQS0p1NEZPZ1F2Z2c5dk1SaXlQMTdVY2cya25qSlNQMS1CTzBwUzJfYlZWcHBTeHdRUnVTOTRqekJOTnB5U0RlQzFKZTRnMFN1VXJkSVQ1M1pTa0dsRlpGb2J2YlVqYnE4Tm8wX3lNR0JkdEt4T0JEdEhHR0REakJ1X09JUFJKZ0pLczJsdy10VzNENzRLVEVXaQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Generative AI reshapes workflows in creator economy
+            - figure [ref=e1819]
+          - time [ref=e1821]: Yesterday
+      - generic [ref=e1822]:
+        - separator [ref=e1824]
+        - generic [ref=e1826]:
+          - generic [ref=e1827]:
+            - link [ref=e1829] [cursor=pointer]:
+              - /url: ./read/CBMiywFBVV95cUxOVXVHVG1Rb285Rnk4MWdHZVNGWXhnZ3ZIa3VUY2RTYldmVTB6aWo3Y3VlNkE5SmRWWUl2U0NvcDBITk81WncxU3VkcTJFVkV6TzhPUTBUaFBsUWxZQ1ZMZXIzdi0yano4Y3dxX3ZmUGRoTk9LaVRKRHZ1MVY5bGJOVHV6LVowa0dWRURoNjN1Ti1TU0lQYWM2VGhZY2RDcmV3WEQtdVVFeUxlZ0FNdkxzbnJTSXh6RGdRbDVNZWxOSGFHNzFTNHRjVHNjUdIB0AFBVV95cUxQUVZiaDlPVFNCNFhsWUZ5NWZBZWprOW9kNjE4VzJkNHpBUTlQS0FOSEVHT3ZrR1V4Z2dkT3YwRzIzOFBZZVFfTVY3aVRycnF6b3BlNWN5N1MtMDE2Z3lhOHZhdnNGaWhlZk1NVjZvV3R5Zk1reXl4UUJ0anNfUFdLamJmMGE3T3M3OVJWLWxFSzRVLUJmOE1OWTJqUG85Tzg4b0ZTQ3pOZml2di02U2dnNWtfZEV6U1ZVVndiVE9DMFhQNk9OUktYVkdieFd1bmNP?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1831]:
+              - generic [ref=e1832]:
+                - generic [ref=e1835]: ET BrandEquity
+                - generic [ref=e1839]:
+                  - generic:
+                    - button "More - OpenAI co-founder under fire in Musk trial over $30 bn stake" [ref=e1840] [cursor=pointer]:
+                      - img [ref=e1842]
+                    - tooltip [ref=e1844]: More
+              - link "OpenAI co-founder under fire in Musk trial over $30 bn stake - ET BrandEquity - 7 hours ago" [ref=e1845] [cursor=pointer]:
+                - /url: ./read/CBMiywFBVV95cUxOVXVHVG1Rb285Rnk4MWdHZVNGWXhnZ3ZIa3VUY2RTYldmVTB6aWo3Y3VlNkE5SmRWWUl2U0NvcDBITk81WncxU3VkcTJFVkV6TzhPUTBUaFBsUWxZQ1ZMZXIzdi0yano4Y3dxX3ZmUGRoTk9LaVRKRHZ1MVY5bGJOVHV6LVowa0dWRURoNjN1Ti1TU0lQYWM2VGhZY2RDcmV3WEQtdVVFeUxlZ0FNdkxzbnJTSXh6RGdRbDVNZWxOSGFHNzFTNHRjVHNjUdIB0AFBVV95cUxQUVZiaDlPVFNCNFhsWUZ5NWZBZWprOW9kNjE4VzJkNHpBUTlQS0FOSEVHT3ZrR1V4Z2dkT3YwRzIzOFBZZVFfTVY3aVRycnF6b3BlNWN5N1MtMDE2Z3lhOHZhdnNGaWhlZk1NVjZvV3R5Zk1reXl4UUJ0anNfUFdLamJmMGE3T3M3OVJWLWxFSzRVLUJmOE1OWTJqUG85Tzg4b0ZTQ3pOZml2di02U2dnNWtfZEV6U1ZVVndiVE9DMFhQNk9OUktYVkdieFd1bmNP?hl=en-US&gl=US&ceid=US%3Aen
+                - text: OpenAI co-founder under fire in Musk trial over $30 bn stake
+            - figure [ref=e1846]
+          - time [ref=e1848]: 7 hours ago
+      - generic [ref=e1849]:
+        - separator [ref=e1851]
+        - generic [ref=e1853]:
+          - generic [ref=e1854]:
+            - link [ref=e1856] [cursor=pointer]:
+              - /url: ./read/CBMi-wFBVV95cUxOT1hNdmxtSHkteGRMRlJPT05TVmVJS0xyT3dGckxoY25TSVNCYVBhVjBjRk9FWXB4dEpVamVDdlhYRk84Y2pVZzNsSEZlOE1PdXVoV29wbFpQODh2QzdiU3p3Tm5DX2t2Tnk0Q0NJYUlObGt2LV9nRXRhaEc0WjNMd2ZZVzM0RnBKZDNFV0I5X1NZeF9jZks5YkV4SGd1aVlkdklZTlV1OEdxazU5LVFTSEV0YjdLWHBld3JLRnIxbTFyazduQXdyWFZYVnRlOEd4QUFEYVl6bzhrU2ZvbzBaSnRqX0pEUUpySVJTV0kwaW5QaWNybmJzV0RCMA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1858]:
+              - generic [ref=e1859]:
+                - generic [ref=e1862]: NZ Herald
+                - generic [ref=e1866]:
+                  - generic:
+                    - button "More - How generative AI could spell end to entry-level creative roles - study" [ref=e1867] [cursor=pointer]:
+                      - img [ref=e1869]
+                    - tooltip [ref=e1871]: More
+              - link "How generative AI could spell end to entry-level creative roles - study - NZ Herald - 7 hours ago" [ref=e1872] [cursor=pointer]:
+                - /url: ./read/CBMi-wFBVV95cUxOT1hNdmxtSHkteGRMRlJPT05TVmVJS0xyT3dGckxoY25TSVNCYVBhVjBjRk9FWXB4dEpVamVDdlhYRk84Y2pVZzNsSEZlOE1PdXVoV29wbFpQODh2QzdiU3p3Tm5DX2t2Tnk0Q0NJYUlObGt2LV9nRXRhaEc0WjNMd2ZZVzM0RnBKZDNFV0I5X1NZeF9jZks5YkV4SGd1aVlkdklZTlV1OEdxazU5LVFTSEV0YjdLWHBld3JLRnIxbTFyazduQXdyWFZYVnRlOEd4QUFEYVl6bzhrU2ZvbzBaSnRqX0pEUUpySVJTV0kwaW5QaWNybmJzV0RCMA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How generative AI could spell end to entry-level creative roles - study
+            - figure [ref=e1873]
+          - time [ref=e1875]: 7 hours ago
+      - generic [ref=e1876]:
+        - separator [ref=e1878]
+        - generic [ref=e1880]:
+          - generic [ref=e1881]:
+            - link [ref=e1883] [cursor=pointer]:
+              - /url: ./read/CBMivgFBVV95cUxQWVQwTGRENmstVTRhbjhtc291QXh4MS1BbW91VEE2VjdiTjhoYW95ajlaWmFEd05ra1F4ejNQRTByNzdiXzNVcThydnE1X1dFUWxJdGhyREZiT1VtWUJoVnIyM1RJTFJVb09DOTR6VmZsdm5HbWx6eVd1UDlQNnNEUHRiTWV3eW5sMlZSOGFzYXdwNEhYb1BsME1HbVhwTW80bVJiZ3ZGd1VLdXNjbklVZk93S0lwRG5HVl9hd2d3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1885]:
+              - generic [ref=e1886]:
+                - generic [ref=e1889]: Massey University
+                - generic [ref=e1893]:
+                  - generic:
+                    - button "More - Pilot study shows generative AI use in creative industries impacts entry level roles" [ref=e1894] [cursor=pointer]:
+                      - img [ref=e1896]
+                    - tooltip [ref=e1898]: More
+              - link "Pilot study shows generative AI use in creative industries impacts entry level roles - Massey University - 14 hours ago" [ref=e1899] [cursor=pointer]:
+                - /url: ./read/CBMivgFBVV95cUxQWVQwTGRENmstVTRhbjhtc291QXh4MS1BbW91VEE2VjdiTjhoYW95ajlaWmFEd05ra1F4ejNQRTByNzdiXzNVcThydnE1X1dFUWxJdGhyREZiT1VtWUJoVnIyM1RJTFJVb09DOTR6VmZsdm5HbWx6eVd1UDlQNnNEUHRiTWV3eW5sMlZSOGFzYXdwNEhYb1BsME1HbVhwTW80bVJiZ3ZGd1VLdXNjbklVZk93S0lwRG5HVl9hd2d3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Pilot study shows generative AI use in creative industries impacts entry level roles
+            - figure [ref=e1900]
+          - time [ref=e1902]: 14 hours ago
+      - generic [ref=e1903]:
+        - separator [ref=e1905]
+        - generic [ref=e1907]:
+          - generic [ref=e1908]:
+            - link [ref=e1910] [cursor=pointer]:
+              - /url: ./read/CBMilwFBVV95cUxQWVJ6UzBaQmtoMjhkODVQNjRqOVZsdGFER0xRRS0zNFVkVFB1MnNpaUlnWmVUalJnRDM4aU9iMzFaQUZYQlVTT0xMbWNkbzJkUnlNUzJtcVNMRUZ1cE1YUFZ2NUlvNm5JbFBuOXhzNVl6a3A2SEVyS0huVmhFUGUzLUNOOWctQkdGMHdod3lZeGZOX3JRTWhz?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1912]:
+              - generic [ref=e1913]:
+                - generic [ref=e1916]: Yahoo
+                - generic [ref=e1920]:
+                  - generic:
+                    - button "More - Does the Oscars' AI ban really mean anything?" [ref=e1921] [cursor=pointer]:
+                      - img [ref=e1923]
+                    - tooltip [ref=e1925]: More
+              - link "Does the Oscars' AI ban really mean anything? - Yahoo - 21 hours ago" [ref=e1926] [cursor=pointer]:
+                - /url: ./read/CBMilwFBVV95cUxQWVJ6UzBaQmtoMjhkODVQNjRqOVZsdGFER0xRRS0zNFVkVFB1MnNpaUlnWmVUalJnRDM4aU9iMzFaQUZYQlVTT0xMbWNkbzJkUnlNUzJtcVNMRUZ1cE1YUFZ2NUlvNm5JbFBuOXhzNVl6a3A2SEVyS0huVmhFUGUzLUNOOWctQkdGMHdod3lZeGZOX3JRTWhz?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Does the Oscars' AI ban really mean anything?
+            - figure [ref=e1927]
+          - time [ref=e1929]: 21 hours ago
+      - generic [ref=e1930]:
+        - separator [ref=e1932]
+        - generic [ref=e1934]:
+          - generic [ref=e1935]:
+            - link [ref=e1937] [cursor=pointer]:
+              - /url: ./read/CBMimwFBVV95cUxNQWYtYWY5SHlHUzB6WXJ4azJucVAxNnY4YnNCbUd4aUh3dEpRemViSURULV9OVDZrYXRhM3JDcGV6YklYNDhYNy1qY0FFVnJiRGZBZ2tWSFF6M1p1NFhEbE44OE1WVlcyYWU5OGtPWnhMTkMzVFJpc2k5eVJyZ05XcE4zQ0x6a25KUGdYQVg4UnBPdlc3aXlidUZlOA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1939]:
+              - generic [ref=e1940]:
+                - generic [ref=e1943]: openPR.com
+                - generic [ref=e1947]:
+                  - generic:
+                    - button "More - Generative AI Search Market Trends, Investment Opportunities," [ref=e1948] [cursor=pointer]:
+                      - img [ref=e1950]
+                    - tooltip [ref=e1952]: More
+              - link "Generative AI Search Market Trends, Investment Opportunities, - openPR.com - Yesterday" [ref=e1953] [cursor=pointer]:
+                - /url: ./read/CBMimwFBVV95cUxNQWYtYWY5SHlHUzB6WXJ4azJucVAxNnY4YnNCbUd4aUh3dEpRemViSURULV9OVDZrYXRhM3JDcGV6YklYNDhYNy1qY0FFVnJiRGZBZ2tWSFF6M1p1NFhEbE44OE1WVlcyYWU5OGtPWnhMTkMzVFJpc2k5eVJyZ05XcE4zQ0x6a25KUGdYQVg4UnBPdlc3aXlidUZlOA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Generative AI Search Market Trends, Investment Opportunities,
+            - figure [ref=e1954]
+          - time [ref=e1956]: Yesterday
+      - generic [ref=e1957]:
+        - separator [ref=e1959]
+        - generic [ref=e1961]:
+          - generic [ref=e1962]:
+            - link [ref=e1964] [cursor=pointer]:
+              - /url: ./read/CBMi3wFBVV95cUxNczI1YTVmV1hYX3I2Vk5fTXY4SGZOMXYybEdYU3dKRXJhV3ZfQlUyQkZDLUVoUFJPTVI1ZkwxNWdNbkVlanRoMXl4WnJFVWpXYTh1ZWlJVkN4V01CeW41STlkbGVhTnpHZTdnZV9POFgtUlUyN0toQU9hQk5kMDdOTFNiVUVpV0sxcmlFdzM4OGlsSExCcHM3bnFLQTVuLTYtWmF4dVg0YlB0N2ZMNzF1Tm1Ka21iR3R4S0xUX3dsb0x0dmZ2MlRlVkFhaGV0V0hrckRoTmdTcWRfclpPb2xn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1966]:
+              - generic [ref=e1967]:
+                - generic [ref=e1970]: MSN
+                - generic [ref=e1974]:
+                  - generic:
+                    - button "More - My top 2 generative AI stocks for long-term investors for May 2026" [ref=e1975] [cursor=pointer]:
+                      - img [ref=e1977]
+                    - tooltip [ref=e1979]: More
+              - link "My top 2 generative AI stocks for long-term investors for May 2026 - MSN - 7 hours ago - By Leo Sun" [ref=e1980] [cursor=pointer]:
+                - /url: ./read/CBMi3wFBVV95cUxNczI1YTVmV1hYX3I2Vk5fTXY4SGZOMXYybEdYU3dKRXJhV3ZfQlUyQkZDLUVoUFJPTVI1ZkwxNWdNbkVlanRoMXl4WnJFVWpXYTh1ZWlJVkN4V01CeW41STlkbGVhTnpHZTdnZV9POFgtUlUyN0toQU9hQk5kMDdOTFNiVUVpV0sxcmlFdzM4OGlsSExCcHM3bnFLQTVuLTYtWmF4dVg0YlB0N2ZMNzF1Tm1Ka21iR3R4S0xUX3dsb0x0dmZ2MlRlVkFhaGV0V0hrckRoTmdTcWRfclpPb2xn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: My top 2 generative AI stocks for long-term investors for May 2026
+            - figure [ref=e1981]
+          - generic [ref=e1982]:
+            - time [ref=e1983]: 7 hours ago
+            - separator [ref=e1984]
+            - generic [ref=e1985]: By Leo Sun
+      - generic [ref=e1986]:
+        - separator [ref=e1988]
+        - generic [ref=e1990]:
+          - generic [ref=e1991]:
+            - link [ref=e1993] [cursor=pointer]:
+              - /url: ./read/CBMikAFBVV95cUxOejdoMEFybGhVS21HUDZocHc5SlpSd3FqWWdibnJnY3N3czVPUFVEM0RtdktEZGVfYXZYODZuWlc3ZTlKZjg4NzNHSEpfWnJKV01kX3NXbUpPRE95MjMwcGpaM0lkRFE1Yk1vdU9VY0tOTkJPZEllOF9WOEMxSkJSR2RaaXJMbFFIYVR0UWV4UlM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1995]:
+              - generic [ref=e1996]:
+                - generic [ref=e1999]: Oracle
+                - generic [ref=e2003]:
+                  - generic:
+                    - button "More - What Is Generative AI (GenAI)? How Does It Work?" [ref=e2004] [cursor=pointer]:
+                      - img [ref=e2006]
+                    - tooltip [ref=e2008]: More
+              - link "What Is Generative AI (GenAI)? How Does It Work? - Oracle - Mar 26 - By Greg Pavlik" [ref=e2009] [cursor=pointer]:
+                - /url: ./read/CBMikAFBVV95cUxOejdoMEFybGhVS21HUDZocHc5SlpSd3FqWWdibnJnY3N3czVPUFVEM0RtdktEZGVfYXZYODZuWlc3ZTlKZjg4NzNHSEpfWnJKV01kX3NXbUpPRE95MjMwcGpaM0lkRFE1Yk1vdU9VY0tOTkJPZEllOF9WOEMxSkJSR2RaaXJMbFFIYVR0UWV4UlM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: What Is Generative AI (GenAI)? How Does It Work?
+          - generic [ref=e2010]:
+            - time [ref=e2011]: Mar 26
+            - separator [ref=e2012]
+            - generic [ref=e2013]: By Greg Pavlik
+      - generic [ref=e2014]:
+        - separator [ref=e2016]
+        - generic [ref=e2018]:
+          - generic [ref=e2019]:
+            - link [ref=e2021] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxOSy1pYU13Tjg5QmxNSjRVTGlFSVJ2em5URExDR1BrSl9TbnNRLVp6QThZMHU4Tkdia291SHh6TWI2UFJEbFNfZUZtYVdZOHhFanRYTDBZVGJuOFctNElTNnVrakNpRzE0dzB4ZmlnYk9BRDdyOTlPbkU2TEFtZ2RjZ1pXdWhldkVrbldfcUhxQXkySlVNNmdXVms5N3JiSnNWam1Ubjd1YWxINkVEc1E?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2023]:
+              - generic [ref=e2024]:
+                - generic [ref=e2027]: Bioengineer.org
+                - generic [ref=e2031]:
+                  - generic:
+                    - 'button "More - Researchers Warn: Generative AI Poses a Threat to the Security of All Digital Content" [ref=e2032] [cursor=pointer]':
+                      - img [ref=e2034]
+                    - tooltip [ref=e2036]: More
+              - 'link "Researchers Warn: Generative AI Poses a Threat to the Security of All Digital Content - Bioengineer.org - 17 hours ago" [ref=e2037] [cursor=pointer]':
+                - /url: ./read/CBMirgFBVV95cUxOSy1pYU13Tjg5QmxNSjRVTGlFSVJ2em5URExDR1BrSl9TbnNRLVp6QThZMHU4Tkdia291SHh6TWI2UFJEbFNfZUZtYVdZOHhFanRYTDBZVGJuOFctNElTNnVrakNpRzE0dzB4ZmlnYk9BRDdyOTlPbkU2TEFtZ2RjZ1pXdWhldkVrbldfcUhxQXkySlVNNmdXVms5N3JiSnNWam1Ubjd1YWxINkVEc1E?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Researchers Warn: Generative AI Poses a Threat to the Security of All Digital Content"
+            - figure [ref=e2038]
+          - time [ref=e2040]: 17 hours ago
+      - generic [ref=e2041]:
+        - separator [ref=e2043]
+        - generic [ref=e2045]:
+          - generic [ref=e2046]:
+            - link [ref=e2048] [cursor=pointer]:
+              - /url: ./read/CBMiX0FVX3lxTE04REczX1o5b1Zkem5QdVZvd0tham1GOWo5QUZuUTRPd1lUSjVNSjlmOGJpMmFSWnFFN2JKckxkTWVMclh3R3M3d19lMjZDSUhkcDBsRmJQWFZYNXhsZXlB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2050]:
+              - generic [ref=e2051]:
+                - generic [ref=e2054]: Nature
+                - generic [ref=e2058]:
+                  - generic:
+                    - 'button "More - The impact of generative AI on social media: an experimental study - Scientific Reports" [ref=e2059] [cursor=pointer]':
+                      - img [ref=e2061]
+                    - tooltip [ref=e2063]: More
+              - 'link "The impact of generative AI on social media: an experimental study - Scientific Reports - Nature - Feb 17 - By Anders Giovanni Moller, Daniel Romero & Luca Maria Aiello" [ref=e2064] [cursor=pointer]':
+                - /url: ./read/CBMiX0FVX3lxTE04REczX1o5b1Zkem5QdVZvd0tham1GOWo5QUZuUTRPd1lUSjVNSjlmOGJpMmFSWnFFN2JKckxkTWVMclh3R3M3d19lMjZDSUhkcDBsRmJQWFZYNXhsZXlB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "The impact of generative AI on social media: an experimental study - Scientific Reports"
+            - figure [ref=e2065]
+          - generic [ref=e2066]:
+            - time [ref=e2067]: Feb 17
+            - separator [ref=e2068]
+            - generic [ref=e2069]: By Anders Giovanni Moller, Daniel Romero & Luca Maria Aiello
+      - generic [ref=e2070]:
+        - separator [ref=e2072]
+        - generic [ref=e2074]:
+          - generic [ref=e2075]:
+            - link [ref=e2077] [cursor=pointer]:
+              - /url: ./read/CBMiqAFBVV95cUxPLWNJbUw1S2k2ZVFYVVlIbFlJdk9iRHpCZzRYNzZydEFSMWlZLU1FQWFvcm5ybU9odFhxUWVZM1dXRjBuT2NlaVlDc0QwN0hNNnc0UHo4TWd2eWxzRUtYSUpqRHdxNmllNzhlY0xfTnlSMnUwYnBDel81cXFkbTEwd19QNVZfR1FNVW5UUno2bHJCWnl6VFVibXNPYWg0UmlhTWZuSTh6NG0?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2079]:
+              - generic [ref=e2080]:
+                - generic [ref=e2083]: InfoWorld
+                - generic [ref=e2087]:
+                  - generic:
+                    - button "More - What is generative AI? How artificial intelligence creates content" [ref=e2088] [cursor=pointer]:
+                      - img [ref=e2090]
+                    - tooltip [ref=e2092]: More
+              - link "What is generative AI? How artificial intelligence creates content - InfoWorld - Nov 7 - By Josh Fruhlinger" [ref=e2093] [cursor=pointer]:
+                - /url: ./read/CBMiqAFBVV95cUxPLWNJbUw1S2k2ZVFYVVlIbFlJdk9iRHpCZzRYNzZydEFSMWlZLU1FQWFvcm5ybU9odFhxUWVZM1dXRjBuT2NlaVlDc0QwN0hNNnc0UHo4TWd2eWxzRUtYSUpqRHdxNmllNzhlY0xfTnlSMnUwYnBDel81cXFkbTEwd19QNVZfR1FNVW5UUno2bHJCWnl6VFVibXNPYWg0UmlhTWZuSTh6NG0?hl=en-US&gl=US&ceid=US%3Aen
+                - text: What is generative AI? How artificial intelligence creates content
+            - figure [ref=e2094]
+          - generic [ref=e2095]:
+            - time [ref=e2096]: Nov 7
+            - separator [ref=e2097]
+            - generic [ref=e2098]: By Josh Fruhlinger
+      - generic [ref=e2099]:
+        - separator [ref=e2101]
+        - generic [ref=e2103]:
+          - generic [ref=e2104]:
+            - link [ref=e2106] [cursor=pointer]:
+              - /url: ./read/CBMib0FVX3lxTE5kOWU0Y1JwbGN6NjdQLU44bTB4cHYtZGtFNEZOUnQtcXJfOTlleWw3WlJhNmdLQjYtWDhHdTk1QWVUMVJmbzFCNkVOVTF2dGNac2twREpMeFZWdnEwM0JHQ29rQkJlSUNDR2JFdV8tb9IBdEFVX3lxTE5OM2p6TGRpN0lTUHF1X1ZTZzRndDJJakluNnRPQmdXOUdWRWRiREowOVl0YzJrOTB0M1Q2RU9ZSXpJb25EUUVMZmR2Q2FZVEs1Q1BVTTY3Zm82YnNCSlE4WlVlaVVObFRkYjMzWEhTNTVHSVdW?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2108]:
+              - generic [ref=e2109]:
+                - generic [ref=e2112]: CNBC
+                - generic [ref=e2116]:
+                  - generic:
+                    - button "More - AI chipmaker Cerebras targets $3.5 billion raise in IPO" [ref=e2117] [cursor=pointer]:
+                      - img [ref=e2119]
+                    - tooltip [ref=e2121]: More
+              - link "AI chipmaker Cerebras targets $3.5 billion raise in IPO - CNBC - Yesterday - By Jordan Novet" [ref=e2122] [cursor=pointer]:
+                - /url: ./read/CBMib0FVX3lxTE5kOWU0Y1JwbGN6NjdQLU44bTB4cHYtZGtFNEZOUnQtcXJfOTlleWw3WlJhNmdLQjYtWDhHdTk1QWVUMVJmbzFCNkVOVTF2dGNac2twREpMeFZWdnEwM0JHQ29rQkJlSUNDR2JFdV8tb9IBdEFVX3lxTE5OM2p6TGRpN0lTUHF1X1ZTZzRndDJJakluNnRPQmdXOUdWRWRiREowOVl0YzJrOTB0M1Q2RU9ZSXpJb25EUUVMZmR2Q2FZVEs1Q1BVTTY3Zm82YnNCSlE4WlVlaVVObFRkYjMzWEhTNTVHSVdW?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI chipmaker Cerebras targets $3.5 billion raise in IPO
+            - figure [ref=e2123]
+          - generic [ref=e2124]:
+            - time [ref=e2125]: Yesterday
+            - separator [ref=e2126]
+            - generic [ref=e2127]: By Jordan Novet
+      - generic [ref=e2128]:
+        - separator [ref=e2130]
+        - generic [ref=e2132]:
+          - generic [ref=e2133]:
+            - link [ref=e2135] [cursor=pointer]:
+              - /url: ./read/CBMinwFBVV95cUxPMGpXSWd4X1QxV1BJMGlaUEpFa2FyZThPOGxTN0w1QjJrWFZvSGpfUndIc2d0WWRjeUgxQ2taSDVLWkRyOVlfdWtHVFhZSl9CV3pPTmd5M2F1cUV3SzRBWlpuYy10UEVlNXJXamx0TTJqN0pOMkpBUVF6RUhjQWNSQ29uemNvVGdQYUY5THV2UWJlelNHSDVRblZmRWhiSlU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2137]:
+              - generic [ref=e2138]:
+                - generic [ref=e2141]: MIT Sloan
+                - generic [ref=e2145]:
+                  - generic:
+                    - button "More - Generative AI changes how employees spend their time" [ref=e2146] [cursor=pointer]:
+                      - img [ref=e2148]
+                    - tooltip [ref=e2150]: More
+              - link "Generative AI changes how employees spend their time - MIT Sloan - Mar 10 - By Brian Eastwood" [ref=e2151] [cursor=pointer]:
+                - /url: ./read/CBMinwFBVV95cUxPMGpXSWd4X1QxV1BJMGlaUEpFa2FyZThPOGxTN0w1QjJrWFZvSGpfUndIc2d0WWRjeUgxQ2taSDVLWkRyOVlfdWtHVFhZSl9CV3pPTmd5M2F1cUV3SzRBWlpuYy10UEVlNXJXamx0TTJqN0pOMkpBUVF6RUhjQWNSQ29uemNvVGdQYUY5THV2UWJlelNHSDVRblZmRWhiSlU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Generative AI changes how employees spend their time
+            - figure [ref=e2152]
+          - generic [ref=e2153]:
+            - time [ref=e2154]: Mar 10
+            - separator [ref=e2155]
+            - generic [ref=e2156]: By Brian Eastwood
+      - generic [ref=e2157]:
+        - separator [ref=e2159]
+        - generic [ref=e2161]:
+          - generic [ref=e2162]:
+            - link [ref=e2164] [cursor=pointer]:
+              - /url: ./read/CBMi3AFBVV95cUxOdEZsWWYxNTlJZHpaQ3BQbzJDajJLbTl5cXUxMlBPSE5hbHJiRzlJNkJDbU02T1VYc0NCY2NqaDFwaFF4b19qRkw3aHdRU2RQT2RkTVhLZVJPeVplTzRSVG5KVDVjb1NOZXNzYTg3LW9rN3lqbklkVGloNHZMMjZjYUtWNF95dEtQamhsRThlanRpMXREMW53OG9pMTk1S0k4Nm9JZ19fRUVSTFJtZE9ndjFXekx6ZWw0RnpRR1pJdW5pTURleHNIS2V6YVVqOUdYUERzeWNYYkxmTVhn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2166]:
+              - generic [ref=e2167]:
+                - generic [ref=e2170]: Greater Birmingham Chambers of Commerce
+                - generic [ref=e2174]:
+                  - generic:
+                    - button "More - Unauthorised AI use by employees could create new challenges for businesses, lawyer warns" [ref=e2175] [cursor=pointer]:
+                      - img [ref=e2177]
+                    - tooltip [ref=e2179]: More
+              - link "Unauthorised AI use by employees could create new challenges for businesses, lawyer warns - Greater Birmingham Chambers of Commerce - 4 hours ago" [ref=e2180] [cursor=pointer]:
+                - /url: ./read/CBMi3AFBVV95cUxOdEZsWWYxNTlJZHpaQ3BQbzJDajJLbTl5cXUxMlBPSE5hbHJiRzlJNkJDbU02T1VYc0NCY2NqaDFwaFF4b19qRkw3aHdRU2RQT2RkTVhLZVJPeVplTzRSVG5KVDVjb1NOZXNzYTg3LW9rN3lqbklkVGloNHZMMjZjYUtWNF95dEtQamhsRThlanRpMXREMW53OG9pMTk1S0k4Nm9JZ19fRUVSTFJtZE9ndjFXekx6ZWw0RnpRR1pJdW5pTURleHNIS2V6YVVqOUdYUERzeWNYYkxmTVhn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Unauthorised AI use by employees could create new challenges for businesses, lawyer warns
+            - figure [ref=e2181]
+          - time [ref=e2183]: 4 hours ago
+      - generic [ref=e2184]:
+        - separator [ref=e2186]
+        - generic [ref=e2188]:
+          - generic [ref=e2189]:
+            - link [ref=e2191] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxPVEFaeGJmZ0pSVnFfQ1pnS3hSVGN6Z1g3TnFucHVROHo3Q1FjUEFIQnloM1U1ZEM5TTJhaDJzR0hPcGQyZjlla2VmNkpSckdIRS1IVUhmRjJEaFVQdmlyUzNMZkFqWFB1c0pPVHpNNWVjZURUU0h6UEptWVd1Vk1XLVNXaVVHTE1LSV9CZENlY0l3bGRDNlZnRi1sNzlEMTkybzI5c1VTMEFPZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2193]:
+              - generic [ref=e2194]:
+                - generic [ref=e2197]: Deloitte
+                - generic [ref=e2201]:
+                  - generic:
+                    - button "More - Generative AI to Reshape the Future of Life Sciences" [ref=e2202] [cursor=pointer]:
+                      - img [ref=e2204]
+                    - tooltip [ref=e2206]: More
+              - link "Generative AI to Reshape the Future of Life Sciences - Deloitte - Apr 18" [ref=e2207] [cursor=pointer]:
+                - /url: ./read/CBMiqgFBVV95cUxPVEFaeGJmZ0pSVnFfQ1pnS3hSVGN6Z1g3TnFucHVROHo3Q1FjUEFIQnloM1U1ZEM5TTJhaDJzR0hPcGQyZjlla2VmNkpSckdIRS1IVUhmRjJEaFVQdmlyUzNMZkFqWFB1c0pPVHpNNWVjZURUU0h6UEptWVd1Vk1XLVNXaVVHTE1LSV9CZENlY0l3bGRDNlZnRi1sNzlEMTkybzI5c1VTMEFPZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Generative AI to Reshape the Future of Life Sciences
+            - figure [ref=e2208]
+          - time [ref=e2210]: Apr 18
+      - generic [ref=e2211]:
+        - separator [ref=e2213]
+        - generic [ref=e2215]:
+          - generic [ref=e2216]:
+            - link [ref=e2218] [cursor=pointer]:
+              - /url: ./read/CBMinwFBVV95cUxNdDBjWDFQc1FibUZXUEt6ZHRhdkNKRDFISjM3cnh4RW9zMDl2Ym1PMVNSemkzN0ZrTEUycEZHY2djejFQRWhIVlFxVkpSVGstZ3U0ZnpaN2wzZnB0ektGaGJsVzRRdGhGQ01JblN3d0RNSDAtTWx5Uk1jaWpxNnNYZDdWSEJCVXk0dFRFWmxSM0tvYmlnOF9hVURvTGx0Wnc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2220]:
+              - generic [ref=e2221]:
+                - generic [ref=e2224]: TechSpot
+                - generic [ref=e2228]:
+                  - generic:
+                    - button "More - A government used AI to write its AI regulations. It did not go well" [ref=e2229] [cursor=pointer]:
+                      - img [ref=e2231]
+                    - tooltip [ref=e2233]: More
+              - link "A government used AI to write its AI regulations. It did not go well - TechSpot - 16 hours ago - By Alfonso Maruccia" [ref=e2234] [cursor=pointer]:
+                - /url: ./read/CBMinwFBVV95cUxNdDBjWDFQc1FibUZXUEt6ZHRhdkNKRDFISjM3cnh4RW9zMDl2Ym1PMVNSemkzN0ZrTEUycEZHY2djejFQRWhIVlFxVkpSVGstZ3U0ZnpaN2wzZnB0ektGaGJsVzRRdGhGQ01JblN3d0RNSDAtTWx5Uk1jaWpxNnNYZDdWSEJCVXk0dFRFWmxSM0tvYmlnOF9hVURvTGx0Wnc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: A government used AI to write its AI regulations. It did not go well
+            - figure [ref=e2235]
+          - generic [ref=e2236]:
+            - time [ref=e2237]: 16 hours ago
+            - separator [ref=e2238]
+            - generic [ref=e2239]: By Alfonso Maruccia
+      - generic [ref=e2240]:
+        - separator [ref=e2242]
+        - generic [ref=e2244]:
+          - generic [ref=e2245]:
+            - link [ref=e2247] [cursor=pointer]:
+              - /url: ./read/CBMijAFBVV95cUxQMGl5ZFczdlZBSnFBc2FMaDQzMGFhczBQVFlKQ3ZwQXZONEJjdTZwdk81MEppZ3E1cnhpeEJzTmJTc29YejNGTkIwUEpiZDhNQ2pXUUxRbkVVWThjYTNSWmFWZHpaWmtnN2RMa1pweFEyZ2I0TTRzZWk0Tlhnal95YjFvQjVpUGtYMXlIWA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2249]:
+              - generic [ref=e2250]:
+                - generic [ref=e2253]: Federal Reserve Bank of St. Louis
+                - generic [ref=e2257]:
+                  - generic:
+                    - button "More - The State of Generative AI Adoption in 2025" [ref=e2258] [cursor=pointer]:
+                      - img [ref=e2260]
+                    - tooltip [ref=e2262]: More
+              - link "The State of Generative AI Adoption in 2025 - Federal Reserve Bank of St. Louis - Nov 13 - By Alexander Bick, Adam Blandin & David Deming" [ref=e2263] [cursor=pointer]:
+                - /url: ./read/CBMijAFBVV95cUxQMGl5ZFczdlZBSnFBc2FMaDQzMGFhczBQVFlKQ3ZwQXZONEJjdTZwdk81MEppZ3E1cnhpeEJzTmJTc29YejNGTkIwUEpiZDhNQ2pXUUxRbkVVWThjYTNSWmFWZHpaWmtnN2RMa1pweFEyZ2I0TTRzZWk0Tlhnal95YjFvQjVpUGtYMXlIWA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The State of Generative AI Adoption in 2025
+            - figure [ref=e2264]
+          - generic [ref=e2265]:
+            - time [ref=e2266]: Nov 13
+            - separator [ref=e2267]
+            - generic [ref=e2268]: By Alexander Bick, Adam Blandin & David Deming
+      - generic [ref=e2269]:
+        - separator [ref=e2271]
+        - generic [ref=e2273]:
+          - generic [ref=e2274]:
+            - link [ref=e2276] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxPYk4wNXIxcVlHWlhpbVFWdUJzZzgxQU1Wd3o5eEhIRl9XREUyR2VUUDBkakhkYktVNjhPWWh2X0ZwOE5rQlFsVmNhY1RQLVQ4czMzd3ZBbFNCazVsZi0tODZaZ3hYcXp1RkNDRFhycWFPMllRbGNxWjUwTVR2RkJDSGdObFVncVJ0LUdnNlFCZFI1TzNvQW5Vb2dOTkM4azlOcHlhc1ByU3laZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2278]:
+              - generic [ref=e2279]:
+                - generic [ref=e2282]: InfoWorld
+                - generic [ref=e2286]:
+                  - generic:
+                    - 'button "More - Small language models: Rethinking enterprise AI architecture" [ref=e2287] [cursor=pointer]':
+                      - img [ref=e2289]
+                    - tooltip [ref=e2291]: More
+              - 'link "Small language models: Rethinking enterprise AI architecture - InfoWorld - Yesterday - By Taryn Plumb" [ref=e2292] [cursor=pointer]':
+                - /url: ./read/CBMiqgFBVV95cUxPYk4wNXIxcVlHWlhpbVFWdUJzZzgxQU1Wd3o5eEhIRl9XREUyR2VUUDBkakhkYktVNjhPWWh2X0ZwOE5rQlFsVmNhY1RQLVQ4czMzd3ZBbFNCazVsZi0tODZaZ3hYcXp1RkNDRFhycWFPMllRbGNxWjUwTVR2RkJDSGdObFVncVJ0LUdnNlFCZFI1TzNvQW5Vb2dOTkM4azlOcHlhc1ByU3laZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Small language models: Rethinking enterprise AI architecture"
+            - figure [ref=e2293]
+          - generic [ref=e2294]:
+            - time [ref=e2295]: Yesterday
+            - separator [ref=e2296]
+            - generic [ref=e2297]: By Taryn Plumb
+      - generic [ref=e2298]:
+        - separator [ref=e2300]
+        - generic [ref=e2302]:
+          - generic [ref=e2303]:
+            - link [ref=e2305] [cursor=pointer]:
+              - /url: ./read/CBMi4AFBVV95cUxQbTdydDJiTjR2M2dUV2xxbVNLVDhCMVptdVpTbWdya0syQ2F4c1lxYzVMRWFnaEQtMDdMY3JpOUNzSWphMnQwTWxpNlBmY0tEZ25XNVNsUmtUalI2X0JtUjBfZVprcjJKR3NjeVJ2TUh6Nkt6c2JSRVM5bTk2ZWtGTUtuUzUyTnY3bmxjMjdNWFVJUFA5dm9rakR4YV9xM1luVFNmTW5nSk1aZ1dIX244ZVBxdjA0Wl9Eb3J5Z1BIUEltRE85VVNralZTelljNmtySjlSaXR2TzNEbVE0ZVVISQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2307]:
+              - generic [ref=e2308]:
+                - generic [ref=e2311]: Newstalk ZB
+                - generic [ref=e2315]:
+                  - generic:
+                    - button "More - How generative AI could spell end to entry-level creative roles - study" [ref=e2316] [cursor=pointer]:
+                      - img [ref=e2318]
+                    - tooltip [ref=e2320]: More
+              - link "How generative AI could spell end to entry-level creative roles - study - Newstalk ZB - 8 hours ago" [ref=e2321] [cursor=pointer]:
+                - /url: ./read/CBMi4AFBVV95cUxQbTdydDJiTjR2M2dUV2xxbVNLVDhCMVptdVpTbWdya0syQ2F4c1lxYzVMRWFnaEQtMDdMY3JpOUNzSWphMnQwTWxpNlBmY0tEZ25XNVNsUmtUalI2X0JtUjBfZVprcjJKR3NjeVJ2TUh6Nkt6c2JSRVM5bTk2ZWtGTUtuUzUyTnY3bmxjMjdNWFVJUFA5dm9rakR4YV9xM1luVFNmTW5nSk1aZ1dIX244ZVBxdjA0Wl9Eb3J5Z1BIUEltRE85VVNralZTelljNmtySjlSaXR2TzNEbVE0ZVVISQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How generative AI could spell end to entry-level creative roles - study
+            - figure [ref=e2322]
+          - time [ref=e2324]: 8 hours ago
+      - generic [ref=e2325]:
+        - separator [ref=e2327]
+        - generic [ref=e2329]:
+          - generic [ref=e2330]:
+            - link [ref=e2332] [cursor=pointer]:
+              - /url: ./read/CBMifkFVX3lxTFBrUzAxM3hxTWlZSklsOFMyN2xydkVZQmpIY3V6ZHRqRVNxSDdWRmxPNFQ3cnlrSU8tOVBydExUM19KZFBRQTBqR202YnBTT2JoVHpzckRuSC1WZFJHSnpSaUJnclp5bTVPbFdBd2RYLTFJazV0d1dJNUNPZmMtZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2334]:
+              - generic [ref=e2335]:
+                - generic [ref=e2338]: Marcus on AI | Substack
+                - generic [ref=e2342]:
+                  - generic:
+                    - button "More - How Generative AI is destroying society" [ref=e2343] [cursor=pointer]:
+                      - img [ref=e2345]
+                    - tooltip [ref=e2347]: More
+              - link "How Generative AI is destroying society - Marcus on AI | Substack - Jan 14 - By Gary Marcus" [ref=e2348] [cursor=pointer]:
+                - /url: ./read/CBMifkFVX3lxTFBrUzAxM3hxTWlZSklsOFMyN2xydkVZQmpIY3V6ZHRqRVNxSDdWRmxPNFQ3cnlrSU8tOVBydExUM19KZFBRQTBqR202YnBTT2JoVHpzckRuSC1WZFJHSnpSaUJnclp5bTVPbFdBd2RYLTFJazV0d1dJNUNPZmMtZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How Generative AI is destroying society
+            - figure [ref=e2349]
+          - generic [ref=e2350]:
+            - time [ref=e2351]: Jan 14
+            - separator [ref=e2352]
+            - generic [ref=e2353]: By Gary Marcus
+      - generic [ref=e2354]:
+        - separator [ref=e2356]
+        - generic [ref=e2358]:
+          - generic [ref=e2359]:
+            - link [ref=e2361] [cursor=pointer]:
+              - /url: ./read/CBMilgFBVV95cUxPcFA1bG5xeDlqX2JwUFpsRzZSVGV2a1VSMkN2Q1NjajZWVTFZQ3U2QnRyc0Q2aEZ4QUtLTVhFM0JKVEotd1RqbGlDN0tZZEcwSllIMFU3eldCOVk5RW5nNHpieEdYdXlJZy1Td2czMTZpbjJwQmh0QmUxRmx2NUxUbVBYT1c1Q2doQVFmNmNkVWxHcGdUaGc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2363]:
+              - generic [ref=e2364]:
+                - generic [ref=e2367]: Brookings
+                - generic [ref=e2371]:
+                  - generic:
+                    - button "More - What the research shows about generative AI in tutoring" [ref=e2372] [cursor=pointer]:
+                      - img [ref=e2374]
+                    - tooltip [ref=e2376]: More
+              - link "What the research shows about generative AI in tutoring - Brookings - Jan 27" [ref=e2377] [cursor=pointer]:
+                - /url: ./read/CBMilgFBVV95cUxPcFA1bG5xeDlqX2JwUFpsRzZSVGV2a1VSMkN2Q1NjajZWVTFZQ3U2QnRyc0Q2aEZ4QUtLTVhFM0JKVEotd1RqbGlDN0tZZEcwSllIMFU3eldCOVk5RW5nNHpieEdYdXlJZy1Td2czMTZpbjJwQmh0QmUxRmx2NUxUbVBYT1c1Q2doQVFmNmNkVWxHcGdUaGc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: What the research shows about generative AI in tutoring
+            - figure [ref=e2378]
+          - time [ref=e2380]: Jan 27
+      - generic [ref=e2381]:
+        - separator [ref=e2383]
+        - generic [ref=e2385]:
+          - generic [ref=e2386]:
+            - link [ref=e2388] [cursor=pointer]:
+              - /url: ./read/CBMid0FVX3lxTE5tOWRqTHBLUWZ1cTNXMTkzNlQzT3FSSXBHQlFuOTR6Y1oxWTJ0bTBmUk92MDA2OExfUXRud2FnZ0oxWlUydkhVdVVEZ01jSUs3TDJudklMQWctU0YyZmxraXBmSE1RdmlOSHNzVF9jY0xIaTlxZXhZ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2390]:
+              - generic [ref=e2391]:
+                - generic [ref=e2394]: Marcus on AI | Substack
+                - generic [ref=e2398]:
+                  - generic:
+                    - button "More - Turns out Generative AI was a scam" [ref=e2399] [cursor=pointer]:
+                      - img [ref=e2401]
+                    - tooltip [ref=e2403]: More
+              - link "Turns out Generative AI was a scam - Marcus on AI | Substack - Feb 23 - By Gary Marcus" [ref=e2404] [cursor=pointer]:
+                - /url: ./read/CBMid0FVX3lxTE5tOWRqTHBLUWZ1cTNXMTkzNlQzT3FSSXBHQlFuOTR6Y1oxWTJ0bTBmUk92MDA2OExfUXRud2FnZ0oxWlUydkhVdVVEZ01jSUs3TDJudklMQWctU0YyZmxraXBmSE1RdmlOSHNzVF9jY0xIaTlxZXhZ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Turns out Generative AI was a scam
+            - figure [ref=e2405]
+          - generic [ref=e2406]:
+            - time [ref=e2407]: Feb 23
+            - separator [ref=e2408]
+            - generic [ref=e2409]: By Gary Marcus
+      - generic [ref=e2410]:
+        - separator [ref=e2412]
+        - generic [ref=e2414]:
+          - generic [ref=e2415]:
+            - link [ref=e2417] [cursor=pointer]:
+              - /url: ./read/CBMigwFBVV95cUxQZzRNck5icTJRcmJra3JHeHZGVmFTeWR4ZVY3eVZaVkRsVGNoYUdLb0VLT3BvTlpSQ1dSVFFILUJxRndNTHZQMnI1YXdxV2pfeEd0d3hlbVZlUmM1MUJIN3B2cGhQTk1JdklvUEpQeW52SXRraXFwbmZCSWs3VUxfOU42UQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2419]:
+              - generic [ref=e2420]:
+                - generic [ref=e2423]: MIT Sloan Management Review
+                - generic [ref=e2427]:
+                  - generic:
+                    - button "More - Gain Consumer Insight With Generative AI" [ref=e2428] [cursor=pointer]:
+                      - img [ref=e2430]
+                    - tooltip [ref=e2432]: More
+              - link "Gain Consumer Insight With Generative AI - MIT Sloan Management Review - Apr 8" [ref=e2433] [cursor=pointer]:
+                - /url: ./read/CBMigwFBVV95cUxQZzRNck5icTJRcmJra3JHeHZGVmFTeWR4ZVY3eVZaVkRsVGNoYUdLb0VLT3BvTlpSQ1dSVFFILUJxRndNTHZQMnI1YXdxV2pfeEd0d3hlbVZlUmM1MUJIN3B2cGhQTk1JdklvUEpQeW52SXRraXFwbmZCSWs3VUxfOU42UQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Gain Consumer Insight With Generative AI
+            - figure [ref=e2434]
+          - time [ref=e2436]: Apr 8
+      - generic [ref=e2437]:
+        - separator [ref=e2439]
+        - generic [ref=e2441]:
+          - generic [ref=e2442]:
+            - link [ref=e2444] [cursor=pointer]:
+              - /url: ./read/CBMimgFBVV95cUxNcENzTGR3bUdQOEhhUUlrWWM1aVJ1RUVKdjhUYXRUVnBCQWxFQmVZMjEwcWRlQ3RrSXJrSVZjQkNaQVpwYWlnaEFlTEtPNnFXU0RVcWRGNFBkSm9ydzVQWGk5RjBSZVVIOWRONW5fZ05zdGtKejRYZThXT3I2R2FuaTBIZ0dLU2tpbm5Wd2ZsUnIwaWwtR2E2d2Jn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2446]:
+              - generic [ref=e2447]:
+                - generic [ref=e2450]: Dataconomy
+                - generic [ref=e2454]:
+                  - generic:
+                    - button "More - Study Warns Generative AI Raises ML Security And Bias Risks" [ref=e2455] [cursor=pointer]:
+                      - img [ref=e2457]
+                    - tooltip [ref=e2459]: More
+              - link "Study Warns Generative AI Raises ML Security And Bias Risks - Dataconomy - Yesterday - By Kerem Gulen" [ref=e2460] [cursor=pointer]:
+                - /url: ./read/CBMimgFBVV95cUxNcENzTGR3bUdQOEhhUUlrWWM1aVJ1RUVKdjhUYXRUVnBCQWxFQmVZMjEwcWRlQ3RrSXJrSVZjQkNaQVpwYWlnaEFlTEtPNnFXU0RVcWRGNFBkSm9ydzVQWGk5RjBSZVVIOWRONW5fZ05zdGtKejRYZThXT3I2R2FuaTBIZ0dLU2tpbm5Wd2ZsUnIwaWwtR2E2d2Jn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Study Warns Generative AI Raises ML Security And Bias Risks
+            - figure [ref=e2461]
+          - generic [ref=e2462]:
+            - time [ref=e2463]: Yesterday
+            - separator [ref=e2464]
+            - generic [ref=e2465]: By Kerem Gulen
+      - generic [ref=e2466]:
+        - separator [ref=e2468]
+        - generic [ref=e2470]:
+          - generic [ref=e2471]:
+            - link [ref=e2473] [cursor=pointer]:
+              - /url: ./read/CBMilwFBVV95cUxNQzJ0cHBmRmVIZHBzdXhQZmx5ai1kYWpLazFveEhEdktsOU9WT3BMOHloMU81eEVpcUI0cHZDQ0JxU1NIMmMyd2xlRUNpSzBrWW9reV9NYkVwTW5kVy12d25FSldjaV9DSVRreVotVS02T2JTRmVJNmtxQ0tpWEp6OWt4Rzc2MmRUTGI4V2hWN3dwUGZBVTA4?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2475]:
+              - generic [ref=e2476]:
+                - generic [ref=e2479]: OECD
+                - generic [ref=e2483]:
+                  - generic:
+                    - button "More - How to effectively use Generative AI in education" [ref=e2484] [cursor=pointer]:
+                      - img [ref=e2486]
+                    - tooltip [ref=e2488]: More
+              - link "How to effectively use Generative AI in education - OECD - Jan 19 - By Andreas Schleicher" [ref=e2489] [cursor=pointer]:
+                - /url: ./read/CBMilwFBVV95cUxNQzJ0cHBmRmVIZHBzdXhQZmx5ai1kYWpLazFveEhEdktsOU9WT3BMOHloMU81eEVpcUI0cHZDQ0JxU1NIMmMyd2xlRUNpSzBrWW9reV9NYkVwTW5kVy12d25FSldjaV9DSVRreVotVS02T2JTRmVJNmtxQ0tpWEp6OWt4Rzc2MmRUTGI4V2hWN3dwUGZBVTA4?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How to effectively use Generative AI in education
+            - figure [ref=e2490]
+          - generic [ref=e2491]:
+            - time [ref=e2492]: Jan 19
+            - separator [ref=e2493]
+            - generic [ref=e2494]: By Andreas Schleicher
+      - generic [ref=e2495]:
+        - separator [ref=e2497]
+        - generic [ref=e2499]:
+          - generic [ref=e2500]:
+            - link [ref=e2502] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxNMDdXZHM4QjNaT0lqUTdWeThkczRJeTlVMGx3aFlFRDg5LWlZLTlpTjRIcDJhZXBNd2h0NjYtbm1aLXgtNHFiNGU1Y24yTWVvTjRxY3lqRGpKQy1pV1VISWU2aV90RlZqbWdQbXVOZGVNVHNQa2xTS0toYnFLc0xxeERXS1JtaG1UMVo4dkJzZVF5anVVdVhtWHRldmk1UQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2504]:
+              - generic [ref=e2505]:
+                - generic [ref=e2508]: MIT News
+                - generic [ref=e2512]:
+                  - generic:
+                    - button "More - How generative AI can help scientists synthesize complex materials" [ref=e2513] [cursor=pointer]:
+                      - img [ref=e2515]
+                    - tooltip [ref=e2517]: More
+              - link "How generative AI can help scientists synthesize complex materials - MIT News - Feb 2 - By Zach Winn" [ref=e2518] [cursor=pointer]:
+                - /url: ./read/CBMingFBVV95cUxNMDdXZHM4QjNaT0lqUTdWeThkczRJeTlVMGx3aFlFRDg5LWlZLTlpTjRIcDJhZXBNd2h0NjYtbm1aLXgtNHFiNGU1Y24yTWVvTjRxY3lqRGpKQy1pV1VISWU2aV90RlZqbWdQbXVOZGVNVHNQa2xTS0toYnFLc0xxeERXS1JtaG1UMVo4dkJzZVF5anVVdVhtWHRldmk1UQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How generative AI can help scientists synthesize complex materials
+            - figure [ref=e2519]
+          - generic [ref=e2520]:
+            - time [ref=e2521]: Feb 2
+            - separator [ref=e2522]
+            - generic [ref=e2523]: By Zach Winn
+      - generic [ref=e2524]:
+        - separator [ref=e2526]
+        - generic [ref=e2528]:
+          - generic [ref=e2529]:
+            - link [ref=e2531] [cursor=pointer]:
+              - /url: ./read/CBMid0FVX3lxTE0xMW5FVkhsZW9LY0JVQUQ3ck8zbll0Wl9HN2dFYklLUlJOLW16UENzNGdlU0VCbnVfNHBOYzRsbVJDTWNfai1zZlNxenk3eGZFY1E4eGhXRUw2U21BbkVRX3ZGdG5RXzRyQlI4S0FxYjFCenJOZDhv?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2533]:
+              - generic [ref=e2534]:
+                - generic [ref=e2537]: Towards Data Science
+                - generic [ref=e2541]:
+                  - generic:
+                    - button "More - Understanding the Generative AI User" [ref=e2542] [cursor=pointer]:
+                      - img [ref=e2544]
+                    - tooltip [ref=e2546]: More
+              - link "Understanding the Generative AI User - Towards Data Science - Dec 20 - By Stephanie Kirmer" [ref=e2547] [cursor=pointer]:
+                - /url: ./read/CBMid0FVX3lxTE0xMW5FVkhsZW9LY0JVQUQ3ck8zbll0Wl9HN2dFYklLUlJOLW16UENzNGdlU0VCbnVfNHBOYzRsbVJDTWNfai1zZlNxenk3eGZFY1E4eGhXRUw2U21BbkVRX3ZGdG5RXzRyQlI4S0FxYjFCenJOZDhv?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Understanding the Generative AI User
+            - figure [ref=e2548]
+          - generic [ref=e2549]:
+            - time [ref=e2550]: Dec 20
+            - separator [ref=e2551]
+            - generic [ref=e2552]: By Stephanie Kirmer
+      - generic [ref=e2553]:
+        - separator [ref=e2555]
+        - generic [ref=e2557]:
+          - generic [ref=e2558]:
+            - link [ref=e2560] [cursor=pointer]:
+              - /url: ./read/CBMibkFVX3lxTFByYjR1WVd5dmlnZlVVc0dRZFBLdHRLTWFPQWJFemh1aXlieHFsbmxSZ2xCRlN4cU9lV2hZSnlkNGFPbkVBeWNqVnVqd0lRcHJINmM0SmJENVRXTXlXakpwbTlqYnZWeF9IamF2eXJB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2562]:
+              - generic [ref=e2563]:
+                - generic [ref=e2566]: City of San Jose (.gov)
+                - generic [ref=e2570]:
+                  - generic:
+                    - 'button "More - NEWS RELEASE: San José to Release RFP for Generative AI Platform" [ref=e2571] [cursor=pointer]':
+                      - img [ref=e2573]
+                    - tooltip [ref=e2575]: More
+              - 'link "NEWS RELEASE: San José to Release RFP for Generative AI Platform - City of San Jose (.gov) - Oct 15, 2025" [ref=e2576] [cursor=pointer]':
+                - /url: ./read/CBMibkFVX3lxTFByYjR1WVd5dmlnZlVVc0dRZFBLdHRLTWFPQWJFemh1aXlieHFsbmxSZ2xCRlN4cU9lV2hZSnlkNGFPbkVBeWNqVnVqd0lRcHJINmM0SmJENVRXTXlXakpwbTlqYnZWeF9IamF2eXJB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "NEWS RELEASE: San José to Release RFP for Generative AI Platform"
+          - time [ref=e2578]: Oct 15, 2025
+      - generic [ref=e2579]:
+        - separator [ref=e2581]
+        - generic [ref=e2583]:
+          - generic [ref=e2584]:
+            - link [ref=e2586] [cursor=pointer]:
+              - /url: ./read/CBMijAFBVV95cUxPenFuZ19fc216RmNXb2t4MGtXd0RBR2hudmZrT3JjcTZVUElkYkltaVlKeHdTbEwzS3k5OTBTWGw4V0NmUGFFaTdRN1JLZG4tM3ZteUJpN04zYWJYMnotTjBYbU92VFNodG42aFVGZnZDSGtCS3hKdHFwSEVUOGp4NFppM2hKZFM0VDN0eQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2588]:
+              - generic [ref=e2589]:
+                - generic [ref=e2592]: Mishcon de Reya LLP
+                - generic [ref=e2596]:
+                  - generic:
+                    - button "More - Generative AI – IP cases and policy tracker" [ref=e2597] [cursor=pointer]:
+                      - img [ref=e2599]
+                    - tooltip [ref=e2601]: More
+              - link "Generative AI – IP cases and policy tracker - Mishcon de Reya LLP - Apr 15" [ref=e2602] [cursor=pointer]:
+                - /url: ./read/CBMijAFBVV95cUxPenFuZ19fc216RmNXb2t4MGtXd0RBR2hudmZrT3JjcTZVUElkYkltaVlKeHdTbEwzS3k5OTBTWGw4V0NmUGFFaTdRN1JLZG4tM3ZteUJpN04zYWJYMnotTjBYbU92VFNodG42aFVGZnZDSGtCS3hKdHFwSEVUOGp4NFppM2hKZFM0VDN0eQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Generative AI – IP cases and policy tracker
+            - figure [ref=e2603]
+          - time [ref=e2605]: Apr 15
+      - generic [ref=e2606]:
+        - separator [ref=e2608]
+        - generic [ref=e2610]:
+          - generic [ref=e2611]:
+            - link [ref=e2613] [cursor=pointer]:
+              - /url: ./read/CBMirAFBVV95cUxPRG9fT2FtcGZRc09RZVdMYUt2M0RFVFZyTGEzaXpRVk5ud19Nb1U4S0J6LVdyVThrWFBZZXBHcFFCdVB6Q05LRWRsQzJUQXRZall0UkFGNk5rS2dzUXlSMWx6OTJzU2hrMFQ0NVl3TTRUTUlkZVFnekRFRXUwTHZ0M3kwQnRsME9KSUozeEhEZFY1d1lMTVp2aGpPcS1IOHl3ZzR6TnlwUnBKX2Q2?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2615]:
+              - generic [ref=e2616]:
+                - generic [ref=e2619]: MIT News
+                - generic [ref=e2623]:
+                  - generic:
+                    - button "More - Using generative AI, researchers design compounds that can kill drug-resistant bacteria" [ref=e2624] [cursor=pointer]:
+                      - img [ref=e2626]
+                    - tooltip [ref=e2628]: More
+              - link "Using generative AI, researchers design compounds that can kill drug-resistant bacteria - MIT News - Aug 14, 2025 - By Anne Trafton" [ref=e2629] [cursor=pointer]:
+                - /url: ./read/CBMirAFBVV95cUxPRG9fT2FtcGZRc09RZVdMYUt2M0RFVFZyTGEzaXpRVk5ud19Nb1U4S0J6LVdyVThrWFBZZXBHcFFCdVB6Q05LRWRsQzJUQXRZall0UkFGNk5rS2dzUXlSMWx6OTJzU2hrMFQ0NVl3TTRUTUlkZVFnekRFRXUwTHZ0M3kwQnRsME9KSUozeEhEZFY1d1lMTVp2aGpPcS1IOHl3ZzR6TnlwUnBKX2Q2?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Using generative AI, researchers design compounds that can kill drug-resistant bacteria
+            - figure [ref=e2630]
+          - generic [ref=e2631]:
+            - time [ref=e2632]: Aug 14, 2025
+            - separator [ref=e2633]
+            - generic [ref=e2634]: By Anne Trafton
+      - generic [ref=e2635]:
+        - separator [ref=e2637]
+        - generic [ref=e2639]:
+          - generic [ref=e2640]:
+            - link [ref=e2642] [cursor=pointer]:
+              - /url: ./read/CBMiigFBVV95cUxQX2hGZlhqMjFTc3ViY2w1bjQybURZNzloOFlmUjBJb2VkMG9IZE1ldDJzaW1PM245VFZpd2V0SzA1cHdtVHJIdEk0R0FtZlZoVGZZVmwxR1hXSXF3RmJTVGtuLWtIenlNTUhKa0pLWlFicTMxQ21mX2tCVS1pbWJ4RG56WUhUbzZRYUE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2644]:
+              - generic [ref=e2645]:
+                - generic [ref=e2648]: Menlo Ventures
+                - generic [ref=e2652]:
+                  - generic:
+                    - 'button "More - 2025: The State of Generative AI in the Enterprise" [ref=e2653] [cursor=pointer]':
+                      - img [ref=e2655]
+                    - tooltip [ref=e2657]: More
+              - 'link "2025: The State of Generative AI in the Enterprise - Menlo Ventures - Dec 9 - By Deedy Das, Joff Redfern & Tim Tully" [ref=e2658] [cursor=pointer]':
+                - /url: ./read/CBMiigFBVV95cUxQX2hGZlhqMjFTc3ViY2w1bjQybURZNzloOFlmUjBJb2VkMG9IZE1ldDJzaW1PM245VFZpd2V0SzA1cHdtVHJIdEk0R0FtZlZoVGZZVmwxR1hXSXF3RmJTVGtuLWtIenlNTUhKa0pLWlFicTMxQ21mX2tCVS1pbWJ4RG56WUhUbzZRYUE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "2025: The State of Generative AI in the Enterprise"
+            - figure [ref=e2659]
+          - generic [ref=e2660]:
+            - time [ref=e2661]: Dec 9
+            - separator [ref=e2662]
+            - generic [ref=e2663]: By Deedy Das, Joff Redfern & Tim Tully
+      - generic [ref=e2664]:
+        - separator [ref=e2666]
+        - generic [ref=e2668]:
+          - generic [ref=e2669]:
+            - link [ref=e2671] [cursor=pointer]:
+              - /url: ./read/CBMidEFVX3lxTE9VX085Rm9lRmthODh5M3FfbUFKSEh3djBwSE80c0Y0clB3bENMeklaOUh2My1hYzRtdkZUV0ZIRHFqWmo1WUhNeXFwTTllVnFReEswZEhFR2tjcHBFcG5rQmlfQWk2WDdWVW9YUmt0NmVkclEw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2673]:
+              - generic [ref=e2674]:
+                - generic [ref=e2677]: MIT News
+                - generic [ref=e2681]:
+                  - generic:
+                    - button "More - What does the future hold for generative AI?" [ref=e2682] [cursor=pointer]:
+                      - img [ref=e2684]
+                    - tooltip [ref=e2686]: More
+              - link "What does the future hold for generative AI? - MIT News - Sep 19, 2025 - By Adam Zewe" [ref=e2687] [cursor=pointer]:
+                - /url: ./read/CBMidEFVX3lxTE9VX085Rm9lRmthODh5M3FfbUFKSEh3djBwSE80c0Y0clB3bENMeklaOUh2My1hYzRtdkZUV0ZIRHFqWmo1WUhNeXFwTTllVnFReEswZEhFR2tjcHBFcG5rQmlfQWk2WDdWVW9YUmt0NmVkclEw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: What does the future hold for generative AI?
+            - figure [ref=e2688]
+          - generic [ref=e2689]:
+            - time [ref=e2690]: Sep 19, 2025
+            - separator [ref=e2691]
+            - generic [ref=e2692]: By Adam Zewe
+      - generic [ref=e2693]:
+        - separator [ref=e2695]
+        - generic [ref=e2697]:
+          - generic [ref=e2698]:
+            - link [ref=e2700] [cursor=pointer]:
+              - /url: ./read/CBMidkFVX3lxTE1jOG9mZFM1cVVEZ1Fyb25STnZab29odlhGdzhCaDF2b1VtWjhxYzlGTzF4aTdtbURJWnl2Zms2YmxZcFdPaW1xcUk4NmJLVFB2cjI3eHUwNnZFMmZlZUJsRXVGMWU4YXplaXVhNEh2V3JoOTF1dEE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2702]:
+              - generic [ref=e2703]:
+                - generic [ref=e2706]: Marcus on AI | Substack
+                - generic [ref=e2710]:
+                  - generic:
+                    - button "More - Let’s be honest, Generative AI isn’t going all that well" [ref=e2711] [cursor=pointer]:
+                      - img [ref=e2713]
+                    - tooltip [ref=e2715]: More
+              - link "Let’s be honest, Generative AI isn’t going all that well - Marcus on AI | Substack - Jan 12 - By Gary Marcus" [ref=e2716] [cursor=pointer]:
+                - /url: ./read/CBMidkFVX3lxTE1jOG9mZFM1cVVEZ1Fyb25STnZab29odlhGdzhCaDF2b1VtWjhxYzlGTzF4aTdtbURJWnl2Zms2YmxZcFdPaW1xcUk4NmJLVFB2cjI3eHUwNnZFMmZlZUJsRXVGMWU4YXplaXVhNEh2V3JoOTF1dEE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Let’s be honest, Generative AI isn’t going all that well
+            - figure [ref=e2717]
+          - generic [ref=e2718]:
+            - time [ref=e2719]: Jan 12
+            - separator [ref=e2720]
+            - generic [ref=e2721]: By Gary Marcus
+      - generic [ref=e2722]:
+        - separator [ref=e2724]
+        - generic [ref=e2726]:
+          - generic [ref=e2727]:
+            - link [ref=e2729] [cursor=pointer]:
+              - /url: ./read/CBMifkFVX3lxTFBRQ2pLaGVmUlJOTmpreldsa1BON3hjN2E0TFlaVzNnZUFTTWNmaEhQYVNIdERwM2NoODRsRVFiRzBFdW8zWUxVSWZxRWVjQkMwMUN3TmJYVnJRVUJTcnNLVno1bHNDZ1QxZFkzQzdCdVhCQkt5eTRrLWpUSTI3Zw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2731]:
+              - generic [ref=e2732]:
+                - generic [ref=e2735]: European Commission
+                - generic [ref=e2739]:
+                  - generic:
+                    - button "More - 32.7% of EU people used generative AI tools in 2025" [ref=e2740] [cursor=pointer]:
+                      - img [ref=e2742]
+                    - tooltip [ref=e2744]: More
+              - link "32.7% of EU people used generative AI tools in 2025 - European Commission - Dec 16" [ref=e2745] [cursor=pointer]:
+                - /url: ./read/CBMifkFVX3lxTFBRQ2pLaGVmUlJOTmpreldsa1BON3hjN2E0TFlaVzNnZUFTTWNmaEhQYVNIdERwM2NoODRsRVFiRzBFdW8zWUxVSWZxRWVjQkMwMUN3TmJYVnJRVUJTcnNLVno1bHNDZ1QxZFkzQzdCdVhCQkt5eTRrLWpUSTI3Zw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: 32.7% of EU people used generative AI tools in 2025
+            - figure [ref=e2746]
+          - time [ref=e2748]: Dec 16
+      - generic [ref=e2749]:
+        - separator [ref=e2751]
+        - generic [ref=e2753]:
+          - generic [ref=e2754]:
+            - link [ref=e2756] [cursor=pointer]:
+              - /url: ./read/CBMifkFVX3lxTE5GeUsybzdsQ3Y0c3YtaHBLLWI2TkNYV1ZYSWl4SHo1Z0RYOUlOMEUtVlJJUjFVdVI0RGNpLXdhQVV5X1dEWDRBcHhlYUlCSXkyY2VtY3Rrczd1OVppazNzRGV3dE9vRkgxUUpyU0tIVnIwcWtLNWZDZktXcmZDZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2758]:
+              - generic [ref=e2759]:
+                - generic [ref=e2762]: MIT News
+                - generic [ref=e2766]:
+                  - generic:
+                    - button "More - Responding to the climate impact of generative AI" [ref=e2767] [cursor=pointer]:
+                      - img [ref=e2769]
+                    - tooltip [ref=e2771]: More
+              - link "Responding to the climate impact of generative AI - MIT News - Sep 30, 2025 - By Adam Zewe" [ref=e2772] [cursor=pointer]:
+                - /url: ./read/CBMifkFVX3lxTE5GeUsybzdsQ3Y0c3YtaHBLLWI2TkNYV1ZYSWl4SHo1Z0RYOUlOMEUtVlJJUjFVdVI0RGNpLXdhQVV5X1dEWDRBcHhlYUlCSXkyY2VtY3Rrczd1OVppazNzRGV3dE9vRkgxUUpyU0tIVnIwcWtLNWZDZktXcmZDZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Responding to the climate impact of generative AI
+            - figure [ref=e2773]
+          - generic [ref=e2774]:
+            - time [ref=e2775]: Sep 30, 2025
+            - separator [ref=e2776]
+            - generic [ref=e2777]: By Adam Zewe
+      - generic [ref=e2778]:
+        - separator [ref=e2780]
+        - generic [ref=e2782]:
+          - generic [ref=e2783]:
+            - link [ref=e2785] [cursor=pointer]:
+              - /url: ./read/CBMiuAFBVV95cUxPdDFlanhoaENYdWlqRXhvVEZPQ0RCLUpncEE3UThUTzY3TWtJSWIzSWxwZV9oT1MtTU9MOWxRZDJsaC1pVFlnYlVDU2NIdWtfZVlzeE0wZ0FyWEd4WUZrajJFSDFsSlhyaUpIMDFUZmJaZTlkaHR2TFdTVXpoWFlUX2dsdmhmQk1NVVV2dkNUN3dGemF0REJGM2lueGNPc3BLWjlaTHdMOXVQN3Jfc0hjQnNlQ0tZTmd3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2787]:
+              - generic [ref=e2788]:
+                - generic [ref=e2791]: Microsoft
+                - generic [ref=e2795]:
+                  - generic:
+                    - button "More - Global AI Adoption in 2025 – AI Economy Institute" [ref=e2796] [cursor=pointer]:
+                      - img [ref=e2798]
+                    - tooltip [ref=e2800]: More
+              - link "Global AI Adoption in 2025 – AI Economy Institute - Microsoft - Jan 8" [ref=e2801] [cursor=pointer]:
+                - /url: ./read/CBMiuAFBVV95cUxPdDFlanhoaENYdWlqRXhvVEZPQ0RCLUpncEE3UThUTzY3TWtJSWIzSWxwZV9oT1MtTU9MOWxRZDJsaC1pVFlnYlVDU2NIdWtfZVlzeE0wZ0FyWEd4WUZrajJFSDFsSlhyaUpIMDFUZmJaZTlkaHR2TFdTVXpoWFlUX2dsdmhmQk1NVVV2dkNUN3dGemF0REJGM2lueGNPc3BLWjlaTHdMOXVQN3Jfc0hjQnNlQ0tZTmd3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Global AI Adoption in 2025 – AI Economy Institute
+            - figure [ref=e2802]
+          - time [ref=e2804]: Jan 8
+      - generic [ref=e2805]:
+        - separator [ref=e2807]
+        - generic [ref=e2809]:
+          - generic [ref=e2810]:
+            - link [ref=e2812] [cursor=pointer]:
+              - /url: ./read/CBMiX0FVX3lxTE8wUy1xcGFtUFc1NUF6LWhRbzVueTlCWjFrTHlYWmphUUhPd01BQUprWGxSZHpxNWRPbVdhQVRLeGVUbl9obVRyYktfSWpYaEtzZ0FTbmxLUVZmSjYxSk5Z?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2814]:
+              - generic [ref=e2815]:
+                - generic [ref=e2818]: Nature
+                - generic [ref=e2822]:
+                  - generic:
+                    - button "More - Multidimensional determinants of generative AI acceptance in foreign language education" [ref=e2823] [cursor=pointer]:
+                      - img [ref=e2825]
+                    - tooltip [ref=e2827]: More
+              - link "Multidimensional determinants of generative AI acceptance in foreign language education - Nature - Jan 19 - By Tianyuan Xu & Ying Xiong" [ref=e2828] [cursor=pointer]:
+                - /url: ./read/CBMiX0FVX3lxTE8wUy1xcGFtUFc1NUF6LWhRbzVueTlCWjFrTHlYWmphUUhPd01BQUprWGxSZHpxNWRPbVdhQVRLeGVUbl9obVRyYktfSWpYaEtzZ0FTbmxLUVZmSjYxSk5Z?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Multidimensional determinants of generative AI acceptance in foreign language education
+            - figure [ref=e2829]
+          - generic [ref=e2830]:
+            - time [ref=e2831]: Jan 19
+            - separator [ref=e2832]
+            - generic [ref=e2833]: By Tianyuan Xu & Ying Xiong
+      - generic [ref=e2834]:
+        - separator [ref=e2836]
+        - generic [ref=e2838]:
+          - generic [ref=e2839]:
+            - link [ref=e2841] [cursor=pointer]:
+              - /url: ./read/CBMizgFBVV95cUxNMlJuaGFJS2FCX1lhanlHbmpYU2dTOUdoTTFzeEFEWEs3WGpzOS1ETklidERVNjZkd1BiU2RRR09GRVhEaEk2WUVYVEJxVGp6NXFaMXo4LUk4R3Z4Ym5yVFZHbWtzeWdVNTBoZ1ktNmRrTkhyOFB6WnRqbkh5QkQ1OWJmRV95dTFFNVg1NWNNZWNqbUZJUXFiQ0NPWjQ3NS0xV096UFB6UTRfRmZqVTFPN1M3bHJVSVZzY3BnSjg2M3RhNVRCaVBrWE1BdjlSUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2843]:
+              - generic [ref=e2844]:
+                - generic [ref=e2847]: Amazon Web Services
+                - generic [ref=e2851]:
+                  - generic:
+                    - button "More - Huron transforms patient experience and business operations with AWS generative AI analytics" [ref=e2852] [cursor=pointer]:
+                      - img [ref=e2854]
+                    - tooltip [ref=e2856]: More
+              - link "Huron transforms patient experience and business operations with AWS generative AI analytics - Amazon Web Services - Mar 13" [ref=e2857] [cursor=pointer]:
+                - /url: ./read/CBMizgFBVV95cUxNMlJuaGFJS2FCX1lhanlHbmpYU2dTOUdoTTFzeEFEWEs3WGpzOS1ETklidERVNjZkd1BiU2RRR09GRVhEaEk2WUVYVEJxVGp6NXFaMXo4LUk4R3Z4Ym5yVFZHbWtzeWdVNTBoZ1ktNmRrTkhyOFB6WnRqbkh5QkQ1OWJmRV95dTFFNVg1NWNNZWNqbUZJUXFiQ0NPWjQ3NS0xV096UFB6UTRfRmZqVTFPN1M3bHJVSVZzY3BnSjg2M3RhNVRCaVBrWE1BdjlSUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Huron transforms patient experience and business operations with AWS generative AI analytics
+            - figure [ref=e2858]
+          - time [ref=e2860]: Mar 13
+      - generic [ref=e2861]:
+        - separator [ref=e2863]
+        - generic [ref=e2865]:
+          - generic [ref=e2866]:
+            - link [ref=e2868] [cursor=pointer]:
+              - /url: ./read/CBMitgFBVV95cUxQTnI5NFFVZnFIYVdrYWt6ZURIcTJ0VUNYckp0NEhiajhMRnRidmdBMVNRRi1XN0pVWGc1THdfTWtkR0hZcjhMbS1kNXRQbGN0TEpMME5qR0hBVlg1WEFCcE53czQ0dHJOYnpfMDJvbkNtYzRpSmlHM3ZlMVE0ajFqX3cxYlZfQzI0Qi1xOHFWeW0zV0ZrS0xBS2MxSldTb3A5b1VPNVRicHNVOUZWdjlQTERQemhXZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2870]:
+              - generic [ref=e2871]:
+                - generic [ref=e2874]: U.S. Department of War (.gov)
+                - generic [ref=e2878]:
+                  - generic:
+                    - button "More - The War Department Unleashes AI on New GenAI.mil Platform > U.S. Department of War > Release" [ref=e2879] [cursor=pointer]:
+                      - img [ref=e2881]
+                    - tooltip [ref=e2883]: More
+              - link "The War Department Unleashes AI on New GenAI.mil Platform > U.S. Department of War > Release - U.S. Department of War (.gov) - Dec 9" [ref=e2884] [cursor=pointer]:
+                - /url: ./read/CBMitgFBVV95cUxQTnI5NFFVZnFIYVdrYWt6ZURIcTJ0VUNYckp0NEhiajhMRnRidmdBMVNRRi1XN0pVWGc1THdfTWtkR0hZcjhMbS1kNXRQbGN0TEpMME5qR0hBVlg1WEFCcE53czQ0dHJOYnpfMDJvbkNtYzRpSmlHM3ZlMVE0ajFqX3cxYlZfQzI0Qi1xOHFWeW0zV0ZrS0xBS2MxSldTb3A5b1VPNVRicHNVOUZWdjlQTERQemhXZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The War Department Unleashes AI on New GenAI.mil Platform > U.S. Department of War > Release
+            - figure [ref=e2885]
+          - time [ref=e2887]: Dec 9
+      - generic [ref=e2888]:
+        - separator [ref=e2890]
+        - generic [ref=e2892]:
+          - generic [ref=e2893]:
+            - link [ref=e2895] [cursor=pointer]:
+              - /url: ./read/CBMihgFBVV95cUxPVkNzT2lMcURPYXQxQmh0azdzbjVrNFktNzZFLTZacnFlR2xZYXczRnI4MHh2amsya2xOOEh1QURSbFUxU0ZUWGQ5WE5kVHJtbEFJb0NOdTNVUVhPeC1iVVJOZk1VbXpwLVBuYzVod0tMVmlYbVdzNjgwcF83MTVJTWNvVFRaZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2897]:
+              - generic [ref=e2898]:
+                - generic [ref=e2901]: McKinsey & Company
+                - generic [ref=e2905]:
+                  - generic:
+                    - 'button "More - The state of AI in 2025: Agents, innovation, and transformation" [ref=e2906] [cursor=pointer]':
+                      - img [ref=e2908]
+                    - tooltip [ref=e2910]: More
+              - 'link "The state of AI in 2025: Agents, innovation, and transformation - McKinsey &amp; Company - Nov 5 - By Alexander Sukharevsky & Alex Singla" [ref=e2911] [cursor=pointer]':
+                - /url: ./read/CBMihgFBVV95cUxPVkNzT2lMcURPYXQxQmh0azdzbjVrNFktNzZFLTZacnFlR2xZYXczRnI4MHh2amsya2xOOEh1QURSbFUxU0ZUWGQ5WE5kVHJtbEFJb0NOdTNVUVhPeC1iVVJOZk1VbXpwLVBuYzVod0tMVmlYbVdzNjgwcF83MTVJTWNvVFRaZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "The state of AI in 2025: Agents, innovation, and transformation"
+            - figure [ref=e2912]
+          - generic [ref=e2913]:
+            - time [ref=e2914]: Nov 5
+            - separator [ref=e2915]
+            - generic [ref=e2916]: By Alexander Sukharevsky & Alex Singla
+    - complementary [ref=e2917]:
+      - generic [ref=e2918]:
+        - generic [ref=e2919]:
+          - generic [ref=e2922]:
+            - heading "generative AI" [level=2] [ref=e2923]
+            - generic [ref=e2924]: Search results
+          - generic [ref=e2927]:
+            - button "Save this search - generative AI" [ref=e2929]:
+              - img [ref=e2933]
+              - generic [ref=e2935]: Save
+            - tooltip [ref=e2936]: Save this search
+        - generic [ref=e2937]:
+          - heading "Topics" [level=2] [ref=e2938]
+          - separator [ref=e2939]
+          - generic [ref=e2940]:
+            - generic [ref=e2941]:
+              - generic [ref=e2943]: Generative AI
+              - link "Generative AI" [ref=e2944] [cursor=pointer]:
+                - /url: ./topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY0ZW0weWNXcGpPQklDWlc0b0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2945]:
+              - generic [ref=e2947]: Generative AI Solutions Corp
+              - link "Generative AI Solutions Corp" [ref=e2948] [cursor=pointer]:
+                - /url: ./topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1WjE4NFkyWXdPUklDWlc0b0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
