@@ -1,0 +1,318 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]
+          - button "Advanced search" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]:
+                - img [ref=e23]
+              - tooltip [ref=e25]: Advanced search
+          - button "Search" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+        - generic [ref=e30]:
+          - generic [ref=e35]:
+            - button "Help" [ref=e36] [cursor=pointer]:
+              - img [ref=e38]
+            - tooltip [ref=e40]: Help
+          - generic [ref=e45]:
+            - button "Settings" [ref=e46] [cursor=pointer]:
+              - img [ref=e48]
+            - tooltip [ref=e51]: Settings
+      - generic [ref=e53]:
+        - button "Google apps" [ref=e57] [cursor=pointer]:
+          - img [ref=e58]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e64]:
+      - tablist [ref=e65]:
+        - tab "Home" [selected] [ref=e66] [cursor=pointer]:
+          - tab "Home" [selected] [ref=e67]
+        - tab "For you" [ref=e68] [cursor=pointer]:
+          - tab "For you" [ref=e69]
+        - tab "Following" [ref=e70] [cursor=pointer]:
+          - tab "Following" [ref=e71]
+        - tab "U.S." [ref=e74] [cursor=pointer]:
+          - tab "U.S." [ref=e75]
+        - tab "World" [ref=e76] [cursor=pointer]:
+          - tab "World" [ref=e77]
+        - tab "Local" [ref=e78] [cursor=pointer]:
+          - tab "Local" [ref=e79]
+        - tab "Business" [ref=e80] [cursor=pointer]:
+          - tab "Business" [ref=e81]
+        - tab "Technology" [ref=e82] [cursor=pointer]:
+          - tab "Technology" [ref=e83]
+        - tab "Entertainment" [ref=e84] [cursor=pointer]:
+          - tab "Entertainment" [ref=e85]
+      - generic [ref=e89]:
+        - button "More" [ref=e90] [cursor=pointer]:
+          - img [ref=e92]
+        - tooltip [ref=e94]: More
+  - main [ref=e99]:
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - heading "Your briefing" [level=1] [ref=e105]
+          - paragraph [ref=e106]: Monday, May 4
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: Today
+              - img [ref=e113]
+              - generic [ref=e114]:
+                - generic [ref=e115]: 33°
+                - generic [ref=e116]: 27°
+            - generic [ref=e117]:
+              - generic [ref=e118]: Tue
+              - img [ref=e119]
+              - generic [ref=e120]:
+                - generic [ref=e121]: 32°
+                - generic [ref=e122]: 27°
+            - generic [ref=e123]:
+              - generic [ref=e124]: Wed
+              - img [ref=e125]
+              - generic [ref=e126]:
+                - generic [ref=e127]: 32°
+                - generic [ref=e128]: 27°
+            - generic [ref=e129]:
+              - generic [ref=e130]: Thu
+              - img [ref=e131]
+              - generic [ref=e132]:
+                - generic [ref=e133]: 33°
+                - generic [ref=e134]: 28°
+          - generic [ref=e135]:
+            - button "Expand to view forecast" [ref=e136] [cursor=pointer]:
+              - img [ref=e137]
+            - generic "Calabarzon, 28°C, cloudy" [ref=e139]:
+              - img "cloudy" [ref=e140]:
+                - img [ref=e142]
+              - generic [ref=e156]:
+                - generic [ref=e157]:
+                  - generic [ref=e158]: Calabarzon
+                  - button "Use precise location" [ref=e159] [cursor=pointer]:
+                    - img [ref=e160]
+                - generic [ref=e162]: 28°C
+                - link "Google Weather" [ref=e163] [cursor=pointer]:
+                  - /url: https://support.google.com/websearch/answer/13687874
+      - generic [ref=e165]:
+        - heading "Top stories" [level=3] [ref=e168]:
+          - link "Top stories" [ref=e169] [cursor=pointer]:
+            - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Top stories
+            - img [ref=e170]
+        - generic [ref=e175]:
+          - link "Ships in Strait of Hormuz" [ref=e177] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pDakl5R0VSSFVXNEtiRmh2b0VTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Ships in Strait of Hormuz chevron_right
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - link [ref=e181] [cursor=pointer]:
+                - /url: ./read/CBMiggFBVV95cUxQbVFUUzhCU2hrOURnNUhDMmFicHlNSmdUT2hGR2lGS3NYaXRDVDdSVG1MT2h0cXFoR2pZaHJsdFUxQXhFUFNyelpVbWlWV2FYSHRYTW5tR1l4d3FRRzY5THlCNVJMR0J2WkpPc1J0NnJESFRfRllKZkZ3TjNOY19TLTFR?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e182]
+              - generic [ref=e183]:
+                - generic [ref=e186]: washingtonpost.com
+                - generic [ref=e190]:
+                  - generic:
+                    - button "More - Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz" [ref=e191] [cursor=pointer]:
+                      - img [ref=e193]
+                    - tooltip [ref=e195]: More
+              - link "Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz - washingtonpost.com - 2 hours ago - By Dan Diamond & Karen DeYoung" [ref=e196] [cursor=pointer]:
+                - /url: ./read/CBMiggFBVV95cUxQbVFUUzhCU2hrOURnNUhDMmFicHlNSmdUT2hGR2lGS3NYaXRDVDdSVG1MT2h0cXFoR2pZaHJsdFUxQXhFUFNyelpVbWlWV2FYSHRYTW5tR1l4d3FRRzY5THlCNVJMR0J2WkpPc1J0NnJESFRfRllKZkZ3TjNOY19TLTFR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz
+              - generic [ref=e197]:
+                - time [ref=e198]: 2 hours ago
+                - separator [ref=e199]
+                - generic [ref=e200]: By Dan Diamond & Karen DeYoung
+            - generic [ref=e201]:
+              - generic [ref=e202]:
+                - link [ref=e204] [cursor=pointer]:
+                  - /url: ./read/CBMid0FVX3lxTE9BRHBLbV80eVhCWEdzNzRVZndFU19MM3B2STl2ME9vdnNySUE4Z05pYVI3SVIzUEc5NXA2QW5NQzZSbFRQVXhJTDdoMUlQY3VfcjBvNXBhaE9XLXBjbzZ0bzNvb1hoUnRkVzA2VHNxNHMtUVkyUWtN?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e205]:
+                  - generic [ref=e208]: CNN
+                  - generic [ref=e212]:
+                    - generic:
+                      - 'button "More - Live updates: US says two American-flagged merchant vessels have gone through Strait of Hormuz" [ref=e213] [cursor=pointer]':
+                        - img [ref=e215]
+                      - tooltip [ref=e217]: More
+                - 'link "Live updates: US says two American-flagged merchant vessels have gone through Strait of Hormuz - CNN - 36 minutes ago - By Michael Williams, Nadeen Ebrahim & Charbel Mallo" [ref=e218] [cursor=pointer]':
+                  - /url: ./read/CBMid0FVX3lxTE9BRHBLbV80eVhCWEdzNzRVZndFU19MM3B2STl2ME9vdnNySUE4Z05pYVI3SVIzUEc5NXA2QW5NQzZSbFRQVXhJTDdoMUlQY3VfcjBvNXBhaE9XLXBjbzZ0bzNvb1hoUnRkVzA2VHNxNHMtUVkyUWtN?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Live updates: US says two American-flagged merchant vessels have gone through Strait of Hormuz"
+                - generic [ref=e219]:
+                  - time [ref=e220]: 36 minutes ago
+                  - separator [ref=e221]
+                  - generic [ref=e222]: By Michael Williams, Nadeen Ebrahim & Charbel Mallo
+              - generic [ref=e223]:
+                - link [ref=e225] [cursor=pointer]:
+                  - /url: ./read/CBMihwFBVV95cUxQcmM1N1llcktFMjAzazIwRFYxbjlrTzlRTmlMOG4zX0ZMS21JTGhvcHNBNXNmZXZqMENrUnhpbWxCLS10ZU1FQWRIZVpzZjI1OENwdnRhNUNfWUk3UU5wUFhSYjdVcmtmbnl4V0xXLVZXSGJQMFNBS1RYWVFkR1BFRkJ1cDZOOVU?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e226]:
+                  - generic [ref=e229]: The New York Times
+                  - generic [ref=e233]:
+                    - generic:
+                      - button "More - Shipping Firms Left Guessing by Confusion in Strait of Hormuz" [ref=e234] [cursor=pointer]:
+                        - img [ref=e236]
+                      - tooltip [ref=e238]: More
+                - link "Shipping Firms Left Guessing by Confusion in Strait of Hormuz - The New York Times - 45 minutes ago - By Peter Eavis & Gregory Schmidt" [ref=e239] [cursor=pointer]:
+                  - /url: ./read/CBMihwFBVV95cUxQcmM1N1llcktFMjAzazIwRFYxbjlrTzlRTmlMOG4zX0ZMS21JTGhvcHNBNXNmZXZqMENrUnhpbWxCLS10ZU1FQWRIZVpzZjI1OENwdnRhNUNfWUk3UU5wUFhSYjdVcmtmbnl4V0xXLVZXSGJQMFNBS1RYWVFkR1BFRkJ1cDZOOVU?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Shipping Firms Left Guessing by Confusion in Strait of Hormuz
+                - generic [ref=e240]:
+                  - time [ref=e241]: 45 minutes ago
+                  - separator [ref=e242]
+                  - generic [ref=e243]: By Peter Eavis & Gregory Schmidt
+              - generic [ref=e244]:
+                - link [ref=e246] [cursor=pointer]:
+                  - /url: ./read/CBMixwFBVV95cUxQMVRJTjB4dzJvQ2luQWJRdHZHOURiZDdYZ3pLTnFHVXEzc3ZpTFd5bHV6VzhkaGpOUTNEOVNKZ1VveWNZWk9YY0l5OXpQb195YXZqUFl4RnoxUnFCTS1hYzg1akFjWERzZDNwWmhLMHpPZFk2V0V1OTFXRDdoX3VTWE1jU1prSGZQcDY3SlJjeGdzUHp3cjBEUXM0Y0VWZWFPamduNFcxVTlmSDdaSzlWLTlsMnR6SnZaWGtPTEdCSmR3OUJZSXlv?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e247]:
+                  - generic [ref=e250]: Reuters
+                  - generic [ref=e254]:
+                    - generic:
+                      - button "More - US says it has missile destroyers in Gulf and two American ships have crossed Strait" [ref=e255] [cursor=pointer]:
+                        - img [ref=e257]
+                      - tooltip [ref=e259]: More
+                - link "US says it has missile destroyers in Gulf and two American ships have crossed Strait - Reuters - 13 hours ago - By Ahmed Tolba, Parisa Hafezi & Idrees Ali" [ref=e260] [cursor=pointer]:
+                  - /url: ./read/CBMixwFBVV95cUxQMVRJTjB4dzJvQ2luQWJRdHZHOURiZDdYZ3pLTnFHVXEzc3ZpTFd5bHV6VzhkaGpOUTNEOVNKZ1VveWNZWk9YY0l5OXpQb195YXZqUFl4RnoxUnFCTS1hYzg1akFjWERzZDNwWmhLMHpPZFk2V0V1OTFXRDdoX3VTWE1jU1prSGZQcDY3SlJjeGdzUHp3cjBEUXM0Y0VWZWFPamduNFcxVTlmSDdaSzlWLTlsMnR6SnZaWGtPTEdCSmR3OUJZSXlv?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: US says it has missile destroyers in Gulf and two American ships have crossed Strait
+                - generic [ref=e261]:
+                  - time [ref=e262]: 13 hours ago
+                  - separator [ref=e263]
+                  - generic [ref=e264]: By Ahmed Tolba, Parisa Hafezi & Idrees Ali
+          - link "See more headlines & perspectives - Ships in Strait of Hormuz" [ref=e267] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pDakl5R0VSSFVXNEtiRmh2b0VTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e268]
+            - generic [ref=e270]: See more headlines & perspectives
+        - generic [ref=e274]:
+          - link "Strait of Hormuz news" [ref=e276] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lOb1ptSEVSRng3Vi02U3UwSWRDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Strait of Hormuz news chevron_right
+          - generic [ref=e277]:
+            - generic [ref=e278]:
+              - link [ref=e280] [cursor=pointer]:
+                - /url: ./read/CBMikwFBVV95cUxQNG0tbDF3ZDlmbU53LWpYUnlBSnNWTk90aTlxNjlzUjJrNnNTRTlDV0Jtd3daZzdfcmstWVZ0dWpNOHZzbFpyRmRaU2xfUGt0OWVrbEc1R0htUnVXaEp1a0tsSUZhdkd3cVpKd09Fa1V6TmtvRmFwNk9aY2JKWUxCdkRnTGNMai1EaGp5cnJpYm5pa28?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e281]
+              - generic [ref=e282]:
+                - generic [ref=e285]: AP News
+                - generic [ref=e289]:
+                  - generic:
+                    - button "More - Wall Street hesitates and oil prices climb with uncertainty about the Strait of Hormuz" [ref=e290] [cursor=pointer]:
+                      - img [ref=e292]
+                    - tooltip [ref=e294]: More
+              - link "Wall Street hesitates and oil prices climb with uncertainty about the Strait of Hormuz - AP News - 2 hours ago - By Stan Choe" [ref=e295] [cursor=pointer]:
+                - /url: ./read/CBMikwFBVV95cUxQNG0tbDF3ZDlmbU53LWpYUnlBSnNWTk90aTlxNjlzUjJrNnNTRTlDV0Jtd3daZzdfcmstWVZ0dWpNOHZzbFpyRmRaU2xfUGt0OWVrbEc1R0htUnVXaEp1a0tsSUZhdkd3cVpKd09Fa1V6TmtvRmFwNk9aY2JKWUxCdkRnTGNMai1EaGp5cnJpYm5pa28?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Wall Street hesitates and oil prices climb with uncertainty about the Strait of Hormuz
+              - generic [ref=e296]:
+                - time [ref=e297]: 2 hours ago
+                - separator [ref=e298]
+                - generic [ref=e299]: By Stan Choe
+            - generic [ref=e300]:
+              - generic [ref=e301]:
+                - link [ref=e303] [cursor=pointer]:
+                  - /url: ./read/CBMitgFBVV95cUxNanlpT3FhcW9OTGp2ekUwdDBYWjlfNWpTSUxTRFZkSnl1TUFfWE5nYkxfZ3UzQ3d3T1NVQ1VaV0g1b29KNWNoNlVHcFloZzg5N2k0ZU1UcEx2ckhqYTgtVlVIOFhHYnVSQThObVBxVlZVbXhpNjEwTzU0cEEyTjBIcl9zUzE5Mm1DbkU4VXQwRUkwWGw2V2dmQXpHRUhCV1VpcHhabXQwWnloQlFUdFJqV0JOYXdMUdIBuwFBVV95cUxNWGlSRGJ0YUsyLWJuQUt1RmdWSFROY0k4Um5sdFJfMkFKbDBPSFBvUU1aWTBYSE5COUdXbk5pUUd3ODZoWmtzeXNTU2tnb3k1aVJQY0hhXy05U3dkZWNEYUV2ZW4tc2k0YWtFZFNaYnZTeVZOaDY0U3h4T0hzTGs0MlUydGt6U0lZQUJfUi01X0JNbHdwbDhQNnFLRUpfeV9zbngzQUluQ29hVFA3Z041dHU3SU9yZllDVWtz?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e304]:
+                  - generic [ref=e307]: Al Jazeera
+                  - generic [ref=e311]:
+                    - generic:
+                      - 'button "More - Iran war live: US denies frigate hit by missiles in Hormuz Strait" [ref=e312] [cursor=pointer]':
+                        - img [ref=e314]
+                      - tooltip [ref=e316]: More
+                - 'link "Iran war live: US denies frigate hit by missiles in Hormuz Strait - Al Jazeera - 7 hours ago" [ref=e317] [cursor=pointer]':
+                  - /url: ./read/CBMitgFBVV95cUxNanlpT3FhcW9OTGp2ekUwdDBYWjlfNWpTSUxTRFZkSnl1TUFfWE5nYkxfZ3UzQ3d3T1NVQ1VaV0g1b29KNWNoNlVHcFloZzg5N2k0ZU1UcEx2ckhqYTgtVlVIOFhHYnVSQThObVBxVlZVbXhpNjEwTzU0cEEyTjBIcl9zUzE5Mm1DbkU4VXQwRUkwWGw2V2dmQXpHRUhCV1VpcHhabXQwWnloQlFUdFJqV0JOYXdMUdIBuwFBVV95cUxNWGlSRGJ0YUsyLWJuQUt1RmdWSFROY0k4Um5sdFJfMkFKbDBPSFBvUU1aWTBYSE5COUdXbk5pUUd3ODZoWmtzeXNTU2tnb3k1aVJQY0hhXy05U3dkZWNEYUV2ZW4tc2k0YWtFZFNaYnZTeVZOaDY0U3h4T0hzTGs0MlUydGt6U0lZQUJfUi01X0JNbHdwbDhQNnFLRUpfeV9zbngzQUluQ29hVFA3Z041dHU3SU9yZllDVWtz?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Iran war live: US denies frigate hit by missiles in Hormuz Strait"
+                - time [ref=e319]: 7 hours ago
+              - generic [ref=e320]:
+                - link [ref=e322] [cursor=pointer]:
+                  - /url: ./read/CBMiwwFBVV95cUxQSjRCNXFFeHpOY3FGMWFjTlIyOVNuRUpJWnNtempGYWJZNVJ0Z2xWSWNnYnFSem44dW5tSXVwbFk1RVFrMS1nNEpDSjQwQS1HbUN3OS1hR3RsOWlybXlrQVRFc0RZUUZ3enEtSExzM2ZmS0d6RkxsU2JHeUdycE5WdksybEd6akNHQW4tclpVdE9GcWVHMVVqNDU0bEh6eEFXOE5CcUR0ak9BRUVWdU9wVFhhYTFYbnpjbkNmbkI0YnB2TWc?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e323]:
+                  - generic [ref=e326]: The Times of Israel
+                  - generic [ref=e330]:
+                    - generic:
+                      - button "More - Iran navy fired missile ‘warning shot’ near US destroyers in Hormuz, state TV says" [ref=e331] [cursor=pointer]:
+                        - img [ref=e333]
+                      - tooltip [ref=e335]: More
+                - link "Iran navy fired missile ‘warning shot’ near US destroyers in Hormuz, state TV says - The Times of Israel - 56 minutes ago" [ref=e336] [cursor=pointer]:
+                  - /url: ./read/CBMiwwFBVV95cUxQSjRCNXFFeHpOY3FGMWFjTlIyOVNuRUpJWnNtempGYWJZNVJ0Z2xWSWNnYnFSem44dW5tSXVwbFk1RVFrMS1nNEpDSjQwQS1HbUN3OS1hR3RsOWlybXlrQVRFc0RZUUZ3enEtSExzM2ZmS0d6RkxsU2JHeUdycE5WdksybEd6akNHQW4tclpVdE9GcWVHMVVqNDU0bEh6eEFXOE5CcUR0ak9BRUVWdU9wVFhhYTFYbnpjbkNmbkI0YnB2TWc?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Iran navy fired missile ‘warning shot’ near US destroyers in Hormuz, state TV says
+                - time [ref=e338]: 56 minutes ago
+              - generic [ref=e339]:
+                - link [ref=e341] [cursor=pointer]:
+                  - /url: ./read/CBMid0FVX3lxTE5yODBwTlN2c0dySlV4RGxpS2luZmFWMElxeUp1b0hucnJxYzhlalNJbVMtbWxFdjZDRWdnU2lNOTlOUWRzenVyRnhqWnIydTR0MDhGcUlaa05mUTZiWVdEZGFVa1ZhT1hFVlByTEVlMUdwUFc4OUVF0gF8QVVfeXFMUGFYeDVQV3J0dzI1azNKSy1SQzA3Z0NjbmJvVHdRMEI5dW9zR3h5dUhrbFhpakcxUGptX2hvVlp3ZGdjNkh6S1E0Z1JtbzhNN2pXcFYwX2l5VUlXLUNiT0ZDN2pmZElOTUZDdHNIXzhnN05OTXBHaS16eFVvcg?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e342]:
+                  - generic [ref=e345]: CNBC
+                  - generic [ref=e349]:
+                    - generic:
+                      - button "More - U.S. military denies Iran's claim it struck American warship in Strait of Hormuz" [ref=e350] [cursor=pointer]:
+                        - img [ref=e352]
+                      - tooltip [ref=e354]: More
+                - link "U.S. military denies Iran's claim it struck American warship in Strait of Hormuz - CNBC - 1 hour ago - By Kevin Breuninger" [ref=e355] [cursor=pointer]:
+                  - /url: ./read/CBMid0FVX3lxTE5yODBwTlN2c0dySlV4RGxpS2luZmFWMElxeUp1b0hucnJxYzhlalNJbVMtbWxFdjZDRWdnU2lNOTlOUWRzenVyRnhqWnIydTR0MDhGcUlaa05mUTZiWVdEZGFVa1ZhT1hFVlByTEVlMUdwUFc4OUVF0gF8QVVfeXFMUGFYeDVQV3J0dzI1azNKSy1SQzA3Z0NjbmJvVHdRMEI5dW9zR3h5dUhrbFhpakcxUGptX2hvVlp3ZGdjNkh6S1E0Z1JtbzhNN2pXcFYwX2l5VUlXLUNiT0ZDN2pmZElOTUZDdHNIXzhnN05OTXBHaS16eFVvcg?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: U.S. military denies Iran's claim it struck American warship in Strait of Hormuz
+                - generic [ref=e356]:
+                  - time [ref=e357]: 1 hour ago
+                  - separator [ref=e358]
+                  - generic [ref=e359]: By Kevin Breuninger
+          - link "See more headlines & perspectives - Strait of Hormuz news" [ref=e362] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lOb1ptSEVSRng3Vi02U3UwSWRDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e363]
+            - generic [ref=e365]: See more headlines & perspectives
+        - generic [ref=e369]:
+          - generic [ref=e370]:
+            - link [ref=e372] [cursor=pointer]:
+              - /url: ./read/CBMihAFBVV95cUxON2pWaWZ5ZE80NUxYOWNOamg4UGFibU5LQlFqNS1famh6ZUNkZ1VmQ19EbFRpb0M3RXFHd1NNcXgzYnRlSDRfWUFoZkZ5ZFNwVTdEd0NmcEpuc2QwM0VDWTZXcE9hVV9weUpxRThhZDNmcmJRSjBIV0VfVGg4cEpZV2RtaUY?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e374]:
+              - generic [ref=e375]:
+                - generic [ref=e378]: Financial Times
+                - generic [ref=e382]:
+                  - generic:
+                    - button "More - Iran warns US Navy against entering Strait of Hormuz" [ref=e383] [cursor=pointer]:
+                      - img [ref=e385]
+                    - tooltip [ref=e387]: More
+              - link "Iran warns US Navy against entering Strait of Hormuz - Financial Times - 6 hours ago - By Najmeh Bozorgmehr, Amy Mackinnon & Alice Hancock" [ref=e388] [cursor=pointer]:
+                - /url: ./read/CBMihAFBVV95cUxON2pWaWZ5ZE80NUxYOWNOamg4UGFibU5LQlFqNS1famh6ZUNkZ1VmQ19EbFRpb0M3RXFHd1NNcXgzYnRlSDRfWUFoZkZ5ZFNwVTdEd0NmcEpuc2QwM0VDWTZXcE9hVV9weUpxRThhZDNmcmJRSjBIV0VfVGg4cEpZV2RtaUY?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Iran warns US Navy against entering Strait of Hormuz
+            - figure [ref=e389]
+          - generic [ref=e390]:
+            - time [ref=e391]: 6 hours ago
+            - separator [ref=e392]
+            - generic [ref=e393]: By Najmeh Bozorgmehr, Amy Mackinnon & Alice Hancock
+            - link "See more headlines & perspectives - Iran warns US Navy against entering Strait of Hormuz" [ref=e394] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l1cV9lSEVSSDBWQnVQeFFTbGt5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e395]
+              - generic [ref=e397]: See more
+        - generic [ref=e401]:
+          - generic [ref=e402]:
+            - link [ref=e404] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxPRVRkTFY3b2dUSldkaDltZDJyS013MjlkUnVzZWhhd29CTUhEVmR2cERXMkR5VXBvSmd2Z1dINGJKZXZEM2FVTGo5a05IUkdaQ1VTRE1KdFVOVTFRT01rLUprelhiTmV1R210ZjdRREhDOGNfOW1wVVZrZDQxRGF1eG9UVFVBaHMxczRxUWMzV2xfV2FIQmY1d0lOSk9DNW5DX2h2N2oxQ3UxeG4taW1J0gG0AUFVX3lxTE1hTzFxYzQycWROdkp5ZVprbGJHMEVtU29hRWpLUzQ2ZVFrek5UR1B3ZUFVSURRUmpQTjlrU3RWa1d0TFN2Ul9mS215YU1WTkVlMlE1cmhCNHl0OFZPNnVPb1c2TnlOUW9UMXRlbGVJZmNqVWJ6aGxhb0lBUTlMUGJSOERfMms0NUhfZkZCeTVzU3ZoQmVnNWFTYXREb1pVN3o3Q2R0bkx0UGk0SW5UelBQSGRCbA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e406]:
+              - generic [ref=e407]:
+                - generic [ref=e410]: Al Jazeera
+                - generic [ref=e414]:
+                  - generic:
+                    - 'button "More - ‘Hegemonic power’: How Modi’s BJP won India’s Bengal for the first time" [ref=e415] [cursor=pointer]':
+                      - img [ref=e417]
+                    - tooltip [ref=e419]: More
+              - 'link "‘Hegemonic power’: How Modi’s BJP won India’s Bengal for the first time - Al Jazeera - 2 hours ago - By Yashraj Sharma" [ref=e420] [cursor=pointer]':
+                - /url: ./read/CBMirwFBVV95cUxPRVRkTFY3b2dUSldkaDltZDJyS013MjlkUnVzZWhhd29CTUhEVmR2cERXMkR5VXBvSmd2Z1dINGJKZXZEM2FVTGo5a05IUkdaQ1VTRE1KdFVOVTFRT01rLUprelhiTmV1R210ZjdRREhDOGNfOW1wVVZrZDQxRGF1eG9UVFVBaHMxczRxUWMzV2xfV2FIQmY1d0lOSk9DNW5DX2h2N2oxQ3UxeG4taW1J0gG0AUFVX3lxTE1hTzFxYzQycWROdkp5ZVprbGJHMEVtU29hRWpLUzQ2ZVFrek5UR1B3ZUFVSURRUmpQTjlrU3RWa1d0TFN2Ul9mS215YU1WTkVlMlE1cmhCNHl0OFZPNnVPb1c2TnlOUW9UMXRlbGVJZmNqVWJ6aGxhb0lBUTlMUGJSOERfMms0NUhfZkZCeTVzU3ZoQmVnNWFTYXREb1pVN3o3Q2R0bkx0UGk0SW5UelBQSGRCbA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "‘Hegemonic power’: How Modi’s BJP won India’s Bengal for the first time"
+            - figure [ref=e421]
+          - generic [ref=e422]:
+            - time [ref=e423]: 2 hours ago
+            - separator [ref=e424]
+            - generic [ref=e425]: By Yashraj Sharma
+            - 'link "See more headlines & perspectives - ‘Hegemonic power’: How Modi’s BJP won India’s Bengal for the first time" [ref=e426] [cursor=pointer]':
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kyOUp5SEVSRmw1RkJwUXUwZXFpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e427]
+              - generic [ref=e429]: See more
+      - generic [ref=e432]:
+        - generic [ref=e433]:
+          - heading "Local news" [level=3] [ref=e435]:
+            - link "Local news" [ref=e436] [cursor=pointer]:
+              - /url: ./topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Local news
+              - img [ref=e437]
+          - generic [ref=e441]:
+            - button "Manage local news" [ref=e442] [cursor=pointer]:
+              - img [ref=e443]
+            - tooltip [ref=e446]: Manage local news
+        - tablist [ref=e448]
