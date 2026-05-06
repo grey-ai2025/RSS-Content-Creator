@@ -1,0 +1,117 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - button "Main menu" [ref=e5] [cursor=pointer]:
+          - img [ref=e6]
+        - link "Trends" [ref=e10] [cursor=pointer]:
+          - /url: /home
+          - generic [ref=e12]: Trends
+      - generic [ref=e15]:
+        - button "Google apps" [ref=e19] [cursor=pointer]:
+          - img [ref=e20]
+        - link "Sign in" [ref=e23] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://trends.google.com/trending?geo%3DUS%26hours%3D24&followup=https://trends.google.com/trending?geo%3DUS%26hours%3D24&ec=GAZAgAU
+  - generic [ref=e25]:
+    - generic:
+      - navigation
+    - generic [ref=e28]:
+      - main [ref=e29]:
+        - heading "Trending Now - Google Trends" [level=1] [ref=e30]
+        - generic [ref=e32]:
+          - heading "Trending Now" [level=1]
+          - generic [ref=e33]:
+            - generic [ref=e35]:
+              - button "United States, select location" [ref=e42] [cursor=pointer]:
+                - generic [ref=e45]: location_on
+                - generic [ref=e46]: United States
+                - img [ref=e48]
+              - button "Past 24 hours, select period" [ref=e55] [cursor=pointer]:
+                - generic [ref=e58]: calendar_month
+                - generic [ref=e59]: Past 24 hours
+                - img [ref=e61]
+              - button "All categories, select category" [ref=e68] [cursor=pointer]:
+                - generic [ref=e71]: category
+                - generic [ref=e72]: All categories
+                - img [ref=e74]
+              - button "All trends, select trend status" [ref=e81] [cursor=pointer]:
+                - generic [ref=e84]: grid_3x3
+                - generic [ref=e85]: All trends
+                - img [ref=e87]
+              - button "Relevance, select sort criteria" [ref=e94] [cursor=pointer]:
+                - generic [ref=e97]: sort
+                - generic [ref=e98]: By relevance
+                - img [ref=e100]
+            - generic [ref=e103]:
+              - button "next" [ref=e104] [cursor=pointer]:
+                - generic [ref=e106]: arrow_forward_ios
+              - button "Export" [ref=e111] [cursor=pointer]:
+                - generic [ref=e114]: ios_share
+                - generic [ref=e115]: Export
+                - img [ref=e117]
+          - grid [ref=e124]:
+            - rowgroup [ref=e125]:
+              - row "Search trends Trends Search volume Started More info" [ref=e126]:
+                - gridcell [ref=e127]
+                - columnheader "Search trends Trends" [ref=e129]:
+                  - generic [ref=e130]:
+                    - generic [ref=e132]:
+                      - button "Search trends" [ref=e133] [cursor=pointer]:
+                        - generic [ref=e135]: search
+                      - tooltip [ref=e137]: Search trends
+                    - generic [ref=e139]:
+                      - button "Trends" [ref=e141] [cursor=pointer]:
+                        - generic [ref=e143]: Trends
+                      - tooltip [ref=e144]: Sort by title
+                - columnheader "Search volume" [ref=e145]:
+                  - generic [ref=e147]:
+                    - button "Search volume" [ref=e149] [cursor=pointer]:
+                      - generic [ref=e151]: Search volume
+                    - tooltip [ref=e152]: Sort by search volume
+                - columnheader "Started More info" [ref=e153]:
+                  - generic [ref=e154]:
+                    - generic [ref=e156]:
+                      - button "Started" [ref=e158] [cursor=pointer]:
+                        - generic [ref=e160]: Started
+                      - tooltip [ref=e161]: Sort by recency
+                    - button "More info" [ref=e164] [cursor=pointer]:
+                      - generic [ref=e166]: info
+            - rowgroup [ref=e168]:
+              - row [ref=e169]:
+                - gridcell [ref=e170]:
+                  - progressbar "Loading..." [ref=e175]
+            - rowgroup
+      - contentinfo [ref=e180]:
+        - generic [ref=e181]:
+          - img "Google" [ref=e182]
+          - generic [ref=e183]:
+            - link "Privacy Opens a new tab" [ref=e184] [cursor=pointer]:
+              - /url: https://policies.google.com/privacy?hl=en-US
+              - text: Privacy
+            - link "Terms Opens a new tab" [ref=e185] [cursor=pointer]:
+              - /url: https://policies.google.com/terms?hl=en-US
+              - text: Terms
+            - button "Send feedback" [ref=e186] [cursor=pointer]
+            - link "About Opens a new tab" [ref=e187] [cursor=pointer]:
+              - /url: https://about.google?hl=en-US
+              - text: About
+        - generic [ref=e188]:
+          - link "Help Opens a new tab" [ref=e189] [cursor=pointer]:
+            - /url: https://support.google.com/trends?hl=en-US
+            - generic [ref=e190]: help
+            - generic [ref=e191]: Help
+          - combobox "Select language" [ref=e195] [cursor=pointer]:
+            - generic [ref=e196]: language
+            - generic:
+              - generic: English (United States)‎
+            - generic:
+              - img
+      - generic [ref=e198]:
+        - generic [ref=e199]: This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic
+        - generic [ref=e200]:
+          - generic [ref=e202] [cursor=pointer]:
+            - generic [ref=e203]: Learn more
+            - link "Learn more" [ref=e204]:
+              - /url: https://policies.google.com/technologies/cookies
+          - button "Got it" [ref=e206] [cursor=pointer]:
+            - generic [ref=e208]: Got it

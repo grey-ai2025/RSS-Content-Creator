@@ -1,0 +1,313 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]
+          - button "Advanced search" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]:
+                - img [ref=e23]
+              - tooltip [ref=e25]: Advanced search
+          - button "Search" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+        - generic [ref=e30]:
+          - generic [ref=e35]:
+            - button "Help" [ref=e36] [cursor=pointer]:
+              - img [ref=e38]
+            - tooltip [ref=e40]: Help
+          - generic [ref=e45]:
+            - button "Settings" [ref=e46] [cursor=pointer]:
+              - img [ref=e48]
+            - tooltip [ref=e51]: Settings
+      - generic [ref=e53]:
+        - button "Google apps" [ref=e57] [cursor=pointer]:
+          - img [ref=e58]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e64]:
+      - tablist [ref=e65]:
+        - tab "Home" [selected] [ref=e66] [cursor=pointer]:
+          - tab "Home" [selected] [ref=e67]
+        - tab "For you" [ref=e68] [cursor=pointer]:
+          - tab "For you" [ref=e69]
+        - tab "Following" [ref=e70] [cursor=pointer]:
+          - tab "Following" [ref=e71]
+        - tab "U.S." [ref=e74] [cursor=pointer]:
+          - tab "U.S." [ref=e75]
+        - tab "World" [ref=e76] [cursor=pointer]:
+          - tab "World" [ref=e77]
+        - tab "Local" [ref=e78] [cursor=pointer]:
+          - tab "Local" [ref=e79]
+        - tab "Business" [ref=e80] [cursor=pointer]:
+          - tab "Business" [ref=e81]
+        - tab "Technology" [ref=e82] [cursor=pointer]:
+          - tab "Technology" [ref=e83]
+        - tab "Entertainment" [ref=e84] [cursor=pointer]:
+          - tab "Entertainment" [ref=e85]
+      - generic [ref=e89]:
+        - button "More" [ref=e90] [cursor=pointer]:
+          - img [ref=e92]
+        - tooltip [ref=e94]: More
+  - main [ref=e99]:
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - heading "Your briefing" [level=1] [ref=e105]
+          - paragraph [ref=e106]: Wednesday, May 6
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: Today
+              - img [ref=e113]
+              - generic [ref=e114]:
+                - generic [ref=e115]: 32°
+                - generic [ref=e116]: 27°
+            - generic [ref=e117]:
+              - generic [ref=e118]: Thu
+              - img [ref=e119]
+              - generic [ref=e120]:
+                - generic [ref=e121]: 33°
+                - generic [ref=e122]: 28°
+            - generic [ref=e123]:
+              - generic [ref=e124]: Fri
+              - img [ref=e125]
+              - generic [ref=e126]:
+                - generic [ref=e127]: 33°
+                - generic [ref=e128]: 28°
+            - generic [ref=e129]:
+              - generic [ref=e130]: Sat
+              - img [ref=e131]
+              - generic [ref=e132]:
+                - generic [ref=e133]: 33°
+                - generic [ref=e134]: 28°
+          - generic [ref=e135]:
+            - button "Expand to view forecast" [ref=e136] [cursor=pointer]:
+              - img [ref=e137]
+            - generic "Calabarzon, 29°C, sunny" [ref=e139]:
+              - img "sunny" [ref=e140]:
+                - img [ref=e142]
+              - generic [ref=e148]:
+                - generic [ref=e149]:
+                  - generic [ref=e150]: Calabarzon
+                  - button "Use precise location" [ref=e151] [cursor=pointer]:
+                    - img [ref=e152]
+                - generic [ref=e154]: 29°C
+                - link "Google Weather" [ref=e155] [cursor=pointer]:
+                  - /url: https://support.google.com/websearch/answer/13687874
+      - generic [ref=e157]:
+        - heading "Top stories" [level=3] [ref=e160]:
+          - link "Top stories" [ref=e161] [cursor=pointer]:
+            - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Top stories
+            - img [ref=e162]
+        - generic [ref=e167]:
+          - generic [ref=e168]:
+            - generic [ref=e169]:
+              - link [ref=e171] [cursor=pointer]:
+                - /url: ./read/CBMiowFBVV95cUxNUlJaemxMY2NNbzdvRDhDek5lWk9FVURNaktEVEpiTkVfMWFyY2J6T0VDbGhvbWlEWlpHdkcwVVRFTDc0VE4xVDNfc2s4SlBzb2RWdS1SN19VM1VuTkhhWjR0WmZIVm16Z0x2NnNJOXpwNldSR3R1NkhSOHd6NWhPcF9RYnIwUWN6Z2tQSldvRF9HOVdyN3FBbnFPLTRtdzhJa2Vv?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e172]
+              - generic [ref=e173]:
+                - generic [ref=e176]: NBC News
+                - generic [ref=e180]:
+                  - generic:
+                    - 'button "More - Three sick passengers evacuated from virus ship and Trump-backed candidates win in Indiana: Morning Rundown" [ref=e181] [cursor=pointer]':
+                      - img [ref=e183]
+                    - tooltip [ref=e185]: More
+              - 'link "Three sick passengers evacuated from virus ship and Trump-backed candidates win in Indiana: Morning Rundown - NBC News - 1 hour ago - By Elizabeth Robinson" [ref=e186] [cursor=pointer]':
+                - /url: ./read/CBMiowFBVV95cUxNUlJaemxMY2NNbzdvRDhDek5lWk9FVURNaktEVEpiTkVfMWFyY2J6T0VDbGhvbWlEWlpHdkcwVVRFTDc0VE4xVDNfc2s4SlBzb2RWdS1SN19VM1VuTkhhWjR0WmZIVm16Z0x2NnNJOXpwNldSR3R1NkhSOHd6NWhPcF9RYnIwUWN6Z2tQSldvRF9HOVdyN3FBbnFPLTRtdzhJa2Vv?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Three sick passengers evacuated from virus ship and Trump-backed candidates win in Indiana: Morning Rundown"
+              - generic [ref=e187]:
+                - time [ref=e188]: 1 hour ago
+                - separator [ref=e189]
+                - generic [ref=e190]: By Elizabeth Robinson
+            - generic [ref=e191]:
+              - generic [ref=e192]:
+                - link [ref=e194] [cursor=pointer]:
+                  - /url: ./read/CBMihwFBVV95cUxQQ05BUkdhUWliNDI3RTAweVBCMlhmd1V2RDQ0d04xR0hHNlo4NmliOFFFemk2cGlpMjVNdVpqd3RwdWdLMDZDYUQyMmZxQTdXcXM3eFRTUmY2cDNNbnBmeGRoLU4zZGdpSmdPdjBPSUlIcEpLMWtWSmxxSUNoN1diVGQ4RE5tR2M?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e195]:
+                  - generic [ref=e198]: CNN
+                  - generic [ref=e202]:
+                    - generic:
+                      - button "More - Trump gets revenge, and other takeaways from Tuesday’s Indiana and Ohio primaries" [ref=e203] [cursor=pointer]:
+                        - img [ref=e205]
+                      - tooltip [ref=e207]: More
+                - link "Trump gets revenge, and other takeaways from Tuesday’s Indiana and Ohio primaries - CNN - 9 hours ago - By Eric Bradner" [ref=e208] [cursor=pointer]:
+                  - /url: ./read/CBMihwFBVV95cUxQQ05BUkdhUWliNDI3RTAweVBCMlhmd1V2RDQ0d04xR0hHNlo4NmliOFFFemk2cGlpMjVNdVpqd3RwdWdLMDZDYUQyMmZxQTdXcXM3eFRTUmY2cDNNbnBmeGRoLU4zZGdpSmdPdjBPSUlIcEpLMWtWSmxxSUNoN1diVGQ4RE5tR2M?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump gets revenge, and other takeaways from Tuesday’s Indiana and Ohio primaries
+                - generic [ref=e209]:
+                  - time [ref=e210]: 9 hours ago
+                  - separator [ref=e211]
+                  - generic [ref=e212]: By Eric Bradner
+              - generic [ref=e213]:
+                - link [ref=e215] [cursor=pointer]:
+                  - /url: ./read/CBMi1AFBVV95cUxPYVBGWF96VWRzMFdTd1laWEpJbWFESXE3dW9malBjal9SU3ZDUWVxSHNVeTdhMFlXZEZzNTJHTm1XaUk5Vm1zb1ZITk5ES3hRSmkxbVJ0a0NSRzBaZ0ZwRUVpYVVGbDVqZkE2MkpTWHZXMldjUDJqSjB1QmtWZTlRRk9sd1NkQnlLUFNoS1o2VFA1N3k3Ql81Q0pqOS1RemtUSFdhb2JpdktxQ0JnaElNSnFiejYxdXJoYzZqdDFaY3p3U25fbUpkdk1tMmluTWJVS2xpYQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e216]:
+                  - generic [ref=e219]: NBC News
+                  - generic [ref=e223]:
+                    - generic:
+                      - 'button "More - Live updates: Trump candidates oust incumbents in Indiana primaries after rejected redistricting push" [ref=e224] [cursor=pointer]':
+                        - img [ref=e226]
+                      - tooltip [ref=e228]: More
+                - 'link "Live updates: Trump candidates oust incumbents in Indiana primaries after rejected redistricting push - NBC News - 30 minutes ago" [ref=e229] [cursor=pointer]':
+                  - /url: ./read/CBMi1AFBVV95cUxPYVBGWF96VWRzMFdTd1laWEpJbWFESXE3dW9malBjal9SU3ZDUWVxSHNVeTdhMFlXZEZzNTJHTm1XaUk5Vm1zb1ZITk5ES3hRSmkxbVJ0a0NSRzBaZ0ZwRUVpYVVGbDVqZkE2MkpTWHZXMldjUDJqSjB1QmtWZTlRRk9sd1NkQnlLUFNoS1o2VFA1N3k3Ql81Q0pqOS1RemtUSFdhb2JpdktxQ0JnaElNSnFiejYxdXJoYzZqdDFaY3p3U25fbUpkdk1tMmluTWJVS2xpYQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Live updates: Trump candidates oust incumbents in Indiana primaries after rejected redistricting push"
+                - time [ref=e231]: 30 minutes ago
+              - generic [ref=e232]:
+                - link [ref=e234] [cursor=pointer]:
+                  - /url: ./read/CBMikAFBVV95cUxNZFROVElZeHJoVVcxUkNDZGJGRTh1TEQxYk5TZEQtS3hrTkhnX3kxUWNJbG56Q2lRelU1TnBoU0hXUVZMS0Uta3FFWmk4MkZsN1A2b0RDSVlmUnZlcm0zbEVkNHhtazRpS0Zrd2diZFdmZEZybVByMk1kOTVwNGpvNHU2b2ozY1NUMnkzNjRHUU0?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e235]:
+                  - generic [ref=e238]: The Washington Post
+                  - generic [ref=e242]:
+                    - generic:
+                      - button "More - After defying Trump, a Republican lawmaker hangs on by a thread" [ref=e243] [cursor=pointer]:
+                        - img [ref=e245]
+                      - tooltip [ref=e247]: More
+                - link "After defying Trump, a Republican lawmaker hangs on by a thread - The Washington Post - 29 minutes ago - By Patrick Marley" [ref=e248] [cursor=pointer]:
+                  - /url: ./read/CBMikAFBVV95cUxNZFROVElZeHJoVVcxUkNDZGJGRTh1TEQxYk5TZEQtS3hrTkhnX3kxUWNJbG56Q2lRelU1TnBoU0hXUVZMS0Uta3FFWmk4MkZsN1A2b0RDSVlmUnZlcm0zbEVkNHhtazRpS0Zrd2diZFdmZEZybVByMk1kOTVwNGpvNHU2b2ozY1NUMnkzNjRHUU0?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: After defying Trump, a Republican lawmaker hangs on by a thread
+                - generic [ref=e249]:
+                  - time [ref=e250]: 29 minutes ago
+                  - separator [ref=e251]
+                  - generic [ref=e252]: By Patrick Marley
+          - link "See more headlines & perspectives" [ref=e255] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lFenBHRUVSR0hxcmJCOXR2ekF5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e256]
+            - generic [ref=e258]: See more headlines & perspectives
+        - generic [ref=e262]:
+          - generic [ref=e263]:
+            - generic [ref=e264]:
+              - link [ref=e266] [cursor=pointer]:
+                - /url: ./read/CBMimgFBVV95cUxQNDRlMENvY3ZOb1Z6ZTczSThUWjYxRERjNktLS3oyM1hIdkFBTm5ITEVVdTZkMF9ZaExxYkFsbU1QOHl1YktFVzlNS1Q3emdtQjRKWEdGamlVNWRQMkUwTTdRVU1tNEhCU3g1Q05IVDhxVWJuSUlGaENmeERYcUtxSkhQZm5wc2paVlBOTGlNb3VOTjdWb1E1RHRB?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e267]
+              - generic [ref=e268]:
+                - generic [ref=e271]: The Washington Post
+                - generic [ref=e275]:
+                  - generic:
+                    - button "More - Trump orders military to pause Strait of Hormuz mission to allow time for peace talks" [ref=e276] [cursor=pointer]:
+                      - img [ref=e278]
+                    - tooltip [ref=e280]: More
+              - link "Trump orders military to pause Strait of Hormuz mission to allow time for peace talks - The Washington Post - 2 hours ago - By Dan Lamothe, Tara Copp & Cleve Wootson" [ref=e281] [cursor=pointer]:
+                - /url: ./read/CBMimgFBVV95cUxQNDRlMENvY3ZOb1Z6ZTczSThUWjYxRERjNktLS3oyM1hIdkFBTm5ITEVVdTZkMF9ZaExxYkFsbU1QOHl1YktFVzlNS1Q3emdtQjRKWEdGamlVNWRQMkUwTTdRVU1tNEhCU3g1Q05IVDhxVWJuSUlGaENmeERYcUtxSkhQZm5wc2paVlBOTGlNb3VOTjdWb1E1RHRB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Trump orders military to pause Strait of Hormuz mission to allow time for peace talks
+              - generic [ref=e282]:
+                - time [ref=e283]: 2 hours ago
+                - separator [ref=e284]
+                - generic [ref=e285]: By Dan Lamothe, Tara Copp & Cleve Wootson
+            - generic [ref=e286]:
+              - generic [ref=e287]:
+                - link [ref=e289] [cursor=pointer]:
+                  - /url: ./read/CBMihAFBVV95cUxPU0NNTnM1Vkp6QkQzNWF0dVZGUF9xNUZXYnp2Yms0TS1IZU5lLWVsem5MUmpZM2RTQlNSbVBmUWRLenNnSnZtRm10Q21GVjhYcHVMamt3ZEp3YWF4aWRnNkJYYVRGMVJCazZwbjNuY3BUNnJmaWJ0MzE3WHMtLWo1Q0p5UkI?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e290]:
+                  - generic [ref=e293]: CNN
+                  - generic [ref=e297]:
+                    - generic:
+                      - 'button "More - Live updates: Oil prices drop after Trump hails ‘great progress’ in Iran talks" [ref=e298] [cursor=pointer]':
+                        - img [ref=e300]
+                      - tooltip [ref=e302]: More
+                - 'link "Live updates: Oil prices drop after Trump hails ‘great progress’ in Iran talks - CNN - 45 minutes ago - By Sylvie Xiaowei Zhuang, Kelly Mccleary & Charbel Mallo" [ref=e303] [cursor=pointer]':
+                  - /url: ./read/CBMihAFBVV95cUxPU0NNTnM1Vkp6QkQzNWF0dVZGUF9xNUZXYnp2Yms0TS1IZU5lLWVsem5MUmpZM2RTQlNSbVBmUWRLenNnSnZtRm10Q21GVjhYcHVMamt3ZEp3YWF4aWRnNkJYYVRGMVJCazZwbjNuY3BUNnJmaWJ0MzE3WHMtLWo1Q0p5UkI?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Live updates: Oil prices drop after Trump hails ‘great progress’ in Iran talks"
+                - generic [ref=e304]:
+                  - time [ref=e305]: 45 minutes ago
+                  - separator [ref=e306]
+                  - generic [ref=e307]: By Sylvie Xiaowei Zhuang, Kelly Mccleary & Charbel Mallo
+              - generic [ref=e308]:
+                - link [ref=e310] [cursor=pointer]:
+                  - /url: ./read/CBMidkFVX3lxTFBsaDhvV2VlZnF4V2l5UTlPWE9qZzkyM3dPWndXSnd4NEVKSXlaVFdRczBlZDFsdFI5dndsQm9SSEx2ZHE5c0Foa1RHZmtfQk1WajhQdjB4VUxUX1dNXzBNd3JfVEMwYk1fMjNEdEtyRkhFS2lxU3c?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e311]:
+                  - generic [ref=e314]: The New York Times
+                  - generic [ref=e318]:
+                    - generic:
+                      - 'button "More - Iran War Live Updates: Trump Suggests U.S.-Iran Cease-Fire Remains Despite Strait of Hormuz Escalations" [ref=e319] [cursor=pointer]':
+                        - img [ref=e321]
+                      - tooltip [ref=e323]: More
+                - 'link "Iran War Live Updates: Trump Suggests U.S.-Iran Cease-Fire Remains Despite Strait of Hormuz Escalations - The New York Times - 1 hour ago - By Erica L. Green, David E. Sanger & Leo Sands" [ref=e324] [cursor=pointer]':
+                  - /url: ./read/CBMidkFVX3lxTFBsaDhvV2VlZnF4V2l5UTlPWE9qZzkyM3dPWndXSnd4NEVKSXlaVFdRczBlZDFsdFI5dndsQm9SSEx2ZHE5c0Foa1RHZmtfQk1WajhQdjB4VUxUX1dNXzBNd3JfVEMwYk1fMjNEdEtyRkhFS2lxU3c?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Iran War Live Updates: Trump Suggests U.S.-Iran Cease-Fire Remains Despite Strait of Hormuz Escalations"
+                - generic [ref=e325]:
+                  - time [ref=e326]: 1 hour ago
+                  - separator [ref=e327]
+                  - generic [ref=e328]: By Erica L. Green, David E. Sanger & Leo Sands
+              - generic [ref=e329]:
+                - link [ref=e331] [cursor=pointer]:
+                  - /url: ./read/CBMisgFBVV95cUxQaWlySGJwblpXWXVhcXo4QnRqU2ZuUUZZTlZNX1NVeDRxNXNQdGJBZUhYejZZZS1xaGd1OFJoXzRWWHdyazd1NE5wc2VzVFJraDYxMWk1R3BZLXM0NHZrQVczalVYem56QmJ5NFFBY2F0N0lHMEZMSjA1NVA2czhXZ0JZWWpUSjU1c3BtcmNoY2JBNnRmdHNXaVVfNGthY0JKdnRBVXBhcUNLTUJnZVZkWVpB?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e332]:
+                  - generic [ref=e335]: USA Today
+                  - generic [ref=e339]:
+                    - generic:
+                      - 'button "More - US effort to open Hormuz ''paused'', Trump says: Iran war updates" [ref=e340] [cursor=pointer]':
+                        - img [ref=e342]
+                      - tooltip [ref=e344]: More
+                - 'link "US effort to open Hormuz ''paused'', Trump says: Iran war updates - USA Today - 1 hour ago - By Michael Loria" [ref=e345] [cursor=pointer]':
+                  - /url: ./read/CBMisgFBVV95cUxQaWlySGJwblpXWXVhcXo4QnRqU2ZuUUZZTlZNX1NVeDRxNXNQdGJBZUhYejZZZS1xaGd1OFJoXzRWWHdyazd1NE5wc2VzVFJraDYxMWk1R3BZLXM0NHZrQVczalVYem56QmJ5NFFBY2F0N0lHMEZMSjA1NVA2czhXZ0JZWWpUSjU1c3BtcmNoY2JBNnRmdHNXaVVfNGthY0JKdnRBVXBhcUNLTUJnZVZkWVpB?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "US effort to open Hormuz 'paused', Trump says: Iran war updates"
+                - generic [ref=e346]:
+                  - time [ref=e347]: 1 hour ago
+                  - separator [ref=e348]
+                  - generic [ref=e349]: By Michael Loria
+          - link "See more headlines & perspectives" [ref=e352] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pDakl5R0VSRnZZOTJ5d2lwa1NDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e353]
+            - generic [ref=e355]: See more headlines & perspectives
+        - generic [ref=e359]:
+          - generic [ref=e360]:
+            - link [ref=e362] [cursor=pointer]:
+              - /url: ./read/CBMimwFBVV95cUxPNjhGRGpwY3Y5dGJoWkJtcUFYRWpfU0FXWkRUU3hmaGtnMTRpZ1pDd1RlRVRneWJfaDJHM2w0anlSMTloYWNNd3h6SldKSUphLTBUa0tYQ1p6b29XVTNFX1BsME9CbzFlQldNQ0hQZVZ6SHdDeTg4b3BBNFlzMUYzc3J2enZ2emlVSlg4TExnenM4UVp4Qm9JS2pzMA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e364]:
+              - generic [ref=e365]:
+                - generic [ref=e368]: NPR
+                - generic [ref=e372]:
+                  - generic:
+                    - button "More - Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire" [ref=e373] [cursor=pointer]:
+                      - img [ref=e375]
+                    - tooltip [ref=e377]: More
+              - link "Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire - NPR - 6 hours ago" [ref=e378] [cursor=pointer]:
+                - /url: ./read/CBMimwFBVV95cUxPNjhGRGpwY3Y5dGJoWkJtcUFYRWpfU0FXWkRUU3hmaGtnMTRpZ1pDd1RlRVRneWJfaDJHM2w0anlSMTloYWNNd3h6SldKSUphLTBUa0tYQ1p6b29XVTNFX1BsME9CbzFlQldNQ0hQZVZ6SHdDeTg4b3BBNFlzMUYzc3J2enZ2emlVSlg4TExnenM4UVp4Qm9JS2pzMA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire
+            - figure [ref=e379]
+          - generic [ref=e380]:
+            - time [ref=e381]: 6 hours ago
+            - link "See more headlines & perspectives - Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire" [ref=e382] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l1eUxtSUVSRkZZVUVxNDhYTWpDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e383]
+              - generic [ref=e385]: See more
+        - generic [ref=e389]:
+          - generic [ref=e390]:
+            - link [ref=e392] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxPSmhaV1Y2bWpXaDh0amhSM0RCWWJHWXZhRzE3VHc5WG93X0FSbTc2dHhfbU1HSWIza1pkaC1uYlpVUjRrbV9jM3U4THUxeFd5VnkyQlFEcmhpU0V0QXBwTGhjdDdoUXlxb2FlS2laaGhoeTYtRG1SRE5FSS1xTWxiQXVwa0U2Qm9ZekFRR1o5Y1oxQm1qY0xObjkyRFZJdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e394]:
+              - generic [ref=e395]:
+                - generic [ref=e398]: Los Angeles Times
+                - generic [ref=e402]:
+                  - generic:
+                    - 'button "More - Commentary: Who won the California governor debate on CNN? Here''s what our columnists say" [ref=e403] [cursor=pointer]':
+                      - img [ref=e405]
+                    - tooltip [ref=e407]: More
+              - 'link "Commentary: Who won the California governor debate on CNN? Here''s what our columnists say - Los Angeles Times - 8 hours ago - By Mark Z. Barabak, Anita Chabria & Gustavo Arellano" [ref=e408] [cursor=pointer]':
+                - /url: ./read/CBMingFBVV95cUxPSmhaV1Y2bWpXaDh0amhSM0RCWWJHWXZhRzE3VHc5WG93X0FSbTc2dHhfbU1HSWIza1pkaC1uYlpVUjRrbV9jM3U4THUxeFd5VnkyQlFEcmhpU0V0QXBwTGhjdDdoUXlxb2FlS2laaGhoeTYtRG1SRE5FSS1xTWxiQXVwa0U2Qm9ZekFRR1o5Y1oxQm1qY0xObjkyRFZJdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Commentary: Who won the California governor debate on CNN? Here's what our columnists say"
+            - figure [ref=e409]
+          - generic [ref=e410]:
+            - time [ref=e411]: 8 hours ago
+            - separator [ref=e412]
+            - generic [ref=e413]: By Mark Z. Barabak, Anita Chabria & Gustavo Arellano
+            - 'link "See more headlines & perspectives - Commentary: Who won the California governor debate on CNN? Here''s what our columnists say" [ref=e414] [cursor=pointer]':
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPbXFxRUVSRi1vMkN0OC1sZDNTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e415]
+              - generic [ref=e417]: See more
+      - generic [ref=e420]:
+        - generic [ref=e421]:
+          - heading "Local news" [level=3] [ref=e423]:
+            - link "Local news" [ref=e424] [cursor=pointer]:
+              - /url: ./topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Local news
+              - img [ref=e425]
+          - generic [ref=e429]:
+            - button "Manage local news" [ref=e430] [cursor=pointer]:
+              - img [ref=e431]
+            - tooltip [ref=e434]: Manage local news
+        - tablist [ref=e436]
