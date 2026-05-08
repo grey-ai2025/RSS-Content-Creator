@@ -57,7 +57,9 @@
       "WebFetch(domain:www.microsoft.com)",
       "WebFetch(domain:www.workplaceintelligence.com)",
       "WebFetch(domain:news.microsoft.com)",
-      "WebFetch(domain:blog.greeden.me)"
+      "WebFetch(domain:blog.greeden.me)",
+      "WebFetch(domain:www.ram-srinivasan.com)",
+      "WebFetch(domain:x.com)"
     ]
   },
   "enableAllProjectMcpServers": true,
