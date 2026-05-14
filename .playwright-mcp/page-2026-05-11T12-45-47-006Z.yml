@@ -1,0 +1,319 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]
+          - button "Advanced search" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]:
+                - img [ref=e23]
+              - tooltip [ref=e25]: Advanced search
+          - button "Search" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+        - generic [ref=e30]:
+          - generic [ref=e35]:
+            - button "Help" [ref=e36] [cursor=pointer]:
+              - img [ref=e38]
+            - tooltip [ref=e40]: Help
+          - generic [ref=e45]:
+            - button "Settings" [ref=e46] [cursor=pointer]:
+              - img [ref=e48]
+            - tooltip [ref=e51]: Settings
+      - generic [ref=e53]:
+        - button "Google apps" [ref=e57] [cursor=pointer]:
+          - img [ref=e58]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e64]:
+      - tablist [ref=e65]:
+        - tab "Home" [selected] [ref=e66] [cursor=pointer]:
+          - tab "Home" [selected] [ref=e67]
+        - tab "For you" [ref=e68] [cursor=pointer]:
+          - tab "For you" [ref=e69]
+        - tab "Following" [ref=e70] [cursor=pointer]:
+          - tab "Following" [ref=e71]
+        - tab "U.S." [ref=e74] [cursor=pointer]:
+          - tab "U.S." [ref=e75]
+        - tab "World" [ref=e76] [cursor=pointer]:
+          - tab "World" [ref=e77]
+        - tab "Local" [ref=e78] [cursor=pointer]:
+          - tab "Local" [ref=e79]
+        - tab "Business" [ref=e80] [cursor=pointer]:
+          - tab "Business" [ref=e81]
+        - tab "Technology" [ref=e82] [cursor=pointer]:
+          - tab "Technology" [ref=e83]
+        - tab "Entertainment" [ref=e84] [cursor=pointer]:
+          - tab "Entertainment" [ref=e85]
+      - generic [ref=e89]:
+        - button "More" [ref=e90] [cursor=pointer]:
+          - img [ref=e92]
+        - tooltip [ref=e94]: More
+  - main [ref=e99]:
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - heading "Your briefing" [level=1] [ref=e105]
+          - paragraph [ref=e106]: Monday, May 11
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: Today
+              - img [ref=e113]
+              - generic [ref=e114]:
+                - generic [ref=e115]: 33°
+                - generic [ref=e116]: 28°
+            - generic [ref=e117]:
+              - generic [ref=e118]: Tue
+              - img [ref=e119]
+              - generic [ref=e120]:
+                - generic [ref=e121]: 33°
+                - generic [ref=e122]: 28°
+            - generic [ref=e123]:
+              - generic [ref=e124]: Wed
+              - img [ref=e125]
+              - generic [ref=e126]:
+                - generic [ref=e127]: 32°
+                - generic [ref=e128]: 28°
+            - generic [ref=e129]:
+              - generic [ref=e130]: Thu
+              - img [ref=e131]
+              - generic [ref=e132]:
+                - generic [ref=e133]: 32°
+                - generic [ref=e134]: 28°
+          - generic [ref=e135]:
+            - button "Expand to view forecast" [ref=e136] [cursor=pointer]:
+              - img [ref=e137]
+            - generic "Calabarzon, 29°C, cloudy" [ref=e139]:
+              - img "cloudy" [ref=e140]:
+                - img [ref=e142]
+              - generic [ref=e156]:
+                - generic [ref=e157]:
+                  - generic [ref=e158]: Calabarzon
+                  - button "Use precise location" [ref=e159] [cursor=pointer]:
+                    - img [ref=e160]
+                - generic [ref=e162]: 29°C
+                - link "Google Weather" [ref=e163] [cursor=pointer]:
+                  - /url: https://support.google.com/websearch/answer/13687874
+      - generic [ref=e165]:
+        - heading "Top stories" [level=3] [ref=e168]:
+          - link "Top stories" [ref=e169] [cursor=pointer]:
+            - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Top stories
+            - img [ref=e170]
+        - generic [ref=e175]:
+          - link "Donald Trump rejects Iran's response to ceasefire proposal" [ref=e177] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lvNE15QUVSSHduVWVsSTU3YW1pZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Donald Trump rejects Iran's response to ceasefire proposal chevron_right
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - link [ref=e181] [cursor=pointer]:
+                - /url: ./read/CBMiiAFBVV95cUxON2RSNjhuM1Z2dzB2MmZKbTJybWI2aVFpMFJMdjBHZXk4OXc2UFdkUHdrWWM1enIyckUta1dDV0NiaEtiZnlPeW02UUlSRm5WckVVOUt0SWpHV3RkdHhRN2RVV1ZaMGw0bVdzbWc5OHM2NlhmT2NXOXd4Y1ZraUh5VEUtMGIydHZP?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e182]
+              - generic [ref=e183]:
+                - generic [ref=e186]: The Washington Post
+                - generic [ref=e190]:
+                  - generic:
+                    - button "More - Trump calls Iran’s response to peace plan ‘unacceptable’ as ceasefire is tested" [ref=e191] [cursor=pointer]:
+                      - img [ref=e193]
+                    - tooltip [ref=e195]: More
+              - link "Trump calls Iran’s response to peace plan ‘unacceptable’ as ceasefire is tested - The Washington Post - 2 hours ago - By Mariana Alfaro & Karen DeYoung" [ref=e196] [cursor=pointer]:
+                - /url: ./read/CBMiiAFBVV95cUxON2RSNjhuM1Z2dzB2MmZKbTJybWI2aVFpMFJMdjBHZXk4OXc2UFdkUHdrWWM1enIyckUta1dDV0NiaEtiZnlPeW02UUlSRm5WckVVOUt0SWpHV3RkdHhRN2RVV1ZaMGw0bVdzbWc5OHM2NlhmT2NXOXd4Y1ZraUh5VEUtMGIydHZP?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Trump calls Iran’s response to peace plan ‘unacceptable’ as ceasefire is tested
+              - generic [ref=e197]:
+                - time [ref=e198]: 2 hours ago
+                - separator [ref=e199]
+                - generic [ref=e200]: By Mariana Alfaro & Karen DeYoung
+            - generic [ref=e201]:
+              - generic [ref=e202]:
+                - link [ref=e204] [cursor=pointer]:
+                  - /url: ./read/CBMijAFBVV95cUxQOEN6ODRwY3dZNm96c3A1UnFqNUZZZ050SHNsajhtX3FZdVl5d3BrVUdZNXpkU1dhc1VmR3gzSmUyaTRDelAzRk14eFVrZFItNWNIZ1Vqb0hpOVZsZUdOSS1oc3NHbGlvMXlRT19qNWNNWl94UjVRR2s1SjJIanRIWTgzMjZfMVd3LWNkVdIBkgFBVV95cUxQR2tfUG1RTFhOZWllUjRSNmxfckkxV0dwRDJpT1ROeEVrY0pzT1RBTnpTbDJGdXA3Vi00UGh4alZpR2thbDVEeEZCV2IyengtUW11QUR0YXJsQzFpUGtUeXB0Y2pqcVVRYzhuaEsxYzEwako3ZGFqcUsza0xtVkpBaWJweU1nQ1VjVUoyancxTVV4dw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e205]:
+                  - generic [ref=e208]: CNBC
+                  - generic [ref=e212]:
+                    - generic:
+                      - button "More - Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict" [ref=e213] [cursor=pointer]:
+                        - img [ref=e215]
+                      - tooltip [ref=e217]: More
+                - link "Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict - CNBC - 10 hours ago - By Anniek Bao" [ref=e218] [cursor=pointer]:
+                  - /url: ./read/CBMijAFBVV95cUxQOEN6ODRwY3dZNm96c3A1UnFqNUZZZ050SHNsajhtX3FZdVl5d3BrVUdZNXpkU1dhc1VmR3gzSmUyaTRDelAzRk14eFVrZFItNWNIZ1Vqb0hpOVZsZUdOSS1oc3NHbGlvMXlRT19qNWNNWl94UjVRR2s1SjJIanRIWTgzMjZfMVd3LWNkVdIBkgFBVV95cUxQR2tfUG1RTFhOZWllUjRSNmxfckkxV0dwRDJpT1ROeEVrY0pzT1RBTnpTbDJGdXA3Vi00UGh4alZpR2thbDVEeEZCV2IyengtUW11QUR0YXJsQzFpUGtUeXB0Y2pqcVVRYzhuaEsxYzEwako3ZGFqcUsza0xtVkpBaWJweU1nQ1VjVUoyancxTVV4dw?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict
+                - generic [ref=e219]:
+                  - time [ref=e220]: 10 hours ago
+                  - separator [ref=e221]
+                  - generic [ref=e222]: By Anniek Bao
+              - generic [ref=e223]:
+                - link [ref=e225] [cursor=pointer]:
+                  - /url: ./read/CBMiowFBVV95cUxOMzNXbW1sOGNmam8zMDlvSGR2YXNLUWQtd0pVaE9CUHU0VUFTb3NjTVpjd25BM3RYSVBCQWMxc0h6VmNyZ0VrdjFYb3BiN1RQNF91Rm9UTHN1amdyTTNUY2tDbEwzVm5PeTZjTHlGNVNJaFVfV2psY193dTNlRlAxXzNyajZ4azZlUGtKR3N2UU9hdUVWUmNYcFl6b21xcDVuZ2tV?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e226]:
+                  - generic [ref=e229]: NPR
+                  - generic [ref=e233]:
+                    - generic:
+                      - button "More - Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding" [ref=e234] [cursor=pointer]:
+                        - img [ref=e236]
+                      - tooltip [ref=e238]: More
+                - link "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding - NPR - 1 hour ago - By Brittney Melton" [ref=e239] [cursor=pointer]:
+                  - /url: ./read/CBMiowFBVV95cUxOMzNXbW1sOGNmam8zMDlvSGR2YXNLUWQtd0pVaE9CUHU0VUFTb3NjTVpjd25BM3RYSVBCQWMxc0h6VmNyZ0VrdjFYb3BiN1RQNF91Rm9UTHN1amdyTTNUY2tDbEwzVm5PeTZjTHlGNVNJaFVfV2psY193dTNlRlAxXzNyajZ4azZlUGtKR3N2UU9hdUVWUmNYcFl6b21xcDVuZ2tV?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding
+                - generic [ref=e240]:
+                  - time [ref=e241]: 1 hour ago
+                  - separator [ref=e242]
+                  - generic [ref=e243]: By Brittney Melton
+              - generic [ref=e244]:
+                - link [ref=e246] [cursor=pointer]:
+                  - /url: ./read/CBMidkFVX3lxTE1BWHNfdjVuNEI0dW5XU0ZtbjIyMEFwTjFlYzhVTjU1amdvT1dnbDNvQkZicWMyTi1YdkNibmtZZlBwVk5KV1ZHdXV1N3RZRTA2NlExdUZMc0ZRWUxCbjlfTXQtbXJNamo4azh0Y1lHZC1zaG0wNVE?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e247]:
+                  - generic [ref=e250]: The New York Times
+                  - generic [ref=e254]:
+                    - generic:
+                      - 'button "More - Iran War Live Updates: Iran Lists Demands That Trump Deemed ‘Unacceptable’" [ref=e255] [cursor=pointer]':
+                        - img [ref=e257]
+                      - tooltip [ref=e259]: More
+                - 'link "Iran War Live Updates: Iran Lists Demands That Trump Deemed ‘Unacceptable’ - The New York Times - 10 minutes ago" [ref=e260] [cursor=pointer]':
+                  - /url: ./read/CBMidkFVX3lxTE1BWHNfdjVuNEI0dW5XU0ZtbjIyMEFwTjFlYzhVTjU1amdvT1dnbDNvQkZicWMyTi1YdkNibmtZZlBwVk5KV1ZHdXV1N3RZRTA2NlExdUZMc0ZRWUxCbjlfTXQtbXJNamo4azh0Y1lHZC1zaG0wNVE?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Iran War Live Updates: Iran Lists Demands That Trump Deemed ‘Unacceptable’"
+                - time [ref=e262]: 10 minutes ago
+          - link "See more headlines & perspectives - Donald Trump rejects Iran's response to ceasefire proposal" [ref=e265] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lvNE15QUVSSHduVWVsSTU3YW1pZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e266]
+            - generic [ref=e268]: See more headlines & perspectives
+        - generic [ref=e272]:
+          - link "Donald Trump and Xi Jinping to meet in Beijing for summit" [ref=e274] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lLLWFpRUVSRU8xOGlXVHlET0VTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Donald Trump and Xi Jinping to meet in Beijing for summit chevron_right
+          - generic [ref=e275]:
+            - generic [ref=e276]:
+              - link [ref=e278] [cursor=pointer]:
+                - /url: ./read/CBMiowFBVV95cUxPdmEtYWRxOW04TDllN0VRNnhSUmY0U1dPZ0I3WTVmcUlFZVVnemlTS0FQN042SmdpbWdyLXotRjV1NzVEVGdhZUdMSFk0ZGxzT01OWjZ6UmtUX1NJa3pUdnpUS3ZVRXhxUXhYSXlBd0tWWDNKcmU2aHA4TS0xYUtzZzFHQ0Z6YUQzeDEwNkQ3T1N6NjFBa00wOGhOQlFBRHMzSWl3?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e279]
+              - generic [ref=e280]:
+                - generic [ref=e283]: AP News
+                - generic [ref=e287]:
+                  - generic:
+                    - button "More - Iran war could make Trump’s trip to China a bit chillier than his first-term visit" [ref=e288] [cursor=pointer]:
+                      - img [ref=e290]
+                    - tooltip [ref=e292]: More
+              - link "Iran war could make Trump’s trip to China a bit chillier than his first-term visit - AP News - 4 hours ago - By Will Weissert" [ref=e293] [cursor=pointer]:
+                - /url: ./read/CBMiowFBVV95cUxPdmEtYWRxOW04TDllN0VRNnhSUmY0U1dPZ0I3WTVmcUlFZVVnemlTS0FQN042SmdpbWdyLXotRjV1NzVEVGdhZUdMSFk0ZGxzT01OWjZ6UmtUX1NJa3pUdnpUS3ZVRXhxUXhYSXlBd0tWWDNKcmU2aHA4TS0xYUtzZzFHQ0Z6YUQzeDEwNkQ3T1N6NjFBa00wOGhOQlFBRHMzSWl3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Iran war could make Trump’s trip to China a bit chillier than his first-term visit
+              - generic [ref=e294]:
+                - time [ref=e295]: 4 hours ago
+                - separator [ref=e296]
+                - generic [ref=e297]: By Will Weissert
+            - generic [ref=e298]:
+              - generic [ref=e299]:
+                - link [ref=e301] [cursor=pointer]:
+                  - /url: ./read/CBMigwFBVV95cUxQczlSeG10LVdxWVZCWm1fRUs1UmZDUHFaWGk2eC13d3pQbUNIWlJ4ZWNsQUZoZHJEYVpzb3FOSndGc3dFQUp3OGUzZVJDajEzNldqdXFTVXlPRkVjNmhkcXFFLUdOa19oM0dvMDEteVg5dmszUGt2bVgyLWxsekVjNHFrOA?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e302]:
+                  - generic [ref=e305]: The New York Times
+                  - generic [ref=e309]:
+                    - generic:
+                      - button "More - What Middle Powers Fear About the Trump-Xi Summit" [ref=e310] [cursor=pointer]:
+                        - img [ref=e312]
+                      - tooltip [ref=e314]: More
+                - link "What Middle Powers Fear About the Trump-Xi Summit - The New York Times - 8 hours ago - By Damien Cave" [ref=e315] [cursor=pointer]:
+                  - /url: ./read/CBMigwFBVV95cUxQczlSeG10LVdxWVZCWm1fRUs1UmZDUHFaWGk2eC13d3pQbUNIWlJ4ZWNsQUZoZHJEYVpzb3FOSndGc3dFQUp3OGUzZVJDajEzNldqdXFTVXlPRkVjNmhkcXFFLUdOa19oM0dvMDEteVg5dmszUGt2bVgyLWxsekVjNHFrOA?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: What Middle Powers Fear About the Trump-Xi Summit
+                - generic [ref=e316]:
+                  - time [ref=e317]: 8 hours ago
+                  - separator [ref=e318]
+                  - generic [ref=e319]: By Damien Cave
+              - generic [ref=e320]:
+                - link [ref=e322] [cursor=pointer]:
+                  - /url: ./read/CBMimwFBVV95cUxQLWZOa194c0FNem44bnpKX1Q5dTEycHJDLU5vNHI2ak55NDVmMjl0Z0ppQzB4Yk5lNmdlYnhsZTlXelJsbW0xN25CU19paXFCd21uT0RmSFliQXZXYTlLampRUG5GVDdCME43Y2pOSGhmeURkQVNuSVNYQzYzTUpYSTBpb2thd0pENVVJRjlNQWhFSEE4TlBfZlV6QQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e323]:
+                  - generic [ref=e326]: The Guardian
+                  - generic [ref=e330]:
+                    - generic:
+                      - button "More - Trump heads to China this week to meet Xi as Iran war and trade disputes loom over summit – US politics live" [ref=e331] [cursor=pointer]:
+                        - img [ref=e333]
+                      - tooltip [ref=e335]: More
+                - link "Trump heads to China this week to meet Xi as Iran war and trade disputes loom over summit – US politics live - The Guardian - 1 hour ago - By Vivian Ho" [ref=e336] [cursor=pointer]:
+                  - /url: ./read/CBMimwFBVV95cUxQLWZOa194c0FNem44bnpKX1Q5dTEycHJDLU5vNHI2ak55NDVmMjl0Z0ppQzB4Yk5lNmdlYnhsZTlXelJsbW0xN25CU19paXFCd21uT0RmSFliQXZXYTlLampRUG5GVDdCME43Y2pOSGhmeURkQVNuSVNYQzYzTUpYSTBpb2thd0pENVVJRjlNQWhFSEE4TlBfZlV6QQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump heads to China this week to meet Xi as Iran war and trade disputes loom over summit – US politics live
+                - generic [ref=e337]:
+                  - time [ref=e338]: 1 hour ago
+                  - separator [ref=e339]
+                  - generic [ref=e340]: By Vivian Ho
+              - generic [ref=e341]:
+                - link [ref=e343] [cursor=pointer]:
+                  - /url: ./read/CBMitAFBVV95cUxQZ3ZuLW9xbmNscWF6VTVsS084a1o0dDJNb3B3ZjJ5U1NFYll6MWRlUTBEdm9FRVVnVzdoN1l2UDlaMUNvWWdxV1FWeXZlVnV3Z0RUdWF2OFZUczgxaThFYXJNZ1pBR1UydGRreXNwaFQ0RjZxcS1WSWlVNU40cHFIX2NrVzdBUlhCZkh3ZExDU3Z3VnM2S2s4dl9UWnRRLTZXbHQ0OU9VWFdTTndZV3RHTTI5Z3Y?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e344]:
+                  - generic [ref=e347]: Reuters
+                  - generic [ref=e351]:
+                    - generic:
+                      - button "More - Trump and China's Xi set for talks spanning Iran, nuclear, trade and AI" [ref=e352] [cursor=pointer]:
+                        - img [ref=e354]
+                      - tooltip [ref=e356]: More
+                - link "Trump and China's Xi set for talks spanning Iran, nuclear, trade and AI - Reuters - 18 hours ago - By Trevor Hunnicutt & Nandita Bose" [ref=e357] [cursor=pointer]:
+                  - /url: ./read/CBMitAFBVV95cUxQZ3ZuLW9xbmNscWF6VTVsS084a1o0dDJNb3B3ZjJ5U1NFYll6MWRlUTBEdm9FRVVnVzdoN1l2UDlaMUNvWWdxV1FWeXZlVnV3Z0RUdWF2OFZUczgxaThFYXJNZ1pBR1UydGRreXNwaFQ0RjZxcS1WSWlVNU40cHFIX2NrVzdBUlhCZkh3ZExDU3Z3VnM2S2s4dl9UWnRRLTZXbHQ0OU9VWFdTTndZV3RHTTI5Z3Y?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump and China's Xi set for talks spanning Iran, nuclear, trade and AI
+                - generic [ref=e358]:
+                  - time [ref=e359]: 18 hours ago
+                  - separator [ref=e360]
+                  - generic [ref=e361]: By Trevor Hunnicutt & Nandita Bose
+          - link "See more headlines & perspectives - Donald Trump and Xi Jinping to meet in Beijing for summit" [ref=e364] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lLLWFpRUVSRU8xOGlXVHlET0VTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e365]
+            - generic [ref=e367]: See more headlines & perspectives
+        - generic [ref=e371]:
+          - generic [ref=e372]:
+            - link [ref=e374] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxNYi1xRjVMZDI1WHYxWGVfS28tcS1KZklKZlpkQkotX3ZCSnJZZmk2MUVVZDVLalZGaHlFZ2NMdGtZR3VsWWNfYXlFOHNZVXpKT2NiYzRVRlh1R0VhWHlSdUlYNDhNX29ud1ExX2xoU0lubkREUm5NVWZjdnNUYjZONjltZ09qb25QU19YR1dIcXVzRjZnZko5bG5SZ250VmNwTVHSAacBQVVfeXFMUFBkWTdqSERIRWw1WDN6RF9VTnZXQkVORkx6WXN4SnRjSmZtdWJDVTlJY202LWFjb0J1cmVkWU9xcmstamx3VmYtSnNjX3VwdHZuclVtQlVhZzQyOW1RbDZiMXY2dGpqVllTeW9Ua1JEbEh4ekg5Z0pPSDh0RFpYcWlaS2laeWllNUxyOEZsYkpuYnl3b2RFS0tkNmNsSHFvWmdXR05mNVU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e376]:
+              - generic [ref=e377]:
+                - generic [ref=e380]: CNBC
+                - generic [ref=e384]:
+                  - generic:
+                    - button "More - UK PM Starmer battles for political survival amid leadership challenge as gilt yields rise" [ref=e385] [cursor=pointer]:
+                      - img [ref=e387]
+                    - tooltip [ref=e389]: More
+              - link "UK PM Starmer battles for political survival amid leadership challenge as gilt yields rise - CNBC - 4 hours ago - By Holly Ellyatt" [ref=e390] [cursor=pointer]:
+                - /url: ./read/CBMiogFBVV95cUxNYi1xRjVMZDI1WHYxWGVfS28tcS1KZklKZlpkQkotX3ZCSnJZZmk2MUVVZDVLalZGaHlFZ2NMdGtZR3VsWWNfYXlFOHNZVXpKT2NiYzRVRlh1R0VhWHlSdUlYNDhNX29ud1ExX2xoU0lubkREUm5NVWZjdnNUYjZONjltZ09qb25QU19YR1dIcXVzRjZnZko5bG5SZ250VmNwTVHSAacBQVVfeXFMUFBkWTdqSERIRWw1WDN6RF9VTnZXQkVORkx6WXN4SnRjSmZtdWJDVTlJY202LWFjb0J1cmVkWU9xcmstamx3VmYtSnNjX3VwdHZuclVtQlVhZzQyOW1RbDZiMXY2dGpqVllTeW9Ua1JEbEh4ekg5Z0pPSDh0RFpYcWlaS2laeWllNUxyOEZsYkpuYnl3b2RFS0tkNmNsSHFvWmdXR05mNVU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: UK PM Starmer battles for political survival amid leadership challenge as gilt yields rise
+            - figure [ref=e391]
+          - generic [ref=e392]:
+            - time [ref=e393]: 4 hours ago
+            - separator [ref=e394]
+            - generic [ref=e395]: By Holly Ellyatt
+            - link "See more headlines & perspectives - UK PM Starmer battles for political survival amid leadership challenge as gilt yields rise" [ref=e396] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lYeHVtRUVSRllFSjV1SjA5d2RTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e397]
+              - generic [ref=e399]: See more
+        - generic [ref=e403]:
+          - generic [ref=e404]:
+            - link [ref=e406] [cursor=pointer]:
+              - /url: ./read/CBMi4wFBVV95cUxOcmdVaXdHdUQycWhxVXFXbC03U1gwQnJaYjluR005SGpaMEhUVlJSejVTNmdNRmNDWFM4S2t5UjI1aU9jNkZFM3RJLThDdEx3aGxEWVh5NGtDM0dkTkZKY0NMRFRGTTlTN1hWeVNKek9naVhtN0lRR04tZnZiV3dsY2cxSXgtaGVkZkJ6Z3l6dEl0S1pFeEUzSmppcVJqWWNVMkRSTVZpSkpsTVU2WktqYXlPNEdXYUQxdEF5TWdEaHNHY0VNVmhOQVFDNnNRV0RZYThkRlFucHMzZjd2VklGc29fVQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e408]:
+              - generic [ref=e409]:
+                - generic [ref=e412]: WOAI
+                - generic [ref=e416]:
+                  - generic:
+                    - button "More - Six people confirmed dead in Union Pacific cargo train at Laredo railyard" [ref=e417] [cursor=pointer]:
+                      - img [ref=e419]
+                    - tooltip [ref=e421]: More
+              - link "Six people confirmed dead in Union Pacific cargo train at Laredo railyard - WOAI - 8 hours ago" [ref=e422] [cursor=pointer]:
+                - /url: ./read/CBMi4wFBVV95cUxOcmdVaXdHdUQycWhxVXFXbC03U1gwQnJaYjluR005SGpaMEhUVlJSejVTNmdNRmNDWFM4S2t5UjI1aU9jNkZFM3RJLThDdEx3aGxEWVh5NGtDM0dkTkZKY0NMRFRGTTlTN1hWeVNKek9naVhtN0lRR04tZnZiV3dsY2cxSXgtaGVkZkJ6Z3l6dEl0S1pFeEUzSmppcVJqWWNVMkRSTVZpSkpsTVU2WktqYXlPNEdXYUQxdEF5TWdEaHNHY0VNVmhOQVFDNnNRV0RZYThkRlFucHMzZjd2VklGc29fVQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Six people confirmed dead in Union Pacific cargo train at Laredo railyard
+            - figure [ref=e423]
+          - generic [ref=e424]:
+            - time [ref=e425]: 8 hours ago
+            - link "See more headlines & perspectives - Six people confirmed dead in Union Pacific cargo train at Laredo railyard" [ref=e426] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTeExxT0VSR2puMkJ5amZwUUtTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e427]
+              - generic [ref=e429]: See more
+      - generic [ref=e432]:
+        - generic [ref=e433]:
+          - heading "Local news" [level=3] [ref=e435]:
+            - link "Local news" [ref=e436] [cursor=pointer]:
+              - /url: ./topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Local news
+              - img [ref=e437]
+          - generic [ref=e441]:
+            - button "Manage local news" [ref=e442] [cursor=pointer]:
+              - img [ref=e443]
+            - tooltip [ref=e446]: Manage local news
+        - tablist [ref=e448]
