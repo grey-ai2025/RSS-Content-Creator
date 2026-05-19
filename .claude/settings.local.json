@@ -59,7 +59,10 @@
       "WebFetch(domain:news.microsoft.com)",
       "WebFetch(domain:blog.greeden.me)",
       "WebFetch(domain:www.ram-srinivasan.com)",
-      "WebFetch(domain:x.com)"
+      "WebFetch(domain:x.com)",
+      "WebFetch(domain:www.bcg.com)",
+      "Skill(generate-content)",
+      "Skill(generate-content:*)"
     ]
   },
   "enableAllProjectMcpServers": true,
