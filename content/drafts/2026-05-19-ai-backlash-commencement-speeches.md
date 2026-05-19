@@ -1,7 +1,7 @@
 ---
 source_file: content/research/2026-05-19-ai-backlash-commencement-speeches.md
 keywords_file: content/seo/2026-05-19-keywords.md
-status: winner
+status: ranked
 created_date: 2026-05-19
 ---
 

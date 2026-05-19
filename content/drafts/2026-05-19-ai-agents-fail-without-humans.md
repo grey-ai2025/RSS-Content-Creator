@@ -1,7 +1,7 @@
 ---
 source_file: content/research/2026-05-19-ai-agents-fail-without-humans.md
 keywords_file: content/seo/2026-05-19-keywords.md
-status: ranked
+status: winner
 created_date: 2026-05-19
 ---
 
