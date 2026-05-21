@@ -1,0 +1,2207 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]: artificial intelligence
+          - button "Advanced search" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]:
+                - img [ref=e23]
+              - tooltip [ref=e25]: Advanced search
+          - button "Clear search" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - button "Search" [ref=e30] [cursor=pointer]:
+            - img [ref=e31]
+        - generic [ref=e34]:
+          - generic [ref=e39]:
+            - button "Help" [ref=e40] [cursor=pointer]:
+              - img [ref=e42]
+            - tooltip [ref=e44]: Help
+          - generic [ref=e49]:
+            - button "Settings" [ref=e50] [cursor=pointer]:
+              - img [ref=e52]
+            - tooltip [ref=e55]: Settings
+      - generic [ref=e57]:
+        - button "Google apps" [ref=e61] [cursor=pointer]:
+          - img [ref=e62]
+        - link "Sign in" [ref=e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/search?q%3Dartificial%2Bintelligence%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/search?q%3Dartificial%2Bintelligence%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e68]:
+      - tablist [ref=e69]:
+        - tab "Home" [ref=e70] [cursor=pointer]:
+          - tab "Home" [ref=e71]
+        - tab "For you" [ref=e72] [cursor=pointer]:
+          - tab "For you" [ref=e73]
+        - tab "Following" [ref=e74] [cursor=pointer]:
+          - tab "Following" [ref=e75]
+        - tab "U.S." [ref=e78] [cursor=pointer]:
+          - tab "U.S." [ref=e79]
+        - tab "World" [ref=e80] [cursor=pointer]:
+          - tab "World" [ref=e81]
+        - tab "Local" [ref=e82] [cursor=pointer]:
+          - tab "Local" [ref=e83]
+        - tab "Business" [ref=e84] [cursor=pointer]:
+          - tab "Business" [ref=e85]
+        - tab "Technology" [ref=e86] [cursor=pointer]:
+          - tab "Technology" [ref=e87]
+        - tab "Entertainment" [ref=e88] [cursor=pointer]:
+          - tab "Entertainment" [ref=e89]
+      - generic [ref=e93]:
+        - button "More" [ref=e94] [cursor=pointer]:
+          - img [ref=e96]
+        - tooltip [ref=e98]: More
+  - main [ref=e102]:
+    - generic [ref=e104]:
+      - generic [ref=e107]:
+        - generic [ref=e108]:
+          - link [ref=e110] [cursor=pointer]:
+            - /url: ./read/CBMizwFBVV95cUxPQjRpRDhzenVOcVEydXhuckEzR0c4QXNxRVVvUUFsMDBLZl9iMzNtaEFYRTlEMTVvcjZXOWwtUGU2UkJTTXlaSUVlZXg4NnJXQnVLTGdzTG5mS1JQUGtaRzI1MFVWOFpjdnBzYTEtYlNXbWpuZEMwTk05a180TlBZZWR2VmdaenVPek9pdnZHTGdlRTkxOFFVUVFKZ1Y3V1RkUXY0RDlDS0x5V0NmQUtMbkg3YnRmU2drM1VrVmFST2gxd0Z4dDNQRWNwWTJPSzg?hl=en-US&gl=US&ceid=US%3Aen
+          - generic [ref=e112]:
+            - generic [ref=e113]:
+              - generic [ref=e116]: Forbes
+              - generic [ref=e120]:
+                - generic:
+                  - button "More - Artificial Intelligence Lab Zyphra Raising $500 Million To Challenge Nvidia Dominance" [ref=e121] [cursor=pointer]:
+                    - img [ref=e123]
+                  - tooltip [ref=e125]: More
+            - link "Artificial Intelligence Lab Zyphra Raising $500 Million To Challenge Nvidia Dominance - Forbes - 2 days ago - By Anna Tong" [ref=e126] [cursor=pointer]:
+              - /url: ./read/CBMizwFBVV95cUxPQjRpRDhzenVOcVEydXhuckEzR0c4QXNxRVVvUUFsMDBLZl9iMzNtaEFYRTlEMTVvcjZXOWwtUGU2UkJTTXlaSUVlZXg4NnJXQnVLTGdzTG5mS1JQUGtaRzI1MFVWOFpjdnBzYTEtYlNXbWpuZEMwTk05a180TlBZZWR2VmdaenVPek9pdnZHTGdlRTkxOFFVUVFKZ1Y3V1RkUXY0RDlDS0x5V0NmQUtMbkg3YnRmU2drM1VrVmFST2gxd0Z4dDNQRWNwWTJPSzg?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Artificial Intelligence Lab Zyphra Raising $500 Million To Challenge Nvidia Dominance
+          - figure [ref=e127]
+        - generic [ref=e128]:
+          - time [ref=e129]: 2 days ago
+          - separator [ref=e130]
+          - generic [ref=e131]: By Anna Tong
+      - generic [ref=e133]:
+        - heading "News about Intelligence" [level=3] [ref=e134]
+        - separator [ref=e135]
+        - generic [ref=e136]:
+          - generic [ref=e137]:
+            - generic [ref=e139]:
+              - generic [ref=e140]:
+                - link [ref=e142] [cursor=pointer]:
+                  - /url: ./read/CBMimAFBVV95cUxQZXRhd2gyYWNYcDRQX0E0dTlwWmlvS2xRNE0waHRMTllFa2QtYU5HV3VUZm1QblZxNG9TYmVQU0NBa1pkd2YxRVNoM1pBanZXTDNiLXV6Ym8xMnB1NGsxQ3R5RmhGSEFnNlZqNGFkc0NwUnMxVHp4cmdIeUxCUXU5WGg0a0k5TXRwcFBuWFBzZHBQam9aNHd5NQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e144]:
+                  - generic [ref=e145]:
+                    - generic [ref=e148]: OSV News
+                    - generic [ref=e152]:
+                      - generic:
+                        - button "More - Pope Leo XIV to publish encyclical on artificial intelligence May 25" [ref=e153] [cursor=pointer]:
+                          - img [ref=e155]
+                        - tooltip [ref=e157]: More
+                  - link "Pope Leo XIV to publish encyclical on artificial intelligence May 25 - OSV News - 3 days ago - By Courtney Mares" [ref=e158] [cursor=pointer]:
+                    - /url: ./read/CBMimAFBVV95cUxQZXRhd2gyYWNYcDRQX0E0dTlwWmlvS2xRNE0waHRMTllFa2QtYU5HV3VUZm1QblZxNG9TYmVQU0NBa1pkd2YxRVNoM1pBanZXTDNiLXV6Ym8xMnB1NGsxQ3R5RmhGSEFnNlZqNGFkc0NwUnMxVHp4cmdIeUxCUXU5WGg0a0k5TXRwcFBuWFBzZHBQam9aNHd5NQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Pope Leo XIV to publish encyclical on artificial intelligence May 25
+                - figure [ref=e159]
+              - generic [ref=e160]:
+                - time [ref=e161]: 3 days ago
+                - separator [ref=e162]
+                - generic [ref=e163]: By Courtney Mares
+            - separator [ref=e164]
+          - generic [ref=e167]:
+            - generic [ref=e168]:
+              - link [ref=e170] [cursor=pointer]:
+                - /url: ./read/CBMipAFBVV95cUxNd0VWZkFwWUFRLW42N3dRclRzQXJOOWJqR0VFRGFNSV9XcHVKWlVfV21YQ3ktbktMeDlQX21BYVR1cXdlQm5PUEY5ZG1JdGxNZml6MF9xS0QzemdvQ2x0ZzNLRVZFSkFqSHhidVhQRTNiLS1CTVRCSm5maXNXRHNkRlFXZHA3V182dnpXcnpMVHA5bjMzR1dpem5kWGNwLXo5eEFCag?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e172]:
+                - generic [ref=e173]:
+                  - generic [ref=e176]: Catholic World Report
+                  - generic [ref=e180]:
+                    - generic:
+                      - button "More - The Human Person in the Age of Artificial Intelligence" [ref=e181] [cursor=pointer]:
+                        - img [ref=e183]
+                      - tooltip [ref=e185]: More
+                - link "The Human Person in the Age of Artificial Intelligence - Catholic World Report - 2 days ago - By Deacon Dominic Cerrato & Deacon Dominic Cerrato, Ph.D." [ref=e186] [cursor=pointer]:
+                  - /url: ./read/CBMipAFBVV95cUxNd0VWZkFwWUFRLW42N3dRclRzQXJOOWJqR0VFRGFNSV9XcHVKWlVfV21YQ3ktbktMeDlQX21BYVR1cXdlQm5PUEY5ZG1JdGxNZml6MF9xS0QzemdvQ2x0ZzNLRVZFSkFqSHhidVhQRTNiLS1CTVRCSm5maXNXRHNkRlFXZHA3V182dnpXcnpMVHA5bjMzR1dpem5kWGNwLXo5eEFCag?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: The Human Person in the Age of Artificial Intelligence
+              - figure [ref=e187]
+            - generic [ref=e188]:
+              - time [ref=e189]: 2 days ago
+              - separator [ref=e190]
+              - generic [ref=e191]: By Deacon Dominic Cerrato & Deacon Dominic Cerrato, Ph.D.
+          - generic [ref=e194]:
+            - generic [ref=e195]:
+              - link [ref=e197] [cursor=pointer]:
+                - /url: ./read/CBMi2gFBVV95cUxOdk9ZY0JnZHYxenl5VTFYemxoQW9rR2NxX1ZaRnpaLVdSTDFQVkNRNGpyVkcxbk4yM2J4aHNWNkRNN3RsR1lVMzdpUk55TUhZTEl4bEhPQm0td0ExSnBEVHUyV0tQUHo5MlVGUzhOZkF3X0JyOU54UFBGaFZTbllFSmFLLWZ4YXdiaS1CbkVYTmdlRXNaNWNFVW5tUDBlNFdWLTJVM0VFT1dkclJyRXk0T0VnOHNhVVo4MlkzdHIxbEVtQmNZMHN1RS1CYnM1ckNWR1NfQ21SWDlrZ9IB3wFBVV95cUxNTXh0SWhWTUZKSU1rR19EQy13NHNSUTZJODVqRjFFdHlnN001LWVTczhCRks4TWV6WWUxRkM3RzNzNU4tY0RIendGc2RtZGUwODhRRV84ZjhoNGctSE9oX3U5UnBEbUZLbG01YWJJcGprZE4yZjBCLVdnam4tb0J6SEhOMFUyR2g3QllsSVp6bWUwVXVVTC1oMloyVWZvWUFmb3dPQkJmMUdJcXVoVVdfc2FrZHE4ajBQQ2pGeGFQaUh3RmdmSzd5T1NkdlBTcEh5b3l1QmZWc2JwTGsxSkZj?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e199]:
+                - generic [ref=e200]:
+                  - generic [ref=e203]: PBS
+                  - generic [ref=e207]:
+                    - generic:
+                      - button "More - Pope Leo XIV to launch his first encylical, a document on artificial intelligence, with Anthropic's co-founder" [ref=e208] [cursor=pointer]:
+                        - img [ref=e210]
+                      - tooltip [ref=e212]: More
+                - link "Pope Leo XIV to launch his first encylical, a document on artificial intelligence, with Anthropic's co-founder - PBS - 3 days ago - By Nicole Winfield" [ref=e213] [cursor=pointer]:
+                  - /url: ./read/CBMi2gFBVV95cUxOdk9ZY0JnZHYxenl5VTFYemxoQW9rR2NxX1ZaRnpaLVdSTDFQVkNRNGpyVkcxbk4yM2J4aHNWNkRNN3RsR1lVMzdpUk55TUhZTEl4bEhPQm0td0ExSnBEVHUyV0tQUHo5MlVGUzhOZkF3X0JyOU54UFBGaFZTbllFSmFLLWZ4YXdiaS1CbkVYTmdlRXNaNWNFVW5tUDBlNFdWLTJVM0VFT1dkclJyRXk0T0VnOHNhVVo4MlkzdHIxbEVtQmNZMHN1RS1CYnM1ckNWR1NfQ21SWDlrZ9IB3wFBVV95cUxNTXh0SWhWTUZKSU1rR19EQy13NHNSUTZJODVqRjFFdHlnN001LWVTczhCRks4TWV6WWUxRkM3RzNzNU4tY0RIendGc2RtZGUwODhRRV84ZjhoNGctSE9oX3U5UnBEbUZLbG01YWJJcGprZE4yZjBCLVdnam4tb0J6SEhOMFUyR2g3QllsSVp6bWUwVXVVTC1oMloyVWZvWUFmb3dPQkJmMUdJcXVoVVdfc2FrZHE4ajBQQ2pGeGFQaUh3RmdmSzd5T1NkdlBTcEh5b3l1QmZWc2JwTGsxSkZj?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Pope Leo XIV to launch his first encylical, a document on artificial intelligence, with Anthropic's co-founder
+              - figure [ref=e214]
+            - generic [ref=e215]:
+              - time [ref=e216]: 3 days ago
+              - separator [ref=e217]
+              - generic [ref=e218]: By Nicole Winfield
+      - generic [ref=e222]:
+        - generic [ref=e223]:
+          - link [ref=e225] [cursor=pointer]:
+            - /url: ./read/CBMiiwFBVV95cUxPWDJlU0VYMFBWUzdrTEt5ZWNfaGhySGhUbGlYd0ZKMU0wb24zMHY5ZWZ0WVVWVnY0MkxGMmw5YklnNVpUVzI2U3pMc0xfN1dRRkk5OERjTFBDNkFaVm91TVVmN3lpRmdTbDRjZmx3SnJMel96TDhZTlBSNlc4UGhUOFpmX1VtTE1ZdmE0?hl=en-US&gl=US&ceid=US%3Aen
+          - generic [ref=e227]:
+            - generic [ref=e228]:
+              - generic [ref=e231]: San Francisco Chronicle
+              - generic [ref=e235]:
+                - generic:
+                  - button "More - Meta cuts 8,000 jobs as Zuckerberg bets the company’s future on AI" [ref=e236] [cursor=pointer]:
+                    - img [ref=e238]
+                  - tooltip [ref=e240]: More
+            - link "Meta cuts 8,000 jobs as Zuckerberg bets the company’s future on AI - San Francisco Chronicle - 47 minutes ago - By Aidin Vaziri" [ref=e241] [cursor=pointer]:
+              - /url: ./read/CBMiiwFBVV95cUxPWDJlU0VYMFBWUzdrTEt5ZWNfaGhySGhUbGlYd0ZKMU0wb24zMHY5ZWZ0WVVWVnY0MkxGMmw5YklnNVpUVzI2U3pMc0xfN1dRRkk5OERjTFBDNkFaVm91TVVmN3lpRmdTbDRjZmx3SnJMel96TDhZTlBSNlc4UGhUOFpmX1VtTE1ZdmE0?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Meta cuts 8,000 jobs as Zuckerberg bets the company’s future on AI
+          - figure [ref=e242]
+        - generic [ref=e243]:
+          - time [ref=e244]: 47 minutes ago
+          - separator [ref=e245]
+          - generic [ref=e246]: By Aidin Vaziri
+      - generic [ref=e247]:
+        - separator [ref=e249]
+        - generic [ref=e251]:
+          - generic [ref=e252]:
+            - link [ref=e254] [cursor=pointer]:
+              - /url: ./read/CBMibkFVX3lxTE1qcklkTzJFdzZvREs4Ukc2SWM1X1J2dVE1MTUxcU90a1N1NUFWR3ZtOWt6SFZKekthZ2huSlpXRnJ1TDViY1NlcWQ2NUMxaU9tcHUzLUVhRnl6R0pkR1plZHhPVW5WWEhfSTVJZEhn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e256]:
+              - generic [ref=e257]:
+                - generic [ref=e260]: The New York Times
+                - generic [ref=e264]:
+                  - generic:
+                    - button "More - OpenAI Prepares to File to Go Public in Coming Weeks" [ref=e265] [cursor=pointer]:
+                      - img [ref=e267]
+                    - tooltip [ref=e269]: More
+              - link "OpenAI Prepares to File to Go Public in Coming Weeks - The New York Times - 18 minutes ago - By Cade Metz & Mike Isaac" [ref=e270] [cursor=pointer]:
+                - /url: ./read/CBMibkFVX3lxTE1qcklkTzJFdzZvREs4Ukc2SWM1X1J2dVE1MTUxcU90a1N1NUFWR3ZtOWt6SFZKekthZ2huSlpXRnJ1TDViY1NlcWQ2NUMxaU9tcHUzLUVhRnl6R0pkR1plZHhPVW5WWEhfSTVJZEhn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: OpenAI Prepares to File to Go Public in Coming Weeks
+            - figure [ref=e271]
+          - generic [ref=e272]:
+            - time [ref=e273]: 18 minutes ago
+            - separator [ref=e274]
+            - generic [ref=e275]: By Cade Metz & Mike Isaac
+      - generic [ref=e276]:
+        - separator [ref=e278]
+        - generic [ref=e280]:
+          - generic [ref=e281]:
+            - link [ref=e283] [cursor=pointer]:
+              - /url: ./read/CBMifkFVX3lxTE45Ylo2dm9lZDFXbUlLNXdlU25YT0l6YW9JYzhuS1B2VnEwdzk3MFk3VHMyVlVaMDdneVgtTWQ3bkE1LWZadE1HbUVENTk3bnN5ZWlqMEpBVmtVbDlrQ0ZNeU9XYzFCN1R4ZTlHRXAyMmZsMzE3TkNlNkZwQ0F3Zw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e285]:
+              - generic [ref=e286]:
+                - generic [ref=e289]: The Hacker News
+                - generic [ref=e293]:
+                  - generic:
+                    - button "More - Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development" [ref=e294] [cursor=pointer]:
+                      - img [ref=e296]
+                    - tooltip [ref=e298]: More
+              - link "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development - The Hacker News - 23 minutes ago - By Ravie Lakshmanan" [ref=e299] [cursor=pointer]:
+                - /url: ./read/CBMifkFVX3lxTE45Ylo2dm9lZDFXbUlLNXdlU25YT0l6YW9JYzhuS1B2VnEwdzk3MFk3VHMyVlVaMDdneVgtTWQ3bkE1LWZadE1HbUVENTk3bnN5ZWlqMEpBVmtVbDlrQ0ZNeU9XYzFCN1R4ZTlHRXAyMmZsMzE3TkNlNkZwQ0F3Zw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development
+            - figure [ref=e300]
+          - generic [ref=e301]:
+            - time [ref=e302]: 23 minutes ago
+            - separator [ref=e303]
+            - generic [ref=e304]: By Ravie Lakshmanan
+      - generic [ref=e305]:
+        - separator [ref=e307]
+        - generic [ref=e309]:
+          - generic [ref=e310]:
+            - link [ref=e312] [cursor=pointer]:
+              - /url: ./read/CBMivgFBVV95cUxPUnBxTUs3aXJZRldBRFJXX1VxcEZBLV91N19PbS1xZ3dtNkhTWDJ5Skc4WEIzM2JFRDAzUGpIRXZma3g5WE5GUEt4ZzdIQUo0OHlwNzc3RlAzTDNDVEg1WkNxc0QtdXpvWENjcUpaV2tSS2ZrTkY5TmVabkdlYjlPOXlnQVczbGR3c1otcE8tVzAtTlpmNVZydGdnZ0pJWjZEZVNDN1ZCdkEwTExjQ0lDV3UzNEkxWk5INmxqVEF3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e314]:
+              - generic [ref=e315]:
+                - generic [ref=e318]: The Washington Post
+                - generic [ref=e322]:
+                  - generic:
+                    - button "More - These 5 charts show how ChatGPT is flooding our lives" [ref=e323] [cursor=pointer]:
+                      - img [ref=e325]
+                    - tooltip [ref=e327]: More
+              - link "These 5 charts show how ChatGPT is flooding our lives - The Washington Post - 1 hour ago - By Kevin Schaul" [ref=e328] [cursor=pointer]:
+                - /url: ./read/CBMivgFBVV95cUxPUnBxTUs3aXJZRldBRFJXX1VxcEZBLV91N19PbS1xZ3dtNkhTWDJ5Skc4WEIzM2JFRDAzUGpIRXZma3g5WE5GUEt4ZzdIQUo0OHlwNzc3RlAzTDNDVEg1WkNxc0QtdXpvWENjcUpaV2tSS2ZrTkY5TmVabkdlYjlPOXlnQVczbGR3c1otcE8tVzAtTlpmNVZydGdnZ0pJWjZEZVNDN1ZCdkEwTExjQ0lDV3UzNEkxWk5INmxqVEF3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: These 5 charts show how ChatGPT is flooding our lives
+            - figure [ref=e329]
+          - generic [ref=e330]:
+            - time [ref=e331]: 1 hour ago
+            - separator [ref=e332]
+            - generic [ref=e333]: By Kevin Schaul
+      - generic [ref=e334]:
+        - separator [ref=e336]
+        - generic [ref=e338]:
+          - generic [ref=e339]:
+            - link [ref=e341] [cursor=pointer]:
+              - /url: ./read/CBMilgFBVV95cUxPVzdPR1l2aU1BTTFGUy1hY1B1UkNBc3dqaTJ5Zlc3Y3lrRkxKeGZPVzJIUzFwVkVUNWpwRGxQMnNQUTVSV05NT1dTSm1KY2k4ckNVdnk3aUZrR0dZMHBRYW03YUl4ZlltRkpTUG1SRTVUWDM1WExsWnlZN3RocUFVQkY4SmJhVF9sQ2gybm9BOG9MYm5xdkHSAZsBQVVfeXFMUDhjN0MwN3NWZ0RFYmplbUlDb1N6R3A3c1BZS2VBa0FMaE1HaDluTE9YOUZnMWFVTGlwYjhORlQyZkFuNTJUeVNzNU5weWtLZ1VCZTkzeVhiczdsamktcC1wc1I2MHAtaGR0YjZUcVdlTVkyRzNSRE5SN2ZhNElqZUhGZEtiTkxZU2F1UExhaDVPNkw1WVFpVmlIYkU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e343]:
+              - generic [ref=e344]:
+                - generic [ref=e347]: CNBC
+                - generic [ref=e351]:
+                  - generic:
+                    - 'button "More - Bezos brushes off concerns of an AI bubble: ''You shouldn''t worry about it''" [ref=e352] [cursor=pointer]':
+                      - img [ref=e354]
+                    - tooltip [ref=e356]: More
+              - 'link "Bezos brushes off concerns of an AI bubble: ''You shouldn''t worry about it'' - CNBC - 4 hours ago - By Annie Palmer" [ref=e357] [cursor=pointer]':
+                - /url: ./read/CBMilgFBVV95cUxPVzdPR1l2aU1BTTFGUy1hY1B1UkNBc3dqaTJ5Zlc3Y3lrRkxKeGZPVzJIUzFwVkVUNWpwRGxQMnNQUTVSV05NT1dTSm1KY2k4ckNVdnk3aUZrR0dZMHBRYW03YUl4ZlltRkpTUG1SRTVUWDM1WExsWnlZN3RocUFVQkY4SmJhVF9sQ2gybm9BOG9MYm5xdkHSAZsBQVVfeXFMUDhjN0MwN3NWZ0RFYmplbUlDb1N6R3A3c1BZS2VBa0FMaE1HaDluTE9YOUZnMWFVTGlwYjhORlQyZkFuNTJUeVNzNU5weWtLZ1VCZTkzeVhiczdsamktcC1wc1I2MHAtaGR0YjZUcVdlTVkyRzNSRE5SN2ZhNElqZUhGZEtiTkxZU2F1UExhaDVPNkw1WVFpVmlIYkU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Bezos brushes off concerns of an AI bubble: 'You shouldn't worry about it'"
+            - figure [ref=e358]
+          - generic [ref=e359]:
+            - time [ref=e360]: 4 hours ago
+            - separator [ref=e361]
+            - generic [ref=e362]: By Annie Palmer
+      - generic [ref=e363]:
+        - separator [ref=e365]
+        - generic [ref=e367]:
+          - generic [ref=e368]:
+            - link [ref=e370] [cursor=pointer]:
+              - /url: ./read/CBMiyAFBVV95cUxQeGZCWU5UNkhtb3JTMHBwVFZ5NGw1VmNCUnk3MEtiQUJDY3lOUDU1a2NVdWx5NmQyZk5KRUVucjhvSEd0enRPQm1TdUg4XzVLMFNGQ2V5MmNmZWo0S1VzOHM5MVNYamNxNHpMRmVNcHBHU0pzSldMRlN4OEo2eFFvakxNWlluRDhUUW84bTdxa0Rhb0RRUmVDT1UzOWNpaUFPY3FyeEdOV0F1TWRjMjFlQ3kwQ0s1MHpJcjhzbFZnMmxrRldac2I2SA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e372]:
+              - generic [ref=e373]:
+                - generic [ref=e376]: The Guardian
+                - generic [ref=e380]:
+                  - generic:
+                    - button "More - ChatGPT and other AI bots made huge errors before Scottish election, study finds" [ref=e381] [cursor=pointer]:
+                      - img [ref=e383]
+                    - tooltip [ref=e385]: More
+              - link "ChatGPT and other AI bots made huge errors before Scottish election, study finds - The Guardian - 1 hour ago - By Severin Carrell" [ref=e386] [cursor=pointer]:
+                - /url: ./read/CBMiyAFBVV95cUxQeGZCWU5UNkhtb3JTMHBwVFZ5NGw1VmNCUnk3MEtiQUJDY3lOUDU1a2NVdWx5NmQyZk5KRUVucjhvSEd0enRPQm1TdUg4XzVLMFNGQ2V5MmNmZWo0S1VzOHM5MVNYamNxNHpMRmVNcHBHU0pzSldMRlN4OEo2eFFvakxNWlluRDhUUW84bTdxa0Rhb0RRUmVDT1UzOWNpaUFPY3FyeEdOV0F1TWRjMjFlQ3kwQ0s1MHpJcjhzbFZnMmxrRldac2I2SA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: ChatGPT and other AI bots made huge errors before Scottish election, study finds
+            - figure [ref=e387]
+          - generic [ref=e388]:
+            - time [ref=e389]: 1 hour ago
+            - separator [ref=e390]
+            - generic [ref=e391]: By Severin Carrell
+      - generic [ref=e392]:
+        - separator [ref=e394]
+        - generic [ref=e396]:
+          - generic [ref=e397]:
+            - link [ref=e399] [cursor=pointer]:
+              - /url: ./read/CBMiWkFVX3lxTE9YUGpoNFNZWTJfMG5RZFhoR0xYcFNiSkx0NE50djkwaGg1cHJZdVU1M0w4eUhKeXZSTWhmLTlVX25SdVE1Y2R6M3RMckYzNnV0a1F2dzN1dWZQUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e401]:
+              - generic [ref=e402]:
+                - generic [ref=e405]: BBC
+                - generic [ref=e409]:
+                  - generic:
+                    - button "More - Google to release first smart glasses since Google Glass flop" [ref=e410] [cursor=pointer]:
+                      - img [ref=e412]
+                    - tooltip [ref=e414]: More
+              - link "Google to release first smart glasses since Google Glass flop - BBC - 20 hours ago - By Kali Hays" [ref=e415] [cursor=pointer]:
+                - /url: ./read/CBMiWkFVX3lxTE9YUGpoNFNZWTJfMG5RZFhoR0xYcFNiSkx0NE50djkwaGg1cHJZdVU1M0w4eUhKeXZSTWhmLTlVX25SdVE1Y2R6M3RMckYzNnV0a1F2dzN1dWZQUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Google to release first smart glasses since Google Glass flop
+            - figure [ref=e416]
+          - generic [ref=e417]:
+            - time [ref=e418]: 20 hours ago
+            - separator [ref=e419]
+            - generic [ref=e420]: By Kali Hays
+      - generic [ref=e421]:
+        - separator [ref=e423]
+        - generic [ref=e425]:
+          - generic [ref=e426]:
+            - link [ref=e428] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxNYnl5QkVudDBpNm1oMGNmNC1uTEVDRnFQYXF0QWxOMjNXT19BZ1ZFN05DWlVZWjVXZDhCRlJ3QW81UjBPVDAyVDUtOVVLNlBiWlJVd1dSU2RacTJYeGI5LUI0a2szeFVLM0xCVTdhb1pjQVA3anlsSkpDeFpPM3d5R1dLOW9EaGlLMnF4Q2pnNm9MSXlxc1hzZS1YQXRoVmJSU0lpSWNHbnBPX3lLMXc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e430]:
+              - generic [ref=e431]:
+                - generic [ref=e434]: Reuters
+                - generic [ref=e438]:
+                  - generic:
+                    - button "More - The AI bots are coming and the young are booing, not applauding" [ref=e439] [cursor=pointer]:
+                      - img [ref=e441]
+                    - tooltip [ref=e443]: More
+              - link "The AI bots are coming and the young are booing, not applauding - Reuters - 12 hours ago - By Adam Jourdan" [ref=e444] [cursor=pointer]:
+                - /url: ./read/CBMirgFBVV95cUxNYnl5QkVudDBpNm1oMGNmNC1uTEVDRnFQYXF0QWxOMjNXT19BZ1ZFN05DWlVZWjVXZDhCRlJ3QW81UjBPVDAyVDUtOVVLNlBiWlJVd1dSU2RacTJYeGI5LUI0a2szeFVLM0xCVTdhb1pjQVA3anlsSkpDeFpPM3d5R1dLOW9EaGlLMnF4Q2pnNm9MSXlxc1hzZS1YQXRoVmJSU0lpSWNHbnBPX3lLMXc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The AI bots are coming and the young are booing, not applauding
+            - figure [ref=e445]
+          - generic [ref=e446]:
+            - time [ref=e447]: 12 hours ago
+            - separator [ref=e448]
+            - generic [ref=e449]: By Adam Jourdan
+      - generic [ref=e450]:
+        - separator [ref=e452]
+        - generic [ref=e454]:
+          - generic [ref=e455]:
+            - link [ref=e457] [cursor=pointer]:
+              - /url: ./read/CBMijwFBVV95cUxPLTdOUEg3NzhzVWdGUW1BRkVvSDg0LUhQc2JlTGt0eWVkVkZMMEpRZEJsNUJJSDFBM2dtSHo2QmRvZUtHUFV1bkR6VC1JdkNUZzdtNzZBY1VCejFDMkh2WldlMHVLcEs5TmNJeEx2cENLX0t2TzM4dGhpTmp2LWNvWmM4RzZFZlBwSmM2ZExaNA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e459]:
+              - generic [ref=e460]:
+                - generic [ref=e463]: KevinMD.com
+                - generic [ref=e467]:
+                  - generic:
+                    - button "More - Artificial intelligence disrupts health care delivery" [ref=e468] [cursor=pointer]:
+                      - img [ref=e470]
+                    - tooltip [ref=e472]: More
+              - link "Artificial intelligence disrupts health care delivery - KevinMD.com - 2 hours ago" [ref=e473] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxPLTdOUEg3NzhzVWdGUW1BRkVvSDg0LUhQc2JlTGt0eWVkVkZMMEpRZEJsNUJJSDFBM2dtSHo2QmRvZUtHUFV1bkR6VC1JdkNUZzdtNzZBY1VCejFDMkh2WldlMHVLcEs5TmNJeEx2cENLX0t2TzM4dGhpTmp2LWNvWmM4RzZFZlBwSmM2ZExaNA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Artificial intelligence disrupts health care delivery
+            - figure [ref=e474]
+          - time [ref=e476]: 2 hours ago
+      - generic [ref=e477]:
+        - separator [ref=e479]
+        - generic [ref=e481]:
+          - generic [ref=e482]:
+            - link [ref=e484] [cursor=pointer]:
+              - /url: ./read/CBMikAFBVV95cUxPR0lYWExuN01HUWl1ZVJPRklaNy1nM3RuY2tPUHpFaWtPMnRuTDFWS2h1dW9zQjlMSjdEQkR5WGZuU2Y1c2dRN3pWRXpEZjlxR1padDcxbXZlWV9Ga0J0dXhjZWZnVzFNQlcxMFc1M2t5ZkhTdVB3LWJqMHU1eFhVdFN6Z3dBTGIwaW5JNnl0QmM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e486]:
+              - generic [ref=e487]:
+                - generic [ref=e490]: Virginia Tech News
+                - generic [ref=e494]:
+                  - generic:
+                    - button "More - Faculty mentorship fuels alumni impact in cybersecurity and artificial intelligence" [ref=e495] [cursor=pointer]:
+                      - img [ref=e497]
+                    - tooltip [ref=e499]: More
+              - link "Faculty mentorship fuels alumni impact in cybersecurity and artificial intelligence - Virginia Tech News - 6 hours ago - By Tonia Moxley" [ref=e500] [cursor=pointer]:
+                - /url: ./read/CBMikAFBVV95cUxPR0lYWExuN01HUWl1ZVJPRklaNy1nM3RuY2tPUHpFaWtPMnRuTDFWS2h1dW9zQjlMSjdEQkR5WGZuU2Y1c2dRN3pWRXpEZjlxR1padDcxbXZlWV9Ga0J0dXhjZWZnVzFNQlcxMFc1M2t5ZkhTdVB3LWJqMHU1eFhVdFN6Z3dBTGIwaW5JNnl0QmM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Faculty mentorship fuels alumni impact in cybersecurity and artificial intelligence
+            - figure [ref=e501]
+          - generic [ref=e502]:
+            - time [ref=e503]: 6 hours ago
+            - separator [ref=e504]
+            - generic [ref=e505]: By Tonia Moxley
+      - generic [ref=e506]:
+        - separator [ref=e508]
+        - generic [ref=e510]:
+          - generic [ref=e511]:
+            - link [ref=e513] [cursor=pointer]:
+              - /url: ./read/CBMi9AFBVV95cUxONlpQbFVhN3g2Z2RkOG5qZXlhWlJXR2F2QXR1aGJPVFdsSTVfb3R2QWhJVWsyZG5QSWxGaFBpOXZGRGpWWTdaS043VjhvLUJmQXY1M1d4MThIOTl2RW5YVjZDRXBIZnZDSnc1bUV3UHhxZDFQemV5cUdPUURFZWJ1S1haSm1aTzJacEhtZzA5ZXdKWERGQm5HbU8wdEdnM0JwWTM5ODU3U3UweWdILVp0Z0hxQmZwZS1aNTA0MWtqSVhVVjBzRGJSWXpPNHJhR1hSZEt4Zzk4ampoSGhseWRlSEZjT3Q5SWthR3doQU9IYlAtZ19U?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e515]:
+              - generic [ref=e516]:
+                - generic [ref=e519]: Chicago Catholic
+                - generic [ref=e523]:
+                  - generic:
+                    - button "More - Pope approves creation of interdicasterial commission on artificial intelligence" [ref=e524] [cursor=pointer]:
+                      - img [ref=e526]
+                    - tooltip [ref=e528]: More
+              - link "Pope approves creation of interdicasterial commission on artificial intelligence - Chicago Catholic - 58 minutes ago - By Isabella H De Carvalho" [ref=e529] [cursor=pointer]:
+                - /url: ./read/CBMi9AFBVV95cUxONlpQbFVhN3g2Z2RkOG5qZXlhWlJXR2F2QXR1aGJPVFdsSTVfb3R2QWhJVWsyZG5QSWxGaFBpOXZGRGpWWTdaS043VjhvLUJmQXY1M1d4MThIOTl2RW5YVjZDRXBIZnZDSnc1bUV3UHhxZDFQemV5cUdPUURFZWJ1S1haSm1aTzJacEhtZzA5ZXdKWERGQm5HbU8wdEdnM0JwWTM5ODU3U3UweWdILVp0Z0hxQmZwZS1aNTA0MWtqSVhVVjBzRGJSWXpPNHJhR1hSZEt4Zzk4ampoSGhseWRlSEZjT3Q5SWthR3doQU9IYlAtZ19U?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Pope approves creation of interdicasterial commission on artificial intelligence
+            - figure [ref=e530]
+          - generic [ref=e531]:
+            - time [ref=e532]: 58 minutes ago
+            - separator [ref=e533]
+            - generic [ref=e534]: By Isabella H De Carvalho
+      - generic [ref=e535]:
+        - separator [ref=e537]
+        - generic [ref=e539]:
+          - generic [ref=e540]:
+            - link [ref=e542] [cursor=pointer]:
+              - /url: ./read/CBMikgFBVV95cUxNTTl4TXRzSlh5VV9mLTBwRDlKbU9jQUVEOWFlVlZwQjRsVkE3d2FzMW56NTdUSGI4U25pSVNqdDA0bFFZMWJvbjJqOWprQXhYc2JDM1JTVmR0VEtmbWVMU1hXU3FKXzc0T1paSWR4azdSLXJjY2dUSExvdUhpZ21yMEwxdVg2MXBHT3U0WWtORk5VZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e544]:
+              - generic [ref=e545]:
+                - generic [ref=e548]: South Dakota State News (.gov)
+                - generic [ref=e552]:
+                  - generic:
+                    - button "More - BOR Announces Systemwide Strategic Objectives for Artificial Intelligence Integration" [ref=e553] [cursor=pointer]:
+                      - img [ref=e555]
+                    - tooltip [ref=e557]: More
+              - link "BOR Announces Systemwide Strategic Objectives for Artificial Intelligence Integration - South Dakota State News (.gov) - 1 hour ago" [ref=e558] [cursor=pointer]:
+                - /url: ./read/CBMikgFBVV95cUxNTTl4TXRzSlh5VV9mLTBwRDlKbU9jQUVEOWFlVlZwQjRsVkE3d2FzMW56NTdUSGI4U25pSVNqdDA0bFFZMWJvbjJqOWprQXhYc2JDM1JTVmR0VEtmbWVMU1hXU3FKXzc0T1paSWR4azdSLXJjY2dUSExvdUhpZ21yMEwxdVg2MXBHT3U0WWtORk5VZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: BOR Announces Systemwide Strategic Objectives for Artificial Intelligence Integration
+            - figure [ref=e559]
+          - time [ref=e561]: 1 hour ago
+      - generic [ref=e562]:
+        - separator [ref=e564]
+        - generic [ref=e566]:
+          - generic [ref=e567]:
+            - link [ref=e569] [cursor=pointer]:
+              - /url: ./read/CBMi7wFBVV95cUxPU3RvaW5oWDkwX3c4S3N4bzVUQzIteEplNUdVMVpQMW51Y1ZoSWZqeHU0cXdoZUZTd18yVjFtc3RuWkN4MnFlZlFER0lFT25CZGh3amdQYTZzTnpBaEstX08xNno1QXJwVTRTRVRFSHlfM1lEMGk2SmZtcWdMMkNqQ0tXdGs0Z1ROSGVhb3VnWE5CcmNPcW5QdkdHRnA4dmNYNHhSWVBwa1J5aTdEanpfUUUta2pxcG1WdjE3ODVfVkFFcndZdkpPbGJSb0VuRmFFWFlDSmxGSHhSNE5mdmQ3RmJweG5pY0RlaDJCSjJ3MA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e571]:
+              - generic [ref=e572]:
+                - generic [ref=e575]: astrobiology.com
+                - generic [ref=e579]:
+                  - generic:
+                    - button "More - Artificial Intelligence Aided Design Of Peptides With Custom Secondary Structure Motifs And Reduced Amino Acid Alphabets" [ref=e580] [cursor=pointer]:
+                      - img [ref=e582]
+                    - tooltip [ref=e584]: More
+              - link "Artificial Intelligence Aided Design Of Peptides With Custom Secondary Structure Motifs And Reduced Amino Acid Alphabets - astrobiology.com - 1 hour ago - By Keith Cowing" [ref=e585] [cursor=pointer]:
+                - /url: ./read/CBMi7wFBVV95cUxPU3RvaW5oWDkwX3c4S3N4bzVUQzIteEplNUdVMVpQMW51Y1ZoSWZqeHU0cXdoZUZTd18yVjFtc3RuWkN4MnFlZlFER0lFT25CZGh3amdQYTZzTnpBaEstX08xNno1QXJwVTRTRVRFSHlfM1lEMGk2SmZtcWdMMkNqQ0tXdGs0Z1ROSGVhb3VnWE5CcmNPcW5QdkdHRnA4dmNYNHhSWVBwa1J5aTdEanpfUUUta2pxcG1WdjE3ODVfVkFFcndZdkpPbGJSb0VuRmFFWFlDSmxGSHhSNE5mdmQ3RmJweG5pY0RlaDJCSjJ3MA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Artificial Intelligence Aided Design Of Peptides With Custom Secondary Structure Motifs And Reduced Amino Acid Alphabets
+            - figure [ref=e586]
+          - generic [ref=e587]:
+            - time [ref=e588]: 1 hour ago
+            - separator [ref=e589]
+            - generic [ref=e590]: By Keith Cowing
+      - generic [ref=e591]:
+        - separator [ref=e593]
+        - generic [ref=e595]:
+          - generic [ref=e596]:
+            - link [ref=e598] [cursor=pointer]:
+              - /url: ./read/CBMimwFBVV95cUxOVkpwYjR2Y09QR0lDR2p5QVBfYVptMERQVEt2ZnlXMEI2TURZNFpma0NwcjJBTUg4WGtueXRrMjJwVnlIeTRKMVlzQUxydEZKUlhFYkRYY0tZWmM0dW41MzdRemZwUmNfN3FlNEtBbnVQZVFNcnRPN2NSVDBvWkFUUnI4SWFZV21WWjQ4NW95NHJPX0RHMTE3bnI5bw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e600]:
+              - generic [ref=e601]:
+                - generic [ref=e604]: The Auto Channel
+                - generic [ref=e608]:
+                  - generic:
+                    - button "More - Artificial Intelligence? I think Not!" [ref=e609] [cursor=pointer]:
+                      - img [ref=e611]
+                    - tooltip [ref=e613]: More
+              - link "Artificial Intelligence? I think Not! - The Auto Channel - 42 minutes ago" [ref=e614] [cursor=pointer]:
+                - /url: ./read/CBMimwFBVV95cUxOVkpwYjR2Y09QR0lDR2p5QVBfYVptMERQVEt2ZnlXMEI2TURZNFpma0NwcjJBTUg4WGtueXRrMjJwVnlIeTRKMVlzQUxydEZKUlhFYkRYY0tZWmM0dW41MzdRemZwUmNfN3FlNEtBbnVQZVFNcnRPN2NSVDBvWkFUUnI4SWFZV21WWjQ4NW95NHJPX0RHMTE3bnI5bw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Artificial Intelligence? I think Not!
+            - figure [ref=e615]
+          - time [ref=e617]: 42 minutes ago
+      - generic [ref=e618]:
+        - separator [ref=e620]
+        - generic [ref=e622]:
+          - generic [ref=e623]:
+            - link [ref=e625] [cursor=pointer]:
+              - /url: ./read/CBMiigFBVV95cUxOWkVsWFNjamdPclp1NWlYWDMwckVYSEo0czRjdTBZYzg0cFA4bWlZak1OSGYyZHZJVlhpOXZUcXB2bDQ3bnFvc0NnVTZybmRtVkNIY3haSHRXUkxMcGNyWmcyZW5mbnZkZmwxOW1NRjBRU3NjRlBmRjk3eWFuSXMzZjc1SDlBZXhWX1E?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e627]:
+              - generic [ref=e628]:
+                - generic [ref=e631]: Phys.org
+                - generic [ref=e635]:
+                  - generic:
+                    - button "More - Survey reveals students' mixed feelings about writing with artificial intelligence" [ref=e636] [cursor=pointer]:
+                      - img [ref=e638]
+                    - tooltip [ref=e640]: More
+              - link "Survey reveals students' mixed feelings about writing with artificial intelligence - Phys.org - 16 hours ago - By Anke Sauter" [ref=e641] [cursor=pointer]:
+                - /url: ./read/CBMiigFBVV95cUxOWkVsWFNjamdPclp1NWlYWDMwckVYSEo0czRjdTBZYzg0cFA4bWlZak1OSGYyZHZJVlhpOXZUcXB2bDQ3bnFvc0NnVTZybmRtVkNIY3haSHRXUkxMcGNyWmcyZW5mbnZkZmwxOW1NRjBRU3NjRlBmRjk3eWFuSXMzZjc1SDlBZXhWX1E?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Survey reveals students' mixed feelings about writing with artificial intelligence
+            - figure [ref=e642]
+          - generic [ref=e643]:
+            - time [ref=e644]: 16 hours ago
+            - separator [ref=e645]
+            - generic [ref=e646]: By Anke Sauter
+      - generic [ref=e647]:
+        - separator [ref=e649]
+        - generic [ref=e651]:
+          - generic [ref=e652]:
+            - link [ref=e654] [cursor=pointer]:
+              - /url: ./read/CBMiuwFBVV95cUxOS0R1RVBPN1g3STI4NDBQN1N0X3lCVU8tTktzVHlpLXplZGtNWHU1OTdpRDUzNlFJbEpuWl9UdHNRUDlmQ3VIOWZmSjN5T29lamx4RE9URkM3YUR6RHRfbF9fS3B1ZDVhTXFiazJxZE5yUG5VdU96b2FickhXcTd0MXp1Z1hhSWZuMWJjdXJVaEdSRmozR1otb2dfWjJsMkFmZ0ZtdGplWnNzX0o1RFlHSDI5bDRramk0VkhB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e656]:
+              - generic [ref=e657]:
+                - generic [ref=e660]: House.gov
+                - generic [ref=e664]:
+                  - generic:
+                    - button "More - Landsman, DelBene Lead Fight to Overturn AI Model Delaying and Denying Care for Seniors" [ref=e665] [cursor=pointer]:
+                      - img [ref=e667]
+                    - tooltip [ref=e669]: More
+              - link "Landsman, DelBene Lead Fight to Overturn AI Model Delaying and Denying Care for Seniors - House.gov - 2 hours ago" [ref=e670] [cursor=pointer]:
+                - /url: ./read/CBMiuwFBVV95cUxOS0R1RVBPN1g3STI4NDBQN1N0X3lCVU8tTktzVHlpLXplZGtNWHU1OTdpRDUzNlFJbEpuWl9UdHNRUDlmQ3VIOWZmSjN5T29lamx4RE9URkM3YUR6RHRfbF9fS3B1ZDVhTXFiazJxZE5yUG5VdU96b2FickhXcTd0MXp1Z1hhSWZuMWJjdXJVaEdSRmozR1otb2dfWjJsMkFmZ0ZtdGplWnNzX0o1RFlHSDI5bDRramk0VkhB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Landsman, DelBene Lead Fight to Overturn AI Model Delaying and Denying Care for Seniors
+            - figure [ref=e671]
+          - time [ref=e673]: 2 hours ago
+      - generic [ref=e674]:
+        - separator [ref=e676]
+        - generic [ref=e678]:
+          - generic [ref=e679]:
+            - link [ref=e681] [cursor=pointer]:
+              - /url: ./read/CBMiX0FVX3lxTE8zOUE5ZXlsRG1DQnBMZnBuVkdzZG4wcXc4OXZIY0F6TVhBTGEtUGc0WUFDN0pvSmQtYXkyUlFtTW44WWlydVRVN3doYzN0NG9XVUZSNVU1N21Fd1A0WTBJ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e683]:
+              - generic [ref=e684]:
+                - generic [ref=e687]: Nature
+                - generic [ref=e691]:
+                  - generic:
+                    - button "More - Bridging the interpretability gap for medical artificial intelligence models using class-association manifold learning" [ref=e692] [cursor=pointer]:
+                      - img [ref=e694]
+                    - tooltip [ref=e696]: More
+              - link "Bridging the interpretability gap for medical artificial intelligence models using class-association manifold learning - Nature - 3 days ago - By Limai Jiang, Yi Pan & Yunpeng Cai" [ref=e697] [cursor=pointer]:
+                - /url: ./read/CBMiX0FVX3lxTE8zOUE5ZXlsRG1DQnBMZnBuVkdzZG4wcXc4OXZIY0F6TVhBTGEtUGc0WUFDN0pvSmQtYXkyUlFtTW44WWlydVRVN3doYzN0NG9XVUZSNVU1N21Fd1A0WTBJ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Bridging the interpretability gap for medical artificial intelligence models using class-association manifold learning
+            - figure [ref=e698]
+          - generic [ref=e699]:
+            - time [ref=e700]: 3 days ago
+            - separator [ref=e701]
+            - generic [ref=e702]: By Limai Jiang, Yi Pan & Yunpeng Cai
+      - generic [ref=e703]:
+        - separator [ref=e705]
+        - generic [ref=e707]:
+          - generic [ref=e708]:
+            - link [ref=e710] [cursor=pointer]:
+              - /url: ./read/CBMi4gFBVV95cUxPRC1RQjg0dEhmRlZvTVhQcXdUQWhXRzkzbjg2cE13b0h4OERHYmlTQWtfTHN0bDQ2MzFXMHV0cXVDVFA5NjloRmJCWHpiUjgyVmVMbGNtREMzYkg4U1ZwRFk5QkZzWlVMaVFGUFlfWmJTMHpQUi1VUGhmYXRrQWFPY0twQ3FNLTM0a1p2amphY2xEdTljY1FfN3ZoRlFsbDg1Wm0zX2lOMlI5aGhKNzQ0MWEwdXFNcHF2aGJlOHRJTzdYQmpJa0ROZ3B1OEVLcUd2VFdUcUs1Nmw4SFdEcEJQaXNn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e712]:
+              - generic [ref=e713]:
+                - generic [ref=e716]: Quiver Quantitative
+                - generic [ref=e720]:
+                  - generic:
+                    - 'button "More - New Bill: Representative Brad Finstad introduces H.R. 8881: SBA Artificial Intelligence Utilization Act of 2026" [ref=e721] [cursor=pointer]':
+                      - img [ref=e723]
+                    - tooltip [ref=e725]: More
+              - 'link "New Bill: Representative Brad Finstad introduces H.R. 8881: SBA Artificial Intelligence Utilization Act of 2026 - Quiver Quantitative - 1 hour ago" [ref=e726] [cursor=pointer]':
+                - /url: ./read/CBMi4gFBVV95cUxPRC1RQjg0dEhmRlZvTVhQcXdUQWhXRzkzbjg2cE13b0h4OERHYmlTQWtfTHN0bDQ2MzFXMHV0cXVDVFA5NjloRmJCWHpiUjgyVmVMbGNtREMzYkg4U1ZwRFk5QkZzWlVMaVFGUFlfWmJTMHpQUi1VUGhmYXRrQWFPY0twQ3FNLTM0a1p2amphY2xEdTljY1FfN3ZoRlFsbDg1Wm0zX2lOMlI5aGhKNzQ0MWEwdXFNcHF2aGJlOHRJTzdYQmpJa0ROZ3B1OEVLcUd2VFdUcUs1Nmw4SFdEcEJQaXNn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "New Bill: Representative Brad Finstad introduces H.R. 8881: SBA Artificial Intelligence Utilization Act of 2026"
+            - figure [ref=e727]
+          - time [ref=e729]: 1 hour ago
+      - generic [ref=e730]:
+        - separator [ref=e732]
+        - generic [ref=e734]:
+          - generic [ref=e735]:
+            - link [ref=e737] [cursor=pointer]:
+              - /url: ./read/CBMilgFBVV95cUxOQ3FnNjJNMXY0TmVpWVhFWlVibnkxQXprc2dTeklzdFhWTFFwMDNoTGdiSldUVDRBQVFmVXRhLW1YbkJ3dUxBZVVzX0Z1T2dUR0RQdGdKWkZlTnA4eTJSMnB3V1JUdFNTeTNCanE1ZllnOG5IaDZWeFN6QmEtZ1d5UXEtdjhiMklpUFh0NWQ0ZXRTU0V3V1E?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e739]:
+              - generic [ref=e740]:
+                - generic [ref=e743]: CancerNetwork
+                - generic [ref=e747]:
+                  - generic:
+                    - button "More - Artificial Intelligence in the Heart of Nursing Practice" [ref=e748] [cursor=pointer]:
+                      - img [ref=e750]
+                    - tooltip [ref=e752]: More
+              - link "Artificial Intelligence in the Heart of Nursing Practice - CancerNetwork - 20 hours ago" [ref=e753] [cursor=pointer]:
+                - /url: ./read/CBMilgFBVV95cUxOQ3FnNjJNMXY0TmVpWVhFWlVibnkxQXprc2dTeklzdFhWTFFwMDNoTGdiSldUVDRBQVFmVXRhLW1YbkJ3dUxBZVVzX0Z1T2dUR0RQdGdKWkZlTnA4eTJSMnB3V1JUdFNTeTNCanE1ZllnOG5IaDZWeFN6QmEtZ1d5UXEtdjhiMklpUFh0NWQ0ZXRTU0V3V1E?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Artificial Intelligence in the Heart of Nursing Practice
+            - figure [ref=e754]
+          - time [ref=e756]: 20 hours ago
+      - generic [ref=e757]:
+        - separator [ref=e759]
+        - generic [ref=e761]:
+          - generic [ref=e762]:
+            - link [ref=e764] [cursor=pointer]:
+              - /url: ./read/CBMiugFBVV95cUxNRlBYRlgySVNnX1VrWlgyOXdGZFk2YW9jbWFXcXlFVm50d05EWlJEZ2IteW92LXk1Z1lqU2pMY0sxd3VUZ0xNcU9lRk5UeWs0bVFDN1lRZGNNdzdBSm1NUnZIU01ZQ1IxT1NfOWo1RFlweHlScUdUTHg3QlByYU8xcVFuVXlYRjhUbW1ybG5CMzNFY0hiSUtsR3NoMjc5TURUQ0xrRjEwelY4ak5VdllSZ1RSSlhiNTYwZUE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e766]:
+              - generic [ref=e767]:
+                - generic [ref=e770]: BNamericas
+                - generic [ref=e774]:
+                  - generic:
+                    - button "More - Move On 2026 Returns, Betting on Artificial Intelligence, Leadership, and Connectivity" [ref=e775] [cursor=pointer]:
+                      - img [ref=e777]
+                    - tooltip [ref=e779]: More
+              - link "Move On 2026 Returns, Betting on Artificial Intelligence, Leadership, and Connectivity - BNamericas - 59 minutes ago" [ref=e780] [cursor=pointer]:
+                - /url: ./read/CBMiugFBVV95cUxNRlBYRlgySVNnX1VrWlgyOXdGZFk2YW9jbWFXcXlFVm50d05EWlJEZ2IteW92LXk1Z1lqU2pMY0sxd3VUZ0xNcU9lRk5UeWs0bVFDN1lRZGNNdzdBSm1NUnZIU01ZQ1IxT1NfOWo1RFlweHlScUdUTHg3QlByYU8xcVFuVXlYRjhUbW1ybG5CMzNFY0hiSUtsR3NoMjc5TURUQ0xrRjEwelY4ak5VdllSZ1RSSlhiNTYwZUE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Move On 2026 Returns, Betting on Artificial Intelligence, Leadership, and Connectivity
+            - figure [ref=e781]
+          - time [ref=e783]: 59 minutes ago
+      - generic [ref=e784]:
+        - separator [ref=e786]
+        - generic [ref=e788]:
+          - generic [ref=e789]:
+            - link [ref=e791] [cursor=pointer]:
+              - /url: ./read/CBMieEFVX3lxTFBhUkI0LXJpcVRHQzdhcnRxZGUtU2tCV01MOVVIVjJjTFhhZ3dBeENsSWk5RFUtZWloNm9qOUNwZUpFOFBWODJmTjc0UjcxZXhscFgtQzhKQ3VEa21uc3VXMUhwZHVEY1RqQ1lnMmowQlRldUs3ckZqTw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e793]:
+              - generic [ref=e794]:
+                - generic [ref=e797]: Newsroom | University of St. Thomas
+                - generic [ref=e801]:
+                  - generic:
+                    - 'button "More - In the News: Manjeet Rege on Ethical AI Use" [ref=e802] [cursor=pointer]':
+                      - img [ref=e804]
+                    - tooltip [ref=e806]: More
+              - 'link "In the News: Manjeet Rege on Ethical AI Use - Newsroom | University of St. Thomas - 8 minutes ago" [ref=e807] [cursor=pointer]':
+                - /url: ./read/CBMieEFVX3lxTFBhUkI0LXJpcVRHQzdhcnRxZGUtU2tCV01MOVVIVjJjTFhhZ3dBeENsSWk5RFUtZWloNm9qOUNwZUpFOFBWODJmTjc0UjcxZXhscFgtQzhKQ3VEa21uc3VXMUhwZHVEY1RqQ1lnMmowQlRldUs3ckZqTw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "In the News: Manjeet Rege on Ethical AI Use"
+            - figure [ref=e808]
+          - time [ref=e810]: 8 minutes ago
+      - generic [ref=e811]:
+        - separator [ref=e813]
+        - generic [ref=e815]:
+          - generic [ref=e816]:
+            - link [ref=e818] [cursor=pointer]:
+              - /url: ./read/CBMikwFBVV95cUxNTkJUeVp6U1FIVktwSDNkMnpuUVctMVZqWTQ1dXVsOHdJZFZ6YXREenNrX0UyMkkzUlNyRHRLa0o5aDAtYS1Hc2dqT19SXzFwUlFSRWhVZ1p1b0pyVFljYjRPMEZuU2dhdUJsN3hiNXRGai1WTklOZkNGeTN0V2NPc3E0eWN0eEpCQ25WWW1HU2VIbUE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e820]:
+              - generic [ref=e821]:
+                - generic [ref=e824]: The Journal Record
+                - generic [ref=e828]:
+                  - generic:
+                    - button "More - HSBC says artificial intelligence will destroy and create banking jobs" [ref=e829] [cursor=pointer]:
+                      - img [ref=e831]
+                    - tooltip [ref=e833]: More
+              - link "HSBC says artificial intelligence will destroy and create banking jobs - The Journal Record - 17 minutes ago - By Selena Li & Lawrence White" [ref=e834] [cursor=pointer]:
+                - /url: ./read/CBMikwFBVV95cUxNTkJUeVp6U1FIVktwSDNkMnpuUVctMVZqWTQ1dXVsOHdJZFZ6YXREenNrX0UyMkkzUlNyRHRLa0o5aDAtYS1Hc2dqT19SXzFwUlFSRWhVZ1p1b0pyVFljYjRPMEZuU2dhdUJsN3hiNXRGai1WTklOZkNGeTN0V2NPc3E0eWN0eEpCQ25WWW1HU2VIbUE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: HSBC says artificial intelligence will destroy and create banking jobs
+            - figure [ref=e835]
+          - generic [ref=e836]:
+            - time [ref=e837]: 17 minutes ago
+            - separator [ref=e838]
+            - generic [ref=e839]: By Selena Li & Lawrence White
+      - generic [ref=e840]:
+        - separator [ref=e842]
+        - generic [ref=e844]:
+          - generic [ref=e845]:
+            - link [ref=e847] [cursor=pointer]:
+              - /url: ./read/CBMiiAFBVV95cUxQQXZiMFl3V01EeFN5YXFESWpOY0tIOEFaS1dTeG5JRjNhRUlnX2RrVDFiQjJUQ2UwMEdWVEF1TnZsczNVOGhaZmJfVXB5My05Qm0yYU1oR2Q0cXVDcFRBMENnOW1DbzRDcmpzNC1QaTFmQ0U0UHNLcFFkYjYzdFViSlRiVTVnb05h?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e849]:
+              - generic [ref=e850]:
+                - generic [ref=e853]: The World Economic Forum
+                - generic [ref=e857]:
+                  - generic:
+                    - 'button "More - Intelligent manufacturing: Visit a future factory floor" [ref=e858] [cursor=pointer]':
+                      - img [ref=e860]
+                    - tooltip [ref=e862]: More
+              - 'link "Intelligent manufacturing: Visit a future factory floor - The World Economic Forum - 3 hours ago" [ref=e863] [cursor=pointer]':
+                - /url: ./read/CBMiiAFBVV95cUxQQXZiMFl3V01EeFN5YXFESWpOY0tIOEFaS1dTeG5JRjNhRUlnX2RrVDFiQjJUQ2UwMEdWVEF1TnZsczNVOGhaZmJfVXB5My05Qm0yYU1oR2Q0cXVDcFRBMENnOW1DbzRDcmpzNC1QaTFmQ0U0UHNLcFFkYjYzdFViSlRiVTVnb05h?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Intelligent manufacturing: Visit a future factory floor"
+            - figure [ref=e864]
+          - time [ref=e866]: 3 hours ago
+      - generic [ref=e867]:
+        - separator [ref=e869]
+        - generic [ref=e871]:
+          - generic [ref=e872]:
+            - link [ref=e874] [cursor=pointer]:
+              - /url: ./read/CBMi-gFBVV95cUxNLW9pbG1Gd2hHZFUxMllLY25QMzZOMDVZaG93TFFtUl9TbE5hTGZEbG5sMG4tdnp1TmQtVzJpV2lnbnZIYlktaTNRVHMzOFVGWmhfRGRrVS1WZ0xfbUxodWtnT09rdzloR2FrNnNGMUY2b1NhMzZDSjFlU3pqQmpDdmZmWkxYLVVMdEYwSU02c2cxaGFoMW5hSDk5SHVWX0hVLVlldFpzaWNfQjNueFg0dmFhNVp5bnE2Q1k3SkdvWWlnUGFwN2VQeUVQakd4OTN1VDY2TFYtdkxGX1NKdDNQVUY0OVZEVEh3WDhGRnhCYmRfbXFBVkUtZkJR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e876]:
+              - generic [ref=e877]:
+                - generic [ref=e880]: Hospitality Net
+                - generic [ref=e884]:
+                  - generic:
+                    - 'button "More - The AI Concierge has checked in: how artificial intelligence is amplifying efficiency across the entire traveler journey" [ref=e885] [cursor=pointer]':
+                      - img [ref=e887]
+                    - tooltip [ref=e889]: More
+              - 'link "The AI Concierge has checked in: how artificial intelligence is amplifying efficiency across the entire traveler journey - Hospitality Net - 9 hours ago" [ref=e890] [cursor=pointer]':
+                - /url: ./read/CBMi-gFBVV95cUxNLW9pbG1Gd2hHZFUxMllLY25QMzZOMDVZaG93TFFtUl9TbE5hTGZEbG5sMG4tdnp1TmQtVzJpV2lnbnZIYlktaTNRVHMzOFVGWmhfRGRrVS1WZ0xfbUxodWtnT09rdzloR2FrNnNGMUY2b1NhMzZDSjFlU3pqQmpDdmZmWkxYLVVMdEYwSU02c2cxaGFoMW5hSDk5SHVWX0hVLVlldFpzaWNfQjNueFg0dmFhNVp5bnE2Q1k3SkdvWWlnUGFwN2VQeUVQakd4OTN1VDY2TFYtdkxGX1NKdDNQVUY0OVZEVEh3WDhGRnhCYmRfbXFBVkUtZkJR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "The AI Concierge has checked in: how artificial intelligence is amplifying efficiency across the entire traveler journey"
+            - figure [ref=e891]
+          - time [ref=e893]: 9 hours ago
+      - generic [ref=e894]:
+        - separator [ref=e896]
+        - generic [ref=e898]:
+          - generic [ref=e899]:
+            - link [ref=e901] [cursor=pointer]:
+              - /url: ./read/CBMimwFBVV95cUxNczAyR1VkUHZxdm5FUi1IREQyVTAzQmtLNTRfZUZ5TC1QSmd2Y204VDhJX3UtdjVtMWVpUHJTYkU3dHFxOWo5UktsRXFVUXRzY2syZ2t2eDNTVTlaT2JvYjhoUmZlTXJmODFFX2hXR1NvZE0tblhadzVybWtQMXdyai1Wblo4dndpOExsaER2a00wNGljNXJGaTE2aw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e903]:
+              - generic [ref=e904]:
+                - generic [ref=e907]: Mainebiz
+                - generic [ref=e911]:
+                  - generic:
+                    - button "More - University of New England center will advance AI-driven education" [ref=e912] [cursor=pointer]:
+                      - img [ref=e914]
+                    - tooltip [ref=e916]: More
+              - link "University of New England center will advance AI-driven education - Mainebiz - 3 hours ago - By Laurie Schreiber" [ref=e917] [cursor=pointer]:
+                - /url: ./read/CBMimwFBVV95cUxNczAyR1VkUHZxdm5FUi1IREQyVTAzQmtLNTRfZUZ5TC1QSmd2Y204VDhJX3UtdjVtMWVpUHJTYkU3dHFxOWo5UktsRXFVUXRzY2syZ2t2eDNTVTlaT2JvYjhoUmZlTXJmODFFX2hXR1NvZE0tblhadzVybWtQMXdyai1Wblo4dndpOExsaER2a00wNGljNXJGaTE2aw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: University of New England center will advance AI-driven education
+            - figure [ref=e918]
+          - generic [ref=e919]:
+            - time [ref=e920]: 3 hours ago
+            - separator [ref=e921]
+            - generic [ref=e922]: By Laurie Schreiber
+      - generic [ref=e923]:
+        - separator [ref=e925]
+        - generic [ref=e927]:
+          - generic [ref=e928]:
+            - link [ref=e930] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxOcnRuTDE3SW1PbFJBWHpCZS1xT0hUWDFWaVJCSmJicTRVTHdOMmpubHBtc0JhUlVOUEJ4TjlfejVQZ1NVa0lmdmtXSHI2cXlTQUZZZTN4V3NFakhacTdVVTBZRmlKZWlDcmlQRjU4ZzduTUEwOW1vTWJCSEx4bG1yZ1djbXlTWktTTUY1UlpmY3F2d2RJUnpYM3NuRmdOM2x6WnNOSUltTG9UNk14UVRR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e932]:
+              - generic [ref=e933]:
+                - generic [ref=e936]: Healthcare IT News
+                - generic [ref=e940]:
+                  - generic:
+                    - 'button "More - Inside the ''glass box'': Why one physician thinks AI in medicine must show its work" [ref=e941] [cursor=pointer]':
+                      - img [ref=e943]
+                    - tooltip [ref=e945]: More
+              - 'link "Inside the ''glass box'': Why one physician thinks AI in medicine must show its work - Healthcare IT News - 2 hours ago - By Bill Siwicki" [ref=e946] [cursor=pointer]':
+                - /url: ./read/CBMirwFBVV95cUxOcnRuTDE3SW1PbFJBWHpCZS1xT0hUWDFWaVJCSmJicTRVTHdOMmpubHBtc0JhUlVOUEJ4TjlfejVQZ1NVa0lmdmtXSHI2cXlTQUZZZTN4V3NFakhacTdVVTBZRmlKZWlDcmlQRjU4ZzduTUEwOW1vTWJCSEx4bG1yZ1djbXlTWktTTUY1UlpmY3F2d2RJUnpYM3NuRmdOM2x6WnNOSUltTG9UNk14UVRR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Inside the 'glass box': Why one physician thinks AI in medicine must show its work"
+            - figure [ref=e947]
+          - generic [ref=e948]:
+            - time [ref=e949]: 2 hours ago
+            - separator [ref=e950]
+            - generic [ref=e951]: By Bill Siwicki
+      - generic [ref=e952]:
+        - separator [ref=e954]
+        - generic [ref=e956]:
+          - generic [ref=e957]:
+            - link [ref=e959] [cursor=pointer]:
+              - /url: ./read/CBMiswFBVV95cUxQSnhYT05yY3hkY2FNb05udzNKUXh2SzlRUi1IRk9aRFlZS1pXWDVTa1A1TThCVzg1RW50Z2VuTEI3V2lnSzBwQjlfS01xcy1Ld0V2dU5KTHZ2ZEo3blZXU1pmdkNmeTFoT0tycVpmcTBfUGV2RWUycmJyVFpCQlFsamhodnY4TzhQUDV4X1dkUjhJRDFDTk00SGgtUUM5Tzk5T2FtZDNfSDZRXzdkNmI2bW1iTQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e961]:
+              - generic [ref=e962]:
+                - generic [ref=e965]: Clemson News
+                - generic [ref=e969]:
+                  - generic:
+                    - button "More - Brook T. Smith Launchpad hosts third annual Business of AI Symposium in downtown Clemson" [ref=e970] [cursor=pointer]:
+                      - img [ref=e972]
+                    - tooltip [ref=e974]: More
+              - link "Brook T. Smith Launchpad hosts third annual Business of AI Symposium in downtown Clemson - Clemson News - 1 hour ago" [ref=e975] [cursor=pointer]:
+                - /url: ./read/CBMiswFBVV95cUxQSnhYT05yY3hkY2FNb05udzNKUXh2SzlRUi1IRk9aRFlZS1pXWDVTa1A1TThCVzg1RW50Z2VuTEI3V2lnSzBwQjlfS01xcy1Ld0V2dU5KTHZ2ZEo3blZXU1pmdkNmeTFoT0tycVpmcTBfUGV2RWUycmJyVFpCQlFsamhodnY4TzhQUDV4X1dkUjhJRDFDTk00SGgtUUM5Tzk5T2FtZDNfSDZRXzdkNmI2bW1iTQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Brook T. Smith Launchpad hosts third annual Business of AI Symposium in downtown Clemson
+            - figure [ref=e976]
+          - time [ref=e978]: 1 hour ago
+      - generic [ref=e979]:
+        - separator [ref=e981]
+        - generic [ref=e983]:
+          - generic [ref=e984]:
+            - link [ref=e986] [cursor=pointer]:
+              - /url: ./read/CBMi2AFBVV95cUxNRjlEdjVPZ2xpQkc1Szg2dlVjSkMzdkFvRGNmMmQtVVZlOEJ3ckxVWTRlZFZKM3VlV0RFczBKcS1LaHFNR1pqODFrVy01X1BLanZMLVFfZFBVclEybjBpNE95VUwxekdLTy1oSE14VDR2c3FCaGR2THNaRFo2c1hwYjVXcGZDVEh0em5PS2owTzZhdFZqVUVrZTFRTENiUUhwb3RFdGxSNlZUZlBfTkFGZk9fZzQzd1llcXUyY0FTWjJ4MXFSYWc4SmhwcFRsMXZSMEE3Y29pOHI?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e988]:
+              - generic [ref=e989]:
+                - generic [ref=e992]: Federal Reserve Bank of San Francisco
+                - generic [ref=e996]:
+                  - generic:
+                    - button "More - Is Optimism for Artificial Intelligence Boosting Investment?" [ref=e997] [cursor=pointer]:
+                      - img [ref=e999]
+                    - tooltip [ref=e1001]: More
+              - link "Is Optimism for Artificial Intelligence Boosting Investment? - Federal Reserve Bank of San Francisco - 2 days ago - By Aakash Kalyani & Huiyu Li" [ref=e1002] [cursor=pointer]:
+                - /url: ./read/CBMi2AFBVV95cUxNRjlEdjVPZ2xpQkc1Szg2dlVjSkMzdkFvRGNmMmQtVVZlOEJ3ckxVWTRlZFZKM3VlV0RFczBKcS1LaHFNR1pqODFrVy01X1BLanZMLVFfZFBVclEybjBpNE95VUwxekdLTy1oSE14VDR2c3FCaGR2THNaRFo2c1hwYjVXcGZDVEh0em5PS2owTzZhdFZqVUVrZTFRTENiUUhwb3RFdGxSNlZUZlBfTkFGZk9fZzQzd1llcXUyY0FTWjJ4MXFSYWc4SmhwcFRsMXZSMEE3Y29pOHI?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Is Optimism for Artificial Intelligence Boosting Investment?
+            - figure [ref=e1003]
+          - generic [ref=e1004]:
+            - time [ref=e1005]: 2 days ago
+            - separator [ref=e1006]
+            - generic [ref=e1007]: By Aakash Kalyani & Huiyu Li
+      - generic [ref=e1008]:
+        - separator [ref=e1010]
+        - generic [ref=e1012]:
+          - generic [ref=e1013]:
+            - link [ref=e1015] [cursor=pointer]:
+              - /url: ./read/CBMi1AFBVV95cUxNNE5YNmpkcWlfNjl1TTFTQkUwWEhLZ21PakZZVmRBOXVfeU9IY254SkdTSkl4UVdlWFc3UllKX1hsTnRIQkFFb3dMaHRtWll2MC16bFhwQm5sR2JpYUdQUnZGQnRUZERtSmpidnVVT3h5VnBTOS05bGZ1c1l6S1F1YWhOZ1V4WVFPZFM5THdqWDBRaVVQZUVEVzNkVWl5Zl9NWmRsazFLRWFxN0VUeVgyMUhwX0pLMldIYjRSZVJmcmFva19HRC1FaXktczNiSlZKMDZkSw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1017]:
+              - generic [ref=e1018]:
+                - generic [ref=e1021]: Nextgov/FCW
+                - generic [ref=e1025]:
+                  - generic:
+                    - button "More - Anticipated executive order could give NSA a role in voluntary AI model testing" [ref=e1026] [cursor=pointer]:
+                      - img [ref=e1028]
+                    - tooltip [ref=e1030]: More
+              - link "Anticipated executive order could give NSA a role in voluntary AI model testing - Nextgov/FCW - 2 hours ago - By David DiMolfetta & Alexandra Kelley" [ref=e1031] [cursor=pointer]:
+                - /url: ./read/CBMi1AFBVV95cUxNNE5YNmpkcWlfNjl1TTFTQkUwWEhLZ21PakZZVmRBOXVfeU9IY254SkdTSkl4UVdlWFc3UllKX1hsTnRIQkFFb3dMaHRtWll2MC16bFhwQm5sR2JpYUdQUnZGQnRUZERtSmpidnVVT3h5VnBTOS05bGZ1c1l6S1F1YWhOZ1V4WVFPZFM5THdqWDBRaVVQZUVEVzNkVWl5Zl9NWmRsazFLRWFxN0VUeVgyMUhwX0pLMldIYjRSZVJmcmFva19HRC1FaXktczNiSlZKMDZkSw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Anticipated executive order could give NSA a role in voluntary AI model testing
+            - figure [ref=e1032]
+          - generic [ref=e1033]:
+            - time [ref=e1034]: 2 hours ago
+            - separator [ref=e1035]
+            - generic [ref=e1036]: By David DiMolfetta & Alexandra Kelley
+      - generic [ref=e1037]:
+        - separator [ref=e1039]
+        - generic [ref=e1041]:
+          - generic [ref=e1042]:
+            - link [ref=e1044] [cursor=pointer]:
+              - /url: ./read/CBMigwFBVV95cUxORkZmNXhpa3ktV2JjRVhFS01lcUJfRW1vQ2l0N0lzLURBQk5jTzg3NlhSMWFlb29ITE5FTC1Gb0xMUWhwREtDa1JjdnFRSW9rOGpYQVhZczBNNGRCU1V6b2xjSElrR2toRHhxblVURUtsbzVvTjRHYmUxR3pPdFoxSVljdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1046]:
+              - generic [ref=e1047]:
+                - generic [ref=e1050]: anl.gov
+                - generic [ref=e1054]:
+                  - generic:
+                    - button "More - AI unlocks new possibilities for materials design" [ref=e1055] [cursor=pointer]:
+                      - img [ref=e1057]
+                    - tooltip [ref=e1059]: More
+              - link "AI unlocks new possibilities for materials design - anl.gov - 5 hours ago - By Gail W. Pieper" [ref=e1060] [cursor=pointer]:
+                - /url: ./read/CBMigwFBVV95cUxORkZmNXhpa3ktV2JjRVhFS01lcUJfRW1vQ2l0N0lzLURBQk5jTzg3NlhSMWFlb29ITE5FTC1Gb0xMUWhwREtDa1JjdnFRSW9rOGpYQVhZczBNNGRCU1V6b2xjSElrR2toRHhxblVURUtsbzVvTjRHYmUxR3pPdFoxSVljdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI unlocks new possibilities for materials design
+            - figure [ref=e1061]
+          - generic [ref=e1062]:
+            - time [ref=e1063]: 5 hours ago
+            - separator [ref=e1064]
+            - generic [ref=e1065]: By Gail W. Pieper
+      - generic [ref=e1066]:
+        - separator [ref=e1068]
+        - generic [ref=e1070]:
+          - generic [ref=e1071]:
+            - link [ref=e1073] [cursor=pointer]:
+              - /url: ./read/CBMiwgFBVV95cUxNZTNGV0Rlc0ZRcUg1NWJBZ2dDOUdFeGR5QjluRVM3cjdfLXVXX1llXzRNNHhhcV9WWjNHS3JuRm1YTjdIdVFhRnowdWlnTkJUa0tLdjRsejd1QVkxdk5YOWtlYVhEbkRRTE1tVzI1TlVFQ2dOclNZVnBTUFdUSWlSSUcyQUJFdm11UzA0TmNWanNhLWFmNGQ0NTJNX01JcVFzLTFQNVU1c1hHUk9veWladVB3dkxTb1NET0QxRDVjNElOZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1075]:
+              - generic [ref=e1076]:
+                - generic [ref=e1079]: National Catholic Reporter
+                - generic [ref=e1083]:
+                  - generic:
+                    - button "More - Pope creates artificial intelligence study group as Vatican prepares to release his first encyclical" [ref=e1084] [cursor=pointer]:
+                      - img [ref=e1086]
+                    - tooltip [ref=e1088]: More
+              - link "Pope creates artificial intelligence study group as Vatican prepares to release his first encyclical - National Catholic Reporter - 4 days ago - By Nicole Winfield" [ref=e1089] [cursor=pointer]:
+                - /url: ./read/CBMiwgFBVV95cUxNZTNGV0Rlc0ZRcUg1NWJBZ2dDOUdFeGR5QjluRVM3cjdfLXVXX1llXzRNNHhhcV9WWjNHS3JuRm1YTjdIdVFhRnowdWlnTkJUa0tLdjRsejd1QVkxdk5YOWtlYVhEbkRRTE1tVzI1TlVFQ2dOclNZVnBTUFdUSWlSSUcyQUJFdm11UzA0TmNWanNhLWFmNGQ0NTJNX01JcVFzLTFQNVU1c1hHUk9veWladVB3dkxTb1NET0QxRDVjNElOZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Pope creates artificial intelligence study group as Vatican prepares to release his first encyclical
+            - figure [ref=e1090]
+          - generic [ref=e1091]:
+            - time [ref=e1092]: 4 days ago
+            - separator [ref=e1093]
+            - generic [ref=e1094]: By Nicole Winfield
+      - generic [ref=e1095]:
+        - separator [ref=e1097]
+        - generic [ref=e1099]:
+          - generic [ref=e1100]:
+            - link [ref=e1102] [cursor=pointer]:
+              - /url: ./read/CBMixAFBVV95cUxNT2JITUgzYlVhTklPS3FHLXJDLVNKVlk1ai1pbzlLQjdxcExOdHdpMG9zYnIzVnR5UHh6WkQ1d00zeFlZVkh0RDNSTnVYSW9NWFdVX1lpUmpSem9KU1cyQ3VHbFBvdWg2LTd1SzZYRWdYSWRrUDR3OW1FM0tMTFZScE4zVDAxYnViR0tXTDdQYlJNOGxIUkpKVW1odEU5RHppaFFqSi1fczR6eHBvLWdwS2Z1WWJDSDJNNjl0UGZGOERMN0t5?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1104]:
+              - generic [ref=e1105]:
+                - generic [ref=e1108]: Stock Titan
+                - generic [ref=e1112]:
+                  - generic:
+                    - 'button "More - Loan Artificial Intelligence (OTC: LAAI) posts Q1 loss, advances Hong Technology deal" [ref=e1113] [cursor=pointer]':
+                      - img [ref=e1115]
+                    - tooltip [ref=e1117]: More
+              - 'link "Loan Artificial Intelligence (OTC: LAAI) posts Q1 loss, advances Hong Technology deal - Stock Titan - 1 hour ago" [ref=e1118] [cursor=pointer]':
+                - /url: ./read/CBMixAFBVV95cUxNT2JITUgzYlVhTklPS3FHLXJDLVNKVlk1ai1pbzlLQjdxcExOdHdpMG9zYnIzVnR5UHh6WkQ1d00zeFlZVkh0RDNSTnVYSW9NWFdVX1lpUmpSem9KU1cyQ3VHbFBvdWg2LTd1SzZYRWdYSWRrUDR3OW1FM0tMTFZScE4zVDAxYnViR0tXTDdQYlJNOGxIUkpKVW1odEU5RHppaFFqSi1fczR6eHBvLWdwS2Z1WWJDSDJNNjl0UGZGOERMN0t5?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Loan Artificial Intelligence (OTC: LAAI) posts Q1 loss, advances Hong Technology deal"
+            - figure [ref=e1119]
+          - time [ref=e1121]: 1 hour ago
+      - generic [ref=e1122]:
+        - separator [ref=e1124]
+        - generic [ref=e1126]:
+          - generic [ref=e1127]:
+            - link [ref=e1129] [cursor=pointer]:
+              - /url: ./read/CBMitwFBVV95cUxObnRsUk9pdHpQUmljSHI0dktWT1A4a2dQTHk3VGxUYWR3SzNXXzVJRFl3N1l5c3hNVXVBa3lPZkFJbjE0enZzWDRHaFljT0lQMEpHYlkzSHhrOWo0QlZFaGwyOGl0UEc1bmJyNWVfSW9ENVJGMXd6TnFOLXR1RHY0bWt6Wjc5am5lMEstN3h0YW9iVXJ3b0w1ZExiaUExdVQxa0QxTEFISFlxak5wT3JodTBuRHRrMFU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1131]:
+              - generic [ref=e1132]:
+                - generic [ref=e1135]: Missouri S&T
+                - generic [ref=e1139]:
+                  - generic:
+                    - button "More - Missouri governor to host artificial intelligence and data center forum at Missouri S&T" [ref=e1140] [cursor=pointer]:
+                      - img [ref=e1142]
+                    - tooltip [ref=e1144]: More
+              - link "Missouri governor to host artificial intelligence and data center forum at Missouri S&T - Missouri S&amp;T - 2 days ago - By Greg Edwards" [ref=e1145] [cursor=pointer]:
+                - /url: ./read/CBMitwFBVV95cUxObnRsUk9pdHpQUmljSHI0dktWT1A4a2dQTHk3VGxUYWR3SzNXXzVJRFl3N1l5c3hNVXVBa3lPZkFJbjE0enZzWDRHaFljT0lQMEpHYlkzSHhrOWo0QlZFaGwyOGl0UEc1bmJyNWVfSW9ENVJGMXd6TnFOLXR1RHY0bWt6Wjc5am5lMEstN3h0YW9iVXJ3b0w1ZExiaUExdVQxa0QxTEFISFlxak5wT3JodTBuRHRrMFU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Missouri governor to host artificial intelligence and data center forum at Missouri S&T
+            - figure [ref=e1146]
+          - generic [ref=e1147]:
+            - time [ref=e1148]: 2 days ago
+            - separator [ref=e1149]
+            - generic [ref=e1150]: By Greg Edwards
+      - generic [ref=e1151]:
+        - separator [ref=e1153]
+        - generic [ref=e1155]:
+          - generic [ref=e1156]:
+            - link [ref=e1158] [cursor=pointer]:
+              - /url: ./read/CBMihwFBVV95cUxNbDRteHJNOWpib2d0dllhbjB5bGY5VVZOUGZOcEZiR01iSXVSVzAtd2pjMHBUeWo3bHVxMjZ1YnA5TGU4WDA2Vkx0RU9DS3Y4aG5RMlJnSkp0TFhYV1FvTGI3RV9BUFhpUjBzd2ZrQzVjNmJia2tvUVhQSE0wc0lmY0l6SmdDRmM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1160]:
+              - generic [ref=e1161]:
+                - generic [ref=e1164]: marketplace.org
+                - generic [ref=e1168]:
+                  - generic:
+                    - button "More - Google was supposed to lose the AI race. Instead, it’s thriving." [ref=e1169] [cursor=pointer]:
+                      - img [ref=e1171]
+                    - tooltip [ref=e1173]: More
+              - link "Google was supposed to lose the AI race. Instead, it’s thriving. - marketplace.org - 1 hour ago" [ref=e1174] [cursor=pointer]:
+                - /url: ./read/CBMihwFBVV95cUxNbDRteHJNOWpib2d0dllhbjB5bGY5VVZOUGZOcEZiR01iSXVSVzAtd2pjMHBUeWo3bHVxMjZ1YnA5TGU4WDA2Vkx0RU9DS3Y4aG5RMlJnSkp0TFhYV1FvTGI3RV9BUFhpUjBzd2ZrQzVjNmJia2tvUVhQSE0wc0lmY0l6SmdDRmM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Google was supposed to lose the AI race. Instead, it’s thriving.
+            - figure [ref=e1175]
+          - time [ref=e1177]: 1 hour ago
+      - generic [ref=e1178]:
+        - separator [ref=e1180]
+        - generic [ref=e1182]:
+          - generic [ref=e1183]:
+            - link [ref=e1185] [cursor=pointer]:
+              - /url: ./read/CBMipwFBVV95cUxOTi15d2JtWXZnaEdJcE5vYXZ6eGJIRDhrQnRyZVpoc3lZTkhoRlczUkJJM3M1VEYxNGRIVTFrWDhMUDFOdUZVMUZJS09PTlo0NlVBejRndWNJbENlUXdldks2OXlqTHlJdEtsWDlyWDVoaHFiV3M3QzdHS0pHMGdiaVBRdGN0Um42ZEJnclVzRVRFMnpDZDBCUVBsOGxtLThmQ0MxRl9pUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1187]:
+              - generic [ref=e1188]:
+                - generic [ref=e1191]: The Times Weekly
+                - generic [ref=e1195]:
+                  - generic:
+                    - button "More - Senate Democrats introduce bills to regulate artificial intelligence" [ref=e1196] [cursor=pointer]:
+                      - img [ref=e1198]
+                    - tooltip [ref=e1200]: More
+              - link "Senate Democrats introduce bills to regulate artificial intelligence - The Times Weekly - 35 minutes ago" [ref=e1201] [cursor=pointer]:
+                - /url: ./read/CBMipwFBVV95cUxOTi15d2JtWXZnaEdJcE5vYXZ6eGJIRDhrQnRyZVpoc3lZTkhoRlczUkJJM3M1VEYxNGRIVTFrWDhMUDFOdUZVMUZJS09PTlo0NlVBejRndWNJbENlUXdldks2OXlqTHlJdEtsWDlyWDVoaHFiV3M3QzdHS0pHMGdiaVBRdGN0Um42ZEJnclVzRVRFMnpDZDBCUVBsOGxtLThmQ0MxRl9pUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Senate Democrats introduce bills to regulate artificial intelligence
+            - figure [ref=e1202]
+          - time [ref=e1204]: 35 minutes ago
+      - generic [ref=e1205]:
+        - separator [ref=e1207]
+        - generic [ref=e1209]:
+          - generic [ref=e1210]:
+            - link [ref=e1212] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxNaTZTbkQ1b3NybkZydU5POTFPOU1KcDhOeGtKTGJlOGU1VWVtQWFMQ0tYWTgxd3hzd3Z0MHpzZER1UWRKQ3BsT296dmVTZXRTdDY4NHZVMGVHcHF6dVAzb0Q1NUNZTzR2T0JIaFhoT3k0dGdIaExqSzQwNV94LXB1N0luazZhZjFoOWxtMDBaZG9RYU9pN0xxb1AtRDhVLTlyNkptclRXa0l6Ukh6Ry1r?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1214]:
+              - generic [ref=e1215]:
+                - generic [ref=e1218]: Vanity Fair
+                - generic [ref=e1222]:
+                  - generic:
+                    - button "More - Humans, If You Like Artificial Intelligence, You’ll Love the Artificial Egg" [ref=e1223] [cursor=pointer]:
+                      - img [ref=e1225]
+                    - tooltip [ref=e1227]: More
+              - link "Humans, If You Like Artificial Intelligence, You’ll Love the Artificial Egg - Vanity Fair - 19 hours ago - By Margaux MacColl" [ref=e1228] [cursor=pointer]:
+                - /url: ./read/CBMirwFBVV95cUxNaTZTbkQ1b3NybkZydU5POTFPOU1KcDhOeGtKTGJlOGU1VWVtQWFMQ0tYWTgxd3hzd3Z0MHpzZER1UWRKQ3BsT296dmVTZXRTdDY4NHZVMGVHcHF6dVAzb0Q1NUNZTzR2T0JIaFhoT3k0dGdIaExqSzQwNV94LXB1N0luazZhZjFoOWxtMDBaZG9RYU9pN0xxb1AtRDhVLTlyNkptclRXa0l6Ukh6Ry1r?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Humans, If You Like Artificial Intelligence, You’ll Love the Artificial Egg
+            - figure [ref=e1229]
+          - generic [ref=e1230]:
+            - time [ref=e1231]: 19 hours ago
+            - separator [ref=e1232]
+            - generic [ref=e1233]: By Margaux MacColl
+      - generic [ref=e1234]:
+        - separator [ref=e1236]
+        - generic [ref=e1238]:
+          - generic [ref=e1239]:
+            - link [ref=e1241] [cursor=pointer]:
+              - /url: ./read/CBMijwFBVV95cUxPTXFtN0tZUzA2LU0xYnpKS1BrTmN3TGlDSXFnd2hEcXJDVGdBZnlWcllpblIxcTRKSVFIRjZfZHZMc0xoVFE5Y3BSWjBnRndDTnM2V0JZUWdaaWpSZ240ODJsanY3SkxSZTZhR2sxYkRncXpGVUlmbUV1X3VOQUZLUEl0cmRaQTJZaXdmRzlmOA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1243]:
+              - generic [ref=e1244]:
+                - generic [ref=e1247]: ETF Database
+                - generic [ref=e1251]:
+                  - generic:
+                    - button "More - AI Is Rewriting the Cybersecurity Stack" [ref=e1252] [cursor=pointer]:
+                      - img [ref=e1254]
+                    - tooltip [ref=e1256]: More
+              - link "AI Is Rewriting the Cybersecurity Stack - ETF Database - 4 hours ago" [ref=e1257] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxPTXFtN0tZUzA2LU0xYnpKS1BrTmN3TGlDSXFnd2hEcXJDVGdBZnlWcllpblIxcTRKSVFIRjZfZHZMc0xoVFE5Y3BSWjBnRndDTnM2V0JZUWdaaWpSZ240ODJsanY3SkxSZTZhR2sxYkRncXpGVUlmbUV1X3VOQUZLUEl0cmRaQTJZaXdmRzlmOA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI Is Rewriting the Cybersecurity Stack
+            - figure [ref=e1258]
+          - time [ref=e1260]: 4 hours ago
+      - generic [ref=e1261]:
+        - separator [ref=e1263]
+        - generic [ref=e1265]:
+          - generic [ref=e1266]:
+            - link [ref=e1268] [cursor=pointer]:
+              - /url: ./read/CBMivgFBVV95cUxNS0ZjNzJoX29GdnAyRm9maUw0bExyNTIxU2h3OFlSd2QzVzZKY3NMZzVOSE5DaDhka1hFcFJGT0pMZHBzV2wyYVo0NVVmWlVYVUt0cjdZZDY2ZjhJeDlSSy1pOUVTbnpZNUpHb0hWRTZlMVNTZHRkanJSeGZDMWxQSl8zSDAxLUpjX3RsZEp0LUl1TGlEWnJhM3gwMmlKcm9XNWlLQ2hwUjE5RFQxbGJudnIxYnZmNExyMmdMVmpB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1270]:
+              - generic [ref=e1271]:
+                - generic [ref=e1274]: Fierce Biotech
+                - generic [ref=e1278]:
+                  - generic:
+                    - button "More - BMS taps Anthropic’s Claude for enterprise-wide AI adoption to speed R&D, global workflows" [ref=e1279] [cursor=pointer]:
+                      - img [ref=e1281]
+                    - tooltip [ref=e1283]: More
+              - link "BMS taps Anthropic’s Claude for enterprise-wide AI adoption to speed R&D, global workflows - Fierce Biotech - 3 hours ago - By Angus Liu" [ref=e1284] [cursor=pointer]:
+                - /url: ./read/CBMivgFBVV95cUxNS0ZjNzJoX29GdnAyRm9maUw0bExyNTIxU2h3OFlSd2QzVzZKY3NMZzVOSE5DaDhka1hFcFJGT0pMZHBzV2wyYVo0NVVmWlVYVUt0cjdZZDY2ZjhJeDlSSy1pOUVTbnpZNUpHb0hWRTZlMVNTZHRkanJSeGZDMWxQSl8zSDAxLUpjX3RsZEp0LUl1TGlEWnJhM3gwMmlKcm9XNWlLQ2hwUjE5RFQxbGJudnIxYnZmNExyMmdMVmpB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: BMS taps Anthropic’s Claude for enterprise-wide AI adoption to speed R&D, global workflows
+            - figure [ref=e1285]
+          - generic [ref=e1286]:
+            - time [ref=e1287]: 3 hours ago
+            - separator [ref=e1288]
+            - generic [ref=e1289]: By Angus Liu
+      - generic [ref=e1290]:
+        - separator [ref=e1292]
+        - generic [ref=e1294]:
+          - generic [ref=e1295]:
+            - link [ref=e1297] [cursor=pointer]:
+              - /url: ./read/CBMikAFBVV95cUxQb1lWbHVmMHJQeEhhbFRyQVU3V051ZHV5a19pbENwa3ZrcnNjV2ZCSS11azdEZ1NDTm55NXRLWW1vSVRXa1Zid3pEajFqVXlmdUV0cXhMd001Z2Q5bFpfMVlYRXN1QWhKZ3pUc1ZfcVBpTjYtSEVXY1J1bDM1S3lRYWFWa2hpdnhrQ0FKdkJUZ04?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1299]:
+              - generic [ref=e1300]:
+                - generic [ref=e1303]: www.lvivherald.com
+                - generic [ref=e1307]:
+                  - generic:
+                    - button "More - Musk v Altman and the vision of artificial intelligence" [ref=e1308] [cursor=pointer]:
+                      - img [ref=e1310]
+                    - tooltip [ref=e1312]: More
+              - link "Musk v Altman and the vision of artificial intelligence - www.lvivherald.com - 4 hours ago" [ref=e1313] [cursor=pointer]:
+                - /url: ./read/CBMikAFBVV95cUxQb1lWbHVmMHJQeEhhbFRyQVU3V051ZHV5a19pbENwa3ZrcnNjV2ZCSS11azdEZ1NDTm55NXRLWW1vSVRXa1Zid3pEajFqVXlmdUV0cXhMd001Z2Q5bFpfMVlYRXN1QWhKZ3pUc1ZfcVBpTjYtSEVXY1J1bDM1S3lRYWFWa2hpdnhrQ0FKdkJUZ04?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Musk v Altman and the vision of artificial intelligence
+            - figure [ref=e1314]
+          - time [ref=e1316]: 4 hours ago
+      - generic [ref=e1317]:
+        - separator [ref=e1319]
+        - generic [ref=e1321]:
+          - generic [ref=e1322]:
+            - link [ref=e1324] [cursor=pointer]:
+              - /url: ./read/CBMihAFBVV95cUxNaDA5MGR3RFlWRHAwS2J5b2hmR2xhaml5QTI3eS1nOFRIZXZQSkJuVk1Lc3dSZ2lOc0F4N3J5dVFsNjNmUW9aQ3E4YXNoY2hCb1VCczFGZEoxckl2U25KS1pjWnJUeUpNMjNBTUpNV0FFY2R4RHh2ZWFpWFNuZmZJbjk0RV8?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1326]:
+              - generic [ref=e1327]:
+                - generic [ref=e1330]: The New York Times
+                - generic [ref=e1334]:
+                  - generic:
+                    - button "More - The Growing Anxiety Over AI, Jobs and the Future" [ref=e1335] [cursor=pointer]:
+                      - img [ref=e1337]
+                    - tooltip [ref=e1339]: More
+              - link "The Growing Anxiety Over AI, Jobs and the Future - The New York Times - 5 hours ago - By Michael J. de la Merced, Sarah Kessler & Niko Gallogly" [ref=e1340] [cursor=pointer]:
+                - /url: ./read/CBMihAFBVV95cUxNaDA5MGR3RFlWRHAwS2J5b2hmR2xhaml5QTI3eS1nOFRIZXZQSkJuVk1Lc3dSZ2lOc0F4N3J5dVFsNjNmUW9aQ3E4YXNoY2hCb1VCczFGZEoxckl2U25KS1pjWnJUeUpNMjNBTUpNV0FFY2R4RHh2ZWFpWFNuZmZJbjk0RV8?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The Growing Anxiety Over AI, Jobs and the Future
+            - figure [ref=e1341]
+          - generic [ref=e1342]:
+            - time [ref=e1343]: 5 hours ago
+            - separator [ref=e1344]
+            - generic [ref=e1345]: By Michael J. de la Merced, Sarah Kessler & Niko Gallogly
+      - generic [ref=e1346]:
+        - separator [ref=e1348]
+        - generic [ref=e1350]:
+          - generic [ref=e1351]:
+            - link [ref=e1353] [cursor=pointer]:
+              - /url: ./read/CBMivgFBVV95cUxQSWI5d2dlUWJYQ1ZDdHE2d3paNFRBSVBOd2EyRTlxbXdzS0x5d1dvb2ZVWFJUWkpQREJDWmxxYU10WUF3V0FQR182eGxkcU92VHJXdkJlM3l5emw0ZVFQRFRkVWNEVWtoMmdfX252N21SLURVWDYwMmxwbERaYVczdWl6bUtpU05YdUhiTjlaREJ3Q3hYVFZwTVI4Sk52d0JqeEpRLThLM2FzalJVSm04MnNpSW5NZkhnVmJ1elln?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1355]:
+              - generic [ref=e1356]:
+                - generic [ref=e1359]: The Foundation for American Innovation
+                - generic [ref=e1363]:
+                  - generic:
+                    - 'button "More - National Orchestration and Provincial Competition: China’s Industrial Policy for AI Dominance" [ref=e1364] [cursor=pointer]':
+                      - img [ref=e1366]
+                    - tooltip [ref=e1368]: More
+              - 'link "National Orchestration and Provincial Competition: China’s Industrial Policy for AI Dominance - The Foundation for American Innovation - 6 hours ago - By Farrell Gregory & Samuel Hammond" [ref=e1369] [cursor=pointer]':
+                - /url: ./read/CBMivgFBVV95cUxQSWI5d2dlUWJYQ1ZDdHE2d3paNFRBSVBOd2EyRTlxbXdzS0x5d1dvb2ZVWFJUWkpQREJDWmxxYU10WUF3V0FQR182eGxkcU92VHJXdkJlM3l5emw0ZVFQRFRkVWNEVWtoMmdfX252N21SLURVWDYwMmxwbERaYVczdWl6bUtpU05YdUhiTjlaREJ3Q3hYVFZwTVI4Sk52d0JqeEpRLThLM2FzalJVSm04MnNpSW5NZkhnVmJ1elln?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "National Orchestration and Provincial Competition: China’s Industrial Policy for AI Dominance"
+            - figure [ref=e1370]
+          - generic [ref=e1371]:
+            - time [ref=e1372]: 6 hours ago
+            - separator [ref=e1373]
+            - generic [ref=e1374]: By Farrell Gregory & Samuel Hammond
+      - generic [ref=e1375]:
+        - separator [ref=e1377]
+        - generic [ref=e1379]:
+          - generic [ref=e1380]:
+            - link [ref=e1382] [cursor=pointer]:
+              - /url: ./read/CBMixgFBVV95cUxNMXdjQXF0Sll6UnpYclc0WVI4dWVNaFh4aDctcUZSZUhJeVpiQUVIWUd2bXFmQ1pPNkt1SzJyRzJLUDhhd3RzNmJibjdlcm9BNnJxOFdCZnNRMjZsTU9CSHN4QUZtSXdCRGszdmoxSFRZdVIzWG14YUh1aXdHd3FRcHZtQmw2NFVGNjBHY2w0dG1OLWlnaFJIZFZ6V3ZlYmtYMGhEa0g1cFJRTS1JY19fQUtpZXNSMHZIX290VFc0LUxGMEtMSmc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1384]:
+              - generic [ref=e1385]:
+                - generic [ref=e1388]: Nextgov/FCW
+                - generic [ref=e1392]:
+                  - generic:
+                    - button "More - Virtualitics targets public sector customers with OpenAI partnership" [ref=e1393] [cursor=pointer]:
+                      - img [ref=e1395]
+                    - tooltip [ref=e1397]: More
+              - link "Virtualitics targets public sector customers with OpenAI partnership - Nextgov/FCW - 4 hours ago - By Frank Konkel" [ref=e1398] [cursor=pointer]:
+                - /url: ./read/CBMixgFBVV95cUxNMXdjQXF0Sll6UnpYclc0WVI4dWVNaFh4aDctcUZSZUhJeVpiQUVIWUd2bXFmQ1pPNkt1SzJyRzJLUDhhd3RzNmJibjdlcm9BNnJxOFdCZnNRMjZsTU9CSHN4QUZtSXdCRGszdmoxSFRZdVIzWG14YUh1aXdHd3FRcHZtQmw2NFVGNjBHY2w0dG1OLWlnaFJIZFZ6V3ZlYmtYMGhEa0g1cFJRTS1JY19fQUtpZXNSMHZIX290VFc0LUxGMEtMSmc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Virtualitics targets public sector customers with OpenAI partnership
+            - figure [ref=e1399]
+          - generic [ref=e1400]:
+            - time [ref=e1401]: 4 hours ago
+            - separator [ref=e1402]
+            - generic [ref=e1403]: By Frank Konkel
+      - generic [ref=e1404]:
+        - separator [ref=e1406]
+        - generic [ref=e1408]:
+          - generic [ref=e1409]:
+            - link [ref=e1411] [cursor=pointer]:
+              - /url: ./read/CBMipgFBVV95cUxPTjMwUDFRRlFNRHFGQXB6dVVaWjgxRWV0NUVCd19pOUc4YmFrWTg0Z1hoTy1jaTBWUklaU3BDaGtjQzJaVlNBLUMwcE14NW9FNnpUcFdlNDBMVVNKcFlkVjZYaXpwV3VmTEl2TWpPMHFhcHVOSy16eWltdUtVLXpneWgzeHp2UmU3SmwzbUFCSTUwbHhEWUN3MUVQdmtYa29IZ3hFdGVB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1413]:
+              - generic [ref=e1414]:
+                - generic [ref=e1417]: Ohio Capital Journal
+                - generic [ref=e1421]:
+                  - generic:
+                    - button "More - Why Ohio doesn’t have any artificial intelligence regulations" [ref=e1422] [cursor=pointer]:
+                      - img [ref=e1424]
+                    - tooltip [ref=e1426]: More
+              - link "Why Ohio doesn’t have any artificial intelligence regulations - Ohio Capital Journal - 3 days ago - By Morgan Trau" [ref=e1427] [cursor=pointer]:
+                - /url: ./read/CBMipgFBVV95cUxPTjMwUDFRRlFNRHFGQXB6dVVaWjgxRWV0NUVCd19pOUc4YmFrWTg0Z1hoTy1jaTBWUklaU3BDaGtjQzJaVlNBLUMwcE14NW9FNnpUcFdlNDBMVVNKcFlkVjZYaXpwV3VmTEl2TWpPMHFhcHVOSy16eWltdUtVLXpneWgzeHp2UmU3SmwzbUFCSTUwbHhEWUN3MUVQdmtYa29IZ3hFdGVB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Why Ohio doesn’t have any artificial intelligence regulations
+            - figure [ref=e1428]
+          - generic [ref=e1429]:
+            - time [ref=e1430]: 3 days ago
+            - separator [ref=e1431]
+            - generic [ref=e1432]: By Morgan Trau
+      - generic [ref=e1433]:
+        - separator [ref=e1435]
+        - generic [ref=e1437]:
+          - generic [ref=e1438]:
+            - link [ref=e1440] [cursor=pointer]:
+              - /url: ./read/CBMi0gFBVV95cUxQdmw1bE9udzR5TFNOZU41RUZoOXRqdTAzNGpRYWVoMzVmb1ZZb0hpcENCZkhPbE56eVpKS2RrV1otRng0cVN4Sk5uZHZmdlAzVW9qVmNJYWNhTWlGUmZ5MDBKMU1XdmI0bUFaZEFTZ2xYelBSay1IUFhoODVzQmxOaFgtVmt2bjBGa1hwYTVfUklxOXhybTBDc3ZyRDM0bG5lMnc1WW5NYmhtMTJXN2lWRVJpbXRmQUdLSUd0OW9JaE1tNjNCRlV4WGtFa0gyQ3oxR2c?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1442]:
+              - generic [ref=e1443]:
+                - generic [ref=e1446]: TradingView
+                - generic [ref=e1450]:
+                  - generic:
+                    - 'button "More - Loan Artificial Intelligence Corp. 1Q 2026: Revenue $0 EPS ($0.019) — 10-Q Summary" [ref=e1451] [cursor=pointer]':
+                      - img [ref=e1453]
+                    - tooltip [ref=e1455]: More
+              - 'link "Loan Artificial Intelligence Corp. 1Q 2026: Revenue $0 EPS ($0.019) — 10-Q Summary - TradingView - 1 hour ago" [ref=e1456] [cursor=pointer]':
+                - /url: ./read/CBMi0gFBVV95cUxQdmw1bE9udzR5TFNOZU41RUZoOXRqdTAzNGpRYWVoMzVmb1ZZb0hpcENCZkhPbE56eVpKS2RrV1otRng0cVN4Sk5uZHZmdlAzVW9qVmNJYWNhTWlGUmZ5MDBKMU1XdmI0bUFaZEFTZ2xYelBSay1IUFhoODVzQmxOaFgtVmt2bjBGa1hwYTVfUklxOXhybTBDc3ZyRDM0bG5lMnc1WW5NYmhtMTJXN2lWRVJpbXRmQUdLSUd0OW9JaE1tNjNCRlV4WGtFa0gyQ3oxR2c?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Loan Artificial Intelligence Corp. 1Q 2026: Revenue $0 EPS ($0.019) — 10-Q Summary"
+            - figure [ref=e1457]
+          - time [ref=e1459]: 1 hour ago
+      - generic [ref=e1460]:
+        - separator [ref=e1462]
+        - generic [ref=e1464]:
+          - generic [ref=e1465]:
+            - link [ref=e1467] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxNLUxONXZ2SFBOc3FORDd2T1BaSFFHQWlma213YjZ3LWF6VFVLZVdBZmU5alNCTU5JQ2J5dGVmZmU1SG9jWlNsbzZFMS1aa2RLOTFzUXlDWVJjU0xQTWVBNGNWbW5yNjloMzlrZm5WZlhIM0dDc2RDNTlCY2VFZm94RlJWWjFQX1htVlFjZEhreFlRNUpKX1h2aUtVZl9JQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1469]:
+              - generic [ref=e1470]:
+                - generic [ref=e1473]: Reuters
+                - generic [ref=e1477]:
+                  - generic:
+                    - button "More - AI financing fueling a surge in U.S. convertible bond sales" [ref=e1478] [cursor=pointer]:
+                      - img [ref=e1480]
+                    - tooltip [ref=e1482]: More
+              - link "AI financing fueling a surge in U.S. convertible bond sales - Reuters - 3 hours ago - By Chibuike Oguh" [ref=e1483] [cursor=pointer]:
+                - /url: ./read/CBMingFBVV95cUxNLUxONXZ2SFBOc3FORDd2T1BaSFFHQWlma213YjZ3LWF6VFVLZVdBZmU5alNCTU5JQ2J5dGVmZmU1SG9jWlNsbzZFMS1aa2RLOTFzUXlDWVJjU0xQTWVBNGNWbW5yNjloMzlrZm5WZlhIM0dDc2RDNTlCY2VFZm94RlJWWjFQX1htVlFjZEhreFlRNUpKX1h2aUtVZl9JQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI financing fueling a surge in U.S. convertible bond sales
+            - figure [ref=e1484]
+          - generic [ref=e1485]:
+            - time [ref=e1486]: 3 hours ago
+            - separator [ref=e1487]
+            - generic [ref=e1488]: By Chibuike Oguh
+      - generic [ref=e1489]:
+        - separator [ref=e1491]
+        - generic [ref=e1493]:
+          - generic [ref=e1494]:
+            - link [ref=e1496] [cursor=pointer]:
+              - /url: ./read/CBMi5wFBVV95cUxOLTMzdDJGRW1wVW8xOVU4NlNwMXFrOUR1aXVUMWNoRmFobXZTWXhYMkUzTkNJbjB5TWQ2OFQwbmMzc2tMbF9YdE9oRWdWSHRVbU1WaERJdUYyNE5zUlFXOHBfa3ZjUWNsRHFUVkduOWYxTU5POTd4dndSMzJsRGozTldJdnJsYm5FYm5jY2RMX1RDNVhtT01PdmZQZGhjaTJQczlvODJja1FYSnZfRThQT2dUN3VPX045dV9JUTBvWXJFTXJYYWI5TG42N3RUQ1NsMGxSVnpRemdwanpHT1hNOW00RjJWOTg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1498]:
+              - generic [ref=e1499]:
+                - generic [ref=e1502]: exploreJefferson
+                - generic [ref=e1506]:
+                  - generic:
+                    - button "More - PennWest Professor Wins Fulbright Scholarship for Artificial Intelligence Research in Brazil" [ref=e1507] [cursor=pointer]:
+                      - img [ref=e1509]
+                    - tooltip [ref=e1511]: More
+              - link "PennWest Professor Wins Fulbright Scholarship for Artificial Intelligence Research in Brazil - exploreJefferson - 5 hours ago" [ref=e1512] [cursor=pointer]:
+                - /url: ./read/CBMi5wFBVV95cUxOLTMzdDJGRW1wVW8xOVU4NlNwMXFrOUR1aXVUMWNoRmFobXZTWXhYMkUzTkNJbjB5TWQ2OFQwbmMzc2tMbF9YdE9oRWdWSHRVbU1WaERJdUYyNE5zUlFXOHBfa3ZjUWNsRHFUVkduOWYxTU5POTd4dndSMzJsRGozTldJdnJsYm5FYm5jY2RMX1RDNVhtT01PdmZQZGhjaTJQczlvODJja1FYSnZfRThQT2dUN3VPX045dV9JUTBvWXJFTXJYYWI5TG42N3RUQ1NsMGxSVnpRemdwanpHT1hNOW00RjJWOTg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: PennWest Professor Wins Fulbright Scholarship for Artificial Intelligence Research in Brazil
+            - figure [ref=e1513]
+          - time [ref=e1515]: 5 hours ago
+      - generic [ref=e1516]:
+        - separator [ref=e1518]
+        - generic [ref=e1520]:
+          - generic [ref=e1521]:
+            - link [ref=e1523] [cursor=pointer]:
+              - /url: ./read/CBMipAFBVV95cUxOSHNiWkRDZEtVXzFfdEtISFktTDRrcFlnWGgzaWlYZVh5SU5lYjJoSnNHTVp1d1V2UlZZSWJRVkFLOUFaRjlqMkxaYWVETnNTazZSVHJ3RW9aUEo4MnZYRXVxUFpMaEVXaW10MEttRFJRbXFSaWxXVkJfcmVwc3h4QnZhTWZhNGc2dTlfMUVqbFVjd3RkN1A3MXpEYVM0UEVsYkVQNw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1525]:
+              - generic [ref=e1526]:
+                - generic [ref=e1529]: Industrial Equipment News
+                - generic [ref=e1533]:
+                  - generic:
+                    - button "More - California Turns to AI as Whale Deaths Spike" [ref=e1534] [cursor=pointer]:
+                      - img [ref=e1536]
+                    - tooltip [ref=e1538]: More
+              - link "California Turns to AI as Whale Deaths Spike - Industrial Equipment News - 2 hours ago - By Annika Hammerschlag" [ref=e1539] [cursor=pointer]:
+                - /url: ./read/CBMipAFBVV95cUxOSHNiWkRDZEtVXzFfdEtISFktTDRrcFlnWGgzaWlYZVh5SU5lYjJoSnNHTVp1d1V2UlZZSWJRVkFLOUFaRjlqMkxaYWVETnNTazZSVHJ3RW9aUEo4MnZYRXVxUFpMaEVXaW10MEttRFJRbXFSaWxXVkJfcmVwc3h4QnZhTWZhNGc2dTlfMUVqbFVjd3RkN1A3MXpEYVM0UEVsYkVQNw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: California Turns to AI as Whale Deaths Spike
+            - figure [ref=e1540]
+          - generic [ref=e1541]:
+            - time [ref=e1542]: 2 hours ago
+            - separator [ref=e1543]
+            - generic [ref=e1544]: By Annika Hammerschlag
+      - generic [ref=e1545]:
+        - separator [ref=e1547]
+        - generic [ref=e1549]:
+          - generic [ref=e1550]:
+            - link [ref=e1552] [cursor=pointer]:
+              - /url: ./read/CBMipgFBVV95cUxPaGhOYVBQMldEMDczWGZoMlZOMWVUdHBlcUx0eHRHWk85RUdRbF9IMko3NHdvb19oLWlGTGRlY0NBNXIwcFdsdVdkZks0aHBNTlFwSVhqZlVIVFNhQzAyUm5tdkZxMTZOcGs5Um43R2xBbG1YWU92QW1URmo2X1YzVHhOUmJNNDFOQUtGRE9BSXQ3T251c2ZTME5Mak1tOVF1T1R3NU5B?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1554]:
+              - generic [ref=e1555]:
+                - generic [ref=e1558]: The 74
+                - generic [ref=e1562]:
+                  - generic:
+                    - button "More - America’s Schools Are Terrible at Catching Kids Up. How AI Can Help" [ref=e1563] [cursor=pointer]:
+                      - img [ref=e1565]
+                    - tooltip [ref=e1567]: More
+              - link "America’s Schools Are Terrible at Catching Kids Up. How AI Can Help - The 74 - 4 hours ago - By Daniel Weisberg" [ref=e1568] [cursor=pointer]:
+                - /url: ./read/CBMipgFBVV95cUxPaGhOYVBQMldEMDczWGZoMlZOMWVUdHBlcUx0eHRHWk85RUdRbF9IMko3NHdvb19oLWlGTGRlY0NBNXIwcFdsdVdkZks0aHBNTlFwSVhqZlVIVFNhQzAyUm5tdkZxMTZOcGs5Um43R2xBbG1YWU92QW1URmo2X1YzVHhOUmJNNDFOQUtGRE9BSXQ3T251c2ZTME5Mak1tOVF1T1R3NU5B?hl=en-US&gl=US&ceid=US%3Aen
+                - text: America’s Schools Are Terrible at Catching Kids Up. How AI Can Help
+            - figure [ref=e1569]
+          - generic [ref=e1570]:
+            - time [ref=e1571]: 4 hours ago
+            - separator [ref=e1572]
+            - generic [ref=e1573]: By Daniel Weisberg
+      - generic [ref=e1574]:
+        - separator [ref=e1576]
+        - generic [ref=e1578]:
+          - generic [ref=e1579]:
+            - link [ref=e1581] [cursor=pointer]:
+              - /url: ./read/CBMi0gFBVV95cUxNYzNQUC0waXJsaW9NOWs3YXBlai1HTjlLbjZIbXI2Y0NNZHFSdFIzcEZCQ0xZa3dfb2VkaUFnTExjU1Y0cFB2ZDF4UlpHTjNSajQwSGxxaC1ncUhoZnl2czJOdWdlSHNORlc3dk1UQlNsSUtsZzlQRXlZMHF3a3h4Y2Fod1ZMTzdzeVlnRjA2bmpEVm5ub2xBa0JqTGJET0hnb3RrSEhWcHJVdFlCc0ZTM1dtUWNlR1UzOExmdmU3T3c2eGwya3VjQ2FEU2tYekNNcHc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1583]:
+              - generic [ref=e1584]:
+                - generic [ref=e1587]: Al-Fanar Media
+                - generic [ref=e1591]:
+                  - generic:
+                    - 'button "More - From Sandboxes to Standards: Closing the Artificial Intelligence Security Gap in Arab Higher Education" [ref=e1592] [cursor=pointer]':
+                      - img [ref=e1594]
+                    - tooltip [ref=e1596]: More
+              - 'link "From Sandboxes to Standards: Closing the Artificial Intelligence Security Gap in Arab Higher Education - Al-Fanar Media - 15 hours ago" [ref=e1597] [cursor=pointer]':
+                - /url: ./read/CBMi0gFBVV95cUxNYzNQUC0waXJsaW9NOWs3YXBlai1HTjlLbjZIbXI2Y0NNZHFSdFIzcEZCQ0xZa3dfb2VkaUFnTExjU1Y0cFB2ZDF4UlpHTjNSajQwSGxxaC1ncUhoZnl2czJOdWdlSHNORlc3dk1UQlNsSUtsZzlQRXlZMHF3a3h4Y2Fod1ZMTzdzeVlnRjA2bmpEVm5ub2xBa0JqTGJET0hnb3RrSEhWcHJVdFlCc0ZTM1dtUWNlR1UzOExmdmU3T3c2eGwya3VjQ2FEU2tYekNNcHc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "From Sandboxes to Standards: Closing the Artificial Intelligence Security Gap in Arab Higher Education"
+            - figure [ref=e1598]
+          - time [ref=e1600]: 15 hours ago
+      - generic [ref=e1601]:
+        - separator [ref=e1603]
+        - generic [ref=e1605]:
+          - generic [ref=e1606]:
+            - link [ref=e1608] [cursor=pointer]:
+              - /url: ./read/CBMiXEFVX3lxTFBIeVlFbFUwTklEVWtGYjhzbkw0a2k5S0toQVF1Qy0yRHp0NTIzbDdBWjM4Z09acThYZHk0TEROYVdCbFNkeGFhcFpvZW1GQjd3OXpGQTc4blc4X2xT?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1610]:
+              - generic [ref=e1611]:
+                - generic [ref=e1614]: EurekAlert!
+                - generic [ref=e1618]:
+                  - generic:
+                    - button "More - AI atlas reveals hidden whole-body-damage caused by obesity" [ref=e1619] [cursor=pointer]:
+                      - img [ref=e1621]
+                    - tooltip [ref=e1623]: More
+              - link "AI atlas reveals hidden whole-body-damage caused by obesity - EurekAlert! - 3 minutes ago" [ref=e1624] [cursor=pointer]:
+                - /url: ./read/CBMiXEFVX3lxTFBIeVlFbFUwTklEVWtGYjhzbkw0a2k5S0toQVF1Qy0yRHp0NTIzbDdBWjM4Z09acThYZHk0TEROYVdCbFNkeGFhcFpvZW1GQjd3OXpGQTc4blc4X2xT?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI atlas reveals hidden whole-body-damage caused by obesity
+            - figure [ref=e1625]
+          - time [ref=e1627]: 3 minutes ago
+      - generic [ref=e1628]:
+        - separator [ref=e1630]
+        - generic [ref=e1632]:
+          - generic [ref=e1633]:
+            - link [ref=e1635] [cursor=pointer]:
+              - /url: ./read/CBMi6gFBVV95cUxPeTdyVnNLcldON3hqb28teVRjdWhrQW9WNEc0NGtkNkt5czFYZHptWVBrZlNwYU1DVHNjQmFzaC1YV1hWV0xIRkNuc1prcUhWcG94VjN1OV83cUpfMGhJVm1ON3BfdjREMUM1X3lBNnFsRHJVMWppR2NqSDk3S0JhdEZ5MjItOFhHOGNHWTY3NkNGanhpNmtWZ0taTWhmN0xDWUo1T1l3ZUdxbHNfUEhQa2lxV1YxV0p2UVRSaTY3d2F5RktEUDlzbGNEaVdvUEpoaFNiVlVrUnpCX1ZwZUc3VWxzcEhVTXhKUFE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1637]:
+              - generic [ref=e1638]:
+                - generic [ref=e1641]: PR Newswire
+                - generic [ref=e1645]:
+                  - generic:
+                    - button "More - HUMAIN and McKinsey Announce Collaboration to Accelerate AI Transformations Across Saudi Arabia" [ref=e1646] [cursor=pointer]:
+                      - img [ref=e1648]
+                    - tooltip [ref=e1650]: More
+              - link "HUMAIN and McKinsey Announce Collaboration to Accelerate AI Transformations Across Saudi Arabia - PR Newswire - 4 hours ago" [ref=e1651] [cursor=pointer]:
+                - /url: ./read/CBMi6gFBVV95cUxPeTdyVnNLcldON3hqb28teVRjdWhrQW9WNEc0NGtkNkt5czFYZHptWVBrZlNwYU1DVHNjQmFzaC1YV1hWV0xIRkNuc1prcUhWcG94VjN1OV83cUpfMGhJVm1ON3BfdjREMUM1X3lBNnFsRHJVMWppR2NqSDk3S0JhdEZ5MjItOFhHOGNHWTY3NkNGanhpNmtWZ0taTWhmN0xDWUo1T1l3ZUdxbHNfUEhQa2lxV1YxV0p2UVRSaTY3d2F5RktEUDlzbGNEaVdvUEpoaFNiVlVrUnpCX1ZwZUc3VWxzcEhVTXhKUFE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: HUMAIN and McKinsey Announce Collaboration to Accelerate AI Transformations Across Saudi Arabia
+            - figure [ref=e1652]
+          - time [ref=e1654]: 4 hours ago
+      - generic [ref=e1655]:
+        - separator [ref=e1657]
+        - generic [ref=e1659]:
+          - generic [ref=e1660]:
+            - link [ref=e1662] [cursor=pointer]:
+              - /url: ./read/CBMi0gFBVV95cUxNZ2o1bUhsdXhxNE96ak9veDdXNm5OdlhURmFkMmNockd4a2I4cGNBSXp3OVBTb2hpcUpoVVZ3RUJWT2lIS1U1OVVwWUVDb1c5V1RrN0JKV01IblV6ckhNSmNOTVNCZzYwLWY3TUtmb3Ezd1RSRUd1YlZFNjN4c2dJeG90cmxteEl6UU1oR1VQWXlvZDV2ZFpjSGpFT25EekJEUlRMakd4cEw5c3dtSlZ3WnJfc3ZsNFhzb0NrazJhaDNBT0g4WGRMdEktTVVzQmtnOVE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1664]:
+              - generic [ref=e1665]:
+                - generic [ref=e1668]: Milwaukee Journal Sentinel
+                - generic [ref=e1672]:
+                  - generic:
+                    - button "More - Mandela Barnes proposes blocking use of AI to boost consumer prices" [ref=e1673] [cursor=pointer]:
+                      - img [ref=e1675]
+                    - tooltip [ref=e1677]: More
+              - link "Mandela Barnes proposes blocking use of AI to boost consumer prices - Milwaukee Journal Sentinel - 5 hours ago - By Molly Beck & Jessica Opoien" [ref=e1678] [cursor=pointer]:
+                - /url: ./read/CBMi0gFBVV95cUxNZ2o1bUhsdXhxNE96ak9veDdXNm5OdlhURmFkMmNockd4a2I4cGNBSXp3OVBTb2hpcUpoVVZ3RUJWT2lIS1U1OVVwWUVDb1c5V1RrN0JKV01IblV6ckhNSmNOTVNCZzYwLWY3TUtmb3Ezd1RSRUd1YlZFNjN4c2dJeG90cmxteEl6UU1oR1VQWXlvZDV2ZFpjSGpFT25EekJEUlRMakd4cEw5c3dtSlZ3WnJfc3ZsNFhzb0NrazJhaDNBT0g4WGRMdEktTVVzQmtnOVE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Mandela Barnes proposes blocking use of AI to boost consumer prices
+            - figure [ref=e1679]
+          - generic [ref=e1680]:
+            - time [ref=e1681]: 5 hours ago
+            - separator [ref=e1682]
+            - generic [ref=e1683]: By Molly Beck & Jessica Opoien
+      - generic [ref=e1684]:
+        - separator [ref=e1686]
+        - generic [ref=e1688]:
+          - generic [ref=e1689]:
+            - link [ref=e1691] [cursor=pointer]:
+              - /url: ./read/CBMi8wFBVV95cUxOTFhQOTZDbnZtMGIxUGpET1NhSWNsNG5KblZiZ2x0S2NqbEwwYng1c2gyeWdXS3IwTkY3ai1iZHVKLW9yX0xUNlVKZG5MOXhjZGxsS1FVbm9YWDlUc0lMYVBpNFVUZkUwQzVxUVpfME1wLVFHNU5jSEQtQ1ZxaG9HUVlUcUVMS2N4M2VMUXN3c1dGMFkzSVRubm5SS3RYU1RKZVZIWV9IbEdqUG05d1NzTW1waUhTbmtZUE9NMGlOQVUxNnM4M3FoMkFhUHVSTndvVFpaSXNNTWt1XzJsNWhHRmV5SGtrZ204R0pCbFdDNGU2TDA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1693]:
+              - generic [ref=e1694]:
+                - generic [ref=e1697]: PR Newswire
+                - generic [ref=e1701]:
+                  - generic:
+                    - button "More - HUMAIN and Accenture Accelerate AI Adoption at Scale Across Public and Private Sectors in Saudi Arabia" [ref=e1702] [cursor=pointer]:
+                      - img [ref=e1704]
+                    - tooltip [ref=e1706]: More
+              - link "HUMAIN and Accenture Accelerate AI Adoption at Scale Across Public and Private Sectors in Saudi Arabia - PR Newswire - 4 hours ago" [ref=e1707] [cursor=pointer]:
+                - /url: ./read/CBMi8wFBVV95cUxOTFhQOTZDbnZtMGIxUGpET1NhSWNsNG5KblZiZ2x0S2NqbEwwYng1c2gyeWdXS3IwTkY3ai1iZHVKLW9yX0xUNlVKZG5MOXhjZGxsS1FVbm9YWDlUc0lMYVBpNFVUZkUwQzVxUVpfME1wLVFHNU5jSEQtQ1ZxaG9HUVlUcUVMS2N4M2VMUXN3c1dGMFkzSVRubm5SS3RYU1RKZVZIWV9IbEdqUG05d1NzTW1waUhTbmtZUE9NMGlOQVUxNnM4M3FoMkFhUHVSTndvVFpaSXNNTWt1XzJsNWhHRmV5SGtrZ204R0pCbFdDNGU2TDA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: HUMAIN and Accenture Accelerate AI Adoption at Scale Across Public and Private Sectors in Saudi Arabia
+            - figure [ref=e1708]
+          - time [ref=e1710]: 4 hours ago
+      - generic [ref=e1711]:
+        - separator [ref=e1713]
+        - generic [ref=e1715]:
+          - generic [ref=e1716]:
+            - link [ref=e1718] [cursor=pointer]:
+              - /url: ./read/CBMi4wFBVV95cUxOdlpOM3M4QkRNWmdsN0RrdDBuNDFKMTFpWFJlS21ZSy16UWFwOUxHd0l5dEJmeDVfd1cyNm4xV1g0MEZRQ3JoOUx6UlBtQS1zNkM4R09SV0pQYnBqb1k3WmdpYnRjcG52VGV6cUMxeXpzc0c3VVAxbTJkaVF6djJNYTZYOFdYQkNnd244VTFlanFVOGJCMVFyT1Z0dHBqNHl1OUZGV1RHQzJpaWJnTkw3b2RZSHZrRFJEdlFaUlV0dE1VOGFrWWNrX3h6UjJQbVdKTktPZXhjMC1OaXktLV9nQ1J5SQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1720]:
+              - generic [ref=e1721]:
+                - generic [ref=e1724]: Foley & Lardner LLP
+                - generic [ref=e1728]:
+                  - generic:
+                    - 'button "More - Agentic AI Liability in Autonomous Supply Chain Decisions: Identifying and Preventing Legal Risks" [ref=e1729] [cursor=pointer]':
+                      - img [ref=e1731]
+                    - tooltip [ref=e1733]: More
+              - 'link "Agentic AI Liability in Autonomous Supply Chain Decisions: Identifying and Preventing Legal Risks - Foley &amp; Lardner LLP - 33 minutes ago - By Vanessa L. Miller" [ref=e1734] [cursor=pointer]':
+                - /url: ./read/CBMi4wFBVV95cUxOdlpOM3M4QkRNWmdsN0RrdDBuNDFKMTFpWFJlS21ZSy16UWFwOUxHd0l5dEJmeDVfd1cyNm4xV1g0MEZRQ3JoOUx6UlBtQS1zNkM4R09SV0pQYnBqb1k3WmdpYnRjcG52VGV6cUMxeXpzc0c3VVAxbTJkaVF6djJNYTZYOFdYQkNnd244VTFlanFVOGJCMVFyT1Z0dHBqNHl1OUZGV1RHQzJpaWJnTkw3b2RZSHZrRFJEdlFaUlV0dE1VOGFrWWNrX3h6UjJQbVdKTktPZXhjMC1OaXktLV9nQ1J5SQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Agentic AI Liability in Autonomous Supply Chain Decisions: Identifying and Preventing Legal Risks"
+            - figure [ref=e1735]
+          - generic [ref=e1736]:
+            - time [ref=e1737]: 33 minutes ago
+            - separator [ref=e1738]
+            - generic [ref=e1739]: By Vanessa L. Miller
+      - generic [ref=e1740]:
+        - separator [ref=e1742]
+        - generic [ref=e1744]:
+          - generic [ref=e1745]:
+            - link [ref=e1747] [cursor=pointer]:
+              - /url: ./read/CBMi0wFBVV95cUxOT3Q0ekd5dFJ6NTgxRW1waWZhTVpsSHQ5Qy10a2xobXZxYnZQaHZaekpwcWZ5SVBxN0FsUjNEb1JzalJqZDVvNUxCU0RYRUlaQW1zYnBtSHpJTGRxMXpkdmRBMlJWRzNYcFlDcGJZTTkxb2hkRW5GQklCYTlDTzhqRW42NElrRjBNTU9VaUFWZlM3ekJsVXlIZS0zX0dVWkNXR0IyVkZhRzUtRFZmaXZFaldId3lqSHBrdFdOUDRHOUNQTXI1VWhaVHJSclc5dDB5NDBJ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1749]:
+              - generic [ref=e1750]:
+                - generic [ref=e1753]: HRTech Series
+                - generic [ref=e1757]:
+                  - generic:
+                    - button "More - Employers Prioritize Sales, Customer Experience and AI skills in a Changing Job Landscape" [ref=e1758] [cursor=pointer]:
+                      - img [ref=e1760]
+                    - tooltip [ref=e1762]: More
+              - link "Employers Prioritize Sales, Customer Experience and AI skills in a Changing Job Landscape - HRTech Series - 2 hours ago" [ref=e1763] [cursor=pointer]:
+                - /url: ./read/CBMi0wFBVV95cUxOT3Q0ekd5dFJ6NTgxRW1waWZhTVpsSHQ5Qy10a2xobXZxYnZQaHZaekpwcWZ5SVBxN0FsUjNEb1JzalJqZDVvNUxCU0RYRUlaQW1zYnBtSHpJTGRxMXpkdmRBMlJWRzNYcFlDcGJZTTkxb2hkRW5GQklCYTlDTzhqRW42NElrRjBNTU9VaUFWZlM3ekJsVXlIZS0zX0dVWkNXR0IyVkZhRzUtRFZmaXZFaldId3lqSHBrdFdOUDRHOUNQTXI1VWhaVHJSclc5dDB5NDBJ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Employers Prioritize Sales, Customer Experience and AI skills in a Changing Job Landscape
+            - figure [ref=e1764]
+          - time [ref=e1766]: 2 hours ago
+      - generic [ref=e1767]:
+        - separator [ref=e1769]
+        - generic [ref=e1771]:
+          - generic [ref=e1772]:
+            - link [ref=e1774] [cursor=pointer]:
+              - /url: ./read/CBMi0AFBVV95cUxQNDlpQ29oYTFGdUVpSmJBTmJvT0kxZkw1VG5LSGY5UEdrTDh6ajJQQS1VNUc2emEtTEFScGZ0MGQ5M3RlR0tUbkJBSllJNXg4bktsV054Ymp6X3o0c2l4MmlSa00tMWxFd2w4RW5fSFJlb0kyZXpoaVNnQjlnYWlYUzNhLUs3VVZMdEJ5TXQ1bWJ1X0Z3aVFIcjZMYzhHUUhLemd5NktVVzk3eGd0R2RHVGlUd1phdDFjUWxldVdJNkh4WE1kTkNtTGpLdGMzbFF0?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1776]:
+              - generic [ref=e1777]:
+                - generic [ref=e1780]: Boston.com
+                - generic [ref=e1784]:
+                  - generic:
+                    - button "More - Graduates are booing pep talks on artificial intelligence at college commencements" [ref=e1785] [cursor=pointer]:
+                      - img [ref=e1787]
+                    - tooltip [ref=e1789]: More
+              - link "Graduates are booing pep talks on artificial intelligence at college commencements - Boston.com - 20 hours ago - By Hollingsworth Heather & Jocelyn Gecker" [ref=e1790] [cursor=pointer]:
+                - /url: ./read/CBMi0AFBVV95cUxQNDlpQ29oYTFGdUVpSmJBTmJvT0kxZkw1VG5LSGY5UEdrTDh6ajJQQS1VNUc2emEtTEFScGZ0MGQ5M3RlR0tUbkJBSllJNXg4bktsV054Ymp6X3o0c2l4MmlSa00tMWxFd2w4RW5fSFJlb0kyZXpoaVNnQjlnYWlYUzNhLUs3VVZMdEJ5TXQ1bWJ1X0Z3aVFIcjZMYzhHUUhLemd5NktVVzk3eGd0R2RHVGlUd1phdDFjUWxldVdJNkh4WE1kTkNtTGpLdGMzbFF0?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Graduates are booing pep talks on artificial intelligence at college commencements
+            - figure [ref=e1791]
+          - generic [ref=e1792]:
+            - time [ref=e1793]: 20 hours ago
+            - separator [ref=e1794]
+            - generic [ref=e1795]: By Hollingsworth Heather & Jocelyn Gecker
+      - generic [ref=e1796]:
+        - separator [ref=e1798]
+        - generic [ref=e1800]:
+          - generic [ref=e1801]:
+            - link [ref=e1803] [cursor=pointer]:
+              - /url: ./read/CBMigAFBVV95cUxNc3JZZkd4Qi1pOXNHYTdYSUFiYmhDeGdBcHBRejdKMHp0a1hGbW82NmxuYVBFOXRQNDdzbUZDc3FpNFVjOURERWNKRE4zODV5NVdaaUlLN3Z1OE1EdURQLVRMVDBSLWN5TFVKZUt3VmlQLWF5UkxUTTA4MUQ0MjhDZg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1805]:
+              - generic [ref=e1806]:
+                - generic [ref=e1809]: Emerj Artificial Intelligence Research
+                - generic [ref=e1813]:
+                  - generic:
+                    - button "More - Converting Tribal Knowledge into Operational Performance" [ref=e1814] [cursor=pointer]:
+                      - img [ref=e1816]
+                    - tooltip [ref=e1818]: More
+              - link "Converting Tribal Knowledge into Operational Performance - Emerj Artificial Intelligence Research - 13 hours ago - By Marilie Fouche" [ref=e1819] [cursor=pointer]:
+                - /url: ./read/CBMigAFBVV95cUxNc3JZZkd4Qi1pOXNHYTdYSUFiYmhDeGdBcHBRejdKMHp0a1hGbW82NmxuYVBFOXRQNDdzbUZDc3FpNFVjOURERWNKRE4zODV5NVdaaUlLN3Z1OE1EdURQLVRMVDBSLWN5TFVKZUt3VmlQLWF5UkxUTTA4MUQ0MjhDZg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Converting Tribal Knowledge into Operational Performance
+            - figure [ref=e1820]
+          - generic [ref=e1821]:
+            - time [ref=e1822]: 13 hours ago
+            - separator [ref=e1823]
+            - generic [ref=e1824]: By Marilie Fouche
+      - generic [ref=e1825]:
+        - separator [ref=e1827]
+        - generic [ref=e1829]:
+          - generic [ref=e1830]:
+            - link [ref=e1832] [cursor=pointer]:
+              - /url: ./read/CBMiwwFBVV95cUxPbWlNTEtpamh2VjM2SXhuRVNqYzZIN3UxNm9VVEdWbzBndDJhMW9nVllmcFBmdU9PeDRmNjRzekgzNUlQT1phUTlhU2MxaUJqbFU2YWF2WGZ3SzRaRlR3aDhpeFNwdVFuLTFLanRMRDNBTFRLUjJITlZ6dldfWDM5Y0xXQ1JtSkNNUXBaSXpITWVxa3BEUWc4LS00Z1VxTHVMSVZ5YzhveHVKRFg4WlQ0Yk9JcEdaejROcGQ5YVJKNjk3SzA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1834]:
+              - generic [ref=e1835]:
+                - generic [ref=e1838]: Reuters
+                - generic [ref=e1842]:
+                  - generic:
+                    - button "More - AI helping India's engineering hubs generate IP faster, Daimler Truck exec says" [ref=e1843] [cursor=pointer]:
+                      - img [ref=e1845]
+                    - tooltip [ref=e1847]: More
+              - link "AI helping India's engineering hubs generate IP faster, Daimler Truck exec says - Reuters - 6 hours ago - By Shivansh Tiwary & Arunima Kumar" [ref=e1848] [cursor=pointer]:
+                - /url: ./read/CBMiwwFBVV95cUxPbWlNTEtpamh2VjM2SXhuRVNqYzZIN3UxNm9VVEdWbzBndDJhMW9nVllmcFBmdU9PeDRmNjRzekgzNUlQT1phUTlhU2MxaUJqbFU2YWF2WGZ3SzRaRlR3aDhpeFNwdVFuLTFLanRMRDNBTFRLUjJITlZ6dldfWDM5Y0xXQ1JtSkNNUXBaSXpITWVxa3BEUWc4LS00Z1VxTHVMSVZ5YzhveHVKRFg4WlQ0Yk9JcEdaejROcGQ5YVJKNjk3SzA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI helping India's engineering hubs generate IP faster, Daimler Truck exec says
+            - figure [ref=e1849]
+          - generic [ref=e1850]:
+            - time [ref=e1851]: 6 hours ago
+            - separator [ref=e1852]
+            - generic [ref=e1853]: By Shivansh Tiwary & Arunima Kumar
+      - generic [ref=e1854]:
+        - separator [ref=e1856]
+        - generic [ref=e1858]:
+          - generic [ref=e1859]:
+            - link [ref=e1861] [cursor=pointer]:
+              - /url: ./read/CBMinAFBVV95cUxQQmZuUGxaanI2MVlhUUVudmFENEJYakNGSVN0aTNDSHpNYjJYUkZuRDhBb29VVnhXdDQyRGI3QVdnVGpVb3FQMy1XaW5UZzlqd2pLZWJtVHJ6blljcUdMTFg4WExIWGxEYmJ6REdHMDY0YjRGeVNadGIxMHQ2Uzg1S3ZxMWhSOFdzMHN5T2FHUHU3eGszWThtS0NsYzQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1863]:
+              - generic [ref=e1864]:
+                - generic [ref=e1867]: Bruegel
+                - generic [ref=e1871]:
+                  - generic:
+                    - button "More - Europe needs a strategy to close the artificial intelligence compute gap" [ref=e1872] [cursor=pointer]:
+                      - img [ref=e1874]
+                    - tooltip [ref=e1876]: More
+              - link "Europe needs a strategy to close the artificial intelligence compute gap - Bruegel - 2 days ago - By Bertin Martens & Alicia García-Herrero" [ref=e1877] [cursor=pointer]:
+                - /url: ./read/CBMinAFBVV95cUxQQmZuUGxaanI2MVlhUUVudmFENEJYakNGSVN0aTNDSHpNYjJYUkZuRDhBb29VVnhXdDQyRGI3QVdnVGpVb3FQMy1XaW5UZzlqd2pLZWJtVHJ6blljcUdMTFg4WExIWGxEYmJ6REdHMDY0YjRGeVNadGIxMHQ2Uzg1S3ZxMWhSOFdzMHN5T2FHUHU3eGszWThtS0NsYzQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Europe needs a strategy to close the artificial intelligence compute gap
+            - figure [ref=e1878]
+          - generic [ref=e1879]:
+            - time [ref=e1880]: 2 days ago
+            - separator [ref=e1881]
+            - generic [ref=e1882]: By Bertin Martens & Alicia García-Herrero
+      - generic [ref=e1883]:
+        - separator [ref=e1885]
+        - generic [ref=e1887]:
+          - generic [ref=e1888]:
+            - link [ref=e1890] [cursor=pointer]:
+              - /url: ./read/CBMiqwFBVV95cUxQR0h6WlJNZTdMcnBQMXZza0l5REVLdHo5MUR6YXc1UVRyeFRmRjc2dzlTZmxXcEE4MERNTVRreVJiNFhSZGRoOWptRGJHTEJoMWk5V1VCUWU0d1ZnOGlaYjdXYlpzMnJDX3I2WTNuMHVTWHhjS0RHSDF1djdBZE9UeHJaSV9mMjJRamE4Q3NKeUhaVGgwUDNjbnNRMVFsY0wwQmw2UXY1ZGZ0dDg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1892]:
+              - generic [ref=e1893]:
+                - generic [ref=e1896]: The Cavalier Daily
+                - generic [ref=e1900]:
+                  - generic:
+                    - button "More - U.Va. pilots three new artificial intelligence literacy courses" [ref=e1901] [cursor=pointer]:
+                      - img [ref=e1903]
+                    - tooltip [ref=e1905]: More
+              - link "U.Va. pilots three new artificial intelligence literacy courses - The Cavalier Daily - 2 days ago - By Michael Racz" [ref=e1906] [cursor=pointer]:
+                - /url: ./read/CBMiqwFBVV95cUxQR0h6WlJNZTdMcnBQMXZza0l5REVLdHo5MUR6YXc1UVRyeFRmRjc2dzlTZmxXcEE4MERNTVRreVJiNFhSZGRoOWptRGJHTEJoMWk5V1VCUWU0d1ZnOGlaYjdXYlpzMnJDX3I2WTNuMHVTWHhjS0RHSDF1djdBZE9UeHJaSV9mMjJRamE4Q3NKeUhaVGgwUDNjbnNRMVFsY0wwQmw2UXY1ZGZ0dDg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: U.Va. pilots three new artificial intelligence literacy courses
+            - figure [ref=e1907]
+          - generic [ref=e1908]:
+            - time [ref=e1909]: 2 days ago
+            - separator [ref=e1910]
+            - generic [ref=e1911]: By Michael Racz
+      - generic [ref=e1912]:
+        - separator [ref=e1914]
+        - generic [ref=e1916]:
+          - generic [ref=e1917]:
+            - link [ref=e1919] [cursor=pointer]:
+              - /url: ./read/CBMiswFBVV95cUxOWXRqSXNhN1RGNV9fSmNLejZ4a3JDOU5SNEtEOHlhN3lDeTdLTHRzMUVVVGVULUxoXy0zVmlPWkI2RGpvMVI0YS1Ob1lhSkV5eUtscFk3djVYRjBrWVpUWlQyVVdqT081WTVTZHNjMnlWOVFzWFJGTmthdXV5M3BPZVJyQllMckZkLV9yeWczN09BMThTR2R5Z3BTVWJpdFRqclZBNGQ3amtPRzg3LUtuVXdEZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1921]:
+              - generic [ref=e1922]:
+                - generic [ref=e1925]: PYMNTS.com
+                - generic [ref=e1929]:
+                  - generic:
+                    - button "More - AI Is Turning Federal Compliance Into a Competitive Weapon" [ref=e1930] [cursor=pointer]:
+                      - img [ref=e1932]
+                    - tooltip [ref=e1934]: More
+              - link "AI Is Turning Federal Compliance Into a Competitive Weapon - PYMNTS.com - 1 hour ago" [ref=e1935] [cursor=pointer]:
+                - /url: ./read/CBMiswFBVV95cUxOWXRqSXNhN1RGNV9fSmNLejZ4a3JDOU5SNEtEOHlhN3lDeTdLTHRzMUVVVGVULUxoXy0zVmlPWkI2RGpvMVI0YS1Ob1lhSkV5eUtscFk3djVYRjBrWVpUWlQyVVdqT081WTVTZHNjMnlWOVFzWFJGTmthdXV5M3BPZVJyQllMckZkLV9yeWczN09BMThTR2R5Z3BTVWJpdFRqclZBNGQ3amtPRzg3LUtuVXdEZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI Is Turning Federal Compliance Into a Competitive Weapon
+            - figure [ref=e1936]
+          - time [ref=e1938]: 1 hour ago
+      - generic [ref=e1939]:
+        - separator [ref=e1941]
+        - generic [ref=e1943]:
+          - generic [ref=e1944]:
+            - link [ref=e1946] [cursor=pointer]:
+              - /url: ./read/CBMiswFBVV95cUxQMkZZcnNqU3F6XzNvWERyZGJZOUd4WjZSQnVKZk5CbzltSFZzZ3hsaEItbUNtYkMyclMyaVlOdEJxU0VxZ1RmTldvVGh6MHZOWk1wZE03RUtQQW15S2M3QVExcUJKQnVjT3FINnUzcHhlTldHeFFsS194SHZFTzJTQlF4ZjhSem10LVF1ZTN5dUdlVkxIcXZRYk82bFdvaU85UW1iaG9Bbm5JbnQyMEtGc3FTSQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1948]:
+              - generic [ref=e1949]:
+                - generic [ref=e1952]: The Catholic Thing
+                - generic [ref=e1956]:
+                  - generic:
+                    - button "More - Pope Leo XIV to publish encyclical on artificial intelligence May 25" [ref=e1957] [cursor=pointer]:
+                      - img [ref=e1959]
+                    - tooltip [ref=e1961]: More
+              - link "Pope Leo XIV to publish encyclical on artificial intelligence May 25 - The Catholic Thing - 2 days ago - By Courtney Mares" [ref=e1962] [cursor=pointer]:
+                - /url: ./read/CBMiswFBVV95cUxQMkZZcnNqU3F6XzNvWERyZGJZOUd4WjZSQnVKZk5CbzltSFZzZ3hsaEItbUNtYkMyclMyaVlOdEJxU0VxZ1RmTldvVGh6MHZOWk1wZE03RUtQQW15S2M3QVExcUJKQnVjT3FINnUzcHhlTldHeFFsS194SHZFTzJTQlF4ZjhSem10LVF1ZTN5dUdlVkxIcXZRYk82bFdvaU85UW1iaG9Bbm5JbnQyMEtGc3FTSQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Pope Leo XIV to publish encyclical on artificial intelligence May 25
+            - figure [ref=e1963]
+          - generic [ref=e1964]:
+            - time [ref=e1965]: 2 days ago
+            - separator [ref=e1966]
+            - generic [ref=e1967]: By Courtney Mares
+      - generic [ref=e1968]:
+        - separator [ref=e1970]
+        - generic [ref=e1972]:
+          - generic [ref=e1973]:
+            - link [ref=e1975] [cursor=pointer]:
+              - /url: ./read/CBMinwFBVV95cUxPb2QwZXlZT09kajM3TWd2NDJYTG5hcjZKRVpxSmN6MGxwQ2tMZXhRY1ZkZU1RS2pReE5Gckw0RjlSNkswVlZXSFdDZ1pKZGlkazdQUFdhSVpBTi12bHpVeHFTMVJIeWZsU3k3T0lGRjd3di1JUkRubjBnOGVYUVpOMW82bWhRSXpNTzZXVm5DSlY4VEFuQW45bFJXMmg3MEk?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1977]:
+              - generic [ref=e1978]:
+                - generic [ref=e1981]: PYMNTS.com
+                - generic [ref=e1985]:
+                  - generic:
+                    - button "More - Singapore Wants Banks to Use AI to Create Jobs" [ref=e1986] [cursor=pointer]:
+                      - img [ref=e1988]
+                    - tooltip [ref=e1990]: More
+              - link "Singapore Wants Banks to Use AI to Create Jobs - PYMNTS.com - 3 hours ago" [ref=e1991] [cursor=pointer]:
+                - /url: ./read/CBMinwFBVV95cUxPb2QwZXlZT09kajM3TWd2NDJYTG5hcjZKRVpxSmN6MGxwQ2tMZXhRY1ZkZU1RS2pReE5Gckw0RjlSNkswVlZXSFdDZ1pKZGlkazdQUFdhSVpBTi12bHpVeHFTMVJIeWZsU3k3T0lGRjd3di1JUkRubjBnOGVYUVpOMW82bWhRSXpNTzZXVm5DSlY4VEFuQW45bFJXMmg3MEk?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Singapore Wants Banks to Use AI to Create Jobs
+            - figure [ref=e1992]
+          - time [ref=e1994]: 3 hours ago
+      - generic [ref=e1995]:
+        - separator [ref=e1997]
+        - generic [ref=e1999]:
+          - generic [ref=e2000]:
+            - link [ref=e2002] [cursor=pointer]:
+              - /url: ./read/CBMipgFBVV95cUxOZnRaNWNabi1fMXh6WmNKcTNPRGE2Wng0OTRBbTBLZ1FtcjdmZ3drWS1FZlA0d3dWTzBYaFVDV1RuT1Jkc1duR3lfS290dnVkSnhtY1ZRSGhycGl5Vmx4YzVCeVdnbldQazliS2lIUUNYd0RlcHFnV3JkODk5ZG95S081REJGV2JEclZTVEhQMUdNUnhiTEtCRDNWXzNPSGFJYXdVOHpR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2004]:
+              - generic [ref=e2005]:
+                - generic [ref=e2008]: Amazon Web Services (AWS)
+                - generic [ref=e2012]:
+                  - generic:
+                    - button "More - Implementing programmatic tool calling on Amazon Bedrock" [ref=e2013] [cursor=pointer]:
+                      - img [ref=e2015]
+                    - tooltip [ref=e2017]: More
+              - link "Implementing programmatic tool calling on Amazon Bedrock - Amazon Web Services (AWS) - 2 days ago" [ref=e2018] [cursor=pointer]:
+                - /url: ./read/CBMipgFBVV95cUxOZnRaNWNabi1fMXh6WmNKcTNPRGE2Wng0OTRBbTBLZ1FtcjdmZ3drWS1FZlA0d3dWTzBYaFVDV1RuT1Jkc1duR3lfS290dnVkSnhtY1ZRSGhycGl5Vmx4YzVCeVdnbldQazliS2lIUUNYd0RlcHFnV3JkODk5ZG95S081REJGV2JEclZTVEhQMUdNUnhiTEtCRDNWXzNPSGFJYXdVOHpR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Implementing programmatic tool calling on Amazon Bedrock
+            - figure [ref=e2019]
+          - time [ref=e2021]: 2 days ago
+      - generic [ref=e2022]:
+        - separator [ref=e2024]
+        - generic [ref=e2026]:
+          - generic [ref=e2027]:
+            - link [ref=e2029] [cursor=pointer]:
+              - /url: ./read/CBMisgFBVV95cUxObkdBS2k5RnlFb3ZGTmRweUR4RHVwdmdQU0t6R3NSaXJ6YkJtM1BZajNUUDFFVFJvNzAwNnA0bXdIeVczZ180ak1lTWdkTlJMUGc0X0FmVzJTZGRYUXhPM2pQUHRMTHV4eVR4TjVhZzJnNWUwYmo2M01WX0NmZnRKaUJrd0RoOUw5bWVRQnFWRjlsaE5JbXVDUEJkWXhjU0pVVmNKYUxLMk1WWlZNSU1PODlB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2031]:
+              - generic [ref=e2032]:
+                - generic [ref=e2035]: IAPP
+                - generic [ref=e2039]:
+                  - generic:
+                    - button "More - AI such as Mythos Preview raises the urgency of cross-border flows of cybersecurity data" [ref=e2040] [cursor=pointer]:
+                      - img [ref=e2042]
+                    - tooltip [ref=e2044]: More
+              - link "AI such as Mythos Preview raises the urgency of cross-border flows of cybersecurity data - IAPP - 1 minute ago - By Peter Swire" [ref=e2045] [cursor=pointer]:
+                - /url: ./read/CBMisgFBVV95cUxObkdBS2k5RnlFb3ZGTmRweUR4RHVwdmdQU0t6R3NSaXJ6YkJtM1BZajNUUDFFVFJvNzAwNnA0bXdIeVczZ180ak1lTWdkTlJMUGc0X0FmVzJTZGRYUXhPM2pQUHRMTHV4eVR4TjVhZzJnNWUwYmo2M01WX0NmZnRKaUJrd0RoOUw5bWVRQnFWRjlsaE5JbXVDUEJkWXhjU0pVVmNKYUxLMk1WWlZNSU1PODlB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI such as Mythos Preview raises the urgency of cross-border flows of cybersecurity data
+            - figure [ref=e2046]
+          - generic [ref=e2047]:
+            - time [ref=e2048]: 1 minute ago
+            - separator [ref=e2049]
+            - generic [ref=e2050]: By Peter Swire
+      - generic [ref=e2051]:
+        - separator [ref=e2053]
+        - generic [ref=e2055]:
+          - generic [ref=e2056]:
+            - link [ref=e2058] [cursor=pointer]:
+              - /url: ./read/CBMiuAFBVV95cUxOV0c5TExMX1hGcWRzVWtPWVpJOFRRamFPTVlLS0pwT01XVkpyTjQwWU93akpZWmludTI3bzJBMTYyUVdpNGRzdG9pWFNnUnJhR2VDcF9YYV82VXY5bUNtaG5lMjVnYVZkSDI0NGZ1M0F4azFmRS1VWDNOcjJ3MDFEMHJ3eklVRVlFaGY3THdZQm91U0E4UGJVVjNjMnZUME4yem1hcTJTU1Z6OVREYXBHZ0s0Ny1PZkZO?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2060]:
+              - generic [ref=e2061]:
+                - generic [ref=e2064]: The Guardian
+                - generic [ref=e2068]:
+                  - generic:
+                    - 'button "More - ‘Obvious markers of AI’: doubts raised over winner of short story prize" [ref=e2069] [cursor=pointer]':
+                      - img [ref=e2071]
+                    - tooltip [ref=e2073]: More
+              - 'link "‘Obvious markers of AI’: doubts raised over winner of short story prize - The Guardian - 15 hours ago - By Ella Creamer" [ref=e2074] [cursor=pointer]':
+                - /url: ./read/CBMiuAFBVV95cUxOV0c5TExMX1hGcWRzVWtPWVpJOFRRamFPTVlLS0pwT01XVkpyTjQwWU93akpZWmludTI3bzJBMTYyUVdpNGRzdG9pWFNnUnJhR2VDcF9YYV82VXY5bUNtaG5lMjVnYVZkSDI0NGZ1M0F4azFmRS1VWDNOcjJ3MDFEMHJ3eklVRVlFaGY3THdZQm91U0E4UGJVVjNjMnZUME4yem1hcTJTU1Z6OVREYXBHZ0s0Ny1PZkZO?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "‘Obvious markers of AI’: doubts raised over winner of short story prize"
+            - figure [ref=e2075]
+          - generic [ref=e2076]:
+            - time [ref=e2077]: 15 hours ago
+            - separator [ref=e2078]
+            - generic [ref=e2079]: By Ella Creamer
+      - generic [ref=e2080]:
+        - separator [ref=e2082]
+        - generic [ref=e2084]:
+          - generic [ref=e2085]:
+            - link [ref=e2087] [cursor=pointer]:
+              - /url: ./read/CBMihAFBVV95cUxQWkJXZFkxVW5adExnM2tRSkZscENEYXRYc0VpN2toU0VGRk5OZ3B6ZFhLazROV2RvUlBKN0pWUERrN2tNVTJDZ2xkUHFncVhjU2ZqOXpFUGtZQWRtQ1ROMERUMG13MGs5SmV5bExlWHNRTDNSbjhGcUtfLWxzVmpYb1lTS2o?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2089]:
+              - generic [ref=e2090]:
+                - generic [ref=e2093]: The Source - Bend, Oregon
+                - generic [ref=e2097]:
+                  - generic:
+                    - button "More - The Era of Artificial Intelligence - The Source - Bend, Oregon" [ref=e2098] [cursor=pointer]:
+                      - img [ref=e2100]
+                    - tooltip [ref=e2102]: More
+              - link "The Era of Artificial Intelligence - The Source - Bend, Oregon - The Source - Bend, Oregon - 21 hours ago - By Joshua Phillips" [ref=e2103] [cursor=pointer]:
+                - /url: ./read/CBMihAFBVV95cUxQWkJXZFkxVW5adExnM2tRSkZscENEYXRYc0VpN2toU0VGRk5OZ3B6ZFhLazROV2RvUlBKN0pWUERrN2tNVTJDZ2xkUHFncVhjU2ZqOXpFUGtZQWRtQ1ROMERUMG13MGs5SmV5bExlWHNRTDNSbjhGcUtfLWxzVmpYb1lTS2o?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The Era of Artificial Intelligence - The Source - Bend, Oregon
+            - figure [ref=e2104]
+          - generic [ref=e2105]:
+            - time [ref=e2106]: 21 hours ago
+            - separator [ref=e2107]
+            - generic [ref=e2108]: By Joshua Phillips
+      - generic [ref=e2109]:
+        - separator [ref=e2111]
+        - generic [ref=e2113]:
+          - generic [ref=e2114]:
+            - link [ref=e2116] [cursor=pointer]:
+              - /url: ./read/CBMiygFBVV95cUxNc2ZYWHRERERNN2RNNFRlQ05UT0tfeXVma3dsdUZadGF3djFONUJ4ZlZuNmpZOTAzeVA3bnhrZEp2TzhRYy04b3EyZng3TEJuX0tLOWlvWC01ZmFUelFFc19aci1tT3hRTVoxVUJiUlY3ZzdJNEFFSlhuMmF6QXdyOU1ZYk56MEFrbVJOS3doRTBiOEpLeFZ1bWpVNy0yY2hhVUhQdnI1ak5BMm9aZ25XUG1JM0Z2YW1VSVJZRnlhQ1pUbW5wSGktMXNR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2118]:
+              - generic [ref=e2119]:
+                - generic [ref=e2122]: InfoWorld
+                - generic [ref=e2126]:
+                  - generic:
+                    - button "More - Google launches Gemini 3.5 Flash to push AI agents deeper into enterprise workflows" [ref=e2127] [cursor=pointer]:
+                      - img [ref=e2129]
+                    - tooltip [ref=e2131]: More
+              - link "Google launches Gemini 3.5 Flash to push AI agents deeper into enterprise workflows - InfoWorld - 6 hours ago - By Prasanth Aby Thomas" [ref=e2132] [cursor=pointer]:
+                - /url: ./read/CBMiygFBVV95cUxNc2ZYWHRERERNN2RNNFRlQ05UT0tfeXVma3dsdUZadGF3djFONUJ4ZlZuNmpZOTAzeVA3bnhrZEp2TzhRYy04b3EyZng3TEJuX0tLOWlvWC01ZmFUelFFc19aci1tT3hRTVoxVUJiUlY3ZzdJNEFFSlhuMmF6QXdyOU1ZYk56MEFrbVJOS3doRTBiOEpLeFZ1bWpVNy0yY2hhVUhQdnI1ak5BMm9aZ25XUG1JM0Z2YW1VSVJZRnlhQ1pUbW5wSGktMXNR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Google launches Gemini 3.5 Flash to push AI agents deeper into enterprise workflows
+            - figure [ref=e2133]
+          - generic [ref=e2134]:
+            - time [ref=e2135]: 6 hours ago
+            - separator [ref=e2136]
+            - generic [ref=e2137]: By Prasanth Aby Thomas
+      - generic [ref=e2138]:
+        - separator [ref=e2140]
+        - generic [ref=e2142]:
+          - generic [ref=e2143]:
+            - link [ref=e2145] [cursor=pointer]:
+              - /url: ./read/CBMipwFBVV95cUxOYXFNNFRZRFFxNWY2MG5HRkljNV92MWp1VEpWYXZHYlFUcTdWTEltOHh5TjdvUEdlS1dFN1cwclUzQlBZYTBsUGFZQVdzQ3hrUDlNTVVpSUlsaDBwcEhwUkZHQkMyWG1yaUZrdFpuWFlHblBRc3ZiUkpnTThmaUJVUUpYc0w3WDAtSWN2eWp5aDlId0diaXliUW04eHYwc1pDRi1pUGpadw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2147]:
+              - generic [ref=e2148]:
+                - generic [ref=e2151]: ClassicCars.com Journal
+                - generic [ref=e2155]:
+                  - generic:
+                    - button "More - Finally, Artificial Intelligence Used for the Automotive Good!" [ref=e2156] [cursor=pointer]:
+                      - img [ref=e2158]
+                    - tooltip [ref=e2160]: More
+              - link "Finally, Artificial Intelligence Used for the Automotive Good! - ClassicCars.com Journal - Yesterday - By Diego Rosenberg" [ref=e2161] [cursor=pointer]:
+                - /url: ./read/CBMipwFBVV95cUxOYXFNNFRZRFFxNWY2MG5HRkljNV92MWp1VEpWYXZHYlFUcTdWTEltOHh5TjdvUEdlS1dFN1cwclUzQlBZYTBsUGFZQVdzQ3hrUDlNTVVpSUlsaDBwcEhwUkZHQkMyWG1yaUZrdFpuWFlHblBRc3ZiUkpnTThmaUJVUUpYc0w3WDAtSWN2eWp5aDlId0diaXliUW04eHYwc1pDRi1pUGpadw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Finally, Artificial Intelligence Used for the Automotive Good!
+            - figure [ref=e2162]
+          - generic [ref=e2163]:
+            - time [ref=e2164]: Yesterday
+            - separator [ref=e2165]
+            - generic [ref=e2166]: By Diego Rosenberg
+      - generic [ref=e2167]:
+        - separator [ref=e2169]
+        - generic [ref=e2171]:
+          - generic [ref=e2172]:
+            - link [ref=e2174] [cursor=pointer]:
+              - /url: ./read/CBMihwJBVV95cUxNeWY5ZjFRWGhJcUlSR29PUHZONC1wRjhrUFFmclB1dTVlWmNQdk95YlJ2ajBtaEM3S0QySGJ0NjlyWTBuczJ0clZ0VHJuQklqUi1Qc2JyejJyTnRBWHdXSGp6TndYcHVTYnAyN2hvYVo2OVlnT3dTR2s1V1B4aEhOWXJwS0VpSmtfVVNuVHFVQm5mWDRsV3kxb1ZGRU1od3Rvb3BsU0JtVHExai1rWGl2a2tJbnk0UmJtdlQ3RGZHa3ZkMV9FdjM3Y0xXd0RQYkJpWTRXZ18wOHBZVl95SHFob29aSndVUHF5R1dOSzJUWDJLd2xhb01lYWRjTkY2UmY5eVBxSW5wOA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2176]:
+              - generic [ref=e2177]:
+                - generic [ref=e2180]: PR Newswire
+                - generic [ref=e2184]:
+                  - generic:
+                    - 'button "More - Powering the Next Generation of Intelligent Readiness Solutions: Virtualitics and OpenAI Announce Strategic Collaboration" [ref=e2185] [cursor=pointer]':
+                      - img [ref=e2187]
+                    - tooltip [ref=e2189]: More
+              - 'link "Powering the Next Generation of Intelligent Readiness Solutions: Virtualitics and OpenAI Announce Strategic Collaboration - PR Newswire - 4 hours ago" [ref=e2190] [cursor=pointer]':
+                - /url: ./read/CBMihwJBVV95cUxNeWY5ZjFRWGhJcUlSR29PUHZONC1wRjhrUFFmclB1dTVlWmNQdk95YlJ2ajBtaEM3S0QySGJ0NjlyWTBuczJ0clZ0VHJuQklqUi1Qc2JyejJyTnRBWHdXSGp6TndYcHVTYnAyN2hvYVo2OVlnT3dTR2s1V1B4aEhOWXJwS0VpSmtfVVNuVHFVQm5mWDRsV3kxb1ZGRU1od3Rvb3BsU0JtVHExai1rWGl2a2tJbnk0UmJtdlQ3RGZHa3ZkMV9FdjM3Y0xXd0RQYkJpWTRXZ18wOHBZVl95SHFob29aSndVUHF5R1dOSzJUWDJLd2xhb01lYWRjTkY2UmY5eVBxSW5wOA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Powering the Next Generation of Intelligent Readiness Solutions: Virtualitics and OpenAI Announce Strategic Collaboration"
+            - figure [ref=e2191]
+          - time [ref=e2193]: 4 hours ago
+      - generic [ref=e2194]:
+        - separator [ref=e2196]
+        - generic [ref=e2198]:
+          - generic [ref=e2199]:
+            - link [ref=e2201] [cursor=pointer]:
+              - /url: ./read/CBMiuAFBVV95cUxNZDU4TjdCc2tnZnJCUWdWT1Y5alYtYjBhN195XzNsaWdkMzBDZW5IU2lBb2hUMzA4X2hhRFpIT2J5cC1MdzRHTG5NM1RUMTZFalI4UlAzUWxqWmtQdEhBZ0YxUDZiMWJkcHFzWlZCbVUyXzhSdlMxOG1Pb0RzMlE4TTBjZ3VBbU11R3ZYY2FTSWlzb0VvUzlnVFR2MEhNcnRNQ1RrUW1tZzB2ZlBkOXI1bjRjU3dSNG52?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2203]:
+              - generic [ref=e2204]:
+                - generic [ref=e2207]: PYMNTS.com
+                - generic [ref=e2211]:
+                  - generic:
+                    - button "More - Study Finds AI Adoption Rises as Consumers Stop Noticing It" [ref=e2212] [cursor=pointer]:
+                      - img [ref=e2214]
+                    - tooltip [ref=e2216]: More
+              - link "Study Finds AI Adoption Rises as Consumers Stop Noticing It - PYMNTS.com - 5 hours ago" [ref=e2217] [cursor=pointer]:
+                - /url: ./read/CBMiuAFBVV95cUxNZDU4TjdCc2tnZnJCUWdWT1Y5alYtYjBhN195XzNsaWdkMzBDZW5IU2lBb2hUMzA4X2hhRFpIT2J5cC1MdzRHTG5NM1RUMTZFalI4UlAzUWxqWmtQdEhBZ0YxUDZiMWJkcHFzWlZCbVUyXzhSdlMxOG1Pb0RzMlE4TTBjZ3VBbU11R3ZYY2FTSWlzb0VvUzlnVFR2MEhNcnRNQ1RrUW1tZzB2ZlBkOXI1bjRjU3dSNG52?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Study Finds AI Adoption Rises as Consumers Stop Noticing It
+            - figure [ref=e2218]
+          - time [ref=e2220]: 5 hours ago
+      - generic [ref=e2221]:
+        - separator [ref=e2223]
+        - generic [ref=e2225]:
+          - generic [ref=e2226]:
+            - link [ref=e2228] [cursor=pointer]:
+              - /url: ./read/CBMioAFBVV95cUxOazFfaUlyUnM4aE1LMThDXzVONWJMTnJQNDRsV19vSGxZQlBKZkRpVE9vdVVQdzFrMTRNd05pMkJUZVVROGRNczdTM0d4VE5lYUVnLTVqUmhBaTUzVmdTQlZHa25sLVVyTmN0Q2FLeHdxakVjM2FOcXVnWTNkYVBGbGxqWU1ISjg1aFF0Y0cwQmR6NTBjbTZ0Y0l6VjJmbVJs?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2230]:
+              - generic [ref=e2231]:
+                - generic [ref=e2234]: The Business Journals
+                - generic [ref=e2238]:
+                  - generic:
+                    - button "More - Data centers aren't just getting bigger, they're also more expensive" [ref=e2239] [cursor=pointer]:
+                      - img [ref=e2241]
+                    - tooltip [ref=e2243]: More
+              - link "Data centers aren't just getting bigger, they're also more expensive - The Business Journals - 11 hours ago - By Joshua Mann" [ref=e2244] [cursor=pointer]:
+                - /url: ./read/CBMioAFBVV95cUxOazFfaUlyUnM4aE1LMThDXzVONWJMTnJQNDRsV19vSGxZQlBKZkRpVE9vdVVQdzFrMTRNd05pMkJUZVVROGRNczdTM0d4VE5lYUVnLTVqUmhBaTUzVmdTQlZHa25sLVVyTmN0Q2FLeHdxakVjM2FOcXVnWTNkYVBGbGxqWU1ISjg1aFF0Y0cwQmR6NTBjbTZ0Y0l6VjJmbVJs?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Data centers aren't just getting bigger, they're also more expensive
+            - figure [ref=e2245]
+          - generic [ref=e2246]:
+            - time [ref=e2247]: 11 hours ago
+            - separator [ref=e2248]
+            - generic [ref=e2249]: By Joshua Mann
+      - generic [ref=e2250]:
+        - separator [ref=e2252]
+        - generic [ref=e2254]:
+          - generic [ref=e2255]:
+            - link [ref=e2257] [cursor=pointer]:
+              - /url: ./read/CBMioAFBVV95cUxNUVY2TnFyYWFnSkZyZkNKNUc4X1lrY0dLSnQtSjNUVVZPdGtZd2s4bVJYSWR4LVRXakI5OVJ5THNyVG9QZl9qTHVmYlhsbTVEdUNBWElHYVJCekpDdEVHaGphc1QtY3M2THFCTUdQNzJCNVJFb2h2RkViZ2w5NURtUUVUcDRFT1FvVG9JcWVFWFNYQTBVRzRsZmtuTWRtQjB0?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2259]:
+              - generic [ref=e2260]:
+                - generic [ref=e2263]: openPR.com
+                - generic [ref=e2267]:
+                  - generic:
+                    - button "More - Artificial Intelligence as a Service Market Set for Exponential" [ref=e2268] [cursor=pointer]:
+                      - img [ref=e2270]
+                    - tooltip [ref=e2272]: More
+              - link "Artificial Intelligence as a Service Market Set for Exponential - openPR.com - 6 hours ago" [ref=e2273] [cursor=pointer]:
+                - /url: ./read/CBMioAFBVV95cUxNUVY2TnFyYWFnSkZyZkNKNUc4X1lrY0dLSnQtSjNUVVZPdGtZd2s4bVJYSWR4LVRXakI5OVJ5THNyVG9QZl9qTHVmYlhsbTVEdUNBWElHYVJCekpDdEVHaGphc1QtY3M2THFCTUdQNzJCNVJFb2h2RkViZ2w5NURtUUVUcDRFT1FvVG9JcWVFWFNYQTBVRzRsZmtuTWRtQjB0?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Artificial Intelligence as a Service Market Set for Exponential
+            - figure [ref=e2274]
+          - time [ref=e2276]: 6 hours ago
+      - generic [ref=e2277]:
+        - separator [ref=e2279]
+        - generic [ref=e2281]:
+          - generic [ref=e2282]:
+            - link [ref=e2284] [cursor=pointer]:
+              - /url: ./read/CBMiwgFBVV95cUxNQTlMMFFTdFhnV01uMi1IQ3pNTDU1bWpTYjdhUUNlb1N2TTctSGZFYnpyd0VsdUM1eU5OajhUSFZER1JtUnRtcGxLODFFQUNKcWN2NXNxZ0JqT1duZEZveUg4Zmttay00cUZJUjVtYzVReXNHcU1zY3JDaEZfVWNLaWt2VFN6N0ZxdHhPa0FsWG0wNnY4dllsTGZmUGhOUlNZSWh4QXJ6VldxNmlTM3RFeXlzQWFIUE5Wc2VrVENLTzYyQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2286]:
+              - generic [ref=e2287]:
+                - generic [ref=e2290]: Investment & Pensions Europe
+                - generic [ref=e2294]:
+                  - generic:
+                    - button "More - Trustees told to retain accountability as TPR sets expectations for pension AI use | News | IPE" [ref=e2295] [cursor=pointer]:
+                      - img [ref=e2297]
+                    - tooltip [ref=e2299]: More
+              - link "Trustees told to retain accountability as TPR sets expectations for pension AI use | News | IPE - Investment &amp; Pensions Europe - 5 hours ago - By Venilia Amorim" [ref=e2300] [cursor=pointer]:
+                - /url: ./read/CBMiwgFBVV95cUxNQTlMMFFTdFhnV01uMi1IQ3pNTDU1bWpTYjdhUUNlb1N2TTctSGZFYnpyd0VsdUM1eU5OajhUSFZER1JtUnRtcGxLODFFQUNKcWN2NXNxZ0JqT1duZEZveUg4Zmttay00cUZJUjVtYzVReXNHcU1zY3JDaEZfVWNLaWt2VFN6N0ZxdHhPa0FsWG0wNnY4dllsTGZmUGhOUlNZSWh4QXJ6VldxNmlTM3RFeXlzQWFIUE5Wc2VrVENLTzYyQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Trustees told to retain accountability as TPR sets expectations for pension AI use | News | IPE
+            - figure [ref=e2301]
+          - generic [ref=e2302]:
+            - time [ref=e2303]: 5 hours ago
+            - separator [ref=e2304]
+            - generic [ref=e2305]: By Venilia Amorim
+      - generic [ref=e2306]:
+        - separator [ref=e2308]
+        - generic [ref=e2310]:
+          - generic [ref=e2311]:
+            - link [ref=e2313] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxQUW9ITW85dGtnaXFEOEZ1OEdxLVN5N2RpZ3NkNUt4bXUwUF8tRHBGV3lMbkZZeG1NNzAtZXBLU2I0X3R0N3JQdkdvRFNmZjJKbXVVOUN0aVk3YmdoSU56NG4yRlB4SWh4UHFERHdKUHluc0wxSVVsaDZrWmxNNkRmRzI0U3lwdzhpbUNBbGZQWkY4WmJMbzZTY3BtQ0kzSDc1Y1E?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2315]:
+              - generic [ref=e2316]:
+                - generic [ref=e2319]: Lake County Record-Bee
+                - generic [ref=e2323]:
+                  - generic:
+                    - button "More - California colleges introduce AI majors to meet rising demand" [ref=e2324] [cursor=pointer]:
+                      - img [ref=e2326]
+                    - tooltip [ref=e2328]: More
+              - link "California colleges introduce AI majors to meet rising demand - Lake County Record-Bee - 4 hours ago" [ref=e2329] [cursor=pointer]:
+                - /url: ./read/CBMiogFBVV95cUxQUW9ITW85dGtnaXFEOEZ1OEdxLVN5N2RpZ3NkNUt4bXUwUF8tRHBGV3lMbkZZeG1NNzAtZXBLU2I0X3R0N3JQdkdvRFNmZjJKbXVVOUN0aVk3YmdoSU56NG4yRlB4SWh4UHFERHdKUHluc0wxSVVsaDZrWmxNNkRmRzI0U3lwdzhpbUNBbGZQWkY4WmJMbzZTY3BtQ0kzSDc1Y1E?hl=en-US&gl=US&ceid=US%3Aen
+                - text: California colleges introduce AI majors to meet rising demand
+            - figure [ref=e2330]
+          - time [ref=e2332]: 4 hours ago
+      - generic [ref=e2333]:
+        - separator [ref=e2335]
+        - generic [ref=e2337]:
+          - generic [ref=e2338]:
+            - link [ref=e2340] [cursor=pointer]:
+              - /url: ./read/CBMimgFBVV95cUxNUEVKQ21DWDdQNEV2NGkyOExJLWFUUlBnVVFXX3YzRU9qOVF6MTlneWhoazd5TjFka1NwQTE0MzB5V2R5UjNzdktMMFM3SFN2eW9zdV9OUVFJQUEycVNZM241S25tcWRvWHZKU0IwSC1WS1I5Z21qV1dDcUtaNXVqektFa0VTYUVPT0FqMzRHLWZGOVh3cWR2NHZR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2342]:
+              - generic [ref=e2343]:
+                - generic [ref=e2346]: openPR.com
+                - generic [ref=e2350]:
+                  - generic:
+                    - button "More - The Partner Incentive Optimization Artificial Intelligence" [ref=e2351] [cursor=pointer]:
+                      - img [ref=e2353]
+                    - tooltip [ref=e2355]: More
+              - link "The Partner Incentive Optimization Artificial Intelligence - openPR.com - 5 hours ago" [ref=e2356] [cursor=pointer]:
+                - /url: ./read/CBMimgFBVV95cUxNUEVKQ21DWDdQNEV2NGkyOExJLWFUUlBnVVFXX3YzRU9qOVF6MTlneWhoazd5TjFka1NwQTE0MzB5V2R5UjNzdktMMFM3SFN2eW9zdV9OUVFJQUEycVNZM241S25tcWRvWHZKU0IwSC1WS1I5Z21qV1dDcUtaNXVqektFa0VTYUVPT0FqMzRHLWZGOVh3cWR2NHZR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The Partner Incentive Optimization Artificial Intelligence
+            - figure [ref=e2357]
+          - time [ref=e2359]: 5 hours ago
+      - generic [ref=e2360]:
+        - separator [ref=e2362]
+        - generic [ref=e2364]:
+          - generic [ref=e2365]:
+            - link [ref=e2367] [cursor=pointer]:
+              - /url: ./read/CBMimgFBVV95cUxNMHRObC0zbHEtTzRsbWhtQ3lVQmk1cHIxUDctNWh3MmdCN2dUNnhMcnJISUhVZjVjYWxHMGxXVmxFeEd0eXVlaE92VTlTZ01lNE9vVU8zSXVzUy1rM0lWMUdlNjBHY1lmMTZjOXI3MmNnWXUwbmxTb1VSVHl4TDgwczBIcmRIal93Ym1PRGRSZmRtdk00Ymw4RW13?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2369]:
+              - generic [ref=e2370]:
+                - generic [ref=e2373]: openPR.com
+                - generic [ref=e2377]:
+                  - generic:
+                    - 'button "More - Industry Report on Protein-Folding Artificial Intelligence (AI) Platforms: Market Competition and Future Outlook" [ref=e2378] [cursor=pointer]':
+                      - img [ref=e2380]
+                    - tooltip [ref=e2382]: More
+              - 'link "Industry Report on Protein-Folding Artificial Intelligence (AI) Platforms: Market Competition and Future Outlook - openPR.com - 5 hours ago" [ref=e2383] [cursor=pointer]':
+                - /url: ./read/CBMimgFBVV95cUxNMHRObC0zbHEtTzRsbWhtQ3lVQmk1cHIxUDctNWh3MmdCN2dUNnhMcnJISUhVZjVjYWxHMGxXVmxFeEd0eXVlaE92VTlTZ01lNE9vVU8zSXVzUy1rM0lWMUdlNjBHY1lmMTZjOXI3MmNnWXUwbmxTb1VSVHl4TDgwczBIcmRIal93Ym1PRGRSZmRtdk00Ymw4RW13?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Industry Report on Protein-Folding Artificial Intelligence (AI) Platforms: Market Competition and Future Outlook"
+            - figure [ref=e2384]
+          - time [ref=e2386]: 5 hours ago
+      - generic [ref=e2387]:
+        - separator [ref=e2389]
+        - generic [ref=e2391]:
+          - generic [ref=e2392]:
+            - link [ref=e2394] [cursor=pointer]:
+              - /url: ./read/CBMilgFBVV95cUxQRTd4RjZHVkl1c3BGMlVYMlZLajNuNU8wcjRTNUowckJDMk5NRFd3MUJzNTZhRWtiZUt4eldSeUpWSi1PQnF5ZDh0djhhcm1QaUtVcHRZczEzQWhmVFBnMVNjcU5hR2k4RDJ6bXEyZ2h3OTBySks3SGdDejVFdEQyRHJGR2FiYzctVmFCZUZUVF8wVE1ycXc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2396]:
+              - generic [ref=e2397]:
+                - generic [ref=e2400]: International Finance Corporation (IFC)
+                - generic [ref=e2404]:
+                  - generic:
+                    - button "More - Accelerating Artificial Intelligence Investment in Emerging Markets" [ref=e2405] [cursor=pointer]:
+                      - img [ref=e2407]
+                    - tooltip [ref=e2409]: More
+              - link "Accelerating Artificial Intelligence Investment in Emerging Markets - International Finance Corporation (IFC) - 12 days ago" [ref=e2410] [cursor=pointer]:
+                - /url: ./read/CBMilgFBVV95cUxQRTd4RjZHVkl1c3BGMlVYMlZLajNuNU8wcjRTNUowckJDMk5NRFd3MUJzNTZhRWtiZUt4eldSeUpWSi1PQnF5ZDh0djhhcm1QaUtVcHRZczEzQWhmVFBnMVNjcU5hR2k4RDJ6bXEyZ2h3OTBySks3SGdDejVFdEQyRHJGR2FiYzctVmFCZUZUVF8wVE1ycXc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Accelerating Artificial Intelligence Investment in Emerging Markets
+            - figure [ref=e2411]
+          - time [ref=e2413]: 12 days ago
+      - generic [ref=e2414]:
+        - separator [ref=e2416]
+        - generic [ref=e2418]:
+          - generic [ref=e2419]:
+            - link [ref=e2421] [cursor=pointer]:
+              - /url: ./read/CBMiowFBVV95cUxNYmN4SHJjYnV5V2h0NDBvZk4wR3FveWFaSDhrd3VJcFdwNzNzXy1tM1dVTlBHd180VGowRk82SHE4Vi00MldmcmdPZmR2RXlodXQ4clB4cjVuSXp3MktzWURmSmFXcVl1ams0QXVEQTFQci0wandlZFlZVG0tNmhXRmRaeEVuY2NoZFo2UXNUYkRXUFVfWndrZlBGTEtTanlIS2VN?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2423]:
+              - generic [ref=e2424]:
+                - generic [ref=e2427]: Norton Rose Fulbright
+                - generic [ref=e2431]:
+                  - generic:
+                    - button "More - Colorado enacts revised AI law" [ref=e2432] [cursor=pointer]:
+                      - img [ref=e2434]
+                    - tooltip [ref=e2436]: More
+              - link "Colorado enacts revised AI law - Norton Rose Fulbright - 21 hours ago" [ref=e2437] [cursor=pointer]:
+                - /url: ./read/CBMiowFBVV95cUxNYmN4SHJjYnV5V2h0NDBvZk4wR3FveWFaSDhrd3VJcFdwNzNzXy1tM1dVTlBHd180VGowRk82SHE4Vi00MldmcmdPZmR2RXlodXQ4clB4cjVuSXp3MktzWURmSmFXcVl1ams0QXVEQTFQci0wandlZFlZVG0tNmhXRmRaeEVuY2NoZFo2UXNUYkRXUFVfWndrZlBGTEtTanlIS2VN?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Colorado enacts revised AI law
+            - figure [ref=e2438]
+          - time [ref=e2440]: 21 hours ago
+      - generic [ref=e2441]:
+        - separator [ref=e2443]
+        - generic [ref=e2445]:
+          - generic [ref=e2446]:
+            - link [ref=e2448] [cursor=pointer]:
+              - /url: ./read/CBMizgFBVV95cUxNQmtHRk40RTA5OVdIdnc5ZXhrZzFBYUx4Z1l4UWJfQ0pmdzVqRkVNV1JOVExTUnEzUm5ZSUViRm5GMHlIS1pFOW1oNWlFdHI1UHNmaUxIM1c5YXdhS2dZdnA2Z2g2X24tUWt4TGZNc21QUjd3LV9taEh1SzlObEZZRkhRSUxOMGt6QlRvdS1qd0ZiSkxFQVVfMkk2Z0M5RVZhRFI1TDV0cC1nQXIwcmJ2ZVNjZW5aUGtHMjlVNlRYQmJqbTVtUkZyRGVtS3pJQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2450]:
+              - generic [ref=e2451]:
+                - generic [ref=e2454]: McKinsey & Company
+                - generic [ref=e2458]:
+                  - generic:
+                    - button "More - McKinsey and HUMAIN to collaborate on delivering AI transformations in Saudi Arabia" [ref=e2459] [cursor=pointer]:
+                      - img [ref=e2461]
+                    - tooltip [ref=e2463]: More
+              - link "McKinsey and HUMAIN to collaborate on delivering AI transformations in Saudi Arabia - McKinsey &amp; Company - 3 hours ago" [ref=e2464] [cursor=pointer]:
+                - /url: ./read/CBMizgFBVV95cUxNQmtHRk40RTA5OVdIdnc5ZXhrZzFBYUx4Z1l4UWJfQ0pmdzVqRkVNV1JOVExTUnEzUm5ZSUViRm5GMHlIS1pFOW1oNWlFdHI1UHNmaUxIM1c5YXdhS2dZdnA2Z2g2X24tUWt4TGZNc21QUjd3LV9taEh1SzlObEZZRkhRSUxOMGt6QlRvdS1qd0ZiSkxFQVVfMkk2Z0M5RVZhRFI1TDV0cC1nQXIwcmJ2ZVNjZW5aUGtHMjlVNlRYQmJqbTVtUkZyRGVtS3pJQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: McKinsey and HUMAIN to collaborate on delivering AI transformations in Saudi Arabia
+            - figure [ref=e2465]
+          - time [ref=e2467]: 3 hours ago
+      - generic [ref=e2468]:
+        - separator [ref=e2470]
+        - generic [ref=e2472]:
+          - generic [ref=e2473]:
+            - link [ref=e2475] [cursor=pointer]:
+              - /url: ./read/CBMiwAFBVV95cUxQSkljeFBfbE5IeG5yNDRqV0lyLTB0UkdxNFVBajBBaXB0WU1JSzhaWDVIYV9GaGhJZUZSajdiSWc5YmExb1owaDFraUtCOVRFYWV2SFVIX1hkVUpvTG9DM3UwSS1QOTNKWXhQM0RvSnRBTXJ2T0tqYUhOSncyaXlNeDlzWHplbzFiVzVRQ1pqMEwwa2NySTBaT1Jlb1lxZ3ZjcUFPc0pSV2hKNldGTllKVHpJbW54SXhyQmY0eVduSUs?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2477]:
+              - generic [ref=e2478]:
+                - generic [ref=e2481]: Tom's Hardware
+                - generic [ref=e2485]:
+                  - generic:
+                    - button "More - Russia's Sberbank wants Chinese chips for its GigaChat AI in the face of Western sanctions — faces a long wait behind ByteDance and Alibaba" [ref=e2486] [cursor=pointer]:
+                      - img [ref=e2488]
+                    - tooltip [ref=e2490]: More
+              - link "Russia's Sberbank wants Chinese chips for its GigaChat AI in the face of Western sanctions — faces a long wait behind ByteDance and Alibaba - Tom&#39;s Hardware - 3 hours ago" [ref=e2491] [cursor=pointer]:
+                - /url: ./read/CBMiwAFBVV95cUxQSkljeFBfbE5IeG5yNDRqV0lyLTB0UkdxNFVBajBBaXB0WU1JSzhaWDVIYV9GaGhJZUZSajdiSWc5YmExb1owaDFraUtCOVRFYWV2SFVIX1hkVUpvTG9DM3UwSS1QOTNKWXhQM0RvSnRBTXJ2T0tqYUhOSncyaXlNeDlzWHplbzFiVzVRQ1pqMEwwa2NySTBaT1Jlb1lxZ3ZjcUFPc0pSV2hKNldGTllKVHpJbW54SXhyQmY0eVduSUs?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Russia's Sberbank wants Chinese chips for its GigaChat AI in the face of Western sanctions — faces a long wait behind ByteDance and Alibaba
+            - figure [ref=e2492]
+          - time [ref=e2494]: 3 hours ago
+      - generic [ref=e2495]:
+        - separator [ref=e2497]
+        - generic [ref=e2499]:
+          - generic [ref=e2500]:
+            - link [ref=e2502] [cursor=pointer]:
+              - /url: ./read/CBMiygFBVV95cUxPOVFLZlZIVk1mSFVBbUN4X2FCZHhnNk8xZHRRU2pFTERkTFQ0amFReGtlSmR5Y2ZUbXNQZjZUSHhCYWJmc3JDd1hsRDd4aTNIYmlQVUNITG5yWnpyVUQxYjJndlpIRTJwU2kzOER1QjZBU0FHby1UWlc2ZVV0NnhaamFGWnJ0T2RkSWQxc0NOeTZkVVNiZjVvaTRqa1pYMjNkZG51TGpDcVZlRG1TOWxSRlBOcVJBTTNMMnhVSHdkekpFcDhneHZJNU1R?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2504]:
+              - generic [ref=e2505]:
+                - generic [ref=e2508]: Cureus
+                - generic [ref=e2512]:
+                  - generic:
+                    - button "More - Use of Artificial Intelligence for the Early Detection and Prediction of Alzheimer’s Disease" [ref=e2513] [cursor=pointer]:
+                      - img [ref=e2515]
+                    - tooltip [ref=e2517]: More
+              - link "Use of Artificial Intelligence for the Early Detection and Prediction of Alzheimer’s Disease - Cureus - 2 days ago" [ref=e2518] [cursor=pointer]:
+                - /url: ./read/CBMiygFBVV95cUxPOVFLZlZIVk1mSFVBbUN4X2FCZHhnNk8xZHRRU2pFTERkTFQ0amFReGtlSmR5Y2ZUbXNQZjZUSHhCYWJmc3JDd1hsRDd4aTNIYmlQVUNITG5yWnpyVUQxYjJndlpIRTJwU2kzOER1QjZBU0FHby1UWlc2ZVV0NnhaamFGWnJ0T2RkSWQxc0NOeTZkVVNiZjVvaTRqa1pYMjNkZG51TGpDcVZlRG1TOWxSRlBOcVJBTTNMMnhVSHdkekpFcDhneHZJNU1R?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Use of Artificial Intelligence for the Early Detection and Prediction of Alzheimer’s Disease
+            - figure [ref=e2519]
+          - time [ref=e2521]: 2 days ago
+      - generic [ref=e2522]:
+        - separator [ref=e2524]
+        - generic [ref=e2526]:
+          - generic [ref=e2527]:
+            - link [ref=e2529] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxOaUNLLTFPbVpybDBnMTY4XzZhZ0RpMnhfTmVSWGJObGlXRWZxTVd0b292LWZ4aUMySTd4amhOZi1VeHR0TVptR1ZkMWhVa1dfMERSQldjS1llSmVyT0EteUxLbXZVX2V5RUloeEdXU2N3WS1SVGZxRDNyeVdobDZDem5wdEdnaUNXTkwyZy1lNTkxdUlZeFVOcF9Rd2NYZHNvaklHS1NHbG5oYWltRHc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2531]:
+              - generic [ref=e2532]:
+                - generic [ref=e2535]: cio.com
+                - generic [ref=e2539]:
+                  - generic:
+                    - button "More - Google talks ‘singularity’ while scaling up agentic AI for enterprises" [ref=e2540] [cursor=pointer]:
+                      - img [ref=e2542]
+                    - tooltip [ref=e2544]: More
+              - link "Google talks ‘singularity’ while scaling up agentic AI for enterprises - cio.com - 4 hours ago - By Gyana Swain" [ref=e2545] [cursor=pointer]:
+                - /url: ./read/CBMirgFBVV95cUxOaUNLLTFPbVpybDBnMTY4XzZhZ0RpMnhfTmVSWGJObGlXRWZxTVd0b292LWZ4aUMySTd4amhOZi1VeHR0TVptR1ZkMWhVa1dfMERSQldjS1llSmVyT0EteUxLbXZVX2V5RUloeEdXU2N3WS1SVGZxRDNyeVdobDZDem5wdEdnaUNXTkwyZy1lNTkxdUlZeFVOcF9Rd2NYZHNvaklHS1NHbG5oYWltRHc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Google talks ‘singularity’ while scaling up agentic AI for enterprises
+            - figure [ref=e2546]
+          - generic [ref=e2547]:
+            - time [ref=e2548]: 4 hours ago
+            - separator [ref=e2549]
+            - generic [ref=e2550]: By Gyana Swain
+      - generic [ref=e2551]:
+        - separator [ref=e2553]
+        - generic [ref=e2555]:
+          - generic [ref=e2556]:
+            - link [ref=e2558] [cursor=pointer]:
+              - /url: ./read/CBMimgFBVV95cUxPVUsyb09sN1FsbDJVY1JJTllJanZJZnluZF9hekJVOGlQSG9teTlBNllsOTAxQUoxSlEwYlMzVHFWdV9ZZGxrOXQ3ZW1Mel9TcjlLZ2xSckZNc3RiQjRrbnN3ZHdfcTluYUd1eTNTa0F3TWxaNHM1OFZaRGVsY3lXY0NMbFJjOHl3MExZUlMzanFaLU5hRW9rNFpB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2560]:
+              - generic [ref=e2561]:
+                - generic [ref=e2564]: openPR.com
+                - generic [ref=e2568]:
+                  - generic:
+                    - button "More - Artificial Intelligence in Manufacturing Market Size, Share and Growth Forecast Report, 2026-2035" [ref=e2569] [cursor=pointer]:
+                      - img [ref=e2571]
+                    - tooltip [ref=e2573]: More
+              - link "Artificial Intelligence in Manufacturing Market Size, Share and Growth Forecast Report, 2026-2035 - openPR.com - 6 hours ago" [ref=e2574] [cursor=pointer]:
+                - /url: ./read/CBMimgFBVV95cUxPVUsyb09sN1FsbDJVY1JJTllJanZJZnluZF9hekJVOGlQSG9teTlBNllsOTAxQUoxSlEwYlMzVHFWdV9ZZGxrOXQ3ZW1Mel9TcjlLZ2xSckZNc3RiQjRrbnN3ZHdfcTluYUd1eTNTa0F3TWxaNHM1OFZaRGVsY3lXY0NMbFJjOHl3MExZUlMzanFaLU5hRW9rNFpB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Artificial Intelligence in Manufacturing Market Size, Share and Growth Forecast Report, 2026-2035
+            - figure [ref=e2575]
+          - time [ref=e2577]: 6 hours ago
+      - generic [ref=e2578]:
+        - separator [ref=e2580]
+        - generic [ref=e2582]:
+          - generic [ref=e2583]:
+            - link [ref=e2585] [cursor=pointer]:
+              - /url: ./read/CBMilwFBVV95cUxQU3FSZ1JsTWpwRFlBSjI5VlNPTVNjN0FWaHgtN2thaTVVRXRZYjNrOGhuY2xsYjJ0S3MyZWFBSlB1X2NXS0NCeURaSVgzRTNYX2FYUlJYUVdWdThxaWZkV19OdkMzRUxYMm1tT0ZIYVdoRjFpdDBEaVd2eFZSU3NLQ2xsUUg5b2I0MjVwSF9IRno0QlpEOVZ3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2587]:
+              - generic [ref=e2588]:
+                - generic [ref=e2591]: openPR.com
+                - generic [ref=e2595]:
+                  - generic:
+                    - 'button "More - Artificial Intelligence (AI) in De Novo Drug Design Market 2026-2030: Exploring Growth Trends and Recent Updates" [ref=e2596] [cursor=pointer]':
+                      - img [ref=e2598]
+                    - tooltip [ref=e2600]: More
+              - 'link "Artificial Intelligence (AI) in De Novo Drug Design Market 2026-2030: Exploring Growth Trends and Recent Updates - openPR.com - 7 hours ago" [ref=e2601] [cursor=pointer]':
+                - /url: ./read/CBMilwFBVV95cUxQU3FSZ1JsTWpwRFlBSjI5VlNPTVNjN0FWaHgtN2thaTVVRXRZYjNrOGhuY2xsYjJ0S3MyZWFBSlB1X2NXS0NCeURaSVgzRTNYX2FYUlJYUVdWdThxaWZkV19OdkMzRUxYMm1tT0ZIYVdoRjFpdDBEaVd2eFZSU3NLQ2xsUUg5b2I0MjVwSF9IRno0QlpEOVZ3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Artificial Intelligence (AI) in De Novo Drug Design Market 2026-2030: Exploring Growth Trends and Recent Updates"
+            - figure [ref=e2602]
+          - time [ref=e2604]: 7 hours ago
+      - generic [ref=e2605]:
+        - separator [ref=e2607]
+        - generic [ref=e2609]:
+          - generic [ref=e2610]:
+            - link [ref=e2612] [cursor=pointer]:
+              - /url: ./read/CBMilgFBVV95cUxOeEN2ZFpYSmUwMTAtLUJMOF9ma21GSnNuWERwZnBIS21LcTZUR1lkVnlkWDl0S3c1T3Y5d1BtR3pBa2szU0pPZTk3U0ZWX3lLRjVMM0FzQnBQUjBQeXVKemxxb3EzUm5CWHBjTkdYUW8tVFV0NnV2WUVrdXBZV291bG5CWXF4RTV4cGRjM2ZIcFFjNnNkX3c?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2614]:
+              - generic [ref=e2615]:
+                - generic [ref=e2618]: openPR.com
+                - generic [ref=e2622]:
+                  - generic:
+                    - button "More - The Cloud Telecommunications Artificial Intelligence (AI)" [ref=e2623] [cursor=pointer]:
+                      - img [ref=e2625]
+                    - tooltip [ref=e2627]: More
+              - link "The Cloud Telecommunications Artificial Intelligence (AI) - openPR.com - 7 hours ago" [ref=e2628] [cursor=pointer]:
+                - /url: ./read/CBMilgFBVV95cUxOeEN2ZFpYSmUwMTAtLUJMOF9ma21GSnNuWERwZnBIS21LcTZUR1lkVnlkWDl0S3c1T3Y5d1BtR3pBa2szU0pPZTk3U0ZWX3lLRjVMM0FzQnBQUjBQeXVKemxxb3EzUm5CWHBjTkdYUW8tVFV0NnV2WUVrdXBZV291bG5CWXF4RTV4cGRjM2ZIcFFjNnNkX3c?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The Cloud Telecommunications Artificial Intelligence (AI)
+            - figure [ref=e2629]
+          - time [ref=e2631]: 7 hours ago
+      - generic [ref=e2632]:
+        - separator [ref=e2634]
+        - generic [ref=e2636]:
+          - generic [ref=e2637]:
+            - link [ref=e2639] [cursor=pointer]:
+              - /url: ./read/CBMiugFBVV95cUxPYjNsb2tiTXJRNnl2dE5veWowb3RUZ3V0YTdzQTBEYXpZeUFqZEFyS3ltZEUyc0VMZjJfeU4yTVlQMlNndlNWT1BjbVdfV1lINGloeFlreU01MGtibmFMeFVCeXJWckJDd3NoRlFwMmFqcTFCY3VjZkVMcURhUW5vb0NhY1VOYTVES0JfOXZvQ3JNcDlRcXdOTHZLMXRBRHd4LXZzZ1dWRFZzTFlXZWx2STM3TG10eThSbXc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2641]:
+              - generic [ref=e2642]:
+                - generic [ref=e2645]: Security Boulevard
+                - generic [ref=e2649]:
+                  - generic:
+                    - 'button "More - AI Threat Report: How Artificial Intelligence Is Used Across Illicit Communities" [ref=e2650] [cursor=pointer]':
+                      - img [ref=e2652]
+                    - tooltip [ref=e2654]: More
+              - 'link "AI Threat Report: How Artificial Intelligence Is Used Across Illicit Communities - Security Boulevard - 18 hours ago" [ref=e2655] [cursor=pointer]':
+                - /url: ./read/CBMiugFBVV95cUxPYjNsb2tiTXJRNnl2dE5veWowb3RUZ3V0YTdzQTBEYXpZeUFqZEFyS3ltZEUyc0VMZjJfeU4yTVlQMlNndlNWT1BjbVdfV1lINGloeFlreU01MGtibmFMeFVCeXJWckJDd3NoRlFwMmFqcTFCY3VjZkVMcURhUW5vb0NhY1VOYTVES0JfOXZvQ3JNcDlRcXdOTHZLMXRBRHd4LXZzZ1dWRFZzTFlXZWx2STM3TG10eThSbXc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI Threat Report: How Artificial Intelligence Is Used Across Illicit Communities"
+          - time [ref=e2657]: 18 hours ago
+      - generic [ref=e2658]:
+        - separator [ref=e2660]
+        - generic [ref=e2662]:
+          - generic [ref=e2663]:
+            - link [ref=e2665] [cursor=pointer]:
+              - /url: ./read/CBMipAFBVV95cUxNek50UEV1dTdvd0ZPUzFQZjZQUU5rekYyWFluX3VxOVhadVdFbnhzQ29kaXRQX1dseEN1NnFTTm5weUxodHVJYm02enFwRUotUHdHWUtnWFZjWDZWaG5tWnR4V0xYYkVXOEV2a2FsdTBldkJvUVo4YXhCRzB5ZFlFbU5ONmdROXJFQklUN2ZSdW9EYzZ4bHFUZEh4bzJrRUJKS2FredIBqgFBVV95cUxOR3VRNFpQNVlZYnV3VjVHaHB2ay1LcWQtSzJkSTg4Q1JWUWdPWV85TFNXTHVXNl9DUjJ0Y0JaQVhqMEl6a3BVM3d6ajVmUEFPTzhTY2Q0Tzl2X2p4R1ZkXzV5aXFVMjM5MEQxanloQzFadHBycHpyQW1HSU5PVG9MWVU5ejZGU1hHNUMwSlBYdFRBd2RYV1o4UlJUdC1ZVVUwRlBPODMyZUpCdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2667]:
+              - generic [ref=e2668]:
+                - generic [ref=e2671]: The National Law Review
+                - generic [ref=e2675]:
+                  - generic:
+                    - button "More - Can You Keep (an AI) Secret? The Role of Trade Secrets in IP Protection Strategies for AI" [ref=e2676] [cursor=pointer]:
+                      - img [ref=e2678]
+                    - tooltip [ref=e2680]: More
+              - link "Can You Keep (an AI) Secret? The Role of Trade Secrets in IP Protection Strategies for AI - The National Law Review - 21 hours ago - By James G. Gatto" [ref=e2681] [cursor=pointer]:
+                - /url: ./read/CBMipAFBVV95cUxNek50UEV1dTdvd0ZPUzFQZjZQUU5rekYyWFluX3VxOVhadVdFbnhzQ29kaXRQX1dseEN1NnFTTm5weUxodHVJYm02enFwRUotUHdHWUtnWFZjWDZWaG5tWnR4V0xYYkVXOEV2a2FsdTBldkJvUVo4YXhCRzB5ZFlFbU5ONmdROXJFQklUN2ZSdW9EYzZ4bHFUZEh4bzJrRUJKS2FredIBqgFBVV95cUxOR3VRNFpQNVlZYnV3VjVHaHB2ay1LcWQtSzJkSTg4Q1JWUWdPWV85TFNXTHVXNl9DUjJ0Y0JaQVhqMEl6a3BVM3d6ajVmUEFPTzhTY2Q0Tzl2X2p4R1ZkXzV5aXFVMjM5MEQxanloQzFadHBycHpyQW1HSU5PVG9MWVU5ejZGU1hHNUMwSlBYdFRBd2RYV1o4UlJUdC1ZVVUwRlBPODMyZUpCdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Can You Keep (an AI) Secret? The Role of Trade Secrets in IP Protection Strategies for AI
+            - figure [ref=e2682]
+          - generic [ref=e2683]:
+            - time [ref=e2684]: 21 hours ago
+            - separator [ref=e2685]
+            - generic [ref=e2686]: By James G. Gatto
+      - generic [ref=e2687]:
+        - separator [ref=e2689]
+        - generic [ref=e2691]:
+          - generic [ref=e2692]:
+            - link [ref=e2694] [cursor=pointer]:
+              - /url: ./read/CBMilwFBVV95cUxNR1ZJb2JHYVdobC0tdkNTMDltck9PS0djUndWOXZ2T3BCMVA1UllfNzZYNmc0cGdVdGxTMG5TUEhJaUpucUlXOVlod0JQZHZyT1l1cTdiaXFOZURQQjlsWVpyMVlCOHBhYVYtWndYRVNfMjhLQVhUMEpraC1RdklndmZlVUJyMVhBTWNDYWNGVFRLY2MtcEZB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2696]:
+              - generic [ref=e2697]:
+                - generic [ref=e2700]: The Motley Fool
+                - generic [ref=e2704]:
+                  - generic:
+                    - 'button "More - Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by Year-End. Here''s How You Can Buy It Now for Just $50." [ref=e2705] [cursor=pointer]':
+                      - img [ref=e2707]
+                    - tooltip [ref=e2709]: More
+              - 'link "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by Year-End. Here''s How You Can Buy It Now for Just $50. - The Motley Fool - 23 hours ago - By Adam Spatacco" [ref=e2710] [cursor=pointer]':
+                - /url: ./read/CBMilwFBVV95cUxNR1ZJb2JHYVdobC0tdkNTMDltck9PS0djUndWOXZ2T3BCMVA1UllfNzZYNmc0cGdVdGxTMG5TUEhJaUpucUlXOVlod0JQZHZyT1l1cTdiaXFOZURQQjlsWVpyMVlCOHBhYVYtWndYRVNfMjhLQVhUMEpraC1RdklndmZlVUJyMVhBTWNDYWNGVFRLY2MtcEZB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by Year-End. Here's How You Can Buy It Now for Just $50."
+            - figure [ref=e2711]
+          - generic [ref=e2712]:
+            - time [ref=e2713]: 23 hours ago
+            - separator [ref=e2714]
+            - generic [ref=e2715]: By Adam Spatacco
+      - generic [ref=e2716]:
+        - separator [ref=e2718]
+        - generic [ref=e2720]:
+          - generic [ref=e2721]:
+            - link [ref=e2723] [cursor=pointer]:
+              - /url: ./read/CBMivwFBVV95cUxPYWFCSkwyWXlfMWVReFNQZ21nWFNaRUl6M0wzNjV6RXNnbU1sVjJLZjFlaml5eEM0THR1X3pDc3d5RGdXSWZLTkVLUE84VXl5emN5MjVINENfNVNfQnUwS2ZMbEc5UFlMMHVkSy1jLTBzWUNqMmtyYWJtUkk4OEhhZlJySW42V1dnY2Y0cWtkWnUzT2lleDVnbUtDTHNDRjdURW9HN3hrVk5CNVlGY0dDYnI4aHlJMzB6OFFqWVJOcw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2725]:
+              - generic [ref=e2726]:
+                - generic [ref=e2729]: Governo.it
+                - generic [ref=e2733]:
+                  - generic:
+                    - 'button "More - Design, technology, artificial intelligence: the agenda for the alliance between Italy and India" [ref=e2734] [cursor=pointer]':
+                      - img [ref=e2736]
+                    - tooltip [ref=e2738]: More
+              - 'link "Design, technology, artificial intelligence: the agenda for the alliance between Italy and India - Governo.it - 6 hours ago" [ref=e2739] [cursor=pointer]':
+                - /url: ./read/CBMivwFBVV95cUxPYWFCSkwyWXlfMWVReFNQZ21nWFNaRUl6M0wzNjV6RXNnbU1sVjJLZjFlaml5eEM0THR1X3pDc3d5RGdXSWZLTkVLUE84VXl5emN5MjVINENfNVNfQnUwS2ZMbEc5UFlMMHVkSy1jLTBzWUNqMmtyYWJtUkk4OEhhZlJySW42V1dnY2Y0cWtkWnUzT2lleDVnbUtDTHNDRjdURW9HN3hrVk5CNVlGY0dDYnI4aHlJMzB6OFFqWVJOcw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Design, technology, artificial intelligence: the agenda for the alliance between Italy and India"
+            - figure [ref=e2740]
+          - time [ref=e2742]: 6 hours ago
+      - generic [ref=e2743]:
+        - separator [ref=e2745]
+        - generic [ref=e2747]:
+          - generic [ref=e2748]:
+            - link [ref=e2750] [cursor=pointer]:
+              - /url: ./read/CBMihwFBVV95cUxPMG5mZV9QYUdXbmV1T2JpdnM3QkpjMlpOZnUxdkpkc3hybFcxNUlBN3FScU9vYnBrai1HNHNiYXNJLU5ybVpPSzVhQmsxVFVqNVc1aWZiaGt6TnFrcGJTQWtZaTYwN2tGcTB0SGFpSldabWZ5ajRwdVpDNlJ2bTFCM3lrU1E2SlU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2752]:
+              - generic [ref=e2753]:
+                - generic [ref=e2756]: The New York Times
+                - generic [ref=e2760]:
+                  - generic:
+                    - button "More - ‘The Future of Truth’ Contains Quotes Made Up by A.I." [ref=e2761] [cursor=pointer]:
+                      - img [ref=e2763]
+                    - tooltip [ref=e2765]: More
+              - link "‘The Future of Truth’ Contains Quotes Made Up by A.I. - The New York Times - 21 hours ago - By Benjamin Mullin" [ref=e2766] [cursor=pointer]:
+                - /url: ./read/CBMihwFBVV95cUxPMG5mZV9QYUdXbmV1T2JpdnM3QkpjMlpOZnUxdkpkc3hybFcxNUlBN3FScU9vYnBrai1HNHNiYXNJLU5ybVpPSzVhQmsxVFVqNVc1aWZiaGt6TnFrcGJTQWtZaTYwN2tGcTB0SGFpSldabWZ5ajRwdVpDNlJ2bTFCM3lrU1E2SlU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: ‘The Future of Truth’ Contains Quotes Made Up by A.I.
+            - figure [ref=e2767]
+          - generic [ref=e2768]:
+            - time [ref=e2769]: 21 hours ago
+            - separator [ref=e2770]
+            - generic [ref=e2771]: By Benjamin Mullin
+      - generic [ref=e2772]:
+        - separator [ref=e2774]
+        - generic [ref=e2776]:
+          - generic [ref=e2777]:
+            - link [ref=e2779] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxPeXJQVjhmUFBWejMzdFcwNWpoX0dTSXFtMlNzaXFxMlU0SlZfek8xX3RDRHNuM2ZzWkU4bDBhWDdSMkpxSE14Q1UteU16NW1Vd25GNTFDdURnWldyc0dCTVpBcTBnMWg3SjJOU1VhaUtqTEZZRldyMlpHWDZZb3VxWXlvQWhTa05RaTl3VnJjc2VOOXB0OTZjbkxabzlBUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2781]:
+              - generic [ref=e2782]:
+                - generic [ref=e2785]: openPR.com
+                - generic [ref=e2789]:
+                  - generic:
+                    - 'button "More - Artificial Intelligence in Cognitive Computing Market Drivers 2026-2030: Analysis of Regional Trends and Market Size" [ref=e2790] [cursor=pointer]':
+                      - img [ref=e2792]
+                    - tooltip [ref=e2794]: More
+              - 'link "Artificial Intelligence in Cognitive Computing Market Drivers 2026-2030: Analysis of Regional Trends and Market Size - openPR.com - 7 hours ago" [ref=e2795] [cursor=pointer]':
+                - /url: ./read/CBMingFBVV95cUxPeXJQVjhmUFBWejMzdFcwNWpoX0dTSXFtMlNzaXFxMlU0SlZfek8xX3RDRHNuM2ZzWkU4bDBhWDdSMkpxSE14Q1UteU16NW1Vd25GNTFDdURnWldyc0dCTVpBcTBnMWg3SjJOU1VhaUtqTEZZRldyMlpHWDZZb3VxWXlvQWhTa05RaTl3VnJjc2VOOXB0OTZjbkxabzlBUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Artificial Intelligence in Cognitive Computing Market Drivers 2026-2030: Analysis of Regional Trends and Market Size"
+            - figure [ref=e2796]
+          - time [ref=e2798]: 7 hours ago
+      - generic [ref=e2799]:
+        - separator [ref=e2801]
+        - generic [ref=e2803]:
+          - generic [ref=e2804]:
+            - link [ref=e2806] [cursor=pointer]:
+              - /url: ./read/CBMihgFBVV95cUxQc2FudEdOMWJiTWxZazRWOFlEQ255eXNrY3dsSU9iV2NJa2wta09pc2FLdWxWVm16UGZpTjNOM2FnRkczUFRwRFdkaTRhRzRMX2hZWDFBMWlPa2FEd1IxNDQ5eDFDOXpDWFltWE9MM3NoLXphdG53VnEwSWRrdEFXeE84Q3ZqZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2808]:
+              - generic [ref=e2809]:
+                - generic [ref=e2812]: openPR.com
+                - generic [ref=e2816]:
+                  - generic:
+                    - button "More - Artificial Intelligence (AI)-Assisted Variant" [ref=e2817] [cursor=pointer]:
+                      - img [ref=e2819]
+                    - tooltip [ref=e2821]: More
+              - link "Artificial Intelligence (AI)-Assisted Variant - openPR.com - 7 hours ago" [ref=e2822] [cursor=pointer]:
+                - /url: ./read/CBMihgFBVV95cUxQc2FudEdOMWJiTWxZazRWOFlEQ255eXNrY3dsSU9iV2NJa2wta09pc2FLdWxWVm16UGZpTjNOM2FnRkczUFRwRFdkaTRhRzRMX2hZWDFBMWlPa2FEd1IxNDQ5eDFDOXpDWFltWE9MM3NoLXphdG53VnEwSWRrdEFXeE84Q3ZqZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Artificial Intelligence (AI)-Assisted Variant
+            - figure [ref=e2823]
+          - time [ref=e2825]: 7 hours ago
+      - generic [ref=e2826]:
+        - separator [ref=e2828]
+        - generic [ref=e2830]:
+          - generic [ref=e2831]:
+            - link [ref=e2833] [cursor=pointer]:
+              - /url: ./read/CBMiuwJBVV95cUxNeF9QZEVBbjJlenZ2MjlsaHBDQWZwa2ZJOGlTRExXcE1YbWxUZk11U3A3YWtYQUVfSFRNNlJlMFRnSHNUM25GZUg4NmlBeWdzd0ZaV012d0dkRVNUOE5sLURKTWVUVDh1cy1NcXdMY0pfRFBnRU5OaFQ1STg5YnNZdlZ6SWJtV1JTcTVNbVpMemtLSXdfbFNRajFzVHpwNzRSbjhtRkdfd1BaejVkTE8wSFJ2eFZTNWlfcWh4WmdZODBLMXFzLUFFamh6MFBJYklQcHRYX2ZqWEplTl9RcXozMF9iNnEzSFNYS3JTbzFtMDBwWTF2NFRUczloQU5JN2FFb1VPaWJZbW82REhNdFB0MDRPeXMyaVhBOFdvdnlsSllxSEx0R0pwSmlwanJ6Ym1EQjZFeDk3X0N6NFU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2835]:
+              - generic [ref=e2836]:
+                - generic [ref=e2839]: Tom's Hardware
+                - generic [ref=e2843]:
+                  - generic:
+                    - button "More - Pizza Hut's AI delivery system cooks up $100 million franchisee lawsuit — deliveries allegedly shot from under 30 minutes to over 45 under new system" [ref=e2844] [cursor=pointer]:
+                      - img [ref=e2846]
+                    - tooltip [ref=e2848]: More
+              - link "Pizza Hut's AI delivery system cooks up $100 million franchisee lawsuit — deliveries allegedly shot from under 30 minutes to over 45 under new system - Tom&#39;s Hardware - 7 hours ago" [ref=e2849] [cursor=pointer]:
+                - /url: ./read/CBMiuwJBVV95cUxNeF9QZEVBbjJlenZ2MjlsaHBDQWZwa2ZJOGlTRExXcE1YbWxUZk11U3A3YWtYQUVfSFRNNlJlMFRnSHNUM25GZUg4NmlBeWdzd0ZaV012d0dkRVNUOE5sLURKTWVUVDh1cy1NcXdMY0pfRFBnRU5OaFQ1STg5YnNZdlZ6SWJtV1JTcTVNbVpMemtLSXdfbFNRajFzVHpwNzRSbjhtRkdfd1BaejVkTE8wSFJ2eFZTNWlfcWh4WmdZODBLMXFzLUFFamh6MFBJYklQcHRYX2ZqWEplTl9RcXozMF9iNnEzSFNYS3JTbzFtMDBwWTF2NFRUczloQU5JN2FFb1VPaWJZbW82REhNdFB0MDRPeXMyaVhBOFdvdnlsSllxSEx0R0pwSmlwanJ6Ym1EQjZFeDk3X0N6NFU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Pizza Hut's AI delivery system cooks up $100 million franchisee lawsuit — deliveries allegedly shot from under 30 minutes to over 45 under new system
+            - figure [ref=e2850]
+          - time [ref=e2852]: 7 hours ago
+      - generic [ref=e2853]:
+        - separator [ref=e2855]
+        - generic [ref=e2857]:
+          - generic [ref=e2858]:
+            - link [ref=e2860] [cursor=pointer]:
+              - /url: ./read/CBMiqAFBVV95cUxQTWVaZXlEcjFrcF9GZkxKbUxPN2hkdmQ4TUpwNnhsbXVCcWs0S0h4U3l3UV9nMGRjQWR4bmNFMjJGSlNtOTJMOVdjZzlUZTNMRGY3SUVPRXJJOTlZRjRGNUJNeW0tSF9LY1FGRW9WRElFT21FelpYVi1yeWF1a1pQNTN1Q2Q2RTA4S3AxZk5URXFRWW1IQzFYcXB5YThOVVYxUTQ1R0plT2c?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2862]:
+              - generic [ref=e2863]:
+                - generic [ref=e2866]: UC San Diego Today
+                - generic [ref=e2870]:
+                  - generic:
+                    - button "More - AI Can Seem More Human Than Real Humans in a Classic Turing Test, Study Finds" [ref=e2871] [cursor=pointer]:
+                      - img [ref=e2873]
+                    - tooltip [ref=e2875]: More
+              - link "AI Can Seem More Human Than Real Humans in a Classic Turing Test, Study Finds - UC San Diego Today - Yesterday - By Christine Clark" [ref=e2876] [cursor=pointer]:
+                - /url: ./read/CBMiqAFBVV95cUxQTWVaZXlEcjFrcF9GZkxKbUxPN2hkdmQ4TUpwNnhsbXVCcWs0S0h4U3l3UV9nMGRjQWR4bmNFMjJGSlNtOTJMOVdjZzlUZTNMRGY3SUVPRXJJOTlZRjRGNUJNeW0tSF9LY1FGRW9WRElFT21FelpYVi1yeWF1a1pQNTN1Q2Q2RTA4S3AxZk5URXFRWW1IQzFYcXB5YThOVVYxUTQ1R0plT2c?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI Can Seem More Human Than Real Humans in a Classic Turing Test, Study Finds
+            - figure [ref=e2877]
+          - generic [ref=e2878]:
+            - time [ref=e2879]: Yesterday
+            - separator [ref=e2880]
+            - generic [ref=e2881]: By Christine Clark
+      - generic [ref=e2882]:
+        - separator [ref=e2884]
+        - generic [ref=e2886]:
+          - generic [ref=e2887]:
+            - link [ref=e2889] [cursor=pointer]:
+              - /url: ./read/CBMikwFBVV95cUxPS2RtdEw5bXh0Mlp4Mm44S3VJeHpsWUhTRzJId1YzRVJtRzdEa3pqM3g2VC02MGY0LXdpaVp4eFNscUZ3WTFCZHZfLU9EQkd6a0VBTEFQWEZyRkJURkF3azlFaVFmWTFUQlg3clJ0NEtDcjZxMFFCcXM3WC1kSkVPc0FES242RFhXejJyLWJoaGpreHM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2891]:
+              - generic [ref=e2892]:
+                - generic [ref=e2895]: Atos
+                - generic [ref=e2899]:
+                  - generic:
+                    - 'button "More - Beyond the hype: Governing general purpose AI for real-world risk" [ref=e2900] [cursor=pointer]':
+                      - img [ref=e2902]
+                    - tooltip [ref=e2904]: More
+              - 'link "Beyond the hype: Governing general purpose AI for real-world risk - Atos - 3 hours ago" [ref=e2905] [cursor=pointer]':
+                - /url: ./read/CBMikwFBVV95cUxPS2RtdEw5bXh0Mlp4Mm44S3VJeHpsWUhTRzJId1YzRVJtRzdEa3pqM3g2VC02MGY0LXdpaVp4eFNscUZ3WTFCZHZfLU9EQkd6a0VBTEFQWEZyRkJURkF3azlFaVFmWTFUQlg3clJ0NEtDcjZxMFFCcXM3WC1kSkVPc0FES242RFhXejJyLWJoaGpreHM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Beyond the hype: Governing general purpose AI for real-world risk"
+            - figure [ref=e2906]
+          - time [ref=e2908]: 3 hours ago
+      - generic [ref=e2909]:
+        - separator [ref=e2911]
+        - generic [ref=e2913]:
+          - generic [ref=e2914]:
+            - link [ref=e2916] [cursor=pointer]:
+              - /url: ./read/CBMiekFVX3lxTE1ab19fWFBhcGNURE1tbjVHN2tCQ0ljZTNwSGRzMVNXWGFULTF6cXRvWFlqMWJnbUJQTldqLUQ2LUFrcmFiVWRORlc5Mnk5UHZHUGdsWnIybTd4RVNabE10ZHl6U3lVWnVDSkNDelBDci1NQ0Z2amo4a0NR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2918]:
+              - generic [ref=e2919]:
+                - generic [ref=e2922]: InfoWorld
+                - generic [ref=e2926]:
+                  - generic:
+                    - button "More - Why I trust Claude Code" [ref=e2927] [cursor=pointer]:
+                      - img [ref=e2929]
+                    - tooltip [ref=e2931]: More
+              - link "Why I trust Claude Code - InfoWorld - 8 hours ago - By Nick Hodges" [ref=e2932] [cursor=pointer]:
+                - /url: ./read/CBMiekFVX3lxTE1ab19fWFBhcGNURE1tbjVHN2tCQ0ljZTNwSGRzMVNXWGFULTF6cXRvWFlqMWJnbUJQTldqLUQ2LUFrcmFiVWRORlc5Mnk5UHZHUGdsWnIybTd4RVNabE10ZHl6U3lVWnVDSkNDelBDci1NQ0Z2amo4a0NR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Why I trust Claude Code
+            - figure [ref=e2933]
+          - generic [ref=e2934]:
+            - time [ref=e2935]: 8 hours ago
+            - separator [ref=e2936]
+            - generic [ref=e2937]: By Nick Hodges
+      - generic [ref=e2938]:
+        - separator [ref=e2940]
+        - generic [ref=e2942]:
+          - generic [ref=e2943]:
+            - link [ref=e2945] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxQNUFkbDdjVDFLQjZRRXI1WG1QUldTWXZUc1ZCTGV4SndGeUxZcmxJVWN5LXZwWUR5UjlNajVnbkVhUm1ZNUltZDdkWGtCVDcwcFNmS0FxMl9EbFRZWEZzSmZGR212YjROZ2VMZ0N3OXowcHE2MmVYeVJoMFIzSkxuajRfNzZXbTBpWUJjZnhmYUNqY0VpQzNmRzRCVHVBalJaWm5JdGljLVBmZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2947]:
+              - generic [ref=e2948]:
+                - generic [ref=e2951]: cio.com
+                - generic [ref=e2955]:
+                  - generic:
+                    - 'button "More - The SaaS reckoning: Why AI is about to reprice enterprise software" [ref=e2956] [cursor=pointer]':
+                      - img [ref=e2958]
+                    - tooltip [ref=e2960]: More
+              - 'link "The SaaS reckoning: Why AI is about to reprice enterprise software - cio.com - 7 hours ago - By Praveen Jonnala" [ref=e2961] [cursor=pointer]':
+                - /url: ./read/CBMiqgFBVV95cUxQNUFkbDdjVDFLQjZRRXI1WG1QUldTWXZUc1ZCTGV4SndGeUxZcmxJVWN5LXZwWUR5UjlNajVnbkVhUm1ZNUltZDdkWGtCVDcwcFNmS0FxMl9EbFRZWEZzSmZGR212YjROZ2VMZ0N3OXowcHE2MmVYeVJoMFIzSkxuajRfNzZXbTBpWUJjZnhmYUNqY0VpQzNmRzRCVHVBalJaWm5JdGljLVBmZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "The SaaS reckoning: Why AI is about to reprice enterprise software"
+            - figure [ref=e2962]
+          - generic [ref=e2963]:
+            - time [ref=e2964]: 7 hours ago
+            - separator [ref=e2965]
+            - generic [ref=e2966]: By Praveen Jonnala
+    - complementary [ref=e2967]:
+      - generic [ref=e2968]:
+        - generic [ref=e2969]:
+          - generic [ref=e2970]:
+            - link "mindmatters.ai" [ref=e2971] [cursor=pointer]:
+              - /url: ./publications/CAAqKQgKIiNDQklTRkFnTWFoQUtEbTFwYm1SdFlYUjBaWEp6TG1GcEtBQVAB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2973]:
+              - heading "Walter Bradley Center for Natural and Artificial Intelligence" [level=2] [ref=e2974]
+              - generic [ref=e2975]: Source
+          - generic [ref=e2976]:
+            - generic [ref=e2978]:
+              - button "Follow this source - mindmatters.ai" [ref=e2980]:
+                - img [ref=e2984]
+                - generic [ref=e2986]: Follow
+              - tooltip [ref=e2987]: Follow this source
+            - generic [ref=e2989]:
+              - button "Share" [ref=e2991]:
+                - img [ref=e2995]
+                - generic [ref=e2997]: Share
+              - tooltip [ref=e2998]: Share
+        - generic [ref=e2999]:
+          - heading "Topics" [level=2] [ref=e3000]
+          - separator [ref=e3001]
+          - generic [ref=e3002]:
+            - generic [ref=e3003]:
+              - generic [ref=e3005]: Artificial intelligence
+              - link "Artificial intelligence" [ref=e3006] [cursor=pointer]:
+                - /url: ./topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNRzFyZWhJQ1pXNG9BQVAB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e3007]:
+              - generic [ref=e3009]: A.I. Artificial Intelligence
+              - link "A.I. Artificial Intelligence" [ref=e3010] [cursor=pointer]:
+                - /url: ./topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREV4ZUdjMUVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e3011]:
+              - generic [ref=e3013]: Artificial intelligence in video games
+              - link "Artificial intelligence in video games" [ref=e3014] [cursor=pointer]:
+                - /url: ./topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRFZyWDJkakVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e3015]:
+              - generic [ref=e3017]: Artificial Intelligence Act
+              - link "Artificial Intelligence Act" [ref=e3018] [cursor=pointer]:
+                - /url: ./topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4YUROa00zSXlkeElDWlc0b0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e3019]:
+              - generic [ref=e3021]: Artificial general intelligence
+              - link "Artificial general intelligence" [ref=e3022] [cursor=pointer]:
+                - /url: ./topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREp6Y1dzekVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e3023]:
+              - generic [ref=e3025]: AAAI Conference on Artificial Intelligence
+              - link "AAAI Conference on Artificial Intelligence" [ref=e3026] [cursor=pointer]:
+                - /url: ./topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTkhFNGJWOXpiaElDWlc0b0FBUAE?hl=en-US&gl=US&ceid=US%3Aen

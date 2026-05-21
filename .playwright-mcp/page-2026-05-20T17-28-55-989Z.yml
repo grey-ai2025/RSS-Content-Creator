@@ -1,0 +1,237 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - button "Main menu" [ref=e5] [cursor=pointer]:
+          - img [ref=e6]
+        - link "Trends" [ref=e10] [cursor=pointer]:
+          - /url: /home
+          - generic [ref=e12]: Trends
+      - generic [ref=e15]:
+        - button "Google apps" [ref=e19] [cursor=pointer]:
+          - img [ref=e20]
+        - link "Sign in" [ref=e23] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://trends.google.com/trending?geo%3DUS%26hours%3D24%26category%3D5&followup=https://trends.google.com/trending?geo%3DUS%26hours%3D24%26category%3D5&ec=GAZAgAU
+  - generic [ref=e25]:
+    - generic:
+      - navigation
+    - generic [ref=e28]:
+      - main [ref=e29]:
+        - heading "Trending Now - Google Trends" [level=1] [ref=e30]
+        - generic [ref=e32]:
+          - heading "Trending Now" [level=1]
+          - generic [ref=e33]:
+            - generic [ref=e35]:
+              - button "United States, select location" [ref=e42] [cursor=pointer]:
+                - generic [ref=e45]: location_on
+                - generic [ref=e46]: United States
+                - img [ref=e48]
+              - button "Past 24 hours, select period" [ref=e55] [cursor=pointer]:
+                - generic [ref=e58]: calendar_month
+                - generic [ref=e59]: Past 24 hours
+                - img [ref=e61]
+              - button "Food and Drink, select category" [ref=e68] [cursor=pointer]:
+                - generic [ref=e71]: category
+                - generic [ref=e72]: Food and Drink
+                - img [ref=e74]
+              - button "All trends, select trend status" [ref=e81] [cursor=pointer]:
+                - generic [ref=e84]: grid_3x3
+                - generic [ref=e85]: All trends
+                - img [ref=e87]
+              - button "Relevance, select sort criteria" [ref=e94] [cursor=pointer]:
+                - generic [ref=e97]: sort
+                - generic [ref=e98]: By relevance
+                - img [ref=e100]
+            - generic [ref=e103]:
+              - button "next" [ref=e104] [cursor=pointer]:
+                - generic [ref=e106]: arrow_forward_ios
+              - button "Export" [ref=e111] [cursor=pointer]:
+                - generic [ref=e114]: ios_share
+                - generic [ref=e115]: Export
+                - img [ref=e117]
+          - generic [ref=e122]:
+            - grid [ref=e124]:
+              - rowgroup [ref=e125]:
+                - row "Search trends Trends (Updated May 21, 1:28 AM) Search volume Started More info" [ref=e126]:
+                  - gridcell [ref=e127]
+                  - columnheader "Search trends Trends (Updated May 21, 1:28 AM)" [ref=e129]:
+                    - generic [ref=e130]:
+                      - generic [ref=e132]:
+                        - button "Search trends" [ref=e133] [cursor=pointer]:
+                          - generic [ref=e135]: search
+                        - tooltip [ref=e137]: Search trends
+                      - generic [ref=e139]:
+                        - button "Trends" [ref=e141] [cursor=pointer]:
+                          - generic [ref=e143]: Trends
+                        - tooltip [ref=e144]: Sort by title
+                      - generic [ref=e145]: (Updated May 21, 1:28 AM)
+                  - columnheader "Search volume" [ref=e146]:
+                    - generic [ref=e148]:
+                      - button "Search volume" [ref=e150] [cursor=pointer]:
+                        - generic [ref=e152]: Search volume
+                      - tooltip [ref=e153]: Sort by search volume
+                  - columnheader "Started More info" [ref=e154]:
+                    - generic [ref=e155]:
+                      - generic [ref=e157]:
+                        - button "Started" [ref=e159] [cursor=pointer]:
+                          - generic [ref=e161]: Started
+                        - tooltip [ref=e162]: Sort by recency
+                      - button "More info" [ref=e165] [cursor=pointer]:
+                        - generic [ref=e167]: info
+              - rowgroup [ref=e169]:
+                - row "Select row oldest red lobster tallahassee closing 50K+ 900% 23 hours ago Active" [ref=e170] [cursor=pointer]:
+                  - gridcell "Select row" [ref=e171]:
+                    - generic [ref=e173]:
+                      - checkbox "Select row" [ref=e174]
+                      - generic:
+                        - img
+                  - gridcell "oldest red lobster tallahassee closing" [ref=e175]:
+                    - generic [ref=e176]: oldest red lobster tallahassee closing
+                  - gridcell "50K+ 900%" [ref=e177]:
+                    - generic [ref=e178]:
+                      - generic [ref=e179]: 50K+
+                      - generic [ref=e180]:
+                        - generic [ref=e181]: arrow_upward
+                        - generic [ref=e182]: 900%
+                  - gridcell "23 hours ago Active" [ref=e183]:
+                    - button "23 hours ago" [ref=e184]
+                    - generic [ref=e186]:
+                      - generic [ref=e187]: trending_up
+                      - generic [ref=e188]: Active
+                - row "Select row little debbie soccer themed brownies 20K+ 400% 20 hours ago Active" [ref=e189] [cursor=pointer]:
+                  - gridcell "Select row" [ref=e190]:
+                    - generic [ref=e192]:
+                      - checkbox "Select row" [ref=e193]
+                      - generic:
+                        - img
+                  - gridcell "little debbie soccer themed brownies" [ref=e194]:
+                    - generic [ref=e195]: little debbie soccer themed brownies
+                  - gridcell "20K+ 400%" [ref=e196]:
+                    - generic [ref=e197]:
+                      - generic [ref=e198]: 20K+
+                      - generic [ref=e199]:
+                        - generic [ref=e200]: arrow_upward
+                        - generic [ref=e201]: 400%
+                  - gridcell "20 hours ago Active" [ref=e202]:
+                    - button "20 hours ago" [ref=e203]
+                    - generic [ref=e205]:
+                      - generic [ref=e206]: trending_up
+                      - generic [ref=e207]: Active
+                - row "Select row schlitz beer 10K+ 200% 18 hours ago Active" [ref=e208] [cursor=pointer]:
+                  - gridcell "Select row" [ref=e209]:
+                    - generic [ref=e211]:
+                      - checkbox "Select row" [ref=e212]
+                      - generic:
+                        - img
+                  - gridcell "schlitz beer" [ref=e213]:
+                    - generic [ref=e214]: schlitz beer
+                  - gridcell "10K+ 200%" [ref=e215]:
+                    - generic [ref=e216]:
+                      - generic [ref=e217]: 10K+
+                      - generic [ref=e218]:
+                        - generic [ref=e219]: arrow_upward
+                        - generic [ref=e220]: 200%
+                  - gridcell "18 hours ago Active" [ref=e221]:
+                    - button "18 hours ago" [ref=e222]
+                    - generic [ref=e224]:
+                      - generic [ref=e225]: trending_up
+                      - generic [ref=e226]: Active
+                - row "Select row komodo dallas 1K+ 50% 21 hours ago Lasted 2 hr" [ref=e227] [cursor=pointer]:
+                  - gridcell "Select row" [ref=e228]:
+                    - generic [ref=e230]:
+                      - checkbox "Select row" [ref=e231]
+                      - generic:
+                        - img
+                  - gridcell "komodo dallas" [ref=e232]:
+                    - generic [ref=e233]: komodo dallas
+                  - gridcell "1K+ 50%" [ref=e234]:
+                    - generic [ref=e235]:
+                      - generic [ref=e236]: 1K+
+                      - generic [ref=e237]:
+                        - generic [ref=e238]: arrow_upward
+                        - generic [ref=e239]: 50%
+                  - gridcell "21 hours ago Lasted 2 hr" [ref=e240]:
+                    - button "21 hours ago" [ref=e241]
+                    - generic [ref=e243]:
+                      - generic [ref=e244]: timelapse
+                      - generic [ref=e245]: Lasted 2 hr
+                - row "Select row kfc fried pickles return 100+ 50% 6 hours ago Lasted 1 hr" [ref=e246] [cursor=pointer]:
+                  - gridcell "Select row" [ref=e247]:
+                    - generic [ref=e249]:
+                      - checkbox "Select row" [ref=e250]
+                      - generic:
+                        - img
+                  - gridcell "kfc fried pickles return" [ref=e251]:
+                    - generic [ref=e252]: kfc fried pickles return
+                  - gridcell "100+ 50%" [ref=e253]:
+                    - generic [ref=e254]:
+                      - generic [ref=e255]: 100+
+                      - generic [ref=e256]:
+                        - generic [ref=e257]: arrow_upward
+                        - generic [ref=e258]: 50%
+                  - gridcell "6 hours ago Lasted 1 hr" [ref=e259]:
+                    - button "6 hours ago" [ref=e260]
+                    - generic [ref=e262]:
+                      - generic [ref=e263]: timelapse
+                      - generic [ref=e264]: Lasted 1 hr
+            - generic [ref=e266]:
+              - generic [ref=e267]:
+                - generic [ref=e268]: Rows per page
+                - combobox "Rows per page" [ref=e271] [cursor=pointer]:
+                  - generic:
+                    - generic: "25"
+                  - generic:
+                    - img
+              - generic [ref=e273]:
+                - status "Showing 1 to 5 of 5 rows" [ref=e274]:
+                  - generic [ref=e275]: 1–5 of 5
+                - generic [ref=e276]:
+                  - button "Go to first page" [disabled] [ref=e277]:
+                    - img [ref=e280]
+                  - tooltip [ref=e283]: Go to first page
+                - generic [ref=e284]:
+                  - button "Go to previous page" [disabled] [ref=e285]:
+                    - img [ref=e288]
+                  - tooltip [ref=e291]: Go to previous page
+                - generic [ref=e292]:
+                  - button "Go to next page" [disabled] [ref=e293]:
+                    - img [ref=e296]
+                  - tooltip [ref=e299]: Go to next page
+                - generic [ref=e300]:
+                  - button "Go to last page" [disabled] [ref=e301]:
+                    - img [ref=e304]
+                  - tooltip [ref=e307]: Go to last page
+      - contentinfo [ref=e309]:
+        - generic [ref=e310]:
+          - img "Google" [ref=e311]
+          - generic [ref=e312]:
+            - link "Privacy Opens a new tab" [ref=e313] [cursor=pointer]:
+              - /url: https://policies.google.com/privacy?hl=en-US
+              - text: Privacy
+            - link "Terms Opens a new tab" [ref=e314] [cursor=pointer]:
+              - /url: https://policies.google.com/terms?hl=en-US
+              - text: Terms
+            - button "Send feedback" [ref=e315] [cursor=pointer]
+            - link "About Opens a new tab" [ref=e316] [cursor=pointer]:
+              - /url: https://about.google?hl=en-US
+              - text: About
+        - generic [ref=e317]:
+          - link "Help Opens a new tab" [ref=e318] [cursor=pointer]:
+            - /url: https://support.google.com/trends?hl=en-US
+            - generic [ref=e319]: help
+            - generic [ref=e320]: Help
+          - combobox "Select language" [ref=e324] [cursor=pointer]:
+            - generic [ref=e325]: language
+            - generic:
+              - generic: English (United States)‎
+            - generic:
+              - img
+      - generic [ref=e327]:
+        - generic [ref=e328]: This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic
+        - generic [ref=e329]:
+          - generic [ref=e331] [cursor=pointer]:
+            - generic [ref=e332]: Learn more
+            - link "Learn more" [ref=e333]:
+              - /url: https://policies.google.com/technologies/cookies
+          - button "Got it" [ref=e335] [cursor=pointer]:
+            - generic [ref=e337]: Got it
