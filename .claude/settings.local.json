@@ -62,7 +62,8 @@
       "WebFetch(domain:x.com)",
       "WebFetch(domain:www.bcg.com)",
       "Skill(generate-content)",
-      "Skill(generate-content:*)"
+      "Skill(generate-content:*)",
+      "WebFetch(domain:www.blog.brightcoding.dev)"
     ]
   },
   "enableAllProjectMcpServers": true,
