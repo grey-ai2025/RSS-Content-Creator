@@ -1,0 +1,315 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]
+          - button "Advanced search" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]:
+                - img [ref=e23]
+              - tooltip [ref=e25]: Advanced search
+          - button "Search" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+        - generic [ref=e30]:
+          - generic [ref=e35]:
+            - button "Help" [ref=e36] [cursor=pointer]:
+              - img [ref=e38]
+            - tooltip [ref=e40]: Help
+          - generic [ref=e45]:
+            - button "Settings" [ref=e46] [cursor=pointer]:
+              - img [ref=e48]
+            - tooltip [ref=e51]: Settings
+      - generic [ref=e53]:
+        - button "Google apps" [ref=e57] [cursor=pointer]:
+          - img [ref=e58]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e64]:
+      - tablist [ref=e65]:
+        - tab "Home" [selected] [ref=e66] [cursor=pointer]:
+          - tab "Home" [selected] [ref=e67]
+        - tab "For you" [ref=e68] [cursor=pointer]:
+          - tab "For you" [ref=e69]
+        - tab "Following" [ref=e70] [cursor=pointer]:
+          - tab "Following" [ref=e71]
+        - tab "U.S." [ref=e74] [cursor=pointer]:
+          - tab "U.S." [ref=e75]
+        - tab "World" [ref=e76] [cursor=pointer]:
+          - tab "World" [ref=e77]
+        - tab "Local" [ref=e78] [cursor=pointer]:
+          - tab "Local" [ref=e79]
+        - tab "Business" [ref=e80] [cursor=pointer]:
+          - tab "Business" [ref=e81]
+        - tab "Technology" [ref=e82] [cursor=pointer]:
+          - tab "Technology" [ref=e83]
+        - tab "Entertainment" [ref=e84] [cursor=pointer]:
+          - tab "Entertainment" [ref=e85]
+      - generic [ref=e89]:
+        - button "More" [ref=e90] [cursor=pointer]:
+          - img [ref=e92]
+        - tooltip [ref=e94]: More
+  - main [ref=e99]:
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - heading "Your briefing" [level=1] [ref=e105]
+          - paragraph [ref=e106]: Saturday, May 30
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: Today
+              - img [ref=e113]
+              - generic [ref=e114]:
+                - generic [ref=e115]: 33°
+                - generic [ref=e116]: 28°
+            - generic [ref=e117]:
+              - generic [ref=e118]: Sun
+              - img [ref=e119]
+              - generic [ref=e120]:
+                - generic [ref=e121]: 32°
+                - generic [ref=e122]: 27°
+            - generic [ref=e123]:
+              - generic [ref=e124]: Mon
+              - img [ref=e125]
+              - generic [ref=e126]:
+                - generic [ref=e127]: 30°
+                - generic [ref=e128]: 27°
+            - generic [ref=e129]:
+              - generic [ref=e130]: Tue
+              - img [ref=e131]
+              - generic [ref=e132]:
+                - generic [ref=e133]: 29°
+                - generic [ref=e134]: 26°
+          - generic [ref=e135]:
+            - button "Expand to view forecast" [ref=e136] [cursor=pointer]:
+              - img [ref=e137]
+            - generic "Calabarzon, 28°C, thunderstorms" [ref=e139]:
+              - img "thunderstorms" [ref=e140]:
+                - img [ref=e142]
+              - generic [ref=e161]:
+                - generic [ref=e162]:
+                  - generic [ref=e163]: Calabarzon
+                  - button "Use precise location" [ref=e164] [cursor=pointer]:
+                    - img [ref=e165]
+                - generic [ref=e167]: 28°C
+                - link "Google Weather" [ref=e168] [cursor=pointer]:
+                  - /url: https://support.google.com/websearch/answer/13687874
+      - generic [ref=e170]:
+        - heading "Top stories" [level=3] [ref=e173]:
+          - link "Top stories" [ref=e174] [cursor=pointer]:
+            - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Top stories
+            - img [ref=e175]
+        - generic [ref=e180]:
+          - link "Trump on Iran negotiations" [ref=e182] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ljeExtWEVSRjRsa29xbExSY09pZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Trump on Iran negotiations chevron_right
+          - generic [ref=e183]:
+            - generic [ref=e184]:
+              - link [ref=e186] [cursor=pointer]:
+                - /url: ./read/CBMie0FVX3lxTE5oUXVDZEFEU2ZxbnJBMTJOQ0pIdC0tYWdPeU5Lcng5Zzh1eWFmR3RIQ1pMOFY5UGdORXlyZ0RMRHowelB3cHh5Q2F0RTFTX1JLY0RmVlA3eEt5MTJQQVh2ZVpLeUV3ZFl6VnVoa3d5ak4yR1BWUC1DUVdFb9IBgAFBVV95cUxNeVIxUFNRTF9XZjl5ZGlnRTQySk53WEpaWTY1LUxGWlplaEY3Z3RoNl9oWm1WOUVJOUlrZVRVTXFwR195ZkN4NS1qak9zanNrNWlCREV4aElEZXp1UGJSMVEtYnZETFFBMkR3eHZHelpZQ3pPcDVaSkRya0ZJTTZ5Vg?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e187]
+              - generic [ref=e188]:
+                - generic [ref=e191]: CNBC
+                - generic [ref=e195]:
+                  - generic:
+                    - button "More - Trump lays out Iran deal demands, says he's about to make 'final determination'" [ref=e196] [cursor=pointer]:
+                      - img [ref=e198]
+                    - tooltip [ref=e200]: More
+              - link "Trump lays out Iran deal demands, says he's about to make 'final determination' - CNBC - 3 hours ago - By Kevin Breuninger" [ref=e201] [cursor=pointer]:
+                - /url: ./read/CBMie0FVX3lxTE5oUXVDZEFEU2ZxbnJBMTJOQ0pIdC0tYWdPeU5Lcng5Zzh1eWFmR3RIQ1pMOFY5UGdORXlyZ0RMRHowelB3cHh5Q2F0RTFTX1JLY0RmVlA3eEt5MTJQQVh2ZVpLeUV3ZFl6VnVoa3d5ak4yR1BWUC1DUVdFb9IBgAFBVV95cUxNeVIxUFNRTF9XZjl5ZGlnRTQySk53WEpaWTY1LUxGWlplaEY3Z3RoNl9oWm1WOUVJOUlrZVRVTXFwR195ZkN4NS1qak9zanNrNWlCREV4aElEZXp1UGJSMVEtYnZETFFBMkR3eHZHelpZQ3pPcDVaSkRya0ZJTTZ5Vg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Trump lays out Iran deal demands, says he's about to make 'final determination'
+              - generic [ref=e202]:
+                - time [ref=e203]: 3 hours ago
+                - separator [ref=e204]
+                - generic [ref=e205]: By Kevin Breuninger
+            - generic [ref=e206]:
+              - generic [ref=e207]:
+                - link [ref=e209] [cursor=pointer]:
+                  - /url: ./read/CBMitgFBVV95cUxQVFBrVzJYSVRPRmtoUkxTOG5TNDBTQW0yc3NycXJLN1dBMGdpRmlsR256VTF4Ql9ONzVRRXpOd1JGNmZrQzRqdkFoaDVXSkJ1eUljOUxhUzdaakxIRy03U1Vma2g5WXlQUWVBQmlJN0d4aDFobUdqby11NzgySzhfcmNmTXAwTFotUUJudHBfM0E2UDdjZkoxSHVZLTNrSE9qQlpfSC1URHNONDRsX0xJamo3dDlfZw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e210]:
+                  - generic [ref=e213]: The Guardian
+                  - generic [ref=e217]:
+                    - generic:
+                      - button "More - Trump claims to be on verge of approving peace deal with major Iranian concessions" [ref=e218] [cursor=pointer]:
+                        - img [ref=e220]
+                      - tooltip [ref=e222]: More
+                - link "Trump claims to be on verge of approving peace deal with major Iranian concessions - The Guardian - 29 minutes ago" [ref=e223] [cursor=pointer]:
+                  - /url: ./read/CBMitgFBVV95cUxQVFBrVzJYSVRPRmtoUkxTOG5TNDBTQW0yc3NycXJLN1dBMGdpRmlsR256VTF4Ql9ONzVRRXpOd1JGNmZrQzRqdkFoaDVXSkJ1eUljOUxhUzdaakxIRy03U1Vma2g5WXlQUWVBQmlJN0d4aDFobUdqby11NzgySzhfcmNmTXAwTFotUUJudHBfM0E2UDdjZkoxSHVZLTNrSE9qQlpfSC1URHNONDRsX0xJamo3dDlfZw?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump claims to be on verge of approving peace deal with major Iranian concessions
+                - time [ref=e225]: 29 minutes ago
+              - generic [ref=e226]:
+                - link [ref=e228] [cursor=pointer]:
+                  - /url: ./read/CBMipwFBVV95cUxNQmJEWXEybGpWemVrRUJJaUh5UVNvLVNFUU9FajF2MG1sTnJuNm1HRHVSbGMyLWZqb2IwYVlZV0w0enZBU2x4VktReDkyNDhqX2FydEpPZ2o4bDZhQjlRY0lwdmRxajBXb1BLMWk2T25QdTIzRVV6MDZCOG5DMGFmRVdfQW1aektoOVFpY1R5cmtHbnZldFVXYk9YN3BMMWdhbDlQQ01Fb9IBrAFBVV95cUxQbWMzWlBuSDZVcUNxdUgyMGJab2ZIMGptZVludDZFMExrcU5fT1k1anNWV04tVm9EWGtQWHBXU2tHbVlJdUpfMjJDSV9pNGFfNFRfTW85SmZZS2pkLUp5WWNwem1hZXl6akQ2U2lldkxWdEtkQzRKbURNVmpzbGlrbHA1SngzMGdRN29taThjSjFJSW9GaWVyRnFiaFhITGJaWEo3M3RiamFZaW9w?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e229]:
+                  - generic [ref=e232]: Al Jazeera
+                  - generic [ref=e236]:
+                    - generic:
+                      - button "More - Trump says ‘final determination’ to be made on possible Iran deal" [ref=e237] [cursor=pointer]:
+                        - img [ref=e239]
+                      - tooltip [ref=e241]: More
+                - link "Trump says ‘final determination’ to be made on possible Iran deal - Al Jazeera - 1 hour ago" [ref=e242] [cursor=pointer]:
+                  - /url: ./read/CBMipwFBVV95cUxNQmJEWXEybGpWemVrRUJJaUh5UVNvLVNFUU9FajF2MG1sTnJuNm1HRHVSbGMyLWZqb2IwYVlZV0w0enZBU2x4VktReDkyNDhqX2FydEpPZ2o4bDZhQjlRY0lwdmRxajBXb1BLMWk2T25QdTIzRVV6MDZCOG5DMGFmRVdfQW1aektoOVFpY1R5cmtHbnZldFVXYk9YN3BMMWdhbDlQQ01Fb9IBrAFBVV95cUxQbWMzWlBuSDZVcUNxdUgyMGJab2ZIMGptZVludDZFMExrcU5fT1k1anNWV04tVm9EWGtQWHBXU2tHbVlJdUpfMjJDSV9pNGFfNFRfTW85SmZZS2pkLUp5WWNwem1hZXl6akQ2U2lldkxWdEtkQzRKbURNVmpzbGlrbHA1SngzMGdRN29taThjSjFJSW9GaWVyRnFiaFhITGJaWEo3M3RiamFZaW9w?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump says ‘final determination’ to be made on possible Iran deal
+                - time [ref=e244]: 1 hour ago
+              - generic [ref=e245]:
+                - link [ref=e247] [cursor=pointer]:
+                  - /url: ./read/CBMid0FVX3lxTFB4amRjY21ZdVRYa29sT1IwbS1fX2VZMjFCenhMNmRqc1BMUDcyVXZKV3JGOWpBYnFlYlJ2XzhjVXhNVThSUU5FX0dIbEc5RVBJQjcxVTkwYU9pS1dBX0t5NDhOcTFtTEk1LTZEaHgxLXdWMTU2Q3dJ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e248]:
+                  - generic [ref=e251]: The New York Times
+                  - generic [ref=e255]:
+                    - generic:
+                      - 'button "More - Iran War Live Updates: Trump Says He’ll Soon Make ‘Final Determination’ on Iran Proposal" [ref=e256] [cursor=pointer]':
+                        - img [ref=e258]
+                      - tooltip [ref=e260]: More
+                - 'link "Iran War Live Updates: Trump Says He’ll Soon Make ‘Final Determination’ on Iran Proposal - The New York Times - 5 minutes ago - By Euan Ward, David E. Sanger & Maggie Haberman" [ref=e261] [cursor=pointer]':
+                  - /url: ./read/CBMid0FVX3lxTFB4amRjY21ZdVRYa29sT1IwbS1fX2VZMjFCenhMNmRqc1BMUDcyVXZKV3JGOWpBYnFlYlJ2XzhjVXhNVThSUU5FX0dIbEc5RVBJQjcxVTkwYU9pS1dBX0t5NDhOcTFtTEk1LTZEaHgxLXdWMTU2Q3dJ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Iran War Live Updates: Trump Says He’ll Soon Make ‘Final Determination’ on Iran Proposal"
+                - generic [ref=e262]:
+                  - time [ref=e263]: 5 minutes ago
+                  - separator [ref=e264]
+                  - generic [ref=e265]: By Euan Ward, David E. Sanger & Maggie Haberman
+          - link "See more headlines & perspectives - Trump on Iran negotiations" [ref=e268] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ljeExtWEVSRjRsa29xbExSY09pZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e269]
+            - generic [ref=e271]: See more headlines & perspectives
+        - generic [ref=e275]:
+          - link "House Oversight Committee to interview Pam Bondi on Epstein files" [ref=e277] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lSOUxPY0VSRXUtTV9QWjdPMzRTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: House Oversight Committee to interview Pam Bondi on Epstein files chevron_right
+          - generic [ref=e278]:
+            - generic [ref=e279]:
+              - link [ref=e281] [cursor=pointer]:
+                - /url: ./read/CBMiWkFVX3lxTFBXeHVPRUNyRU1Cbi1JRzNxREdadmRBUUE4OU9xSkViamItZ3lZOUlackt6dUlVZ0tYRFUtZzNtWUVyeU9PVXR0em1SQmhUdHNMQlp2RVl4Zlk4Zw?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e282]
+              - generic [ref=e283]:
+                - generic [ref=e286]: BBC
+                - generic [ref=e290]:
+                  - generic:
+                    - button "More - Former US attorney general Pam Bondi testifies in congressional Epstein probe" [ref=e291] [cursor=pointer]:
+                      - img [ref=e293]
+                    - tooltip [ref=e295]: More
+              - link "Former US attorney general Pam Bondi testifies in congressional Epstein probe - BBC - 4 hours ago - By Nardine Saad" [ref=e296] [cursor=pointer]:
+                - /url: ./read/CBMiWkFVX3lxTFBXeHVPRUNyRU1Cbi1JRzNxREdadmRBUUE4OU9xSkViamItZ3lZOUlackt6dUlVZ0tYRFUtZzNtWUVyeU9PVXR0em1SQmhUdHNMQlp2RVl4Zlk4Zw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Former US attorney general Pam Bondi testifies in congressional Epstein probe
+              - generic [ref=e297]:
+                - time [ref=e298]: 4 hours ago
+                - separator [ref=e299]
+                - generic [ref=e300]: By Nardine Saad
+            - generic [ref=e301]:
+              - generic [ref=e302]:
+                - link [ref=e304] [cursor=pointer]:
+                  - /url: ./read/CBMiygFBVV95cUxNQjExbVQtNTNGOGROSFpJV2EwNUV4bGNwRmFVNFk3YXhRQkF1WW4wRzlYejFkaUNHeXlUenRpT1JFSTVCVjV1UUdWSEgyX0dhSW5jUzVMclBPaWtnRjZVRDZHTTExcGh1UzA4TnEyVnZZSHJpc2gyYjlDM3RQTWEwNDVsUWtCdmY0VnNrVWcxd1MwYkNXUTlHUEU1UFNHdktuQ1NiTEhOLXVvMEFyMVBRVlBvSXI1MHFjN3pITDduQ3RXQ3EyRmc1R3Vn?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e305]:
+                  - generic [ref=e308]: The Guardian
+                  - generic [ref=e312]:
+                    - generic:
+                      - button "More - Trump’s former attorney general admits to ‘redaction errors’ in Epstein files in closed-door testimony – live" [ref=e313] [cursor=pointer]:
+                        - img [ref=e315]
+                      - tooltip [ref=e317]: More
+                - link "Trump’s former attorney general admits to ‘redaction errors’ in Epstein files in closed-door testimony – live - The Guardian - 1 hour ago" [ref=e318] [cursor=pointer]:
+                  - /url: ./read/CBMiygFBVV95cUxNQjExbVQtNTNGOGROSFpJV2EwNUV4bGNwRmFVNFk3YXhRQkF1WW4wRzlYejFkaUNHeXlUenRpT1JFSTVCVjV1UUdWSEgyX0dhSW5jUzVMclBPaWtnRjZVRDZHTTExcGh1UzA4TnEyVnZZSHJpc2gyYjlDM3RQTWEwNDVsUWtCdmY0VnNrVWcxd1MwYkNXUTlHUEU1UFNHdktuQ1NiTEhOLXVvMEFyMVBRVlBvSXI1MHFjN3pITDduQ3RXQ3EyRmc1R3Vn?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump’s former attorney general admits to ‘redaction errors’ in Epstein files in closed-door testimony – live
+                - time [ref=e320]: 1 hour ago
+              - generic [ref=e321]:
+                - link [ref=e323] [cursor=pointer]:
+                  - /url: ./read/CBMi1AFBVV95cUxPbktNNy11OTlFVEN3UWI0dHhNV3Y4dWtiVkJfNFNyMHFUd09rajlzdU5uM0xRLXZtQ1NkTVFibFhYVFBQNnFXMk12aG9zT1I1NGFzNnZJRk9UOFFtSDNVa2VoRUFXNEVLYTRnemdsSFZ6bU5HeU5qd0F1OExOcU15OEdKUzZvTEt3ZFFjRDBxaHozbVF6aWdRWlRJOWFuT0xyUFRHN2RlQmhHWHRKdWZzMzRiUTFoRUVEWm5rejBweTRQbEZLNXJ0ZzJEdmtOV0Vid1JkeA?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e324]:
+                  - generic [ref=e327]: Anchorage Daily News
+                  - generic [ref=e331]:
+                    - generic:
+                      - button "More - Bondi refuses to answer lawmakers’ questions about Trump’s involvement in Epstein files release" [ref=e332] [cursor=pointer]:
+                        - img [ref=e334]
+                      - tooltip [ref=e336]: More
+                - link "Bondi refuses to answer lawmakers’ questions about Trump’s involvement in Epstein files release - Anchorage Daily News - 32 minutes ago - By Stephen Groves" [ref=e337] [cursor=pointer]:
+                  - /url: ./read/CBMi1AFBVV95cUxPbktNNy11OTlFVEN3UWI0dHhNV3Y4dWtiVkJfNFNyMHFUd09rajlzdU5uM0xRLXZtQ1NkTVFibFhYVFBQNnFXMk12aG9zT1I1NGFzNnZJRk9UOFFtSDNVa2VoRUFXNEVLYTRnemdsSFZ6bU5HeU5qd0F1OExOcU15OEdKUzZvTEt3ZFFjRDBxaHozbVF6aWdRWlRJOWFuT0xyUFRHN2RlQmhHWHRKdWZzMzRiUTFoRUVEWm5rejBweTRQbEZLNXJ0ZzJEdmtOV0Vid1JkeA?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Bondi refuses to answer lawmakers’ questions about Trump’s involvement in Epstein files release
+                - generic [ref=e338]:
+                  - time [ref=e339]: 32 minutes ago
+                  - separator [ref=e340]
+                  - generic [ref=e341]: By Stephen Groves
+              - generic [ref=e342]:
+                - link [ref=e344] [cursor=pointer]:
+                  - /url: ./read/CBMie0FVX3lxTFByUUZyY3RUdHVnRUpqU3JRMVlVN3RmN0p3eUY0N21DRjd4TFBKb1pFd1ctUEFpZ0hjUld1YksxelBuS1dBcHNjWDBTTHVzekFDSm5kcE5wejdLSW50SzFJak1tS0pUbnB6dVNkOEhOTkswZVc2bC00VmVQWQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e345]:
+                  - generic [ref=e348]: NPR
+                  - generic [ref=e352]:
+                    - generic:
+                      - button "More - Bondi doubles down on handling of Epstein files in testimony to Congress" [ref=e353] [cursor=pointer]:
+                        - img [ref=e355]
+                      - tooltip [ref=e357]: More
+                - link "Bondi doubles down on handling of Epstein files in testimony to Congress - NPR - 9 hours ago - By Ava Berger" [ref=e358] [cursor=pointer]:
+                  - /url: ./read/CBMie0FVX3lxTFByUUZyY3RUdHVnRUpqU3JRMVlVN3RmN0p3eUY0N21DRjd4TFBKb1pFd1ctUEFpZ0hjUld1YksxelBuS1dBcHNjWDBTTHVzekFDSm5kcE5wejdLSW50SzFJak1tS0pUbnB6dVNkOEhOTkswZVc2bC00VmVQWQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Bondi doubles down on handling of Epstein files in testimony to Congress
+                - generic [ref=e359]:
+                  - time [ref=e360]: 9 hours ago
+                  - separator [ref=e361]
+                  - generic [ref=e362]: By Ava Berger
+          - link "See more headlines & perspectives - House Oversight Committee to interview Pam Bondi on Epstein files" [ref=e365] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lSOUxPY0VSRXUtTV9QWjdPMzRTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e366]
+            - generic [ref=e368]: See more headlines & perspectives
+        - generic [ref=e372]:
+          - generic [ref=e373]:
+            - link [ref=e375] [cursor=pointer]:
+              - /url: ./read/CBMizAFBVV95cUxQbUJWc3Rta09DX2owWnh2UzFZZEtTRFpidkJjcmttOVpNb2FjbFV4YVpDMklQTkNKLUxta0Z1RHhWdDlFTWZBdnlKR2RjaFNqWDNfME9sd0R3LVJaeEd4ZlQ0cV9qOG03VHVleTZKaUt4Nkp6dUJQYmlDcmFtMDdCUy1GODZSOTlpUjVaR2JaeHFfN1ctb05rSDBBV1ZfNkZiRXRHSFNyRUt0bDNGQ281eHktZHdsU05FSVR0dkdsNGxYZmtJLWtac2xDQ1g?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e377]:
+              - generic [ref=e378]:
+                - generic [ref=e381]: NBC News
+                - generic [ref=e385]:
+                  - generic:
+                    - button "More - Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor sues" [ref=e386] [cursor=pointer]:
+                      - img [ref=e388]
+                    - tooltip [ref=e390]: More
+              - link "Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor sues - NBC News - 4 hours ago - By Ryan Reilly" [ref=e391] [cursor=pointer]:
+                - /url: ./read/CBMizAFBVV95cUxQbUJWc3Rta09DX2owWnh2UzFZZEtTRFpidkJjcmttOVpNb2FjbFV4YVpDMklQTkNKLUxta0Z1RHhWdDlFTWZBdnlKR2RjaFNqWDNfME9sd0R3LVJaeEd4ZlQ0cV9qOG03VHVleTZKaUt4Nkp6dUJQYmlDcmFtMDdCUy1GODZSOTlpUjVaR2JaeHFfN1ctb05rSDBBV1ZfNkZiRXRHSFNyRUt0bDNGQ281eHktZHdsU05FSVR0dkdsNGxYZmtJLWtac2xDQ1g?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor sues
+            - figure [ref=e392]
+          - generic [ref=e393]:
+            - time [ref=e394]: 4 hours ago
+            - separator [ref=e395]
+            - generic [ref=e396]: By Ryan Reilly
+            - link "See more headlines & perspectives - Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor sues" [ref=e397] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lwMmNHZkVSR2FRUjZIVk5waTJDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e398]
+              - generic [ref=e400]: See more
+        - generic [ref=e404]:
+          - generic [ref=e405]:
+            - link [ref=e407] [cursor=pointer]:
+              - /url: ./read/CBMilAFBVV95cUxOQ0dPM25MUjZycVRLX3NKaVBSM0pFYWFOMXZGM0M0WVVaQkthT2tMODRWclNzWWNMQ1RlM1pvck5FMkx5LXlWV3BXVTdrYkVFb0t2WGZOLXQwNEVaRm1sN0JmSUJPUHNWVXV6Tk1ydUlvaVQxNzdSdzRsNDlBMjh2ZkE2aWVULXBGaTczeWhzZzFfV01T?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e409]:
+              - generic [ref=e410]:
+                - generic [ref=e413]: The New York Times
+                - generic [ref=e417]:
+                  - generic:
+                    - button "More - ICE Agent Charged in Minnesota Shooting Is Arrested in Texas" [ref=e418] [cursor=pointer]:
+                      - img [ref=e420]
+                    - tooltip [ref=e422]: More
+              - link "ICE Agent Charged in Minnesota Shooting Is Arrested in Texas - The New York Times - 2 hours ago - By Ernesto Londono" [ref=e423] [cursor=pointer]:
+                - /url: ./read/CBMilAFBVV95cUxOQ0dPM25MUjZycVRLX3NKaVBSM0pFYWFOMXZGM0M0WVVaQkthT2tMODRWclNzWWNMQ1RlM1pvck5FMkx5LXlWV3BXVTdrYkVFb0t2WGZOLXQwNEVaRm1sN0JmSUJPUHNWVXV6Tk1ydUlvaVQxNzdSdzRsNDlBMjh2ZkE2aWVULXBGaTczeWhzZzFfV01T?hl=en-US&gl=US&ceid=US%3Aen
+                - text: ICE Agent Charged in Minnesota Shooting Is Arrested in Texas
+            - figure [ref=e424]
+          - generic [ref=e425]:
+            - time [ref=e426]: 2 hours ago
+            - separator [ref=e427]
+            - generic [ref=e428]: By Ernesto Londono
+            - link "See more headlines & perspectives - ICE Agent Charged in Minnesota Shooting Is Arrested in Texas" [ref=e429] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pQaTQtZ0VSR2o1REljOVRaOGxpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e430]
+              - generic [ref=e432]: See more
+      - generic [ref=e435]:
+        - generic [ref=e436]:
+          - heading "Local news" [level=3] [ref=e438]:
+            - link "Local news" [ref=e439] [cursor=pointer]:
+              - /url: ./topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Local news
+              - img [ref=e440]
+          - generic [ref=e444]:
+            - button "Manage local news" [ref=e445] [cursor=pointer]:
+              - img [ref=e446]
+            - tooltip [ref=e449]: Manage local news
+        - tablist [ref=e451]

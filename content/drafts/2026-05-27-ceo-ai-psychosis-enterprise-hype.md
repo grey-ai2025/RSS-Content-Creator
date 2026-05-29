@@ -1,7 +1,7 @@
 ---
 source_file: content/research/2026-05-27-ceo-ai-psychosis-enterprise-hype.md
 keywords_file: content/seo/2026-05-27-keywords.md
-status: ranked
+status: winner
 created_date: 2026-05-27
 ---
 

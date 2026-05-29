@@ -1,0 +1,2187 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]: AI agents
+          - button "Advanced search" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]:
+                - img [ref=e23]
+              - tooltip [ref=e25]: Advanced search
+          - button "Clear search" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - button "Search" [ref=e30] [cursor=pointer]:
+            - img [ref=e31]
+        - generic [ref=e34]:
+          - generic [ref=e39]:
+            - button "Help" [ref=e40] [cursor=pointer]:
+              - img [ref=e42]
+            - tooltip [ref=e44]: Help
+          - generic [ref=e49]:
+            - button "Settings" [ref=e50] [cursor=pointer]:
+              - img [ref=e52]
+            - tooltip [ref=e55]: Settings
+      - generic [ref=e57]:
+        - button "Google apps" [ref=e61] [cursor=pointer]:
+          - img [ref=e62]
+        - link "Sign in" [ref=e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/search?q%3DAI%2Bagents%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/search?q%3DAI%2Bagents%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e68]:
+      - tablist [ref=e69]:
+        - tab "Home" [ref=e70] [cursor=pointer]:
+          - tab "Home" [ref=e71]
+        - tab "For you" [ref=e72] [cursor=pointer]:
+          - tab "For you" [ref=e73]
+        - tab "Following" [ref=e74] [cursor=pointer]:
+          - tab "Following" [ref=e75]
+        - tab "U.S." [ref=e78] [cursor=pointer]:
+          - tab "U.S." [ref=e79]
+        - tab "World" [ref=e80] [cursor=pointer]:
+          - tab "World" [ref=e81]
+        - tab "Local" [ref=e82] [cursor=pointer]:
+          - tab "Local" [ref=e83]
+        - tab "Business" [ref=e84] [cursor=pointer]:
+          - tab "Business" [ref=e85]
+        - tab "Technology" [ref=e86] [cursor=pointer]:
+          - tab "Technology" [ref=e87]
+        - tab "Entertainment" [ref=e88] [cursor=pointer]:
+          - tab "Entertainment" [ref=e89]
+      - generic [ref=e93]:
+        - button "More" [ref=e94] [cursor=pointer]:
+          - img [ref=e96]
+        - tooltip [ref=e98]: More
+  - main [ref=e102]:
+    - generic [ref=e104]:
+      - generic [ref=e107]:
+        - generic [ref=e108]:
+          - link [ref=e110] [cursor=pointer]:
+            - /url: ./read/CBMiekFVX3lxTFB1Mlp0QWhFMENrejBhUUV2T0FyV191dE1rRFEtdlJub2xoa3cxNDhiTVVnN0huQUhadVVHeXFhcjc4OFFYVFdMMTl1aVR1ajFZLUFRLTU5bTZlN2xfME9UUHdPOEZ5YS0tbkxvUWZEU0VlMkJuZWV5dEtR?hl=en-US&gl=US&ceid=US%3Aen
+          - generic [ref=e112]:
+            - generic [ref=e113]:
+              - generic [ref=e116]: Euronews.com
+              - generic [ref=e120]:
+                - generic:
+                  - button "More - AI agents turned to theft, intimidation and collapse in online worlds" [ref=e121] [cursor=pointer]:
+                    - img [ref=e123]
+                  - tooltip [ref=e125]: More
+            - link "AI agents turned to theft, intimidation and collapse in online worlds - Euronews.com - 8 hours ago - By Anna Desmarais" [ref=e126] [cursor=pointer]:
+              - /url: ./read/CBMiekFVX3lxTFB1Mlp0QWhFMENrejBhUUV2T0FyV191dE1rRFEtdlJub2xoa3cxNDhiTVVnN0huQUhadVVHeXFhcjc4OFFYVFdMMTl1aVR1ajFZLUFRLTU5bTZlN2xfME9UUHdPOEZ5YS0tbkxvUWZEU0VlMkJuZWV5dEtR?hl=en-US&gl=US&ceid=US%3Aen
+              - text: AI agents turned to theft, intimidation and collapse in online worlds
+          - figure [ref=e127]
+        - generic [ref=e128]:
+          - time [ref=e129]: 8 hours ago
+          - separator [ref=e130]
+          - generic [ref=e131]: By Anna Desmarais
+      - generic [ref=e133]:
+        - heading "Robinhood launches AI agent trading and credit card purchases" [level=3] [ref=e134]
+        - separator [ref=e135]
+        - generic [ref=e136]:
+          - generic [ref=e137]:
+            - generic [ref=e139]:
+              - generic [ref=e140]:
+                - link [ref=e142] [cursor=pointer]:
+                  - /url: ./read/CBMiwwFBVV95cUxOQnZTTEZFVTNYTTg3TGhGblRqcUhNQ2szZEkxS3pnTHU2cFg4UnNvX1otZFVJZ0RRbDlBckRib3lKQ2RQODAyVHp4SFd2dms1QjdYdkp2MWs5MmF6YjBKRlNZMzVBenBtN08zTU5aV2c2QXhDQTlFbzRyNjRYeXpnaFpJaC0wd2dJQnRsbFVoUm1Rd3BVOE9Mb3A4YXJ2SjNoTUVRd3I2T0tMbDlJd3h6eUNfRUk0SS1oZXZ0em8wMkF2dWPSAcgBQVVfeXFMTXFPXzhaUUQxbmNKRTFVVHlHcTFrdHBWNlZPQWduLVBDR0cyN0d4X2pwbXJLcThWQXQ5U3ZvLXp1UzdDSjd0Zkl5NjY5Q2VQOW5VdmFJU0ZWQzdiN0tYMUYzQnRFbFVjZU5ubHo1MG9MdzRaM1g4NmVSS0RFaVpIa2Y4QVZfM3Fua1NXTzRiSDN3czhwLXE4MHFBWmJFV3JrcVBBZkt5VUp6aUUxbld1RjB6emZYdk85dlA0OXU4cTY3b2JaZ19ZTG4?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e144]:
+                  - generic [ref=e145]:
+                    - generic [ref=e148]: CNBC
+                    - generic [ref=e152]:
+                      - generic:
+                        - button "More - Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too" [ref=e153] [cursor=pointer]:
+                          - img [ref=e155]
+                        - tooltip [ref=e157]: More
+                  - link "Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too - CNBC - 3 days ago - By Yun Li" [ref=e158] [cursor=pointer]:
+                    - /url: ./read/CBMiwwFBVV95cUxOQnZTTEZFVTNYTTg3TGhGblRqcUhNQ2szZEkxS3pnTHU2cFg4UnNvX1otZFVJZ0RRbDlBckRib3lKQ2RQODAyVHp4SFd2dms1QjdYdkp2MWs5MmF6YjBKRlNZMzVBenBtN08zTU5aV2c2QXhDQTlFbzRyNjRYeXpnaFpJaC0wd2dJQnRsbFVoUm1Rd3BVOE9Mb3A4YXJ2SjNoTUVRd3I2T0tMbDlJd3h6eUNfRUk0SS1oZXZ0em8wMkF2dWPSAcgBQVVfeXFMTXFPXzhaUUQxbmNKRTFVVHlHcTFrdHBWNlZPQWduLVBDR0cyN0d4X2pwbXJLcThWQXQ5U3ZvLXp1UzdDSjd0Zkl5NjY5Q2VQOW5VdmFJU0ZWQzdiN0tYMUYzQnRFbFVjZU5ubHo1MG9MdzRaM1g4NmVSS0RFaVpIa2Y4QVZfM3Fua1NXTzRiSDN3czhwLXE4MHFBWmJFV3JrcVBBZkt5VUp6aUUxbld1RjB6emZYdk85dlA0OXU4cTY3b2JaZ19ZTG4?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too
+                - figure [ref=e159]
+              - generic [ref=e160]:
+                - time [ref=e161]: 3 days ago
+                - separator [ref=e162]
+                - generic [ref=e163]: By Yun Li
+            - separator [ref=e164]
+          - generic [ref=e167]:
+            - generic [ref=e168]:
+              - link [ref=e170] [cursor=pointer]:
+                - /url: ./read/CBMiqAFBVV95cUxPcTM0aWNJV2FKQWc3TmpNNTB5bjl0RmI3N1Y5RGxfME9vNzdrVDB2cVc5NExFZ0xxSFhQWUdIYU5kNF9rOWVSQWFXMmN1anBmRGRMMmpqQWZ0dnZ1ZnJIV0ZsQ2trVVVBLVV6eEtQUHhfcTJaMkxndFhTRU5TV0JUWWh6VW9lbTVoVTh4dTV5OHBzWUhLS05lWGZzTmI4U05YTTd5cmZDNTI?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e172]:
+                - generic [ref=e173]:
+                  - generic [ref=e176]: Forbes
+                  - generic [ref=e180]:
+                    - generic:
+                      - button "More - Robinhood Will Let Customers Use AI Agents To Trade Stocks" [ref=e181] [cursor=pointer]:
+                        - img [ref=e183]
+                      - tooltip [ref=e185]: More
+                - link "Robinhood Will Let Customers Use AI Agents To Trade Stocks - Forbes - 3 days ago - By Zachary Folk" [ref=e186] [cursor=pointer]:
+                  - /url: ./read/CBMiqAFBVV95cUxPcTM0aWNJV2FKQWc3TmpNNTB5bjl0RmI3N1Y5RGxfME9vNzdrVDB2cVc5NExFZ0xxSFhQWUdIYU5kNF9rOWVSQWFXMmN1anBmRGRMMmpqQWZ0dnZ1ZnJIV0ZsQ2trVVVBLVV6eEtQUHhfcTJaMkxndFhTRU5TV0JUWWh6VW9lbTVoVTh4dTV5OHBzWUhLS05lWGZzTmI4U05YTTd5cmZDNTI?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Robinhood Will Let Customers Use AI Agents To Trade Stocks
+              - figure [ref=e187]
+            - generic [ref=e188]:
+              - time [ref=e189]: 3 days ago
+              - separator [ref=e190]
+              - generic [ref=e191]: By Zachary Folk
+          - generic [ref=e194]:
+            - generic [ref=e195]:
+              - link [ref=e197] [cursor=pointer]:
+                - /url: ./read/CBMisgFBVV95cUxQSmdpUml6UU8zOEZqMGYtNURnZE5RVmlGTEk2WV8wb2ZJdHM4UFZFR3pITXljWU9MT1Noc1E0LVA3ekdFVVQzb3BRMjI3ZjFKaWdrRVA4NWZKWUJhYUZ5VzFzaWRNTEhxSnBRM296NFVTcHdaSURGVS1ZMERfODBHRl9jVFh2dndxckFXdko5dXo1ZGg3MEhQa2VmWHRSVFJyWUM5VmNQRkdzblllWFZmN3JB?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e199]:
+                - generic [ref=e200]:
+                  - generic [ref=e203]: Bloomberg.com
+                  - generic [ref=e207]:
+                    - generic:
+                      - button "More - Robinhood Launches AI Stock Trading, Purchases on Credit Cards" [ref=e208] [cursor=pointer]:
+                        - img [ref=e210]
+                      - tooltip [ref=e212]: More
+                - link "Robinhood Launches AI Stock Trading, Purchases on Credit Cards - Bloomberg.com - 3 days ago - By Paige Smith" [ref=e213] [cursor=pointer]:
+                  - /url: ./read/CBMisgFBVV95cUxQSmdpUml6UU8zOEZqMGYtNURnZE5RVmlGTEk2WV8wb2ZJdHM4UFZFR3pITXljWU9MT1Noc1E0LVA3ekdFVVQzb3BRMjI3ZjFKaWdrRVA4NWZKWUJhYUZ5VzFzaWRNTEhxSnBRM296NFVTcHdaSURGVS1ZMERfODBHRl9jVFh2dndxckFXdko5dXo1ZGg3MEhQa2VmWHRSVFJyWUM5VmNQRkdzblllWFZmN3JB?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Robinhood Launches AI Stock Trading, Purchases on Credit Cards
+              - figure [ref=e214]
+            - generic [ref=e215]:
+              - time [ref=e216]: 3 days ago
+              - separator [ref=e217]
+              - generic [ref=e218]: By Paige Smith
+      - generic [ref=e222]:
+        - generic [ref=e223]:
+          - link [ref=e225] [cursor=pointer]:
+            - /url: ./read/CBMie0FVX3lxTFBnb1A3b0JmZEFBM0VYLUdpVHB2bTdWcTFBc2Y0dkJhaFBiLVBCS2Q0UXAzM29WVWRtQ3lnbENkQ3VxSlZCQnNsQk9rbnlkQ2tsaFhyY3NHOW5rWHZKZjR3QWR4eDZtNFVKMnduUWlUVG5jZFlrdjJva0RGcw?hl=en-US&gl=US&ceid=US%3Aen
+          - generic [ref=e227]:
+            - generic [ref=e228]:
+              - generic [ref=e231]: Fortune
+              - generic [ref=e235]:
+                - generic:
+                  - 'button "More - Microsoft reports are exposing AI''s real cost problem: Using the tech is more expensive than paying human employees" [ref=e236] [cursor=pointer]':
+                    - img [ref=e238]
+                  - tooltip [ref=e240]: More
+            - 'link "Microsoft reports are exposing AI''s real cost problem: Using the tech is more expensive than paying human employees - Fortune - 7 days ago - By Jake Angelo" [ref=e241] [cursor=pointer]':
+              - /url: ./read/CBMie0FVX3lxTFBnb1A3b0JmZEFBM0VYLUdpVHB2bTdWcTFBc2Y0dkJhaFBiLVBCS2Q0UXAzM29WVWRtQ3lnbENkQ3VxSlZCQnNsQk9rbnlkQ2tsaFhyY3NHOW5rWHZKZjR3QWR4eDZtNFVKMnduUWlUVG5jZFlrdjJva0RGcw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees"
+          - figure [ref=e242]
+        - generic [ref=e243]:
+          - time [ref=e244]: 7 days ago
+          - separator [ref=e245]
+          - generic [ref=e246]: By Jake Angelo
+      - generic [ref=e247]:
+        - separator [ref=e249]
+        - generic [ref=e251]:
+          - generic [ref=e252]:
+            - link [ref=e254] [cursor=pointer]:
+              - /url: ./read/CBMimgFBVV95cUxObTloWGNuSDJMN0wzYTZxUnhScUczOUE1Uld1bXRFb3pqZE9oWWQzeU56SGctWk5JTTkyWDFmRk5RQ0g1aV9fNmp2ZW1RZ29famd0MHFYMHo2NE9SVFVCOHhhNEFZS21PcW9xV3pjUERtOVV2dk1ER3F3eXZpa1F5ak90V2kzbk1ZOVlJRDg4Q05GSFpxdXBlbl9n?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e256]:
+              - generic [ref=e257]:
+                - generic [ref=e260]: Yahoo Finance
+                - generic [ref=e264]:
+                  - generic:
+                    - button "More - Adobe (ADBE) is Future Proofing with AI Agents" [ref=e265] [cursor=pointer]:
+                      - img [ref=e267]
+                    - tooltip [ref=e269]: More
+              - link "Adobe (ADBE) is Future Proofing with AI Agents - Yahoo Finance - 5 hours ago" [ref=e270] [cursor=pointer]:
+                - /url: ./read/CBMimgFBVV95cUxObTloWGNuSDJMN0wzYTZxUnhScUczOUE1Uld1bXRFb3pqZE9oWWQzeU56SGctWk5JTTkyWDFmRk5RQ0g1aV9fNmp2ZW1RZ29famd0MHFYMHo2NE9SVFVCOHhhNEFZS21PcW9xV3pjUERtOVV2dk1ER3F3eXZpa1F5ak90V2kzbk1ZOVlJRDg4Q05GSFpxdXBlbl9n?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Adobe (ADBE) is Future Proofing with AI Agents
+            - figure [ref=e271]
+          - time [ref=e273]: 5 hours ago
+      - generic [ref=e274]:
+        - separator [ref=e276]
+        - generic [ref=e278]:
+          - generic [ref=e279]:
+            - link [ref=e281] [cursor=pointer]:
+              - /url: ./read/CBMivAFBVV95cUxNMHJ2Rk8tYUd0cmQ0bjB2VFhRckp5ZGtISEYwQlBrdXN6d1ZUdU1QR1YydlQ1Y2twTDk0OFQ2dVNrSGFSRlV6VXdtQ1VJR2UtSzlUaklTNDNrb3ZTZUt5aktsVkpGTXFvNGZoSmVNSk0xVml4N1hBMnFyR3BvMWVReTdIM0JMMmZLQVU3Z3hnLUY1ekk2VmpVR253U2VLV3ZwalVlYS1lUnFLX0E3ak4tWDFhTHVfTktTWTJkVw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e283]:
+              - generic [ref=e284]:
+                - generic [ref=e287]: Inside Higher Ed
+                - generic [ref=e291]:
+                  - generic:
+                    - button "More - 5 Tips for Assignment Design in the Agentic AI Age (opinion)" [ref=e292] [cursor=pointer]:
+                      - img [ref=e294]
+                    - tooltip [ref=e296]: More
+              - link "5 Tips for Assignment Design in the Agentic AI Age (opinion) - Inside Higher Ed - 11 hours ago" [ref=e297] [cursor=pointer]:
+                - /url: ./read/CBMivAFBVV95cUxNMHJ2Rk8tYUd0cmQ0bjB2VFhRckp5ZGtISEYwQlBrdXN6d1ZUdU1QR1YydlQ1Y2twTDk0OFQ2dVNrSGFSRlV6VXdtQ1VJR2UtSzlUaklTNDNrb3ZTZUt5aktsVkpGTXFvNGZoSmVNSk0xVml4N1hBMnFyR3BvMWVReTdIM0JMMmZLQVU3Z3hnLUY1ekk2VmpVR253U2VLV3ZwalVlYS1lUnFLX0E3ak4tWDFhTHVfTktTWTJkVw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: 5 Tips for Assignment Design in the Agentic AI Age (opinion)
+            - figure [ref=e298]
+          - time [ref=e300]: 11 hours ago
+      - generic [ref=e301]:
+        - separator [ref=e303]
+        - generic [ref=e305]:
+          - generic [ref=e306]:
+            - link [ref=e308] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxObkU0NktLNFYwcDlubEItOW1xTjZJQV91UTFHWl81RU9UQl9wamZBU0kwWTlBNzN2Vk80enE1SHhkcGNRV1dYTHQzMm5GOUJsUnh1eXpEeDF4Z0QwM1c1SG1ERlJ1RzRqb3NhYXh5djVfcUlpVURxWF9OSFlXNHNnMVpyUDVOWS1GajRlb1NVNDRZSk04TE8xb0VwNmNkUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e310]:
+              - generic [ref=e311]:
+                - generic [ref=e314]: The Information
+                - generic [ref=e318]:
+                  - generic:
+                    - button "More - Lowe’s Says ‘Semantic’ Data is Boosting Its AI Agents" [ref=e319] [cursor=pointer]:
+                      - img [ref=e321]
+                    - tooltip [ref=e323]: More
+              - link "Lowe’s Says ‘Semantic’ Data is Boosting Its AI Agents - The Information - 22 hours ago - By Kevin McLaughlin" [ref=e324] [cursor=pointer]:
+                - /url: ./read/CBMingFBVV95cUxObkU0NktLNFYwcDlubEItOW1xTjZJQV91UTFHWl81RU9UQl9wamZBU0kwWTlBNzN2Vk80enE1SHhkcGNRV1dYTHQzMm5GOUJsUnh1eXpEeDF4Z0QwM1c1SG1ERlJ1RzRqb3NhYXh5djVfcUlpVURxWF9OSFlXNHNnMVpyUDVOWS1GajRlb1NVNDRZSk04TE8xb0VwNmNkUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Lowe’s Says ‘Semantic’ Data is Boosting Its AI Agents
+            - figure [ref=e325]
+          - generic [ref=e326]:
+            - time [ref=e327]: 22 hours ago
+            - separator [ref=e328]
+            - generic [ref=e329]: By Kevin McLaughlin
+      - generic [ref=e330]:
+        - separator [ref=e332]
+        - generic [ref=e334]:
+          - generic [ref=e335]:
+            - link [ref=e337] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxPWUZLbEtQR0owc1lfcmcwUzU3bzZNaFlVeGtEWmxBZWZDOGRNRmpJaWJFeDRjLXFQeG1XNi0xUmdwSkF5SzlaZDFOX0s3WVl3ZVcwNFBISUNUZVExaWRSUTFwZENQdUI0M3IyWnpuWV9xaWRaWEtNNkN6UUJIWEVBa3M2SjBUcnplUG1zdlRUQmxsd1JaUVhLU082OVh5b1ZyNXc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e339]:
+              - generic [ref=e340]:
+                - generic [ref=e343]: TechCrunch
+                - generic [ref=e347]:
+                  - generic:
+                    - button "More - Cognition’s Scott Wu says AI coding agents shouldn’t replace humans" [ref=e348] [cursor=pointer]:
+                      - img [ref=e350]
+                    - tooltip [ref=e352]: More
+              - link "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans - TechCrunch - 2 hours ago - By Julie Bort" [ref=e353] [cursor=pointer]:
+                - /url: ./read/CBMiogFBVV95cUxPWUZLbEtQR0owc1lfcmcwUzU3bzZNaFlVeGtEWmxBZWZDOGRNRmpJaWJFeDRjLXFQeG1XNi0xUmdwSkF5SzlaZDFOX0s3WVl3ZVcwNFBISUNUZVExaWRSUTFwZENQdUI0M3IyWnpuWV9xaWRaWEtNNkN6UUJIWEVBa3M2SjBUcnplUG1zdlRUQmxsd1JaUVhLU082OVh5b1ZyNXc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Cognition’s Scott Wu says AI coding agents shouldn’t replace humans
+            - figure [ref=e354]
+          - generic [ref=e355]:
+            - time [ref=e356]: 2 hours ago
+            - separator [ref=e357]
+            - generic [ref=e358]: By Julie Bort
+      - generic [ref=e359]:
+        - separator [ref=e361]
+        - generic [ref=e363]:
+          - generic [ref=e364]:
+            - link [ref=e366] [cursor=pointer]:
+              - /url: ./read/CBMimwFBVV95cUxPVGIwR3BKOVEtOGVtVmFTV1RpY3k4bmtUMFRBZU5aYlhxWlFzbEJOdHk2MjBPQWVwU3psUVZPa0Q2dlNldnFDRUhFQlRZRmdXM0pRRE1HNVdBQUFqa2F1UWh5Y3BTQTdROVI1UVFPUnVTSGdyNTM3T282VGV1ejBjbU9NMXpRWFlpZnhjb0dqU0tBbkJhWDFwS0FuMA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e368]:
+              - generic [ref=e369]:
+                - generic [ref=e372]: The Verge
+                - generic [ref=e376]:
+                  - generic:
+                    - button "More - Adobe’s conversational AI agent is a mediocre design intern" [ref=e377] [cursor=pointer]:
+                      - img [ref=e379]
+                    - tooltip [ref=e381]: More
+              - link "Adobe’s conversational AI agent is a mediocre design intern - The Verge - 8 hours ago - By Jess Weatherbed" [ref=e382] [cursor=pointer]:
+                - /url: ./read/CBMimwFBVV95cUxPVGIwR3BKOVEtOGVtVmFTV1RpY3k4bmtUMFRBZU5aYlhxWlFzbEJOdHk2MjBPQWVwU3psUVZPa0Q2dlNldnFDRUhFQlRZRmdXM0pRRE1HNVdBQUFqa2F1UWh5Y3BTQTdROVI1UVFPUnVTSGdyNTM3T282VGV1ejBjbU9NMXpRWFlpZnhjb0dqU0tBbkJhWDFwS0FuMA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Adobe’s conversational AI agent is a mediocre design intern
+            - figure [ref=e383]
+          - generic [ref=e384]:
+            - time [ref=e385]: 8 hours ago
+            - separator [ref=e386]
+            - generic [ref=e387]: By Jess Weatherbed
+      - generic [ref=e388]:
+        - separator [ref=e390]
+        - generic [ref=e392]:
+          - generic [ref=e393]:
+            - link [ref=e395] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxOM01jXzdmaVlDZ1VnYkVwalM2azVRX0tGMkZUcXBtSUpaWWt6cXNwVkdPVTZjbVNaZWpFSFhSb3R3YTMyS0RxWVFrWTFzbWJtNThIc1M0cWFmS2NDaGdRZEJfMUUtX040Nlg0eTVRNmV4WHdEdFQ0aWxaekUzS2R6NmhUWWttdHcyWi1ucTE5dzlONTJScHpVenFteVZmZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e397]:
+              - generic [ref=e398]:
+                - generic [ref=e401]: Towards Data Science
+                - generic [ref=e405]:
+                  - generic:
+                    - button "More - The Infrastructure Behind Making Local LLM Agents Actually Useful" [ref=e406] [cursor=pointer]:
+                      - img [ref=e408]
+                    - tooltip [ref=e410]: More
+              - link "The Infrastructure Behind Making Local LLM Agents Actually Useful - Towards Data Science - 2 days ago - By Hussen Mohammed Ibrahim" [ref=e411] [cursor=pointer]:
+                - /url: ./read/CBMingFBVV95cUxOM01jXzdmaVlDZ1VnYkVwalM2azVRX0tGMkZUcXBtSUpaWWt6cXNwVkdPVTZjbVNaZWpFSFhSb3R3YTMyS0RxWVFrWTFzbWJtNThIc1M0cWFmS2NDaGdRZEJfMUUtX040Nlg0eTVRNmV4WHdEdFQ0aWxaekUzS2R6NmhUWWttdHcyWi1ucTE5dzlONTJScHpVenFteVZmZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The Infrastructure Behind Making Local LLM Agents Actually Useful
+            - figure [ref=e412]
+          - generic [ref=e413]:
+            - time [ref=e414]: 2 days ago
+            - separator [ref=e415]
+            - generic [ref=e416]: By Hussen Mohammed Ibrahim
+      - generic [ref=e417]:
+        - separator [ref=e419]
+        - generic [ref=e421]:
+          - generic [ref=e422]:
+            - link [ref=e424] [cursor=pointer]:
+              - /url: ./read/CBMickFVX3lxTFBZOVA5Z3pKZ1JzSHJXaFl0LWdSQlZfZWhGb3AtY1R3MExZRm9KS2dfRmNzTE1XR2VXdjlPMVh6U25SU2JmcXBZQjlnSWRreHM2SGZmTnpQVzRLQVFmVFQyOExiR2o5dFhSb3A2WVBmV2RzQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e426]:
+              - generic [ref=e427]:
+                - generic [ref=e430]: Anthropic
+                - generic [ref=e434]:
+                  - generic:
+                    - button "More - Coding agents in the social sciences" [ref=e435] [cursor=pointer]:
+                      - img [ref=e437]
+                    - tooltip [ref=e439]: More
+              - link "Coding agents in the social sciences - Anthropic - 2 days ago" [ref=e440] [cursor=pointer]:
+                - /url: ./read/CBMickFVX3lxTFBZOVA5Z3pKZ1JzSHJXaFl0LWdSQlZfZWhGb3AtY1R3MExZRm9KS2dfRmNzTE1XR2VXdjlPMVh6U25SU2JmcXBZQjlnSWRreHM2SGZmTnpQVzRLQVFmVFQyOExiR2o5dFhSb3A2WVBmV2RzQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Coding agents in the social sciences
+            - figure [ref=e441]
+          - time [ref=e443]: 2 days ago
+      - generic [ref=e444]:
+        - separator [ref=e446]
+        - generic [ref=e448]:
+          - generic [ref=e449]:
+            - link [ref=e451] [cursor=pointer]:
+              - /url: ./read/CBMiggFBVV95cUxPTVpNZzlMT1NYSVVoc3NrSmNsbU5XV0JfM2F0dkpnYnBtZkZvZXZvNzk2ejUySjJVYTFwXzY4bC1PZ1hJeUNPa3lZX2d0TEg3aG90SVF1VjA1b0FhNG1jazVtNGYwbGFhWkE3RVN5cHVHLWo5bzNiZHJlVjlvVk1ESk1B?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e453]:
+              - generic [ref=e454]:
+                - generic [ref=e457]: Forbes
+                - generic [ref=e461]:
+                  - generic:
+                    - button "More - Organizing The AI Agents" [ref=e462] [cursor=pointer]:
+                      - img [ref=e464]
+                    - tooltip [ref=e466]: More
+              - link "Organizing The AI Agents - Forbes - 8 hours ago - By John Werner" [ref=e467] [cursor=pointer]:
+                - /url: ./read/CBMiggFBVV95cUxPTVpNZzlMT1NYSVVoc3NrSmNsbU5XV0JfM2F0dkpnYnBtZkZvZXZvNzk2ejUySjJVYTFwXzY4bC1PZ1hJeUNPa3lZX2d0TEg3aG90SVF1VjA1b0FhNG1jazVtNGYwbGFhWkE3RVN5cHVHLWo5bzNiZHJlVjlvVk1ESk1B?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Organizing The AI Agents
+            - figure [ref=e468]
+          - generic [ref=e469]:
+            - time [ref=e470]: 8 hours ago
+            - separator [ref=e471]
+            - generic [ref=e472]: By John Werner
+      - generic [ref=e473]:
+        - separator [ref=e475]
+        - generic [ref=e477]:
+          - generic [ref=e478]:
+            - link [ref=e480] [cursor=pointer]:
+              - /url: ./read/CBMinAFBVV95cUxNSlVlc3ZHdlcxWVdGZmtDRmZzWERtM3pBN0VxOTI3T0ZKZlR4YVpfT2I1dmR4SFYtN1RQTmhMQncwRmJTQnV2YUxweDR0aTVqMjRIZzc5ZmhaQVB2RVpUNW42UHhzeXh4WUY1VnJhMnZfcWlvZ194ZjRIQjRRU1BNcTZ4WjJBaENkdC1TX2xEbXFaZjRxRUxBTkJMZHQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e482]:
+              - generic [ref=e483]:
+                - generic [ref=e486]: Towards Data Science
+                - generic [ref=e490]:
+                  - generic:
+                    - button "More - Most AI Agents Fail in Production Because They’re Built Backwards" [ref=e491] [cursor=pointer]:
+                      - img [ref=e493]
+                    - tooltip [ref=e495]: More
+              - link "Most AI Agents Fail in Production Because They’re Built Backwards - Towards Data Science - 3 days ago" [ref=e496] [cursor=pointer]:
+                - /url: ./read/CBMinAFBVV95cUxNSlVlc3ZHdlcxWVdGZmtDRmZzWERtM3pBN0VxOTI3T0ZKZlR4YVpfT2I1dmR4SFYtN1RQTmhMQncwRmJTQnV2YUxweDR0aTVqMjRIZzc5ZmhaQVB2RVpUNW42UHhzeXh4WUY1VnJhMnZfcWlvZ194ZjRIQjRRU1BNcTZ4WjJBaENkdC1TX2xEbXFaZjRxRUxBTkJMZHQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Most AI Agents Fail in Production Because They’re Built Backwards
+            - figure [ref=e497]
+          - time [ref=e499]: 3 days ago
+      - generic [ref=e500]:
+        - separator [ref=e502]
+        - generic [ref=e504]:
+          - generic [ref=e505]:
+            - link [ref=e507] [cursor=pointer]:
+              - /url: ./read/CBMiuAFBVV95cUxQNUQ1eGlMOEdrMWJEaGxvN19XUF9Dc29xRnhURGE4OHM0SDk1aXk0enJ0OGNGcklRUV8wTFJXSjdva05VQ2NPTGpPZmRsZmJLVkFfMGg3UlJuYjhud182SzNROXdPaEgwOTAwLXRnb2RCRFNEMVpxTzZSNmdrY2pydTJMdm1yYk9mZEIxcTFSR2FNVXRhQzhfb04xa3hYQzBNQmVVMi12QkhCNnNOcmlRNU1JcGxUNkFf?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e509]:
+              - generic [ref=e510]:
+                - generic [ref=e513]: CoinDesk
+                - generic [ref=e517]:
+                  - generic:
+                    - button "More - Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO" [ref=e518] [cursor=pointer]:
+                      - img [ref=e520]
+                    - tooltip [ref=e522]: More
+              - link "Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO - CoinDesk - 4 hours ago - By Olivier Acuña" [ref=e523] [cursor=pointer]:
+                - /url: ./read/CBMiuAFBVV95cUxQNUQ1eGlMOEdrMWJEaGxvN19XUF9Dc29xRnhURGE4OHM0SDk1aXk0enJ0OGNGcklRUV8wTFJXSjdva05VQ2NPTGpPZmRsZmJLVkFfMGg3UlJuYjhud182SzNROXdPaEgwOTAwLXRnb2RCRFNEMVpxTzZSNmdrY2pydTJMdm1yYk9mZEIxcTFSR2FNVXRhQzhfb04xa3hYQzBNQmVVMi12QkhCNnNOcmlRNU1JcGxUNkFf?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO
+            - figure [ref=e524]
+          - generic [ref=e525]:
+            - time [ref=e526]: 4 hours ago
+            - separator [ref=e527]
+            - generic [ref=e528]: By Olivier Acuña
+      - generic [ref=e529]:
+        - separator [ref=e531]
+        - generic [ref=e533]:
+          - generic [ref=e534]:
+            - link [ref=e536] [cursor=pointer]:
+              - /url: ./read/CBMiiwFBVV95cUxQajBzMUVNeHFsSktvY0JKRk5vRUJIRlhGUzJMVVJJQVpzLUxUdjVlU1hncmhGbnpsY3ZESEdlUVdCcFZaMDQzZTh6bmRpX0F1cnVxN1VlYVR5MkNrWTBfdV9hV1I5UEc3T1ZtbEY4cjROcFRtZDBLR1J5cVhWdEkwbHh4NEZKcWtEUkRJ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e538]:
+              - generic [ref=e539]:
+                - generic [ref=e542]: AI Business
+                - generic [ref=e546]:
+                  - generic:
+                    - 'button "More - Prompt: Robinhood Wants AI Agents to Trade, Spend on Your Behalf" [ref=e547] [cursor=pointer]':
+                      - img [ref=e549]
+                    - tooltip [ref=e551]: More
+              - 'link "Prompt: Robinhood Wants AI Agents to Trade, Spend on Your Behalf - AI Business - 2 hours ago - By Liz Hughes" [ref=e552] [cursor=pointer]':
+                - /url: ./read/CBMiiwFBVV95cUxQajBzMUVNeHFsSktvY0JKRk5vRUJIRlhGUzJMVVJJQVpzLUxUdjVlU1hncmhGbnpsY3ZESEdlUVdCcFZaMDQzZTh6bmRpX0F1cnVxN1VlYVR5MkNrWTBfdV9hV1I5UEc3T1ZtbEY4cjROcFRtZDBLR1J5cVhWdEkwbHh4NEZKcWtEUkRJ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Prompt: Robinhood Wants AI Agents to Trade, Spend on Your Behalf"
+            - figure [ref=e553]
+          - generic [ref=e554]:
+            - time [ref=e555]: 2 hours ago
+            - separator [ref=e556]
+            - generic [ref=e557]: By Liz Hughes
+      - generic [ref=e558]:
+        - separator [ref=e560]
+        - generic [ref=e562]:
+          - generic [ref=e563]:
+            - link [ref=e565] [cursor=pointer]:
+              - /url: ./read/CBMi2AFBVV95cUxOa3JKbDNHbVN2UE9MaGM1RDdZbXlwWVBXR0p0UFVSZUkxWk5iM2J3dWdkLU9fS0hBZ0FGM0xiODNNV3JidTFKYTEtS1RjbUlkcjlDVEhMaVYtMngwTmxvSDBOQXVkQmstazh3QUd0V0oyeG9hMWwzMktLWXpSQjBraTcwLWI3a25LRWdIWmhqYVlBOUE5WHhLVmNVd1RQY0E4RDJ2M3RBWG9YNkFhbDNCeVdZODNnaVdsdlBJYmhWWkFvMnNxc0RyaDI1Yy1lR0l4YnRPWGxSZFk?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e567]:
+              - generic [ref=e568]:
+                - generic [ref=e571]: PR Newswire
+                - generic [ref=e575]:
+                  - generic:
+                    - 'button "More - Faster decisions, faster care for patients: Cognizant opens TriZetto Unify to AI agents" [ref=e576] [cursor=pointer]':
+                      - img [ref=e578]
+                    - tooltip [ref=e580]: More
+              - 'link "Faster decisions, faster care for patients: Cognizant opens TriZetto Unify to AI agents - PR Newswire - 3 hours ago" [ref=e581] [cursor=pointer]':
+                - /url: ./read/CBMi2AFBVV95cUxOa3JKbDNHbVN2UE9MaGM1RDdZbXlwWVBXR0p0UFVSZUkxWk5iM2J3dWdkLU9fS0hBZ0FGM0xiODNNV3JidTFKYTEtS1RjbUlkcjlDVEhMaVYtMngwTmxvSDBOQXVkQmstazh3QUd0V0oyeG9hMWwzMktLWXpSQjBraTcwLWI3a25LRWdIWmhqYVlBOUE5WHhLVmNVd1RQY0E4RDJ2M3RBWG9YNkFhbDNCeVdZODNnaVdsdlBJYmhWWkFvMnNxc0RyaDI1Yy1lR0l4YnRPWGxSZFk?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Faster decisions, faster care for patients: Cognizant opens TriZetto Unify to AI agents"
+            - figure [ref=e582]
+          - time [ref=e584]: 3 hours ago
+      - generic [ref=e585]:
+        - separator [ref=e587]
+        - generic [ref=e589]:
+          - generic [ref=e590]:
+            - link [ref=e592] [cursor=pointer]:
+              - /url: ./read/CBMitgFBVV95cUxNYTJzTjZYbDhObGZEY0xUT0JpbUVMQ2xweC0yWVRDc2UxcnNtRWxOUkNSN1lEUjZsQkI1ZlI3Q3ZFUnJjb0t0QTlUQ3pVUGZSaXdBLXNRRXZHTzJpVHQzRVVGYWNGcGtacm1zV2VjYmlsZmFrc05oVHE4cExnT1lWQ1gycElONUQ2REZWaVJXY1Fvd01hZnFXRVIwZFBYTHo0dTVieE1makIwZVkyOVE5VkFpRDdFQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e594]:
+              - generic [ref=e595]:
+                - generic [ref=e598]: The World Economic Forum
+                - generic [ref=e602]:
+                  - generic:
+                    - 'button "More - AI Agents in Action: A Playbook for Trusted Adoption, Authorization and Scaling 2026" [ref=e603] [cursor=pointer]':
+                      - img [ref=e605]
+                    - tooltip [ref=e607]: More
+              - 'link "AI Agents in Action: A Playbook for Trusted Adoption, Authorization and Scaling 2026 - The World Economic Forum - 4 days ago" [ref=e608] [cursor=pointer]':
+                - /url: ./read/CBMitgFBVV95cUxNYTJzTjZYbDhObGZEY0xUT0JpbUVMQ2xweC0yWVRDc2UxcnNtRWxOUkNSN1lEUjZsQkI1ZlI3Q3ZFUnJjb0t0QTlUQ3pVUGZSaXdBLXNRRXZHTzJpVHQzRVVGYWNGcGtacm1zV2VjYmlsZmFrc05oVHE4cExnT1lWQ1gycElONUQ2REZWaVJXY1Fvd01hZnFXRVIwZFBYTHo0dTVieE1makIwZVkyOVE5VkFpRDdFQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI Agents in Action: A Playbook for Trusted Adoption, Authorization and Scaling 2026"
+            - figure [ref=e609]
+          - time [ref=e611]: 4 days ago
+      - generic [ref=e612]:
+        - separator [ref=e614]
+        - generic [ref=e616]:
+          - generic [ref=e617]:
+            - link [ref=e619] [cursor=pointer]:
+              - /url: ./read/CBMipwFBVV95cUxPZU1mbU9WMm1hVE4wdVNrd3QwdmdZUlRhRkFEVWd2MXRtemNaSTZheGVhclNrY1JucWM5OTFFR1p2VnJKMlFvQnhibGxfNU5QeTE2WGoyRGs4RnhnYjIwVC1yckNpcGNTbzdpRVNGYVRRSzVhbE55c3RwMzZySUd3OVlWWVV1STAzT2ZjajFobHhoTXVlUDFaelpGTEtMcjM2TUlHMmJsaw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e621]:
+              - generic [ref=e622]:
+                - generic [ref=e625]: KnowBe4 Blog
+                - generic [ref=e629]:
+                  - generic:
+                    - 'button "More - AI Agent Governance Part 2 - What Good Looks Like: Governing AI Agents in Practice" [ref=e630] [cursor=pointer]':
+                      - img [ref=e632]
+                    - tooltip [ref=e634]: More
+              - 'link "AI Agent Governance Part 2 - What Good Looks Like: Governing AI Agents in Practice - KnowBe4 Blog - 1 hour ago - By Anna Collard" [ref=e635] [cursor=pointer]':
+                - /url: ./read/CBMipwFBVV95cUxPZU1mbU9WMm1hVE4wdVNrd3QwdmdZUlRhRkFEVWd2MXRtemNaSTZheGVhclNrY1JucWM5OTFFR1p2VnJKMlFvQnhibGxfNU5QeTE2WGoyRGs4RnhnYjIwVC1yckNpcGNTbzdpRVNGYVRRSzVhbE55c3RwMzZySUd3OVlWWVV1STAzT2ZjajFobHhoTXVlUDFaelpGTEtMcjM2TUlHMmJsaw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI Agent Governance Part 2 - What Good Looks Like: Governing AI Agents in Practice"
+            - figure [ref=e636]
+          - generic [ref=e637]:
+            - time [ref=e638]: 1 hour ago
+            - separator [ref=e639]
+            - generic [ref=e640]: By Anna Collard
+      - generic [ref=e641]:
+        - separator [ref=e643]
+        - generic [ref=e645]:
+          - generic [ref=e646]:
+            - link [ref=e648] [cursor=pointer]:
+              - /url: ./read/CBMiqwFBVV95cUxOZHVIUnc4NUZLMHJEUXI4aG1wLXlsbWNQcmVvU0Rfc3dyX0ZrRkpCcUZqMXlybkZpaFNuLVpQWUo0dEJmamFYeTlycEJJVDlvTFRvakVybHVMT2U2ZnJ2YS1feHNLNWtwSUlqc1dQVzVnS3VuamtKOFV1cW0xcGlxUmpPdVpNYXlSczgycEFKa3ljczg4VUEzWFVfZk5MTTdMbVZGbzZzT2J6T28?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e650]:
+              - generic [ref=e651]:
+                - generic [ref=e654]: Security Magazine
+                - generic [ref=e658]:
+                  - generic:
+                    - button "More - Risks of Robinhood Using AI Agents to Trade, Make Purchases" [ref=e659] [cursor=pointer]:
+                      - img [ref=e661]
+                    - tooltip [ref=e663]: More
+              - link "Risks of Robinhood Using AI Agents to Trade, Make Purchases - Security Magazine - 3 hours ago - By Jordyn Alger" [ref=e664] [cursor=pointer]:
+                - /url: ./read/CBMiqwFBVV95cUxOZHVIUnc4NUZLMHJEUXI4aG1wLXlsbWNQcmVvU0Rfc3dyX0ZrRkpCcUZqMXlybkZpaFNuLVpQWUo0dEJmamFYeTlycEJJVDlvTFRvakVybHVMT2U2ZnJ2YS1feHNLNWtwSUlqc1dQVzVnS3VuamtKOFV1cW0xcGlxUmpPdVpNYXlSczgycEFKa3ljczg4VUEzWFVfZk5MTTdMbVZGbzZzT2J6T28?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Risks of Robinhood Using AI Agents to Trade, Make Purchases
+            - figure [ref=e665]
+          - generic [ref=e666]:
+            - time [ref=e667]: 3 hours ago
+            - separator [ref=e668]
+            - generic [ref=e669]: By Jordyn Alger
+      - generic [ref=e670]:
+        - separator [ref=e672]
+        - generic [ref=e674]:
+          - generic [ref=e675]:
+            - link [ref=e677] [cursor=pointer]:
+              - /url: ./read/CBMifEFVX3lxTE1ydjI0cHBmYXhBY0tXcFdINDQxcl9IYnQ2Skx1T2ZZajBXZ3JQM0poTlFjN20xMVowYjNWX2hHbEg2ZWxwaUJfYVVHYlh4REY3aUlKNjZDSmpYbGkwYjNadzFnZHpwUnZqdEJSY3A0cHFOVUo1RWZUY3lsaUg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e679]:
+              - generic [ref=e680]:
+                - generic [ref=e683]: WIRED
+                - generic [ref=e687]:
+                  - generic:
+                    - button "More - AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened" [ref=e688] [cursor=pointer]:
+                      - img [ref=e690]
+                    - tooltip [ref=e692]: More
+              - link "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened - WIRED - 4 days ago - By Steven Levy" [ref=e693] [cursor=pointer]:
+                - /url: ./read/CBMifEFVX3lxTE1ydjI0cHBmYXhBY0tXcFdINDQxcl9IYnQ2Skx1T2ZZajBXZ3JQM0poTlFjN20xMVowYjNWX2hHbEg2ZWxwaUJfYVVHYlh4REY3aUlKNjZDSmpYbGkwYjNadzFnZHpwUnZqdEJSY3A0cHFOVUo1RWZUY3lsaUg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened
+            - figure [ref=e694]
+          - generic [ref=e695]:
+            - time [ref=e696]: 4 days ago
+            - separator [ref=e697]
+            - generic [ref=e698]: By Steven Levy
+      - generic [ref=e699]:
+        - separator [ref=e701]
+        - generic [ref=e703]:
+          - generic [ref=e704]:
+            - link [ref=e706] [cursor=pointer]:
+              - /url: ./read/CBMitgFBVV95cUxONTJJWG1DUmdjNlNmMDVXdjJ6YmlqQzZnRWlZazFDY2ZzWmQweDBBWUZ6NGxNX1B4ZGIwcUk3QzBvNFpqeDNHSS1LcHlOTEgyRVdPeGhYbG9RZTZPRFFpMmxnbnJHcDZZMDVHZ3Nob3hMb0lZR2VUMFRCMy1XZ2MwRUFNYlFpYkdpV3NzbWxCMDRYYjd2bnJHQndIcTVmaHRqdGtlN1JhNHFCRnlqU1NGQy1HRndyQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e708]:
+              - generic [ref=e709]:
+                - generic [ref=e712]: InfoWorld
+                - generic [ref=e716]:
+                  - generic:
+                    - button "More - DNS-AID will make AI agents easier to discover, says Linux Foundation" [ref=e717] [cursor=pointer]:
+                      - img [ref=e719]
+                    - tooltip [ref=e721]: More
+              - link "DNS-AID will make AI agents easier to discover, says Linux Foundation - InfoWorld - 2 hours ago - By Maxwell Cooter" [ref=e722] [cursor=pointer]:
+                - /url: ./read/CBMitgFBVV95cUxONTJJWG1DUmdjNlNmMDVXdjJ6YmlqQzZnRWlZazFDY2ZzWmQweDBBWUZ6NGxNX1B4ZGIwcUk3QzBvNFpqeDNHSS1LcHlOTEgyRVdPeGhYbG9RZTZPRFFpMmxnbnJHcDZZMDVHZ3Nob3hMb0lZR2VUMFRCMy1XZ2MwRUFNYlFpYkdpV3NzbWxCMDRYYjd2bnJHQndIcTVmaHRqdGtlN1JhNHFCRnlqU1NGQy1HRndyQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: DNS-AID will make AI agents easier to discover, says Linux Foundation
+            - figure [ref=e723]
+          - generic [ref=e724]:
+            - time [ref=e725]: 2 hours ago
+            - separator [ref=e726]
+            - generic [ref=e727]: By Maxwell Cooter
+      - generic [ref=e728]:
+        - separator [ref=e730]
+        - generic [ref=e732]:
+          - generic [ref=e733]:
+            - link [ref=e735] [cursor=pointer]:
+              - /url: ./read/CBMilAJBVV95cUxQMGtvSjY2aXFoWlh6Q01tdHh6TFV5ZktSYy02Vk5hLWs5aWhoaGVzMWdvTEtGakVrYS1aeUVaRnBwYjVJOFRSdnBBalRxZldTTTM1aWtpRGNHTjFPdENiLUl2OEgzNmZSYlFBQm4tSmpQNUtfVl8zaVMtQmE5SGlXdUprZVk5OTJxLTRXdXZCSnNUd3hsTFdDSk9WYUtSdU1HUUU0b3REX2txb012S1JiN0FsSkt6azJyYlpSRkdEUWFhb3VWZnFFVmlMczZTVVZrODdab3hIeXg2U0sxUHpZSTNUM3JmN09PYVZJWGFSdE5pc0hxZm1wMEJWLVpXdVhCRmRjZDI3UFoxZ0dPOHBWaDg1MlY?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e737]:
+              - generic [ref=e738]:
+                - generic [ref=e741]: SaaStr
+                - generic [ref=e745]:
+                  - generic:
+                    - button "More - How Our AI Agent Booked 614 Meetings from 442K Chats, And Why B Leads Are Pure Gold If You Add AI. The Top Learnings from Agent’s Day of SaaStr AI Annual 2026" [ref=e746] [cursor=pointer]:
+                      - img [ref=e748]
+                    - tooltip [ref=e750]: More
+              - link "How Our AI Agent Booked 614 Meetings from 442K Chats, And Why B Leads Are Pure Gold If You Add AI. The Top Learnings from Agent’s Day of SaaStr AI Annual 2026 - SaaStr - 3 hours ago - By Jason Lemkin" [ref=e751] [cursor=pointer]:
+                - /url: ./read/CBMilAJBVV95cUxQMGtvSjY2aXFoWlh6Q01tdHh6TFV5ZktSYy02Vk5hLWs5aWhoaGVzMWdvTEtGakVrYS1aeUVaRnBwYjVJOFRSdnBBalRxZldTTTM1aWtpRGNHTjFPdENiLUl2OEgzNmZSYlFBQm4tSmpQNUtfVl8zaVMtQmE5SGlXdUprZVk5OTJxLTRXdXZCSnNUd3hsTFdDSk9WYUtSdU1HUUU0b3REX2txb012S1JiN0FsSkt6azJyYlpSRkdEUWFhb3VWZnFFVmlMczZTVVZrODdab3hIeXg2U0sxUHpZSTNUM3JmN09PYVZJWGFSdE5pc0hxZm1wMEJWLVpXdVhCRmRjZDI3UFoxZ0dPOHBWaDg1MlY?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How Our AI Agent Booked 614 Meetings from 442K Chats, And Why B Leads Are Pure Gold If You Add AI. The Top Learnings from Agent’s Day of SaaStr AI Annual 2026
+          - generic [ref=e752]:
+            - time [ref=e753]: 3 hours ago
+            - separator [ref=e754]
+            - generic [ref=e755]: By Jason Lemkin
+      - generic [ref=e756]:
+        - separator [ref=e758]
+        - generic [ref=e760]:
+          - generic [ref=e761]:
+            - link [ref=e763] [cursor=pointer]:
+              - /url: ./read/CBMi5wFBVV95cUxPQlktYkUwUnV3Z0hPOGpxYzFURG1QaWZqbEpIRDZQMjhYbmoxS2JjcTdlRVpxQ0RCdElIY1RqY2xSNl9XN3pJczVGZ05CTWpoT08yRU5IQmxjdUJrOXo5Tlc0eTFlTjlVbkJYb1AxTUdpMnNtVmVIUnVydnppWmw1OTVLQVJaX21MMTc1UzZTVWx3OWU0NGpJa3lUSy1HRFVKdnJDVi1oNjFXVU5aeUdEVG9uUEFmQXRZb3hYTzdubTZLa3otZzRLdk42aU5PLXhSbmJ4djh0QlVzYTRaYUl3ZFhxLUxTTEE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e765]:
+              - generic [ref=e766]:
+                - generic [ref=e769]: Supply & Demand Chain Executive
+                - generic [ref=e773]:
+                  - generic:
+                    - button "More - Manufacturing Security Professionals Concerned About Employee Use of AI Agents" [ref=e774] [cursor=pointer]:
+                      - img [ref=e776]
+                    - tooltip [ref=e778]: More
+              - link "Manufacturing Security Professionals Concerned About Employee Use of AI Agents - Supply &amp; Demand Chain Executive - 1 hour ago - By Marina Mayer" [ref=e779] [cursor=pointer]:
+                - /url: ./read/CBMi5wFBVV95cUxPQlktYkUwUnV3Z0hPOGpxYzFURG1QaWZqbEpIRDZQMjhYbmoxS2JjcTdlRVpxQ0RCdElIY1RqY2xSNl9XN3pJczVGZ05CTWpoT08yRU5IQmxjdUJrOXo5Tlc0eTFlTjlVbkJYb1AxTUdpMnNtVmVIUnVydnppWmw1OTVLQVJaX21MMTc1UzZTVWx3OWU0NGpJa3lUSy1HRFVKdnJDVi1oNjFXVU5aeUdEVG9uUEFmQXRZb3hYTzdubTZLa3otZzRLdk42aU5PLXhSbmJ4djh0QlVzYTRaYUl3ZFhxLUxTTEE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Manufacturing Security Professionals Concerned About Employee Use of AI Agents
+            - figure [ref=e780]
+          - generic [ref=e781]:
+            - time [ref=e782]: 1 hour ago
+            - separator [ref=e783]
+            - generic [ref=e784]: By Marina Mayer
+      - generic [ref=e785]:
+        - separator [ref=e787]
+        - generic [ref=e789]:
+          - generic [ref=e790]:
+            - link [ref=e792] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxOTUFlcWNqNXljc292cXA0bjd4UlNxTEhHZ3FnNjZZemdxV2wyN1hWVFpvbHFYODktMjBZcHZ2ME85S0xLUHRWZld0ZE5ELWhhb2tYUmVJSWYyRVhtb0E4M0lCZGZTd0paUnpab2k3UnlmaC1CNFlOUksxVmFybzFBSWRUWjZNNF9JZ25sbzVXeEV3U3JUNktLUWlPeGdOZEhmSTZVdUFIY3lRWHdYeWc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e794]:
+              - generic [ref=e795]:
+                - generic [ref=e798]: Reuters
+                - generic [ref=e802]:
+                  - generic:
+                    - button "More - Robinhood opens platform to AI agents for trading, credit card purchases" [ref=e803] [cursor=pointer]:
+                      - img [ref=e805]
+                    - tooltip [ref=e807]: More
+              - link "Robinhood opens platform to AI agents for trading, credit card purchases - Reuters - 3 days ago - By Niket Nishant" [ref=e808] [cursor=pointer]:
+                - /url: ./read/CBMirgFBVV95cUxOTUFlcWNqNXljc292cXA0bjd4UlNxTEhHZ3FnNjZZemdxV2wyN1hWVFpvbHFYODktMjBZcHZ2ME85S0xLUHRWZld0ZE5ELWhhb2tYUmVJSWYyRVhtb0E4M0lCZGZTd0paUnpab2k3UnlmaC1CNFlOUksxVmFybzFBSWRUWjZNNF9JZ25sbzVXeEV3U3JUNktLUWlPeGdOZEhmSTZVdUFIY3lRWHdYeWc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Robinhood opens platform to AI agents for trading, credit card purchases
+            - figure [ref=e809]
+          - generic [ref=e810]:
+            - time [ref=e811]: 3 days ago
+            - separator [ref=e812]
+            - generic [ref=e813]: By Niket Nishant
+      - generic [ref=e814]:
+        - separator [ref=e816]
+        - generic [ref=e818]:
+          - generic [ref=e819]:
+            - link [ref=e821] [cursor=pointer]:
+              - /url: ./read/CBMiyAFBVV95cUxPR2ROWE8xMHpYSmVBa0hseWUzS0lMbWVLT1BpTDZzOFk5U2xtQ2toZ0thNFBVYlplYTQ1Y2xHcW1vbS0ybjI5Umk2Z1ktMjA1S181anVTdm5rN1dwMW9oR0w3TUdkZnpZY3BQVUJfX2haaV9NQVdDQVlxUlp1a1J2blJYSUtIaXZvdkpMX0lYaTlMaWhMT2NzeXBhcEhCaGVPR0hFVmRLamJldmFjZW1nZHhrRkRqc3N3Q1Fsckc2T2U2TFd5WmpQSA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e823]:
+              - generic [ref=e824]:
+                - generic [ref=e827]: Industrial Cyber
+                - generic [ref=e831]:
+                  - generic:
+                    - button "More - Darktrace identifies rising cyber exposure tied to AI-driven manufacturing operations" [ref=e832] [cursor=pointer]:
+                      - img [ref=e834]
+                    - tooltip [ref=e836]: More
+              - link "Darktrace identifies rising cyber exposure tied to AI-driven manufacturing operations - Industrial Cyber - 6 hours ago - By Anna Ribeiro" [ref=e837] [cursor=pointer]:
+                - /url: ./read/CBMiyAFBVV95cUxPR2ROWE8xMHpYSmVBa0hseWUzS0lMbWVLT1BpTDZzOFk5U2xtQ2toZ0thNFBVYlplYTQ1Y2xHcW1vbS0ybjI5Umk2Z1ktMjA1S181anVTdm5rN1dwMW9oR0w3TUdkZnpZY3BQVUJfX2haaV9NQVdDQVlxUlp1a1J2blJYSUtIaXZvdkpMX0lYaTlMaWhMT2NzeXBhcEhCaGVPR0hFVmRLamJldmFjZW1nZHhrRkRqc3N3Q1Fsckc2T2U2TFd5WmpQSA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Darktrace identifies rising cyber exposure tied to AI-driven manufacturing operations
+            - figure [ref=e838]
+          - generic [ref=e839]:
+            - time [ref=e840]: 6 hours ago
+            - separator [ref=e841]
+            - generic [ref=e842]: By Anna Ribeiro
+      - generic [ref=e843]:
+        - separator [ref=e845]
+        - generic [ref=e847]:
+          - generic [ref=e848]:
+            - link [ref=e850] [cursor=pointer]:
+              - /url: ./read/CBMisAFBVV95cUxQdXRENW0xb3lyblYwOGF4SzMtSXFEUDlldTY5R1d5by03VmxGUEFwcENEMTRwUXVvbnlaYWNHRlA2VnZEd1h3d0tWTmJrREs1NHExeG9xcnRmdm9BekNJdlJrMS1adHc5YVBQQnZPeV9YOTJxR0k2d2NWRXY0XzhmUi1fZDZKNzhIX0pmaUwyUUxQNGJTai1NcU5DRy14RFRpNV9scFhqRVR5U3NoZUVDMA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e852]:
+              - generic [ref=e853]:
+                - generic [ref=e856]: the-decoder.com
+                - generic [ref=e860]:
+                  - generic:
+                    - button "More - New review paper argues code is how AI agents think and act, not just what they produce" [ref=e861] [cursor=pointer]:
+                      - img [ref=e863]
+                    - tooltip [ref=e865]: More
+              - link "New review paper argues code is how AI agents think and act, not just what they produce - the-decoder.com - 4 hours ago - By Jonathan Kemper" [ref=e866] [cursor=pointer]:
+                - /url: ./read/CBMisAFBVV95cUxQdXRENW0xb3lyblYwOGF4SzMtSXFEUDlldTY5R1d5by03VmxGUEFwcENEMTRwUXVvbnlaYWNHRlA2VnZEd1h3d0tWTmJrREs1NHExeG9xcnRmdm9BekNJdlJrMS1adHc5YVBQQnZPeV9YOTJxR0k2d2NWRXY0XzhmUi1fZDZKNzhIX0pmaUwyUUxQNGJTai1NcU5DRy14RFRpNV9scFhqRVR5U3NoZUVDMA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: New review paper argues code is how AI agents think and act, not just what they produce
+            - figure [ref=e867]
+          - generic [ref=e868]:
+            - time [ref=e869]: 4 hours ago
+            - separator [ref=e870]
+            - generic [ref=e871]: By Jonathan Kemper
+      - generic [ref=e872]:
+        - separator [ref=e874]
+        - generic [ref=e876]:
+          - generic [ref=e877]:
+            - link [ref=e879] [cursor=pointer]:
+              - /url: ./read/CBMivgFBVV95cUxObjRIaWtHOUlReGZ4N2RhbmUtVjROYi1zWXFjcS1aUnFZQlhkSkJSZ3dUQ0dzVFBlekI3U09qOXY2OUhUZEZ4cnVJcGhISFU2Q3podnlMRk95TnJXTFctWmQtVDFUS29TakFPTTZSV3pTbDdieUR5OHdRd002eEFhdW9uWG9PYmhjUzRydlQ2XzJyUzQwZ2djQUMyWFhiOXB3aXJmOHRhNlphVUVaVG1GUTlJTGdUWC16clhkdDB3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e881]:
+              - generic [ref=e882]:
+                - generic [ref=e885]: PR Newswire
+                - generic [ref=e889]:
+                  - generic:
+                    - button "More - A Microcap Just Staked a Claim in the AI Agent Security Land Grab" [ref=e890] [cursor=pointer]:
+                      - img [ref=e892]
+                    - tooltip [ref=e894]: More
+              - link "A Microcap Just Staked a Claim in the AI Agent Security Land Grab - PR Newswire - 4 hours ago" [ref=e895] [cursor=pointer]:
+                - /url: ./read/CBMivgFBVV95cUxObjRIaWtHOUlReGZ4N2RhbmUtVjROYi1zWXFjcS1aUnFZQlhkSkJSZ3dUQ0dzVFBlekI3U09qOXY2OUhUZEZ4cnVJcGhISFU2Q3podnlMRk95TnJXTFctWmQtVDFUS29TakFPTTZSV3pTbDdieUR5OHdRd002eEFhdW9uWG9PYmhjUzRydlQ2XzJyUzQwZ2djQUMyWFhiOXB3aXJmOHRhNlphVUVaVG1GUTlJTGdUWC16clhkdDB3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: A Microcap Just Staked a Claim in the AI Agent Security Land Grab
+            - figure [ref=e896]
+          - time [ref=e898]: 4 hours ago
+      - generic [ref=e899]:
+        - separator [ref=e901]
+        - generic [ref=e903]:
+          - generic [ref=e904]:
+            - link [ref=e906] [cursor=pointer]:
+              - /url: ./read/CBMiiAFBVV95cUxQd2NkbHZFajFaeTViTGUySzJQWGlBU3dQajlCRTh5ZHYzMHlaS1J1NXphS2VCS25wYjdkRUN6dmNTZmpYeXo5NnN3V1NuY01XeXAzWGxPVVlTZ1ZjNi1SMnJvTUl2d0FpeU41cHdib3pJT0wxTTV5VWhEQWF0bmNhQlQ0WEctX2FR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e908]:
+              - generic [ref=e909]:
+                - generic [ref=e912]: TechCrunch
+                - generic [ref=e916]:
+                  - generic:
+                    - button "More - Robinhood now lets your AI agents trade stocks" [ref=e917] [cursor=pointer]:
+                      - img [ref=e919]
+                    - tooltip [ref=e921]: More
+              - link "Robinhood now lets your AI agents trade stocks - TechCrunch - 3 days ago - By Ivan Mehta" [ref=e922] [cursor=pointer]:
+                - /url: ./read/CBMiiAFBVV95cUxQd2NkbHZFajFaeTViTGUySzJQWGlBU3dQajlCRTh5ZHYzMHlaS1J1NXphS2VCS25wYjdkRUN6dmNTZmpYeXo5NnN3V1NuY01XeXAzWGxPVVlTZ1ZjNi1SMnJvTUl2d0FpeU41cHdib3pJT0wxTTV5VWhEQWF0bmNhQlQ0WEctX2FR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Robinhood now lets your AI agents trade stocks
+            - figure [ref=e923]
+          - generic [ref=e924]:
+            - time [ref=e925]: 3 days ago
+            - separator [ref=e926]
+            - generic [ref=e927]: By Ivan Mehta
+      - generic [ref=e928]:
+        - separator [ref=e930]
+        - generic [ref=e932]:
+          - generic [ref=e933]:
+            - link [ref=e935] [cursor=pointer]:
+              - /url: ./read/CBMiuwFBVV95cUxOaFYzRjJnS1J5SFJYNnBlaUFGX0g3Um9fOXdldFNwZHBiV3lvUTVLZUFRRmp4ZFpuUXFiWkdWRTE4MFdsempQSUx6ck5ZYjRsQWduSlA5ZXJFaHhwbEZPTElfa3p2V0lQUG5qWmNUeHdjRU9vZXJkX1FaUUpZLWUxaGpUUmc1VDdBX0hSNlRnZVRDMjkyNHRPRGg4NWJ4cVY1Y2NIUTJSdUlCY21iV0FIN1JqQ28xQmdNNWJR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e937]:
+              - generic [ref=e938]:
+                - generic [ref=e941]: StartupHub.ai
+                - generic [ref=e945]:
+                  - generic:
+                    - button "More - Neo4j's Zach Blumenfeld on AI Agents and Decision Traces" [ref=e946] [cursor=pointer]:
+                      - img [ref=e948]
+                    - tooltip [ref=e950]: More
+              - link "Neo4j's Zach Blumenfeld on AI Agents and Decision Traces - StartupHub.ai - 1 hour ago" [ref=e951] [cursor=pointer]:
+                - /url: ./read/CBMiuwFBVV95cUxOaFYzRjJnS1J5SFJYNnBlaUFGX0g3Um9fOXdldFNwZHBiV3lvUTVLZUFRRmp4ZFpuUXFiWkdWRTE4MFdsempQSUx6ck5ZYjRsQWduSlA5ZXJFaHhwbEZPTElfa3p2V0lQUG5qWmNUeHdjRU9vZXJkX1FaUUpZLWUxaGpUUmc1VDdBX0hSNlRnZVRDMjkyNHRPRGg4NWJ4cVY1Y2NIUTJSdUlCY21iV0FIN1JqQ28xQmdNNWJR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Neo4j's Zach Blumenfeld on AI Agents and Decision Traces
+            - figure [ref=e952]
+          - time [ref=e954]: 1 hour ago
+      - generic [ref=e955]:
+        - separator [ref=e957]
+        - generic [ref=e959]:
+          - generic [ref=e960]:
+            - link [ref=e962] [cursor=pointer]:
+              - /url: ./read/CBMixAFBVV95cUxQV19aeWNNb0tiLS1aYTdMSzNNQi1iczJRVWFHaE03Rmd6U3pSQ25mclY0b1BrbVR2WjE2N1Z0SF9DQUlYS1AyR25TZDNwVGVpcUdlaXVFMVNyWWRVUUhjY0Nic1REV0RseHpCUWZKY2JYMHVpc1lRdUhGQk5WbWdDWFRRdnhMRzNhSE04NWE5aE5nU3ZlQWR5SEhPa05mSXJkUnhud2NNeFY5S0REcGpfMXg5VldtdHhSOTB3ZWVha0VaSGpG?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e964]:
+              - generic [ref=e965]:
+                - generic [ref=e968]: IT Pro
+                - generic [ref=e972]:
+                  - generic:
+                    - 'button "More - Command Your Agents: The Blueprint for Scaling AI Without Scaling Risk" [ref=e973] [cursor=pointer]':
+                      - img [ref=e975]
+                    - tooltip [ref=e977]: More
+              - 'link "Command Your Agents: The Blueprint for Scaling AI Without Scaling Risk - IT Pro - 3 hours ago" [ref=e978] [cursor=pointer]':
+                - /url: ./read/CBMixAFBVV95cUxQV19aeWNNb0tiLS1aYTdMSzNNQi1iczJRVWFHaE03Rmd6U3pSQ25mclY0b1BrbVR2WjE2N1Z0SF9DQUlYS1AyR25TZDNwVGVpcUdlaXVFMVNyWWRVUUhjY0Nic1REV0RseHpCUWZKY2JYMHVpc1lRdUhGQk5WbWdDWFRRdnhMRzNhSE04NWE5aE5nU3ZlQWR5SEhPa05mSXJkUnhud2NNeFY5S0REcGpfMXg5VldtdHhSOTB3ZWVha0VaSGpG?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Command Your Agents: The Blueprint for Scaling AI Without Scaling Risk"
+            - figure [ref=e979]
+          - time [ref=e981]: 3 hours ago
+      - generic [ref=e982]:
+        - separator [ref=e984]
+        - generic [ref=e986]:
+          - generic [ref=e987]:
+            - link [ref=e989] [cursor=pointer]:
+              - /url: ./read/CBMilAFBVV95cUxQc3RSQXRuVTBiVTJpVUQ4SS01VzctOGswd0U0WXpDTHpmaXZNRm00WjZIWVNISVVSdHpJc1Y1a0gwaHZEMW5MQTJtNDJXM3ZvLXd2eHJ3SDM3ZEwzWVNWV2ZCOU9iaGd3MnhlTWh6QU81N2JUWExXVlB5RkNOUmlzUW5tYlAyXzFzVHFaN1hzM0RUeXhx?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e991]:
+              - generic [ref=e992]:
+                - generic [ref=e995]: SC Media
+                - generic [ref=e999]:
+                  - generic:
+                    - button "More - Orchid Security extends identity control plane for AI agents | brief | SC Media" [ref=e1000] [cursor=pointer]:
+                      - img [ref=e1002]
+                    - tooltip [ref=e1004]: More
+              - link "Orchid Security extends identity control plane for AI agents | brief | SC Media - SC Media - 2 hours ago" [ref=e1005] [cursor=pointer]:
+                - /url: ./read/CBMilAFBVV95cUxQc3RSQXRuVTBiVTJpVUQ4SS01VzctOGswd0U0WXpDTHpmaXZNRm00WjZIWVNISVVSdHpJc1Y1a0gwaHZEMW5MQTJtNDJXM3ZvLXd2eHJ3SDM3ZEwzWVNWV2ZCOU9iaGd3MnhlTWh6QU81N2JUWExXVlB5RkNOUmlzUW5tYlAyXzFzVHFaN1hzM0RUeXhx?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Orchid Security extends identity control plane for AI agents | brief | SC Media
+            - figure [ref=e1006]
+          - time [ref=e1008]: 2 hours ago
+      - generic [ref=e1009]:
+        - separator [ref=e1011]
+        - generic [ref=e1013]:
+          - generic [ref=e1014]:
+            - link [ref=e1016] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxQSW9DbmxKRG93OG92WW1qa25tUVRVS2Z3ZnBsWXBSOVVIQUp2cTV2TTVTd3ViNjd3cEEwUWpjOGRXdE1SU1IzUEhyX0puQ3NhaW1EaFJYRGk2NHdmMmY5S3ZDNTZQakdlM2xoUklWamR0Z0dvS1BSVS1NR2tfNlpja2t3dXExY1R5YlA0b0UzeEx0ZGEyTW1TUF93eVp5Nk0zY2IyQm1yTG9kejg0eDdj?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1018]:
+              - generic [ref=e1019]:
+                - generic [ref=e1022]: Biometric Update
+                - generic [ref=e1026]:
+                  - generic:
+                    - button "More - SecureAuth launches platform to govern AI agent identities in real time" [ref=e1027] [cursor=pointer]:
+                      - img [ref=e1029]
+                    - tooltip [ref=e1031]: More
+              - link "SecureAuth launches platform to govern AI agent identities in real time - Biometric Update - 4 hours ago - By Joel McConvey" [ref=e1032] [cursor=pointer]:
+                - /url: ./read/CBMirwFBVV95cUxQSW9DbmxKRG93OG92WW1qa25tUVRVS2Z3ZnBsWXBSOVVIQUp2cTV2TTVTd3ViNjd3cEEwUWpjOGRXdE1SU1IzUEhyX0puQ3NhaW1EaFJYRGk2NHdmMmY5S3ZDNTZQakdlM2xoUklWamR0Z0dvS1BSVS1NR2tfNlpja2t3dXExY1R5YlA0b0UzeEx0ZGEyTW1TUF93eVp5Nk0zY2IyQm1yTG9kejg0eDdj?hl=en-US&gl=US&ceid=US%3Aen
+                - text: SecureAuth launches platform to govern AI agent identities in real time
+            - figure [ref=e1033]
+          - generic [ref=e1034]:
+            - time [ref=e1035]: 4 hours ago
+            - separator [ref=e1036]
+            - generic [ref=e1037]: By Joel McConvey
+      - generic [ref=e1038]:
+        - separator [ref=e1040]
+        - generic [ref=e1042]:
+          - generic [ref=e1043]:
+            - link [ref=e1045] [cursor=pointer]:
+              - /url: ./read/CBMimAFBVV95cUxQQlNoOHFZekF5aEZkMzdxRWxKcXBLcDFINW9tZVRvUk1ETWU0UmlfQTRiZ2ZWeHJwazFGT0pINW93M0h3N2RiZ0FLUUdtT3g0QjRfeGxZZW8zS2lSak5RejVyNDdfdHh1bzhzWHJmdE5oejNMaDBCckxUQjNwMzFFb25PMEJUZGNFMmtxTWJ5QmpMWU9kUWwzNg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1047]:
+              - generic [ref=e1048]:
+                - generic [ref=e1051]: cio.com
+                - generic [ref=e1055]:
+                  - generic:
+                    - button "More - Many autonomous agents doomed by governance failures" [ref=e1056] [cursor=pointer]:
+                      - img [ref=e1058]
+                    - tooltip [ref=e1060]: More
+              - link "Many autonomous agents doomed by governance failures - cio.com - 8 hours ago - By Lynn Greiner" [ref=e1061] [cursor=pointer]:
+                - /url: ./read/CBMimAFBVV95cUxQQlNoOHFZekF5aEZkMzdxRWxKcXBLcDFINW9tZVRvUk1ETWU0UmlfQTRiZ2ZWeHJwazFGT0pINW93M0h3N2RiZ0FLUUdtT3g0QjRfeGxZZW8zS2lSak5RejVyNDdfdHh1bzhzWHJmdE5oejNMaDBCckxUQjNwMzFFb25PMEJUZGNFMmtxTWJ5QmpMWU9kUWwzNg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Many autonomous agents doomed by governance failures
+            - figure [ref=e1062]
+          - generic [ref=e1063]:
+            - time [ref=e1064]: 8 hours ago
+            - separator [ref=e1065]
+            - generic [ref=e1066]: By Lynn Greiner
+      - generic [ref=e1067]:
+        - separator [ref=e1069]
+        - generic [ref=e1071]:
+          - generic [ref=e1072]:
+            - link [ref=e1074] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxNMWh1dEFkRmtISzZlbDlzZDFPcDBuZkh2RVFObXc1aEFpRWFRQlNHcVllbVBPN3c3T0V0aFB3U0Z2d3NVX1hCRXIxb3p3SUpxbWZ3ZVRtMDhBeDkzODhYbDJmX2g3bXRHLTJZQ1BPelYwc0I5cnV6d013eHZBcnRKcGZFNTVQWXVacVFRdm5tVThPajZ2emxrdzJkZC1HQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1076]:
+              - generic [ref=e1077]:
+                - generic [ref=e1080]: Oracle Blogs
+                - generic [ref=e1084]:
+                  - generic:
+                    - 'button "More - AI-Powered Cloud Ops: Managing OCI Through Natural Language with a Custom MCP Server" [ref=e1085] [cursor=pointer]':
+                      - img [ref=e1087]
+                    - tooltip [ref=e1089]: More
+              - 'link "AI-Powered Cloud Ops: Managing OCI Through Natural Language with a Custom MCP Server - Oracle Blogs - 48 minutes ago" [ref=e1090] [cursor=pointer]':
+                - /url: ./read/CBMingFBVV95cUxNMWh1dEFkRmtISzZlbDlzZDFPcDBuZkh2RVFObXc1aEFpRWFRQlNHcVllbVBPN3c3T0V0aFB3U0Z2d3NVX1hCRXIxb3p3SUpxbWZ3ZVRtMDhBeDkzODhYbDJmX2g3bXRHLTJZQ1BPelYwc0I5cnV6d013eHZBcnRKcGZFNTVQWXVacVFRdm5tVThPajZ2emxrdzJkZC1HQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI-Powered Cloud Ops: Managing OCI Through Natural Language with a Custom MCP Server"
+            - figure [ref=e1091]
+          - time [ref=e1093]: 48 minutes ago
+      - generic [ref=e1094]:
+        - separator [ref=e1096]
+        - generic [ref=e1098]:
+          - generic [ref=e1099]:
+            - link [ref=e1101] [cursor=pointer]:
+              - /url: ./read/CBMivgFBVV95cUxPNmNocEJpdHM2YmpIX3dUdDdpVWtIMmJYb0doUHhHZTNacFdyTDFwUThZR05HWVdSd2F0ZXU2ZFg5TTdSNjUyVWh6SlRvSzhySHdNcG5FcTd5UUE3dmlxMEN6aTlCVVh2MVp2YWVMenJOWHFUaXczMjBENjN2M1FYeVNkZlZXcDNkOG9RY2I0Vy1wVF9yQ2pYVWJma2FiNlRsWmlTYjcyNlVjRG5uZ0g5a3YxRExpZU9FaFVfSWhR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1103]:
+              - generic [ref=e1104]:
+                - generic [ref=e1107]: TIKR.com
+                - generic [ref=e1111]:
+                  - generic:
+                    - 'button "More - Okta Stock Jumps 23% on Q1 FY27 Earnings: Why the AI Agent Opportunity Changes the Long-Term Math" [ref=e1112] [cursor=pointer]':
+                      - img [ref=e1114]
+                    - tooltip [ref=e1116]: More
+              - 'link "Okta Stock Jumps 23% on Q1 FY27 Earnings: Why the AI Agent Opportunity Changes the Long-Term Math - TIKR.com - 2 hours ago" [ref=e1117] [cursor=pointer]':
+                - /url: ./read/CBMivgFBVV95cUxPNmNocEJpdHM2YmpIX3dUdDdpVWtIMmJYb0doUHhHZTNacFdyTDFwUThZR05HWVdSd2F0ZXU2ZFg5TTdSNjUyVWh6SlRvSzhySHdNcG5FcTd5UUE3dmlxMEN6aTlCVVh2MVp2YWVMenJOWHFUaXczMjBENjN2M1FYeVNkZlZXcDNkOG9RY2I0Vy1wVF9yQ2pYVWJma2FiNlRsWmlTYjcyNlVjRG5uZ0g5a3YxRExpZU9FaFVfSWhR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Okta Stock Jumps 23% on Q1 FY27 Earnings: Why the AI Agent Opportunity Changes the Long-Term Math"
+            - figure [ref=e1118]
+          - time [ref=e1120]: 2 hours ago
+      - generic [ref=e1121]:
+        - separator [ref=e1123]
+        - generic [ref=e1125]:
+          - generic [ref=e1126]:
+            - link [ref=e1128] [cursor=pointer]:
+              - /url: ./read/CBMijwFBVV95cUxPRUJwWERwZUR6enhuRTJIVzEzRDVwRXlJOFpJVmRXd1Z0anJQdnR0N0ZId0VqaWpMdTB3OWpOc1FDU0NjWl9zQkFiODVFNkJ4U3dQYWhyLTdzMHFHT2M2eTM3dUk2bk9SNG9jVEhaa2hlRDljeVRlaVpuNzIwOU93blJ3OWVDSlRwZ2w0eE5Ecw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1130]:
+              - generic [ref=e1131]:
+                - generic [ref=e1134]: FinTech Global
+                - generic [ref=e1138]:
+                  - generic:
+                    - button "More - Balderton leads $30m round in AI agent security firm" [ref=e1139] [cursor=pointer]:
+                      - img [ref=e1141]
+                    - tooltip [ref=e1143]: More
+              - link "Balderton leads $30m round in AI agent security firm - FinTech Global - 2 hours ago" [ref=e1144] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxPRUJwWERwZUR6enhuRTJIVzEzRDVwRXlJOFpJVmRXd1Z0anJQdnR0N0ZId0VqaWpMdTB3OWpOc1FDU0NjWl9zQkFiODVFNkJ4U3dQYWhyLTdzMHFHT2M2eTM3dUk2bk9SNG9jVEhaa2hlRDljeVRlaVpuNzIwOU93blJ3OWVDSlRwZ2w0eE5Ecw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Balderton leads $30m round in AI agent security firm
+            - figure [ref=e1145]
+          - time [ref=e1147]: 2 hours ago
+      - generic [ref=e1148]:
+        - separator [ref=e1150]
+        - generic [ref=e1152]:
+          - generic [ref=e1153]:
+            - link [ref=e1155] [cursor=pointer]:
+              - /url: ./read/CBMickFVX3lxTE9kdHhQMlBiR28tdW8wbFVOY001RzZlVGlCa2k0VTVpV3ZLUXVRNHNseHNfYWVETndsUlRwNFJQaUNYMFA1SnZGVTFSQWp5N1J1X1YtSm5OenZfT3drQjNqTGtHelJQbmV0cU1NNjVNTy1hdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1157]:
+              - generic [ref=e1158]:
+                - generic [ref=e1161]: About Amazon
+                - generic [ref=e1165]:
+                  - generic:
+                    - button "More - How Amazon is building AI that takes action in the real world" [ref=e1166] [cursor=pointer]:
+                      - img [ref=e1168]
+                    - tooltip [ref=e1170]: More
+              - link "How Amazon is building AI that takes action in the real world - About Amazon - 2 days ago - By Isaac Schultz" [ref=e1171] [cursor=pointer]:
+                - /url: ./read/CBMickFVX3lxTE9kdHhQMlBiR28tdW8wbFVOY001RzZlVGlCa2k0VTVpV3ZLUXVRNHNseHNfYWVETndsUlRwNFJQaUNYMFA1SnZGVTFSQWp5N1J1X1YtSm5OenZfT3drQjNqTGtHelJQbmV0cU1NNjVNTy1hdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How Amazon is building AI that takes action in the real world
+            - figure [ref=e1172]
+          - generic [ref=e1173]:
+            - time [ref=e1174]: 2 days ago
+            - separator [ref=e1175]
+            - generic [ref=e1176]: By Isaac Schultz
+      - generic [ref=e1177]:
+        - separator [ref=e1179]
+        - generic [ref=e1181]:
+          - generic [ref=e1182]:
+            - link [ref=e1184] [cursor=pointer]:
+              - /url: ./read/CBMiggJBVV95cUxNMno5WW05RC0xZmJoUkUwRlhObzI3ZlY1c29XdjF1Vk15SnB2bEtlLU4wZDJmM1hJbmpmZ0dpRG0yMFdXSHVSWjRiaDZHLUJndHlZVFY2bm5FNzVSbENXdnl0ZS15dGthdlJJdlpCYkdGTkhyOUxMd2VjMk1VOWZwenA2RThxNG4xcFFmMTRJOTlNNTZaUHMzNzRFOUdWeW54eEdWQk9tSWtyZVR1b0ZMWDlOSXh3b2t0YmFMNVFHb0ZtXzhaaVEwVkNWNDIxRjFRVXRlcnd1RnlySzNHOEFrTE1RNjBqcXEtR0RlUHBuY1FkLTc2NkttQjIwSzk4MDZvcHc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1186]:
+              - generic [ref=e1187]:
+                - generic [ref=e1190]: Google Cloud Press Corner
+                - generic [ref=e1194]:
+                  - generic:
+                    - button "More - Workday and Google Cloud Expand Strategic Partnership to Bring AI Agents for HR and Finance Into Employees' Daily Workflows" [ref=e1195] [cursor=pointer]:
+                      - img [ref=e1197]
+                    - tooltip [ref=e1199]: More
+              - link "Workday and Google Cloud Expand Strategic Partnership to Bring AI Agents for HR and Finance Into Employees' Daily Workflows - Google Cloud Press Corner - 2 days ago" [ref=e1200] [cursor=pointer]:
+                - /url: ./read/CBMiggJBVV95cUxNMno5WW05RC0xZmJoUkUwRlhObzI3ZlY1c29XdjF1Vk15SnB2bEtlLU4wZDJmM1hJbmpmZ0dpRG0yMFdXSHVSWjRiaDZHLUJndHlZVFY2bm5FNzVSbENXdnl0ZS15dGthdlJJdlpCYkdGTkhyOUxMd2VjMk1VOWZwenA2RThxNG4xcFFmMTRJOTlNNTZaUHMzNzRFOUdWeW54eEdWQk9tSWtyZVR1b0ZMWDlOSXh3b2t0YmFMNVFHb0ZtXzhaaVEwVkNWNDIxRjFRVXRlcnd1RnlySzNHOEFrTE1RNjBqcXEtR0RlUHBuY1FkLTc2NkttQjIwSzk4MDZvcHc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Workday and Google Cloud Expand Strategic Partnership to Bring AI Agents for HR and Finance Into Employees' Daily Workflows
+            - figure [ref=e1201]
+          - time [ref=e1203]: 2 days ago
+      - generic [ref=e1204]:
+        - separator [ref=e1206]
+        - generic [ref=e1208]:
+          - generic [ref=e1209]:
+            - link [ref=e1211] [cursor=pointer]:
+              - /url: ./read/CBMioAFBVV95cUxNMVBaOTZjX0ZzbXRDTDZiT3FsQXh4UDJ2dmtWVzNVN0ZjZ3EwMDNIOUdnTmxDZkNmOFZfQ3ZaNTRTRVNnZHVINVlXcFBZamhYOUFJMDhrWHluSzBZdmtVT3VFM2RZMGNOVTY5N2ZwanJwdVR5N1pLWWlWd2t3U05XMmRXTDZ2ZUoyR1NjX2dOTWxmRlVJSW10U19EbUNPQnpM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1213]:
+              - generic [ref=e1214]:
+                - generic [ref=e1217]: thestreet.com
+                - generic [ref=e1221]:
+                  - generic:
+                    - button "More - AI agents can now open bank accounts and move your money" [ref=e1222] [cursor=pointer]:
+                      - img [ref=e1224]
+                    - tooltip [ref=e1226]: More
+              - link "AI agents can now open bank accounts and move your money - thestreet.com - 12 hours ago - By Tobi Amure & Tobi Opeyemi" [ref=e1227] [cursor=pointer]:
+                - /url: ./read/CBMioAFBVV95cUxNMVBaOTZjX0ZzbXRDTDZiT3FsQXh4UDJ2dmtWVzNVN0ZjZ3EwMDNIOUdnTmxDZkNmOFZfQ3ZaNTRTRVNnZHVINVlXcFBZamhYOUFJMDhrWHluSzBZdmtVT3VFM2RZMGNOVTY5N2ZwanJwdVR5N1pLWWlWd2t3U05XMmRXTDZ2ZUoyR1NjX2dOTWxmRlVJSW10U19EbUNPQnpM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI agents can now open bank accounts and move your money
+            - figure [ref=e1228]
+          - generic [ref=e1229]:
+            - time [ref=e1230]: 12 hours ago
+            - separator [ref=e1231]
+            - generic [ref=e1232]: By Tobi Amure & Tobi Opeyemi
+      - generic [ref=e1233]:
+        - separator [ref=e1235]
+        - generic [ref=e1237]:
+          - generic [ref=e1238]:
+            - link [ref=e1240] [cursor=pointer]:
+              - /url: ./read/CBMirAFBVV95cUxPczZtVy0yMllERDhYa2xBTlRWbTBldXhSdTR3WDBOV3JhanBiM0xmeUdRV0xnUTRuSm9TeWJmaUZ5S0doWE1USGJnNzNPaGFqMWRzMmtKeUcyUVBka28tWE9RYlpwdXpWZ295UkhmZldvY1JCcnpZdHBzck1mZEczSEZ4Y0x0U1M0TUFyRDZ1d3VyV0xxajNlTXc4bHVON3R6OWdrYUF0T2lHR0xW?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1242]:
+              - generic [ref=e1243]:
+                - generic [ref=e1246]: SiliconANGLE
+                - generic [ref=e1250]:
+                  - generic:
+                    - button "More - Asana acquires StackAI to run AI agent workflows across enterprise systems" [ref=e1251] [cursor=pointer]:
+                      - img [ref=e1253]
+                    - tooltip [ref=e1255]: More
+              - link "Asana acquires StackAI to run AI agent workflows across enterprise systems - SiliconANGLE - 19 hours ago - By Duncan Riley" [ref=e1256] [cursor=pointer]:
+                - /url: ./read/CBMirAFBVV95cUxPczZtVy0yMllERDhYa2xBTlRWbTBldXhSdTR3WDBOV3JhanBiM0xmeUdRV0xnUTRuSm9TeWJmaUZ5S0doWE1USGJnNzNPaGFqMWRzMmtKeUcyUVBka28tWE9RYlpwdXpWZ295UkhmZldvY1JCcnpZdHBzck1mZEczSEZ4Y0x0U1M0TUFyRDZ1d3VyV0xxajNlTXc4bHVON3R6OWdrYUF0T2lHR0xW?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Asana acquires StackAI to run AI agent workflows across enterprise systems
+            - figure [ref=e1257]
+          - generic [ref=e1258]:
+            - time [ref=e1259]: 19 hours ago
+            - separator [ref=e1260]
+            - generic [ref=e1261]: By Duncan Riley
+      - generic [ref=e1262]:
+        - separator [ref=e1264]
+        - generic [ref=e1266]:
+          - generic [ref=e1267]:
+            - link [ref=e1269] [cursor=pointer]:
+              - /url: ./read/CBMiugFBVV95cUxQQnFGVWl3b0g1VmljX0YycnZNSHZoNEczZnQxdWl5SkxfcmpBUzVGUG4xNTM5allWd1dVRjIzaFJ6Yl82eW9jXzdPYjVtVGM2dVNjajVzSVNpM1k3MTBnQnZXMWI3TEg2UGFubElIS1FnZUJTcTZEc0VoWGp1MFNOVUFvdTRHenhCcVV6Y0VibXQ4UnlUV0hPUTZoSHYtYWlzOVk1M3MzOW9xaWNZSjdXN0cxLUpvZ0pVOEE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1271]:
+              - generic [ref=e1272]:
+                - generic [ref=e1275]: The Pennsylvania State University
+                - generic [ref=e1279]:
+                  - generic:
+                    - button "More - IST researcher elected president of global intelligent systems foundation" [ref=e1280] [cursor=pointer]:
+                      - img [ref=e1282]
+                    - tooltip [ref=e1284]: More
+              - link "IST researcher elected president of global intelligent systems foundation - The Pennsylvania State University - 13 hours ago" [ref=e1285] [cursor=pointer]:
+                - /url: ./read/CBMiugFBVV95cUxQQnFGVWl3b0g1VmljX0YycnZNSHZoNEczZnQxdWl5SkxfcmpBUzVGUG4xNTM5allWd1dVRjIzaFJ6Yl82eW9jXzdPYjVtVGM2dVNjajVzSVNpM1k3MTBnQnZXMWI3TEg2UGFubElIS1FnZUJTcTZEc0VoWGp1MFNOVUFvdTRHenhCcVV6Y0VibXQ4UnlUV0hPUTZoSHYtYWlzOVk1M3MzOW9xaWNZSjdXN0cxLUpvZ0pVOEE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: IST researcher elected president of global intelligent systems foundation
+            - figure [ref=e1286]
+          - time [ref=e1288]: 13 hours ago
+      - generic [ref=e1289]:
+        - separator [ref=e1291]
+        - generic [ref=e1293]:
+          - generic [ref=e1294]:
+            - link [ref=e1296] [cursor=pointer]:
+              - /url: ./read/CBMijAFBVV95cUxPb01yelB4QjJkVGNNUDFnOFZWZjVvMzFJMExFQmhhU1lTOUVPdlRkTDZIRDZvVnhLZkQ3eXNtNjJ3cmxvZmlneU9uT25JdVhHSldLckU2dGQxblU5eFlXOHJmX2Y2ZXF0cG9uT29YM3R5b0VCbTZZUkV5d3NTUE1qaUExdWJZRmtiNlUzUg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1298]:
+              - generic [ref=e1299]:
+                - generic [ref=e1302]: StartupHub.ai
+                - generic [ref=e1306]:
+                  - generic:
+                    - 'button "More - Claude''s Corner: Salus (YC W2026) — The Bouncer Your AI Agents Desperately Need" [ref=e1307] [cursor=pointer]':
+                      - img [ref=e1309]
+                    - tooltip [ref=e1311]: More
+              - 'link "Claude''s Corner: Salus (YC W2026) — The Bouncer Your AI Agents Desperately Need - StartupHub.ai - 5 hours ago" [ref=e1312] [cursor=pointer]':
+                - /url: ./read/CBMijAFBVV95cUxPb01yelB4QjJkVGNNUDFnOFZWZjVvMzFJMExFQmhhU1lTOUVPdlRkTDZIRDZvVnhLZkQ3eXNtNjJ3cmxvZmlneU9uT25JdVhHSldLckU2dGQxblU5eFlXOHJmX2Y2ZXF0cG9uT29YM3R5b0VCbTZZUkV5d3NTUE1qaUExdWJZRmtiNlUzUg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Claude's Corner: Salus (YC W2026) — The Bouncer Your AI Agents Desperately Need"
+            - figure [ref=e1313]
+          - time [ref=e1315]: 5 hours ago
+      - generic [ref=e1316]:
+        - separator [ref=e1318]
+        - generic [ref=e1320]:
+          - generic [ref=e1321]:
+            - link [ref=e1323] [cursor=pointer]:
+              - /url: ./read/CBMikAFBVV95cUxQZ1hGcy1zX2t1RHlUZHZiVkNFTWhzUXFDVnB5SEo0aWhWTldDSFNCNk5OVWhENEpZc09iV2tTV2cwWDk5RnV5UU1YSTZEVnhWOHZPN1B2dUtZY3dsRjJ0T0dEMHlVeHo2WFNiSUllWU8zdWlFeVIwdGZaWG1fZDBTUnZER05ib1piNktvOHVRdnA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1325]:
+              - generic [ref=e1326]:
+                - generic [ref=e1329]: Procurement Magazine
+                - generic [ref=e1333]:
+                  - generic:
+                    - 'button "More - Microsoft: Using AI Agents to Handle Clinical Data Surge" [ref=e1334] [cursor=pointer]':
+                      - img [ref=e1336]
+                    - tooltip [ref=e1338]: More
+              - 'link "Microsoft: Using AI Agents to Handle Clinical Data Surge - Procurement Magazine - 10 hours ago - By Aaron Mcmillan" [ref=e1339] [cursor=pointer]':
+                - /url: ./read/CBMikAFBVV95cUxQZ1hGcy1zX2t1RHlUZHZiVkNFTWhzUXFDVnB5SEo0aWhWTldDSFNCNk5OVWhENEpZc09iV2tTV2cwWDk5RnV5UU1YSTZEVnhWOHZPN1B2dUtZY3dsRjJ0T0dEMHlVeHo2WFNiSUllWU8zdWlFeVIwdGZaWG1fZDBTUnZER05ib1piNktvOHVRdnA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Microsoft: Using AI Agents to Handle Clinical Data Surge"
+            - figure [ref=e1340]
+          - generic [ref=e1341]:
+            - time [ref=e1342]: 10 hours ago
+            - separator [ref=e1343]
+            - generic [ref=e1344]: By Aaron Mcmillan
+      - generic [ref=e1345]:
+        - separator [ref=e1347]
+        - generic [ref=e1349]:
+          - generic [ref=e1350]:
+            - link [ref=e1352] [cursor=pointer]:
+              - /url: ./read/CBMiYEFVX3lxTE5pR1pqQmgxdzc1NFBsMTBhd0xselhqQ1NZU1lQWGxPWkU5M0cyQmJmREQyNEZpb3ZCQnoxazZWOFF1MFFUS1BBbG1Kcmx0bDhRODhmOHdzN2kwZXBkYU9rXw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1354]:
+              - generic [ref=e1355]:
+                - generic [ref=e1358]: Fortune
+                - generic [ref=e1362]:
+                  - generic:
+                    - button "More - Robinhood launches agentic trading, announces credit card for AI agents with 3% cash back" [ref=e1363] [cursor=pointer]:
+                      - img [ref=e1365]
+                    - tooltip [ref=e1367]: More
+              - link "Robinhood launches agentic trading, announces credit card for AI agents with 3% cash back - Fortune - 3 days ago - By Jeff John Roberts & John Roberts" [ref=e1368] [cursor=pointer]:
+                - /url: ./read/CBMiYEFVX3lxTE5pR1pqQmgxdzc1NFBsMTBhd0xselhqQ1NZU1lQWGxPWkU5M0cyQmJmREQyNEZpb3ZCQnoxazZWOFF1MFFUS1BBbG1Kcmx0bDhRODhmOHdzN2kwZXBkYU9rXw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Robinhood launches agentic trading, announces credit card for AI agents with 3% cash back
+            - figure [ref=e1369]
+          - generic [ref=e1370]:
+            - time [ref=e1371]: 3 days ago
+            - separator [ref=e1372]
+            - generic [ref=e1373]: By Jeff John Roberts & John Roberts
+      - generic [ref=e1374]:
+        - separator [ref=e1376]
+        - generic [ref=e1378]:
+          - generic [ref=e1379]:
+            - link [ref=e1381] [cursor=pointer]:
+              - /url: ./read/CBMiWkFVX3lxTE9zdDlNa0ZuMzBzYTJuQlZzZXNIamZJazQtTE8wd2kxMnZpdmhpTVZkRmVEbkI5UEFKUTd4dGxsdnN1U3BZRTBydUpRLW5Tb3NfaXhmM290dHNZQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1383]:
+              - generic [ref=e1384]:
+                - generic [ref=e1387]: The New Stack
+                - generic [ref=e1391]:
+                  - generic:
+                    - button "More - Why AI agents need a Context Lake" [ref=e1392] [cursor=pointer]:
+                      - img [ref=e1394]
+                    - tooltip [ref=e1396]: More
+              - link "Why AI agents need a Context Lake - The New Stack - 3 days ago - By Zohar Einy" [ref=e1397] [cursor=pointer]:
+                - /url: ./read/CBMiWkFVX3lxTE9zdDlNa0ZuMzBzYTJuQlZzZXNIamZJazQtTE8wd2kxMnZpdmhpTVZkRmVEbkI5UEFKUTd4dGxsdnN1U3BZRTBydUpRLW5Tb3NfaXhmM290dHNZQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Why AI agents need a Context Lake
+            - figure [ref=e1398]
+          - generic [ref=e1399]:
+            - time [ref=e1400]: 3 days ago
+            - separator [ref=e1401]
+            - generic [ref=e1402]: By Zohar Einy
+      - generic [ref=e1403]:
+        - separator [ref=e1405]
+        - generic [ref=e1407]:
+          - generic [ref=e1408]:
+            - link [ref=e1410] [cursor=pointer]:
+              - /url: ./read/CBMisgFBVV95cUxPTVdocHVwM3VJWVNZcHRCcUtFdE4yUngwMktRcjdraFVwekhvY0RrSl9CYzNkbmlKZmNtNzNsRHRGdExWLVJqQU9fcFE3ZnE1bjc3T3N6b0J3NDRydXlPUFU1enhuNy1RbFF3S2wzZTVnQmd2cEt4MmFvaG9hN3VNemNQc1VsNjZVNWgxUkpVeHJLemRvUWNfS0p2Z0RJZDh3c0N1YWIwWVF4X3EyVy12Ym9n?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1412]:
+              - generic [ref=e1413]:
+                - generic [ref=e1416]: SiliconANGLE
+                - generic [ref=e1420]:
+                  - generic:
+                    - button "More - Chrome Enterprise rolls out AI agents and automation to streamline security management" [ref=e1421] [cursor=pointer]:
+                      - img [ref=e1423]
+                    - tooltip [ref=e1425]: More
+              - link "Chrome Enterprise rolls out AI agents and automation to streamline security management - SiliconANGLE - Yesterday - By Kyt Dotson" [ref=e1426] [cursor=pointer]:
+                - /url: ./read/CBMisgFBVV95cUxPTVdocHVwM3VJWVNZcHRCcUtFdE4yUngwMktRcjdraFVwekhvY0RrSl9CYzNkbmlKZmNtNzNsRHRGdExWLVJqQU9fcFE3ZnE1bjc3T3N6b0J3NDRydXlPUFU1enhuNy1RbFF3S2wzZTVnQmd2cEt4MmFvaG9hN3VNemNQc1VsNjZVNWgxUkpVeHJLemRvUWNfS0p2Z0RJZDh3c0N1YWIwWVF4X3EyVy12Ym9n?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Chrome Enterprise rolls out AI agents and automation to streamline security management
+            - figure [ref=e1427]
+          - generic [ref=e1428]:
+            - time [ref=e1429]: Yesterday
+            - separator [ref=e1430]
+            - generic [ref=e1431]: By Kyt Dotson
+      - generic [ref=e1432]:
+        - separator [ref=e1434]
+        - generic [ref=e1436]:
+          - generic [ref=e1437]:
+            - link [ref=e1439] [cursor=pointer]:
+              - /url: ./read/CBMivwFBVV95cUxNZlY3MmJrcWhZOFdIcnowT3ZIOFFuMl8za0FRLVdIa1Y3bzMzQ3NZaTYtemxaRmVHbmdzTHFBYlh5ZTlmUTE4ZHhiUkpJOEVWdzAzejlmaU9zS0xzak02bVFYNWxGOEdyMnQ4RlFWQVFGejJ6eDJfSnJ1bERYUjBpZjdDUHdqeHIwaUlqSXYtUUk0SndxM3FKSVM1dTBzRHpBcms5TERySlJiQy1LWERKeXlhQTJYVzR2cFYzaFZQMA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1441]:
+              - generic [ref=e1442]:
+                - generic [ref=e1445]: Stock Titan
+                - generic [ref=e1449]:
+                  - generic:
+                    - button "More - AI agents speed U.S. prior authorization in Cognizant TriZetto" [ref=e1450] [cursor=pointer]:
+                      - img [ref=e1452]
+                    - tooltip [ref=e1454]: More
+              - link "AI agents speed U.S. prior authorization in Cognizant TriZetto - Stock Titan - 3 hours ago" [ref=e1455] [cursor=pointer]:
+                - /url: ./read/CBMivwFBVV95cUxNZlY3MmJrcWhZOFdIcnowT3ZIOFFuMl8za0FRLVdIa1Y3bzMzQ3NZaTYtemxaRmVHbmdzTHFBYlh5ZTlmUTE4ZHhiUkpJOEVWdzAzejlmaU9zS0xzak02bVFYNWxGOEdyMnQ4RlFWQVFGejJ6eDJfSnJ1bERYUjBpZjdDUHdqeHIwaUlqSXYtUUk0SndxM3FKSVM1dTBzRHpBcms5TERySlJiQy1LWERKeXlhQTJYVzR2cFYzaFZQMA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI agents speed U.S. prior authorization in Cognizant TriZetto
+            - figure [ref=e1456]
+          - time [ref=e1458]: 3 hours ago
+      - generic [ref=e1459]:
+        - separator [ref=e1461]
+        - generic [ref=e1463]:
+          - generic [ref=e1464]:
+            - link [ref=e1466] [cursor=pointer]:
+              - /url: ./read/CBMi9AFBVV95cUxNdFRGSDg0dU9RYVhJY1JDSlJrRkRQLXpXT1pXRURxTlNQUGNIcURRLUEyNjV5N0ZuR192a0pra25wUU80bmdXMW9ndXhnOWYxYUpUOG5KOTdmd3VDZ2J2YlVUSWozYVR0djFla0hSbjFsNFR0djFRc2Ixb2lQXzF3WU5WTmVuTWxBMFZuY2VQV2Nsd21fM1hFeERfUzQxMzk5OUlBc0RPWnVUZmtFLTJCTmJ1N2dySGhQSGJieG9OWXJ5bjJLLWoyWFRmUVJQT1hsb3Qwc0lwZ3ZLeHlKbEpEbzZ1NGhSanlFNFpMQ1JGaEhNcjky?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1468]:
+              - generic [ref=e1469]:
+                - generic [ref=e1472]: Fintech Finance
+                - generic [ref=e1476]:
+                  - generic:
+                    - button "More - Multimodal and Multilingual Conversational AI Agents in Customer Support" [ref=e1477] [cursor=pointer]:
+                      - img [ref=e1479]
+                    - tooltip [ref=e1481]: More
+              - link "Multimodal and Multilingual Conversational AI Agents in Customer Support - Fintech Finance - 4 hours ago" [ref=e1482] [cursor=pointer]:
+                - /url: ./read/CBMi9AFBVV95cUxNdFRGSDg0dU9RYVhJY1JDSlJrRkRQLXpXT1pXRURxTlNQUGNIcURRLUEyNjV5N0ZuR192a0pra25wUU80bmdXMW9ndXhnOWYxYUpUOG5KOTdmd3VDZ2J2YlVUSWozYVR0djFla0hSbjFsNFR0djFRc2Ixb2lQXzF3WU5WTmVuTWxBMFZuY2VQV2Nsd21fM1hFeERfUzQxMzk5OUlBc0RPWnVUZmtFLTJCTmJ1N2dySGhQSGJieG9OWXJ5bjJLLWoyWFRmUVJQT1hsb3Qwc0lwZ3ZLeHlKbEpEbzZ1NGhSanlFNFpMQ1JGaEhNcjky?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Multimodal and Multilingual Conversational AI Agents in Customer Support
+            - figure [ref=e1483]
+          - time [ref=e1485]: 4 hours ago
+      - generic [ref=e1486]:
+        - separator [ref=e1488]
+        - generic [ref=e1490]:
+          - generic [ref=e1491]:
+            - link [ref=e1493] [cursor=pointer]:
+              - /url: ./read/CBMilgFBVV95cUxPU3pLVFFTU2FmRmREdXNidTZ0ZzV0TXlUZHluSmdWQnR5blFEd3h4S1gtRllzTXFfV2x6THVlRTJtYkdfN0k1NjM3MGtuR1JhZHpacGhuNjFaNXlOQVFrWGVHb3ptU2pfNmFNMXBLYmtWT3djN1BpQU01b2RlQ3d3Rmo1am1HU2hOamxPVFNjenZnM0R4U3c?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1495]:
+              - generic [ref=e1496]:
+                - generic [ref=e1499]: American Banker
+                - generic [ref=e1503]:
+                  - generic:
+                    - button "More - TD's new AI agent shaves 15 hours off mortgage decisions" [ref=e1504] [cursor=pointer]:
+                      - img [ref=e1506]
+                    - tooltip [ref=e1508]: More
+              - link "TD's new AI agent shaves 15 hours off mortgage decisions - American Banker - 22 hours ago - By Penny Crosman" [ref=e1509] [cursor=pointer]:
+                - /url: ./read/CBMilgFBVV95cUxPU3pLVFFTU2FmRmREdXNidTZ0ZzV0TXlUZHluSmdWQnR5blFEd3h4S1gtRllzTXFfV2x6THVlRTJtYkdfN0k1NjM3MGtuR1JhZHpacGhuNjFaNXlOQVFrWGVHb3ptU2pfNmFNMXBLYmtWT3djN1BpQU01b2RlQ3d3Rmo1am1HU2hOamxPVFNjenZnM0R4U3c?hl=en-US&gl=US&ceid=US%3Aen
+                - text: TD's new AI agent shaves 15 hours off mortgage decisions
+            - figure [ref=e1510]
+          - generic [ref=e1511]:
+            - time [ref=e1512]: 22 hours ago
+            - separator [ref=e1513]
+            - generic [ref=e1514]: By Penny Crosman
+      - generic [ref=e1515]:
+        - separator [ref=e1517]
+        - generic [ref=e1519]:
+          - generic [ref=e1520]:
+            - link [ref=e1522] [cursor=pointer]:
+              - /url: ./read/CBMipgFBVV95cUxPQWFDU0JEb0VKSGRCS0Q4OWk2T3lRY2lqWHZrQ1ZPbnJKZE85QlRDQWlOUHVWcU1UWTV0UkVkRzA4VGJuaGYwbzRKc08zbENnWF9RMEM0WnYwNVB6aEJDaEs3X211UmxIZWJRR1gtTjF5QjlHSnM2RnBQdzRzZnBmMHV3cVBkZW1xdzhrekJuVXBfN2xHNjVzMHl1N0htODhreWNJd0d3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1524]:
+              - generic [ref=e1525]:
+                - generic [ref=e1528]: SiliconANGLE
+                - generic [ref=e1532]:
+                  - generic:
+                    - button "More - CoreWeave introduces autonomous improvement capabilities for AI agents" [ref=e1533] [cursor=pointer]:
+                      - img [ref=e1535]
+                    - tooltip [ref=e1537]: More
+              - link "CoreWeave introduces autonomous improvement capabilities for AI agents - SiliconANGLE - 2 days ago" [ref=e1538] [cursor=pointer]:
+                - /url: ./read/CBMipgFBVV95cUxPQWFDU0JEb0VKSGRCS0Q4OWk2T3lRY2lqWHZrQ1ZPbnJKZE85QlRDQWlOUHVWcU1UWTV0UkVkRzA4VGJuaGYwbzRKc08zbENnWF9RMEM0WnYwNVB6aEJDaEs3X211UmxIZWJRR1gtTjF5QjlHSnM2RnBQdzRzZnBmMHV3cVBkZW1xdzhrekJuVXBfN2xHNjVzMHl1N0htODhreWNJd0d3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: CoreWeave introduces autonomous improvement capabilities for AI agents
+            - figure [ref=e1539]
+          - time [ref=e1541]: 2 days ago
+      - generic [ref=e1542]:
+        - separator [ref=e1544]
+        - generic [ref=e1546]:
+          - generic [ref=e1547]:
+            - link [ref=e1549] [cursor=pointer]:
+              - /url: ./read/CBMia0FVX3lxTE9KMzNieUFkUEg1Mmp0RExqZW12T2p5eTFkLXZFRTZtdG9kM28xejFzZ2lKYUlUc2FxU0xtZTdYQkxPeWxtNVNIT2JIa3V6d0ZzZGFPV0dVSTVUNk03M0Nsck5xOFhGUG43UUVF?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1551]:
+              - generic [ref=e1552]:
+                - generic [ref=e1555]: crypto.news
+                - generic [ref=e1559]:
+                  - generic:
+                    - button "More - Payouts.com warns on AI agent payments" [ref=e1560] [cursor=pointer]:
+                      - img [ref=e1562]
+                    - tooltip [ref=e1564]: More
+              - link "Payouts.com warns on AI agent payments - crypto.news - 35 minutes ago" [ref=e1565] [cursor=pointer]:
+                - /url: ./read/CBMia0FVX3lxTE9KMzNieUFkUEg1Mmp0RExqZW12T2p5eTFkLXZFRTZtdG9kM28xejFzZ2lKYUlUc2FxU0xtZTdYQkxPeWxtNVNIT2JIa3V6d0ZzZGFPV0dVSTVUNk03M0Nsck5xOFhGUG43UUVF?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Payouts.com warns on AI agent payments
+            - figure [ref=e1566]
+          - time [ref=e1568]: 35 minutes ago
+      - generic [ref=e1569]:
+        - separator [ref=e1571]
+        - generic [ref=e1573]:
+          - generic [ref=e1574]:
+            - link [ref=e1576] [cursor=pointer]:
+              - /url: ./read/CBMicEFVX3lxTE1SZWJWUElMS1o0OVBlNGFDYXdZalpCRTAtMi1BNTZTSGxsTjlOQlgwTGRUMEdhWmNmNEIyMk5mV1dsc1lDdDM5eVdfeFFzMTUzNHRVZEQ1UGxxbmc1d1MtRmQ4TlVxQzh5TVdPS3RsQ2g?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1578]:
+              - generic [ref=e1579]:
+                - generic [ref=e1582]: MarTech
+                - generic [ref=e1586]:
+                  - generic:
+                    - button "More - AI agents are exposing martech’s weak point" [ref=e1587] [cursor=pointer]:
+                      - img [ref=e1589]
+                    - tooltip [ref=e1591]: More
+              - link "AI agents are exposing martech’s weak point - MarTech - Yesterday - By Pamela Parker" [ref=e1592] [cursor=pointer]:
+                - /url: ./read/CBMicEFVX3lxTE1SZWJWUElMS1o0OVBlNGFDYXdZalpCRTAtMi1BNTZTSGxsTjlOQlgwTGRUMEdhWmNmNEIyMk5mV1dsc1lDdDM5eVdfeFFzMTUzNHRVZEQ1UGxxbmc1d1MtRmQ4TlVxQzh5TVdPS3RsQ2g?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI agents are exposing martech’s weak point
+            - figure [ref=e1593]
+          - generic [ref=e1594]:
+            - time [ref=e1595]: Yesterday
+            - separator [ref=e1596]
+            - generic [ref=e1597]: By Pamela Parker
+      - generic [ref=e1598]:
+        - separator [ref=e1600]
+        - generic [ref=e1602]:
+          - generic [ref=e1603]:
+            - link [ref=e1605] [cursor=pointer]:
+              - /url: ./read/CBMihwFBVV95cUxNMnVpSE44ZEdqRWc0QnhENHRCa1p0YWpNQ2FyN2lEd2k4Wk9YWHdHbWU0eENsbDAyU1c5TENKWlF1NWZsLS1UbXU0S0ljRXBTWEpacEdBN1ZqQUR3dmFVNXR5LVdJampjVVBkX284VkJRcmtwaWliNGpIOEc2SU5TSjJzNy1JLU0?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1607]:
+              - generic [ref=e1608]:
+                - generic [ref=e1611]: The New York Times
+                - generic [ref=e1615]:
+                  - generic:
+                    - button "More - I Tried to Sell My House With A.I." [ref=e1616] [cursor=pointer]:
+                      - img [ref=e1618]
+                    - tooltip [ref=e1620]: More
+              - link "I Tried to Sell My House With A.I. - The New York Times - 21 hours ago - By Stuart Thompson" [ref=e1621] [cursor=pointer]:
+                - /url: ./read/CBMihwFBVV95cUxNMnVpSE44ZEdqRWc0QnhENHRCa1p0YWpNQ2FyN2lEd2k4Wk9YWHdHbWU0eENsbDAyU1c5TENKWlF1NWZsLS1UbXU0S0ljRXBTWEpacEdBN1ZqQUR3dmFVNXR5LVdJampjVVBkX284VkJRcmtwaWliNGpIOEc2SU5TSjJzNy1JLU0?hl=en-US&gl=US&ceid=US%3Aen
+                - text: I Tried to Sell My House With A.I.
+            - figure [ref=e1622]
+          - generic [ref=e1623]:
+            - time [ref=e1624]: 21 hours ago
+            - separator [ref=e1625]
+            - generic [ref=e1626]: By Stuart Thompson
+      - generic [ref=e1627]:
+        - separator [ref=e1629]
+        - generic [ref=e1631]:
+          - generic [ref=e1632]:
+            - link [ref=e1634] [cursor=pointer]:
+              - /url: ./read/CBMiugFBVV95cUxOZXk0YzQyenlKb2xodU5ZVWk4ajNlVG5sWVRUMm1zOGR2aXpBal9WUXBWRUkwUkRYVmVqajBZMWlheXNBRWxnR1RuUXBzRXM5TEZwU2FFR2d1YkN3aWdTRkpielBteTl6RkgxcVNPbllOU3FXRTV5RlV0d1RENmt5Nloyb1oyaXo4ZGNKT1htdjZTRnBjNnctVGY1bndsWHQxTnFfWnRtaUtTb1g4ZGJrcUpKeDhqYzFtTEE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1636]:
+              - generic [ref=e1637]:
+                - generic [ref=e1640]: crn.com
+                - generic [ref=e1644]:
+                  - generic:
+                    - 'button "More - Okta Seeing ‘Acute’ Demand For AI Agent Security Amid Massive Identity Risk: Execs" [ref=e1645] [cursor=pointer]':
+                      - img [ref=e1647]
+                    - tooltip [ref=e1649]: More
+              - 'link "Okta Seeing ‘Acute’ Demand For AI Agent Security Amid Massive Identity Risk: Execs - crn.com - 21 hours ago - By Kyle Alspach" [ref=e1650] [cursor=pointer]':
+                - /url: ./read/CBMiugFBVV95cUxOZXk0YzQyenlKb2xodU5ZVWk4ajNlVG5sWVRUMm1zOGR2aXpBal9WUXBWRUkwUkRYVmVqajBZMWlheXNBRWxnR1RuUXBzRXM5TEZwU2FFR2d1YkN3aWdTRkpielBteTl6RkgxcVNPbllOU3FXRTV5RlV0d1RENmt5Nloyb1oyaXo4ZGNKT1htdjZTRnBjNnctVGY1bndsWHQxTnFfWnRtaUtTb1g4ZGJrcUpKeDhqYzFtTEE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Okta Seeing ‘Acute’ Demand For AI Agent Security Amid Massive Identity Risk: Execs"
+            - figure [ref=e1651]
+          - generic [ref=e1652]:
+            - time [ref=e1653]: 21 hours ago
+            - separator [ref=e1654]
+            - generic [ref=e1655]: By Kyle Alspach
+      - generic [ref=e1656]:
+        - separator [ref=e1658]
+        - generic [ref=e1660]:
+          - generic [ref=e1661]:
+            - link [ref=e1663] [cursor=pointer]:
+              - /url: ./read/CBMif0FVX3lxTE1lYkdSUzY1OTQ4Z1NZWUl2T1pnVEZ4bEFVYlEtM3JNZFlYdWpGVGdMbDZzWHkwZWNvN1lvLUJUdUN6X0poM3NGaTFYN2o4R1ZTcG0zMVZlWnFNV040elBRRlY4dGx1RlRTaWVySUpfX0VNX0hEUkdFZDhTakk1Qnc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1665]:
+              - generic [ref=e1666]:
+                - generic [ref=e1669]: Weiss Ratings
+                - generic [ref=e1673]:
+                  - generic:
+                    - button "More - The Backdoor AI Agent Play" [ref=e1674] [cursor=pointer]:
+                      - img [ref=e1676]
+                    - tooltip [ref=e1678]: More
+              - link "The Backdoor AI Agent Play - Weiss Ratings - 7 hours ago" [ref=e1679] [cursor=pointer]:
+                - /url: ./read/CBMif0FVX3lxTE1lYkdSUzY1OTQ4Z1NZWUl2T1pnVEZ4bEFVYlEtM3JNZFlYdWpGVGdMbDZzWHkwZWNvN1lvLUJUdUN6X0poM3NGaTFYN2o4R1ZTcG0zMVZlWnFNV040elBRRlY4dGx1RlRTaWVySUpfX0VNX0hEUkdFZDhTakk1Qnc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The Backdoor AI Agent Play
+            - figure [ref=e1680]
+          - time [ref=e1682]: 7 hours ago
+      - generic [ref=e1683]:
+        - separator [ref=e1685]
+        - generic [ref=e1687]:
+          - generic [ref=e1688]:
+            - link [ref=e1690] [cursor=pointer]:
+              - /url: ./read/CBMi0gFBVV95cUxNVTN0ejA4a2ZhWFhJUWdzb0JpbS1rSFMxb0pqSktld2NCZnJ1akY3ZHdZYXdUdTlKMm03bXlnSFNrMFhJM2x5dGVqUmhnSjhyWWlOQ2JWb1U2MWFndXdxQzR5QWtXWUl3enFhaFdTblhNdjBuYVVobnVNakxuMTB3U0pWS25lMVlabkdDZ1JjVkhpRUw1M0FQY3RldnBwa3ljcm1Xbm9GckFJQUZUSnFxSF9jZ0pKU3lGSWtwYUUxVGRLTklieUJXb1p2ckt2eTlFWHc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1692]:
+              - generic [ref=e1693]:
+                - generic [ref=e1696]: Ars Technica
+                - generic [ref=e1700]:
+                  - generic:
+                    - button "More - Millions of AI agents imperiled by critical vulnerability in open source package" [ref=e1701] [cursor=pointer]:
+                      - img [ref=e1703]
+                    - tooltip [ref=e1705]: More
+              - link "Millions of AI agents imperiled by critical vulnerability in open source package - Ars Technica - 3 days ago - By Dan Goodin" [ref=e1706] [cursor=pointer]:
+                - /url: ./read/CBMi0gFBVV95cUxNVTN0ejA4a2ZhWFhJUWdzb0JpbS1rSFMxb0pqSktld2NCZnJ1akY3ZHdZYXdUdTlKMm03bXlnSFNrMFhJM2x5dGVqUmhnSjhyWWlOQ2JWb1U2MWFndXdxQzR5QWtXWUl3enFhaFdTblhNdjBuYVVobnVNakxuMTB3U0pWS25lMVlabkdDZ1JjVkhpRUw1M0FQY3RldnBwa3ljcm1Xbm9GckFJQUZUSnFxSF9jZ0pKU3lGSWtwYUUxVGRLTklieUJXb1p2ckt2eTlFWHc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Millions of AI agents imperiled by critical vulnerability in open source package
+            - figure [ref=e1707]
+          - generic [ref=e1708]:
+            - time [ref=e1709]: 3 days ago
+            - separator [ref=e1710]
+            - generic [ref=e1711]: By Dan Goodin
+      - generic [ref=e1712]:
+        - separator [ref=e1714]
+        - generic [ref=e1716]:
+          - generic [ref=e1717]:
+            - link [ref=e1719] [cursor=pointer]:
+              - /url: ./read/CBMitwFBVV95cUxPemZVSTdFWGcwamNGRDB5VnZvdVdXeVJFODZLdk03bzFQNHFFOHdHTGVPeFQwY3d4NzdoSW9UekY1UklnVG9WWS1TVkNnRGtsc24tVjlNZE8xeDBURGxfOFQzUndMUWtiMFJQQWFwbXlUeDBEcDdvaWhMUFVhU1hvblFLNE9NSUR2WmFTNVZlaGFYSGhDbEYzNFRPbFg0bXctUGprZjdTa2I1bnRrMzVMV2tqT0hkcms?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1721]:
+              - generic [ref=e1722]:
+                - generic [ref=e1725]: Gizmodo
+                - generic [ref=e1729]:
+                  - generic:
+                    - button "More - Researchers Put AI Models in Charge of a Simulated Society. Grok Oversaw a Crime Spree" [ref=e1730] [cursor=pointer]:
+                      - img [ref=e1732]
+                    - tooltip [ref=e1734]: More
+              - link "Researchers Put AI Models in Charge of a Simulated Society. Grok Oversaw a Crime Spree - Gizmodo - 21 hours ago - By AJ Dellinger" [ref=e1735] [cursor=pointer]:
+                - /url: ./read/CBMitwFBVV95cUxPemZVSTdFWGcwamNGRDB5VnZvdVdXeVJFODZLdk03bzFQNHFFOHdHTGVPeFQwY3d4NzdoSW9UekY1UklnVG9WWS1TVkNnRGtsc24tVjlNZE8xeDBURGxfOFQzUndMUWtiMFJQQWFwbXlUeDBEcDdvaWhMUFVhU1hvblFLNE9NSUR2WmFTNVZlaGFYSGhDbEYzNFRPbFg0bXctUGprZjdTa2I1bnRrMzVMV2tqT0hkcms?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Researchers Put AI Models in Charge of a Simulated Society. Grok Oversaw a Crime Spree
+            - figure [ref=e1736]
+          - generic [ref=e1737]:
+            - time [ref=e1738]: 21 hours ago
+            - separator [ref=e1739]
+            - generic [ref=e1740]: By AJ Dellinger
+      - generic [ref=e1741]:
+        - separator [ref=e1743]
+        - generic [ref=e1745]:
+          - generic [ref=e1746]:
+            - link [ref=e1748] [cursor=pointer]:
+              - /url: ./read/CBMijgFBVV95cUxQUVNhMXlTempNUVljTEt5dVNLYXFNVmVmY3N1UmJSbGU5RWVHOWpQcUFtX1BmYlRVaDQ4UlVFNDk5YTBWb29pc2R4c3pGTUVuVGMyYlFFdjlGblg2QjYzWjk3V21nc3hyQzBfRkRDMkVZSFZINTZYZy1iN1JQdGlvYnI5ZTJaRVF3LVhpNW1n?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1750]:
+              - generic [ref=e1751]:
+                - generic [ref=e1754]: BankInfoSecurity
+                - generic [ref=e1758]:
+                  - generic:
+                    - button "More - AI Agents Present Massive New Attack Surface" [ref=e1759] [cursor=pointer]:
+                      - img [ref=e1761]
+                    - tooltip [ref=e1763]: More
+              - link "AI Agents Present Massive New Attack Surface - BankInfoSecurity - 2 days ago - By Shaun Waterman" [ref=e1764] [cursor=pointer]:
+                - /url: ./read/CBMijgFBVV95cUxQUVNhMXlTempNUVljTEt5dVNLYXFNVmVmY3N1UmJSbGU5RWVHOWpQcUFtX1BmYlRVaDQ4UlVFNDk5YTBWb29pc2R4c3pGTUVuVGMyYlFFdjlGblg2QjYzWjk3V21nc3hyQzBfRkRDMkVZSFZINTZYZy1iN1JQdGlvYnI5ZTJaRVF3LVhpNW1n?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI Agents Present Massive New Attack Surface
+            - figure [ref=e1765]
+          - generic [ref=e1766]:
+            - time [ref=e1767]: 2 days ago
+            - separator [ref=e1768]
+            - generic [ref=e1769]: By Shaun Waterman
+      - generic [ref=e1770]:
+        - separator [ref=e1772]
+        - generic [ref=e1774]:
+          - generic [ref=e1775]:
+            - link [ref=e1777] [cursor=pointer]:
+              - /url: ./read/CBMiowFBVV95cUxQQ3dJWmNLaVRSRkRqNHZhb3Q2QXlmbm82dVNOd1hYWGpxVUJ6MkEwQ3pEcTF5U1J1UmhVZjJzUWV2S1BqLURiekFpNWxUOFVsREVTc3ZoS3RQeGVhVm53WFA4QjdEX3NTenc3c1dHUEdIU2Y0a05BNVZjV1lsSDRwX0Fsb1lKaTZiM3VrdGJmWnpuZV9oYXFTcVdkS0lXV3E0Ykhr?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1779]:
+              - generic [ref=e1780]:
+                - generic [ref=e1783]: PhocusWire
+                - generic [ref=e1787]:
+                  - generic:
+                    - button "More - Travel marketers prepare for the rise of AI agents" [ref=e1788] [cursor=pointer]:
+                      - img [ref=e1790]
+                    - tooltip [ref=e1792]: More
+              - link "Travel marketers prepare for the rise of AI agents - PhocusWire - 2 days ago - By Morgan Hines" [ref=e1793] [cursor=pointer]:
+                - /url: ./read/CBMiowFBVV95cUxQQ3dJWmNLaVRSRkRqNHZhb3Q2QXlmbm82dVNOd1hYWGpxVUJ6MkEwQ3pEcTF5U1J1UmhVZjJzUWV2S1BqLURiekFpNWxUOFVsREVTc3ZoS3RQeGVhVm53WFA4QjdEX3NTenc3c1dHUEdIU2Y0a05BNVZjV1lsSDRwX0Fsb1lKaTZiM3VrdGJmWnpuZV9oYXFTcVdkS0lXV3E0Ykhr?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Travel marketers prepare for the rise of AI agents
+            - figure [ref=e1794]
+          - generic [ref=e1795]:
+            - time [ref=e1796]: 2 days ago
+            - separator [ref=e1797]
+            - generic [ref=e1798]: By Morgan Hines
+      - generic [ref=e1799]:
+        - separator [ref=e1801]
+        - generic [ref=e1803]:
+          - generic [ref=e1804]:
+            - link [ref=e1806] [cursor=pointer]:
+              - /url: ./read/CBMinwFBVV95cUxOR3FGc0U2MW81SmtkNnNfT3NLTjBxYktrZmI0Y3ZXVm9nQ0FZenpZcldaejhxZGRkVUROZXZkNVY2ZHZGbWhWRnpSSXBCU0FSSXpOQTYtZ09vSXYyU3ByWkY4dmVhNzBaMmlqb0JNdUJYRVZmRVN4QkNSaEVuQ0JFcFJqT2xzeUtVd2t0TllENERfS0c5cnctYV9jTHAwWWs?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1808]:
+              - generic [ref=e1809]:
+                - generic [ref=e1812]: HackerNoon
+                - generic [ref=e1816]:
+                  - generic:
+                    - button "More - I Built an AI Agent Pipeline That Turns Voice Notes Into Published Articles" [ref=e1817] [cursor=pointer]:
+                      - img [ref=e1819]
+                    - tooltip [ref=e1821]: More
+              - link "I Built an AI Agent Pipeline That Turns Voice Notes Into Published Articles - HackerNoon - 15 hours ago" [ref=e1822] [cursor=pointer]:
+                - /url: ./read/CBMinwFBVV95cUxOR3FGc0U2MW81SmtkNnNfT3NLTjBxYktrZmI0Y3ZXVm9nQ0FZenpZcldaejhxZGRkVUROZXZkNVY2ZHZGbWhWRnpSSXBCU0FSSXpOQTYtZ09vSXYyU3ByWkY4dmVhNzBaMmlqb0JNdUJYRVZmRVN4QkNSaEVuQ0JFcFJqT2xzeUtVd2t0TllENERfS0c5cnctYV9jTHAwWWs?hl=en-US&gl=US&ceid=US%3Aen
+                - text: I Built an AI Agent Pipeline That Turns Voice Notes Into Published Articles
+            - figure [ref=e1823]
+          - time [ref=e1825]: 15 hours ago
+      - generic [ref=e1826]:
+        - separator [ref=e1828]
+        - generic [ref=e1830]:
+          - generic [ref=e1831]:
+            - link [ref=e1833] [cursor=pointer]:
+              - /url: ./read/CBMioAFBVV95cUxOOHdiWWMxN1h5LUlXZ1JSYkhPTmlGS2xHVk9zREJkbkFxeEpObTFqUVUtb0c2UDRrMndwS1V3T2hOd0kwaDBpWWZuNzRGQjRfZUpvN0VlNTlZQzBhU21zdzBITGdUNk43c2hSN3BQZ2NteDFWQnhjM3k3YkxHT1dTMDlsYlBRU1R2UlhKZ2Q3RkR5MGk1NUhvSkNwZXRzbW5W?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1835]:
+              - generic [ref=e1836]:
+                - generic [ref=e1839]: Forbes
+                - generic [ref=e1843]:
+                  - generic:
+                    - button "More - How AI Agents Could Save Your Incoming Class" [ref=e1844] [cursor=pointer]:
+                      - img [ref=e1846]
+                    - tooltip [ref=e1848]: More
+              - link "How AI Agents Could Save Your Incoming Class - Forbes - 2 days ago - By Vinay Bhaskara" [ref=e1849] [cursor=pointer]:
+                - /url: ./read/CBMioAFBVV95cUxOOHdiWWMxN1h5LUlXZ1JSYkhPTmlGS2xHVk9zREJkbkFxeEpObTFqUVUtb0c2UDRrMndwS1V3T2hOd0kwaDBpWWZuNzRGQjRfZUpvN0VlNTlZQzBhU21zdzBITGdUNk43c2hSN3BQZ2NteDFWQnhjM3k3YkxHT1dTMDlsYlBRU1R2UlhKZ2Q3RkR5MGk1NUhvSkNwZXRzbW5W?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How AI Agents Could Save Your Incoming Class
+            - figure [ref=e1850]
+          - generic [ref=e1851]:
+            - time [ref=e1852]: 2 days ago
+            - separator [ref=e1853]
+            - generic [ref=e1854]: By Vinay Bhaskara
+      - generic [ref=e1855]:
+        - separator [ref=e1857]
+        - generic [ref=e1859]:
+          - generic [ref=e1860]:
+            - link [ref=e1862] [cursor=pointer]:
+              - /url: ./read/CBMiggFBVV95cUxNenVuSHVUR3lpTzdNYy1uTWdaVHpDSGt2eS1uaWZnalQwRmQ5RzZtVVBSYTViSTZvaXVkM29xb2ZXQjZ4dTZnbkN1QmxzcnUwbVoxLWRaNV81UlhvMVVQWTlzVnRPSDc3V2UtS1hZVC1tdXgxd25wajg0UlBjRzlPbjR3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1864]:
+              - generic [ref=e1865]:
+                - generic [ref=e1868]: CIO Dive
+                - generic [ref=e1872]:
+                  - generic:
+                    - button "More - Snowflake targets AI agent adoption with AWS deal, acquisition" [ref=e1873] [cursor=pointer]:
+                      - img [ref=e1875]
+                    - tooltip [ref=e1877]: More
+              - link "Snowflake targets AI agent adoption with AWS deal, acquisition - CIO Dive - 22 hours ago - By Makenzie Holland" [ref=e1878] [cursor=pointer]:
+                - /url: ./read/CBMiggFBVV95cUxNenVuSHVUR3lpTzdNYy1uTWdaVHpDSGt2eS1uaWZnalQwRmQ5RzZtVVBSYTViSTZvaXVkM29xb2ZXQjZ4dTZnbkN1QmxzcnUwbVoxLWRaNV81UlhvMVVQWTlzVnRPSDc3V2UtS1hZVC1tdXgxd25wajg0UlBjRzlPbjR3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Snowflake targets AI agent adoption with AWS deal, acquisition
+            - figure [ref=e1879]
+          - generic [ref=e1880]:
+            - time [ref=e1881]: 22 hours ago
+            - separator [ref=e1882]
+            - generic [ref=e1883]: By Makenzie Holland
+      - generic [ref=e1884]:
+        - separator [ref=e1886]
+        - generic [ref=e1888]:
+          - generic [ref=e1889]:
+            - link [ref=e1891] [cursor=pointer]:
+              - /url: ./read/CBMihgFBVV95cUxNS0d3ZUFlYTEwLVNHSGtkUW9ZS1ZmMUh5U3NWdnlhUk9MQnFhdmdUbHdJVUhDbmNadmNUV2VjaHFTUVV6S2kzZEppODh4QXhyODhRVlJ5Nk5JMWhPaWtaNUFfUmZGOGR3SFdIVWxsSndIakFGLWdoazFvRERCSFFGZ0x2bDNuUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1893]:
+              - generic [ref=e1894]:
+                - generic [ref=e1897]: SQ Magazine
+                - generic [ref=e1901]:
+                  - generic:
+                    - button "More - Asana Bets Big on AI Agents With $75 Million StackAI Acquisition" [ref=e1902] [cursor=pointer]:
+                      - img [ref=e1904]
+                    - tooltip [ref=e1906]: More
+              - link "Asana Bets Big on AI Agents With $75 Million StackAI Acquisition - SQ Magazine - 9 hours ago" [ref=e1907] [cursor=pointer]:
+                - /url: ./read/CBMihgFBVV95cUxNS0d3ZUFlYTEwLVNHSGtkUW9ZS1ZmMUh5U3NWdnlhUk9MQnFhdmdUbHdJVUhDbmNadmNUV2VjaHFTUVV6S2kzZEppODh4QXhyODhRVlJ5Nk5JMWhPaWtaNUFfUmZGOGR3SFdIVWxsSndIakFGLWdoazFvRERCSFFGZ0x2bDNuUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Asana Bets Big on AI Agents With $75 Million StackAI Acquisition
+            - figure [ref=e1908]
+          - time [ref=e1910]: 9 hours ago
+      - generic [ref=e1911]:
+        - separator [ref=e1913]
+        - generic [ref=e1915]:
+          - generic [ref=e1916]:
+            - link [ref=e1918] [cursor=pointer]:
+              - /url: ./read/CBMiS0FVX3lxTE9ubUVYaXlzZ0hnWG8wTEt5cmNaYUNSVnZOSVdVS0tqd1Z0eDc4UUVEaXNfMTFfYXI2dnMxaUpZX1FVdzlxRE9McjlTTQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1920]:
+              - generic [ref=e1921]:
+                - generic [ref=e1924]: Mistral AI
+                - generic [ref=e1928]:
+                  - generic:
+                    - button "More - Vibe gets to work." [ref=e1929] [cursor=pointer]:
+                      - img [ref=e1931]
+                    - tooltip [ref=e1933]: More
+              - link "Vibe gets to work. - Mistral AI - 2 days ago" [ref=e1934] [cursor=pointer]:
+                - /url: ./read/CBMiS0FVX3lxTE9ubUVYaXlzZ0hnWG8wTEt5cmNaYUNSVnZOSVdVS0tqd1Z0eDc4UUVEaXNfMTFfYXI2dnMxaUpZX1FVdzlxRE9McjlTTQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Vibe gets to work.
+            - figure [ref=e1935]
+          - time [ref=e1937]: 2 days ago
+      - generic [ref=e1938]:
+        - separator [ref=e1940]
+        - generic [ref=e1942]:
+          - generic [ref=e1943]:
+            - link [ref=e1945] [cursor=pointer]:
+              - /url: ./read/CBMilgFBVV95cUxOSXhuX1lZcDZTYUZwcm9tRnhVcHJTU2xONjE2eURFX3FpUGNacmxwY3RWLTJCMm5RZEdtV0w0YVFlQ0swa0VIT2ZYVl9uemdJYm56cDhTemRxM09lQWRNaTNqWVhRRmxaRFpzMWtwMmczVG5pbUFla3VZM2JoSDFyVGdMZVU1NEFob2lvT3laZXU0cDJTeHc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1947]:
+              - generic [ref=e1948]:
+                - generic [ref=e1951]: The AI Journal
+                - generic [ref=e1955]:
+                  - generic:
+                    - button "More - AI agents aren’t magic – and believing they are could break your business" [ref=e1956] [cursor=pointer]:
+                      - img [ref=e1958]
+                    - tooltip [ref=e1960]: More
+              - link "AI agents aren’t magic – and believing they are could break your business - The AI Journal - 4 hours ago" [ref=e1961] [cursor=pointer]:
+                - /url: ./read/CBMilgFBVV95cUxOSXhuX1lZcDZTYUZwcm9tRnhVcHJTU2xONjE2eURFX3FpUGNacmxwY3RWLTJCMm5RZEdtV0w0YVFlQ0swa0VIT2ZYVl9uemdJYm56cDhTemRxM09lQWRNaTNqWVhRRmxaRFpzMWtwMmczVG5pbUFla3VZM2JoSDFyVGdMZVU1NEFob2lvT3laZXU0cDJTeHc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI agents aren’t magic – and believing they are could break your business
+            - figure [ref=e1962]
+          - time [ref=e1964]: 4 hours ago
+      - generic [ref=e1965]:
+        - separator [ref=e1967]
+        - generic [ref=e1969]:
+          - generic [ref=e1970]:
+            - link [ref=e1972] [cursor=pointer]:
+              - /url: ./read/CBMihgFBVV95cUxNSjQxRGM1cTNsUzhQOHlMUnpHbEtTalVqSEtkTGt2R1lsQUljTXVBbWxIYXRaU3BqbHZXR2d0YWgtbldYNklGUnNCcXQ5cHZPWUdlQVdhWF9nVkRpb05veWh2RFd0UHhKNHRlalBKU2pvM1BqQ2xTOC15d0RSMzIxLUtzVmZ1UQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1974]:
+              - generic [ref=e1975]:
+                - generic [ref=e1978]: Decrypt
+                - generic [ref=e1982]:
+                  - generic:
+                    - button "More - AI Agents Are Learning to Predict What Users Want—Before They Ask for It" [ref=e1983] [cursor=pointer]:
+                      - img [ref=e1985]
+                    - tooltip [ref=e1987]: More
+              - link "AI Agents Are Learning to Predict What Users Want—Before They Ask for It - Decrypt - 21 hours ago - By Jason Nelson" [ref=e1988] [cursor=pointer]:
+                - /url: ./read/CBMihgFBVV95cUxNSjQxRGM1cTNsUzhQOHlMUnpHbEtTalVqSEtkTGt2R1lsQUljTXVBbWxIYXRaU3BqbHZXR2d0YWgtbldYNklGUnNCcXQ5cHZPWUdlQVdhWF9nVkRpb05veWh2RFd0UHhKNHRlalBKU2pvM1BqQ2xTOC15d0RSMzIxLUtzVmZ1UQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI Agents Are Learning to Predict What Users Want—Before They Ask for It
+            - figure [ref=e1989]
+          - generic [ref=e1990]:
+            - time [ref=e1991]: 21 hours ago
+            - separator [ref=e1992]
+            - generic [ref=e1993]: By Jason Nelson
+      - generic [ref=e1994]:
+        - separator [ref=e1996]
+        - generic [ref=e1998]:
+          - generic [ref=e1999]:
+            - link [ref=e2001] [cursor=pointer]:
+              - /url: ./read/CBMitAFBVV95cUxQTXo3ZEYxWHNUTWdLUjRmdU1RV201alc0TFVISkVUQ1h5cl9sejVnVm5oZVQ2Rk9YQm1UU0Y2MWphdXBrOHlVbUpld2w5NVpxVkZuWlhlZU9kWVpPOWtnM3ZCTVdXMEcxRXZnZ3p0a3M1T1plOEZGWS1rZjBZc0YwQklfdHRua2N3bjdUbzc3eW9iQjFrc0hsWVNsM3VOU3JsTDBGbGh5ODFRM1M5TXB0el9nSmM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2003]:
+              - generic [ref=e2004]:
+                - generic [ref=e2007]: cio.com
+                - generic [ref=e2011]:
+                  - generic:
+                    - button "More - Snowflake to acquire MCP-focused Natoma to boost governance for AI agents" [ref=e2012] [cursor=pointer]:
+                      - img [ref=e2014]
+                    - tooltip [ref=e2016]: More
+              - link "Snowflake to acquire MCP-focused Natoma to boost governance for AI agents - cio.com - 2 days ago - By Anirban Ghoshal" [ref=e2017] [cursor=pointer]:
+                - /url: ./read/CBMitAFBVV95cUxQTXo3ZEYxWHNUTWdLUjRmdU1RV201alc0TFVISkVUQ1h5cl9sejVnVm5oZVQ2Rk9YQm1UU0Y2MWphdXBrOHlVbUpld2w5NVpxVkZuWlhlZU9kWVpPOWtnM3ZCTVdXMEcxRXZnZ3p0a3M1T1plOEZGWS1rZjBZc0YwQklfdHRua2N3bjdUbzc3eW9iQjFrc0hsWVNsM3VOU3JsTDBGbGh5ODFRM1M5TXB0el9nSmM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Snowflake to acquire MCP-focused Natoma to boost governance for AI agents
+            - figure [ref=e2018]
+          - generic [ref=e2019]:
+            - time [ref=e2020]: 2 days ago
+            - separator [ref=e2021]
+            - generic [ref=e2022]: By Anirban Ghoshal
+      - generic [ref=e2023]:
+        - separator [ref=e2025]
+        - generic [ref=e2027]:
+          - generic [ref=e2028]:
+            - link [ref=e2030] [cursor=pointer]:
+              - /url: ./read/CBMiqwFBVV95cUxOS3VKc1hBUEdOenM4LU0xeElUVlFUaXY1MTAwQ2dCOWcxVnFEcUJVM3J2cEg4eGdiaUI4VkxWZEpsNGxWQWNWRmJKLVFrMXEtVHBVTGF3aTlpYTc3a0RhMVJIeWhWajd2SXpndWxOMlE3UldMWUlwSUtpdnlBTjByMHRoU2pGV0p3NUpYQ2VPcVdIenF0Z2J3T3lrWkF6aHo4aEFuQ21MLUNDeVU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2032]:
+              - generic [ref=e2033]:
+                - generic [ref=e2036]: MacStories
+                - generic [ref=e2040]:
+                  - generic:
+                    - 'button "More - Introducing RemCTL: The Power-User Reminders CLI for macOS and AI Agents" [ref=e2041] [cursor=pointer]':
+                      - img [ref=e2043]
+                    - tooltip [ref=e2045]: More
+              - 'link "Introducing RemCTL: The Power-User Reminders CLI for macOS and AI Agents - MacStories - 2 days ago - By Federico Viticci" [ref=e2046] [cursor=pointer]':
+                - /url: ./read/CBMiqwFBVV95cUxOS3VKc1hBUEdOenM4LU0xeElUVlFUaXY1MTAwQ2dCOWcxVnFEcUJVM3J2cEg4eGdiaUI4VkxWZEpsNGxWQWNWRmJKLVFrMXEtVHBVTGF3aTlpYTc3a0RhMVJIeWhWajd2SXpndWxOMlE3UldMWUlwSUtpdnlBTjByMHRoU2pGV0p3NUpYQ2VPcVdIenF0Z2J3T3lrWkF6aHo4aEFuQ21MLUNDeVU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Introducing RemCTL: The Power-User Reminders CLI for macOS and AI Agents"
+            - figure [ref=e2047]
+          - generic [ref=e2048]:
+            - time [ref=e2049]: 2 days ago
+            - separator [ref=e2050]
+            - generic [ref=e2051]: By Federico Viticci
+      - generic [ref=e2052]:
+        - separator [ref=e2054]
+        - generic [ref=e2056]:
+          - generic [ref=e2057]:
+            - link [ref=e2059] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxQcWU5bDN3Ukh5SDJZSUllSEwtYThnbjZjb25lT2Faem1XT2dKRHRpd1pSLUJTR0VQY3RZVDRrQTV5TzN4UThRcXhPUDNYZ043LXo4MUxnTkR2MW1FWU5vTk83VDJQdXRvR282WjJVaVRqN25ZWl85c015Y0hZV3J1RkNUMko0VEdiRUt0SlJzR0diR1d4UDM0R3RHOU5taXhQRWxPak1Fd2xjdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2061]:
+              - generic [ref=e2062]:
+                - generic [ref=e2065]: cio.com
+                - generic [ref=e2069]:
+                  - generic:
+                    - button "More - AI agents are the actor your Kubernetes governance didn’t plan for" [ref=e2070] [cursor=pointer]:
+                      - img [ref=e2072]
+                    - tooltip [ref=e2074]: More
+              - link "AI agents are the actor your Kubernetes governance didn’t plan for - cio.com - 2 days ago" [ref=e2075] [cursor=pointer]:
+                - /url: ./read/CBMiqgFBVV95cUxQcWU5bDN3Ukh5SDJZSUllSEwtYThnbjZjb25lT2Faem1XT2dKRHRpd1pSLUJTR0VQY3RZVDRrQTV5TzN4UThRcXhPUDNYZ043LXo4MUxnTkR2MW1FWU5vTk83VDJQdXRvR282WjJVaVRqN25ZWl85c015Y0hZV3J1RkNUMko0VEdiRUt0SlJzR0diR1d4UDM0R3RHOU5taXhQRWxPak1Fd2xjdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI agents are the actor your Kubernetes governance didn’t plan for
+            - figure [ref=e2076]
+          - time [ref=e2078]: 2 days ago
+      - generic [ref=e2079]:
+        - separator [ref=e2081]
+        - generic [ref=e2083]:
+          - generic [ref=e2084]:
+            - link [ref=e2086] [cursor=pointer]:
+              - /url: ./read/CBMiwAFBVV95cUxPME1pOWFPT0cxdlV0dElXNWxYZ0E5VlhubTh0a0lPVVlzMFpyWmV1bExaSUZQN0Q4THJ6YlZib2dmUHdYUjVzYk1ya0N1emtRSlNMa25kVmdGbHl6QkQ1T1ZSdjNTN0JPTDZIV2Q0Y2xicXFZVEdvQ0luTEVtem9WdUtRazdGWk1nNW1IMmR6b0pZV3lXeWpNcHNSbmFBb29qS051RXVRRWNCbnp1ckY0dFV2OFgzVXVYVVpKSVF0cFI?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2088]:
+              - generic [ref=e2089]:
+                - generic [ref=e2092]: BeBeez International
+                - generic [ref=e2096]:
+                  - generic:
+                    - button "More - Oslo-based Cloudgeni raises €858k to build reliable AI agents for secure cloud infrastructure" [ref=e2097] [cursor=pointer]:
+                      - img [ref=e2099]
+                    - tooltip [ref=e2101]: More
+              - link "Oslo-based Cloudgeni raises €858k to build reliable AI agents for secure cloud infrastructure - BeBeez International - 3 hours ago" [ref=e2102] [cursor=pointer]:
+                - /url: ./read/CBMiwAFBVV95cUxPME1pOWFPT0cxdlV0dElXNWxYZ0E5VlhubTh0a0lPVVlzMFpyWmV1bExaSUZQN0Q4THJ6YlZib2dmUHdYUjVzYk1ya0N1emtRSlNMa25kVmdGbHl6QkQ1T1ZSdjNTN0JPTDZIV2Q0Y2xicXFZVEdvQ0luTEVtem9WdUtRazdGWk1nNW1IMmR6b0pZV3lXeWpNcHNSbmFBb29qS051RXVRRWNCbnp1ckY0dFV2OFgzVXVYVVpKSVF0cFI?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Oslo-based Cloudgeni raises €858k to build reliable AI agents for secure cloud infrastructure
+            - figure [ref=e2103]
+          - time [ref=e2105]: 3 hours ago
+      - generic [ref=e2106]:
+        - separator [ref=e2108]
+        - generic [ref=e2110]:
+          - generic [ref=e2111]:
+            - link [ref=e2113] [cursor=pointer]:
+              - /url: ./read/CBMiuwFBVV95cUxOY3gzd1UyZFVJazBlcHpsQnh1eEVSUzM3UFh4WmNQTmRYQjlCUng1bExLOTNlV0JDV3dvRzdXSjZVeEhNLXVSR0o2UEl6Sk9oZU05a1d6TER1NUloMUxEc3FGWkRqRkI5dnBVcmxMdkJUdHVQdTkyZkhfOENIMXZ0LVV4RFFVRlJISEJVWHNIYTMwLTJNeHZBZTlfdnlIeFQ0Mm85NDQyUXJCbUNrTDlDUHQ4cHRnaVdqZmJF?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2115]:
+              - generic [ref=e2116]:
+                - generic [ref=e2119]: PYMNTS.com
+                - generic [ref=e2123]:
+                  - generic:
+                    - button "More - CoreWeave Speeds AI Agent Deployment With Real-World Learning" [ref=e2124] [cursor=pointer]:
+                      - img [ref=e2126]
+                    - tooltip [ref=e2128]: More
+              - link "CoreWeave Speeds AI Agent Deployment With Real-World Learning - PYMNTS.com - 22 hours ago" [ref=e2129] [cursor=pointer]:
+                - /url: ./read/CBMiuwFBVV95cUxOY3gzd1UyZFVJazBlcHpsQnh1eEVSUzM3UFh4WmNQTmRYQjlCUng1bExLOTNlV0JDV3dvRzdXSjZVeEhNLXVSR0o2UEl6Sk9oZU05a1d6TER1NUloMUxEc3FGWkRqRkI5dnBVcmxMdkJUdHVQdTkyZkhfOENIMXZ0LVV4RFFVRlJISEJVWHNIYTMwLTJNeHZBZTlfdnlIeFQ0Mm85NDQyUXJCbUNrTDlDUHQ4cHRnaVdqZmJF?hl=en-US&gl=US&ceid=US%3Aen
+                - text: CoreWeave Speeds AI Agent Deployment With Real-World Learning
+            - figure [ref=e2130]
+          - time [ref=e2132]: 22 hours ago
+      - generic [ref=e2133]:
+        - separator [ref=e2135]
+        - generic [ref=e2137]:
+          - generic [ref=e2138]:
+            - link [ref=e2140] [cursor=pointer]:
+              - /url: ./read/CBMivwFBVV95cUxOd0VTMFJ4Z3hmd3VYNWRfSDlXQkFEZUg5X0kzcDhPcHBtWlVfT1NtbWdfQ1Z3UUFVN3ZvWHNDWUZnbDQxTmtNVUloZDZXOGFWZHRTdXVnWm9KaUphUHhMUVZjZ2YxNUpiZDVaNWQ5d21BOF9mc2hMRTIxSXlBZlNPS1hWbGRCZDkzaGt1LWwyT2tiYVZyUkY1enhJSGdicUZkcEpjRlByWXhWYmt6Y1NJbnlfTkMxck9UaWRGdS13aw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2142]:
+              - generic [ref=e2143]:
+                - generic [ref=e2146]: Fierce Healthcare
+                - generic [ref=e2150]:
+                  - generic:
+                    - button "More - Penn Medicine, K Health partner to deploy AI clinical agents" [ref=e2151] [cursor=pointer]:
+                      - img [ref=e2153]
+                    - tooltip [ref=e2155]: More
+              - link "Penn Medicine, K Health partner to deploy AI clinical agents - Fierce Healthcare - 2 days ago" [ref=e2156] [cursor=pointer]:
+                - /url: ./read/CBMivwFBVV95cUxOd0VTMFJ4Z3hmd3VYNWRfSDlXQkFEZUg5X0kzcDhPcHBtWlVfT1NtbWdfQ1Z3UUFVN3ZvWHNDWUZnbDQxTmtNVUloZDZXOGFWZHRTdXVnWm9KaUphUHhMUVZjZ2YxNUpiZDVaNWQ5d21BOF9mc2hMRTIxSXlBZlNPS1hWbGRCZDkzaGt1LWwyT2tiYVZyUkY1enhJSGdicUZkcEpjRlByWXhWYmt6Y1NJbnlfTkMxck9UaWRGdS13aw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Penn Medicine, K Health partner to deploy AI clinical agents
+            - figure [ref=e2157]
+          - time [ref=e2159]: 2 days ago
+      - generic [ref=e2160]:
+        - separator [ref=e2162]
+        - generic [ref=e2164]:
+          - generic [ref=e2165]:
+            - link [ref=e2167] [cursor=pointer]:
+              - /url: ./read/CBMiY0FVX3lxTE02UC1nLWxmeExlMktKVTFGdmtPWDFJVGJ6Z2lvZjFQQUFKYkZlODVJMjlBODVuUkRJS3dyMlJHMml0SFlKeWVYSjM0ZmpnSXRzUVc0b1ZOeGxQdHh1Nl9pSFlrRQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2169]:
+              - generic [ref=e2170]:
+                - generic [ref=e2173]: ERP Today
+                - generic [ref=e2177]:
+                  - generic:
+                    - button "More - Workday’s AI Agent Push Started Showing Up in its Q1 Earnings Numbers" [ref=e2178] [cursor=pointer]:
+                      - img [ref=e2180]
+                    - tooltip [ref=e2182]: More
+              - link "Workday’s AI Agent Push Started Showing Up in its Q1 Earnings Numbers - ERP Today - 20 hours ago - By Tarsilla Moura" [ref=e2183] [cursor=pointer]:
+                - /url: ./read/CBMiY0FVX3lxTE02UC1nLWxmeExlMktKVTFGdmtPWDFJVGJ6Z2lvZjFQQUFKYkZlODVJMjlBODVuUkRJS3dyMlJHMml0SFlKeWVYSjM0ZmpnSXRzUVc0b1ZOeGxQdHh1Nl9pSFlrRQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Workday’s AI Agent Push Started Showing Up in its Q1 Earnings Numbers
+            - figure [ref=e2184]
+          - generic [ref=e2185]:
+            - time [ref=e2186]: 20 hours ago
+            - separator [ref=e2187]
+            - generic [ref=e2188]: By Tarsilla Moura
+      - generic [ref=e2189]:
+        - separator [ref=e2191]
+        - generic [ref=e2193]:
+          - generic [ref=e2194]:
+            - link [ref=e2196] [cursor=pointer]:
+              - /url: ./read/CBMiZEFVX3lxTE81ckRvTFo5TEl5NWRpMFYyckRBNW9OLVNGTGszbzM0cHhoSHpZUXNOR3VUN0VjSlZZMXd2N1VlQXNramJXUVlqQ2dTWHFzYUpHRWF4U1dUNEYzSGRhOTYwX0FPZnM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2198]:
+              - generic [ref=e2199]:
+                - generic [ref=e2202]: The Cloudflare Blog
+                - generic [ref=e2206]:
+                  - generic:
+                    - button "More - How we built Cloudflare's data platform and an AI agent on top of it" [ref=e2207] [cursor=pointer]:
+                      - img [ref=e2209]
+                    - tooltip [ref=e2211]: More
+              - link "How we built Cloudflare's data platform and an AI agent on top of it - The Cloudflare Blog - 2 days ago" [ref=e2212] [cursor=pointer]:
+                - /url: ./read/CBMiZEFVX3lxTE81ckRvTFo5TEl5NWRpMFYyckRBNW9OLVNGTGszbzM0cHhoSHpZUXNOR3VUN0VjSlZZMXd2N1VlQXNramJXUVlqQ2dTWHFzYUpHRWF4U1dUNEYzSGRhOTYwX0FPZnM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How we built Cloudflare's data platform and an AI agent on top of it
+            - figure [ref=e2213]
+          - time [ref=e2215]: 2 days ago
+      - generic [ref=e2216]:
+        - separator [ref=e2218]
+        - generic [ref=e2220]:
+          - generic [ref=e2221]:
+            - link [ref=e2223] [cursor=pointer]:
+              - /url: ./read/CBMinAFBVV95cUxQVm84WGw5VGFvSTk3VU41dE9iQXdtenRUQzNiRnBvSlZkbVQ4OExBNjB1YTFXMUZJUXFzQU5hZzVJMno3SHBPeWxfdS1sYUd2Q3VxeXJ0UWo5blNuT3J6dmtQejZsV01UMnNyai16XzJfY2VKZVdnc3ZEN3p0M1J3MGQ1d1Z4b042eEdWU2RKTlFFNXB4cTJ3cUZwdks?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2225]:
+              - generic [ref=e2226]:
+                - generic [ref=e2229]: CX Today
+                - generic [ref=e2233]:
+                  - generic:
+                    - button "More - Salesforce’s AI Agents Are Now Outworking Its Human Support Teams" [ref=e2234] [cursor=pointer]:
+                      - img [ref=e2236]
+                    - tooltip [ref=e2238]: More
+              - link "Salesforce’s AI Agents Are Now Outworking Its Human Support Teams - CX Today - 2 days ago - By Rhys Fisher" [ref=e2239] [cursor=pointer]:
+                - /url: ./read/CBMinAFBVV95cUxQVm84WGw5VGFvSTk3VU41dE9iQXdtenRUQzNiRnBvSlZkbVQ4OExBNjB1YTFXMUZJUXFzQU5hZzVJMno3SHBPeWxfdS1sYUd2Q3VxeXJ0UWo5blNuT3J6dmtQejZsV01UMnNyai16XzJfY2VKZVdnc3ZEN3p0M1J3MGQ1d1Z4b042eEdWU2RKTlFFNXB4cTJ3cUZwdks?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Salesforce’s AI Agents Are Now Outworking Its Human Support Teams
+            - figure [ref=e2240]
+          - generic [ref=e2241]:
+            - time [ref=e2242]: 2 days ago
+            - separator [ref=e2243]
+            - generic [ref=e2244]: By Rhys Fisher
+      - generic [ref=e2245]:
+        - separator [ref=e2247]
+        - generic [ref=e2249]:
+          - generic [ref=e2250]:
+            - link [ref=e2252] [cursor=pointer]:
+              - /url: ./read/CBMifEFVX3lxTE56dUEtaHdOLWdndmdjamJ5eVN3VHp1djFUMWNzeUI3NWxMSmJGWXpkZ1l2cGJ2aFhqbjlGMGtVcHJOeEJEblA5bWFqZDh5NVhYZVBpLURTLTI1eGl4Z2l5SUc3Qm1rRUF2WlV1bHJXeXdTbUJRUEtxOE1VVk8?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2254]:
+              - generic [ref=e2255]:
+                - generic [ref=e2258]: BankInfoSecurity
+                - generic [ref=e2262]:
+                  - generic:
+                    - button "More - AI Agents Are the New Insiders" [ref=e2263] [cursor=pointer]:
+                      - img [ref=e2265]
+                    - tooltip [ref=e2267]: More
+              - link "AI Agents Are the New Insiders - BankInfoSecurity - 2 days ago" [ref=e2268] [cursor=pointer]:
+                - /url: ./read/CBMifEFVX3lxTE56dUEtaHdOLWdndmdjamJ5eVN3VHp1djFUMWNzeUI3NWxMSmJGWXpkZ1l2cGJ2aFhqbjlGMGtVcHJOeEJEblA5bWFqZDh5NVhYZVBpLURTLTI1eGl4Z2l5SUc3Qm1rRUF2WlV1bHJXeXdTbUJRUEtxOE1VVk8?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI Agents Are the New Insiders
+            - figure [ref=e2269]
+          - time [ref=e2271]: 2 days ago
+      - generic [ref=e2272]:
+        - separator [ref=e2274]
+        - generic [ref=e2276]:
+          - generic [ref=e2277]:
+            - link [ref=e2279] [cursor=pointer]:
+              - /url: ./read/CBMieEFVX3lxTE9kNUwxNXB2dXo0RDN0RTFfR00wNWQ0eUE0ZHZqbXFhVm92Y0kwbDJUSDNLcDk4OTZfejdKYkZUNGlUMzRad0VpQ3E2OGJ0bzBaUzJSNVBNcFo0QzM1MkpCZUJxd3FPZFQzVG9mbjlEeVlzVGJ2OVNvZA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2281]:
+              - generic [ref=e2282]:
+                - generic [ref=e2285]: Fortune
+                - generic [ref=e2289]:
+                  - generic:
+                    - 'button "More - Exclusive: Geordie AI raises $30 million Series A to be ‘air traffic control’ for your company’s AI agents" [ref=e2290] [cursor=pointer]':
+                      - img [ref=e2292]
+                    - tooltip [ref=e2294]: More
+              - 'link "Exclusive: Geordie AI raises $30 million Series A to be ‘air traffic control’ for your company’s AI agents - Fortune - 2 days ago - By Jeremy Kahn" [ref=e2295] [cursor=pointer]':
+                - /url: ./read/CBMieEFVX3lxTE9kNUwxNXB2dXo0RDN0RTFfR00wNWQ0eUE0ZHZqbXFhVm92Y0kwbDJUSDNLcDk4OTZfejdKYkZUNGlUMzRad0VpQ3E2OGJ0bzBaUzJSNVBNcFo0QzM1MkpCZUJxd3FPZFQzVG9mbjlEeVlzVGJ2OVNvZA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Exclusive: Geordie AI raises $30 million Series A to be ‘air traffic control’ for your company’s AI agents"
+            - figure [ref=e2296]
+          - generic [ref=e2297]:
+            - time [ref=e2298]: 2 days ago
+            - separator [ref=e2299]
+            - generic [ref=e2300]: By Jeremy Kahn
+      - generic [ref=e2301]:
+        - separator [ref=e2303]
+        - generic [ref=e2305]:
+          - generic [ref=e2306]:
+            - link [ref=e2308] [cursor=pointer]:
+              - /url: ./read/CBMinwFBVV95cUxPNDRNUEE3S3RISEl1OHdfR3c0TmtlZnVnTk9QbWo3YWZxYnpGaUdfZmh3RjEySkJhVExwRUJMdU1wajRpUlEwQ21sY04tUDNPNmlpYkhjQ0FGcDhsVDBYcmo4emoxWmhCbmtfZnZhVnJXdDdxa3drUlZ1R1FvdzFJMTJ5alR6ajVEN2I5WTlrSjhDVnR5b1JoZHFWRVBzdE0?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2310]:
+              - generic [ref=e2311]:
+                - generic [ref=e2314]: Let's Data Science
+                - generic [ref=e2318]:
+                  - generic:
+                    - button "More - SaaStr Details AI Agents Booking 614 Meetings from Chats" [ref=e2319] [cursor=pointer]:
+                      - img [ref=e2321]
+                    - tooltip [ref=e2323]: More
+              - link "SaaStr Details AI Agents Booking 614 Meetings from Chats - Let&#39;s Data Science - 4 hours ago" [ref=e2324] [cursor=pointer]:
+                - /url: ./read/CBMinwFBVV95cUxPNDRNUEE3S3RISEl1OHdfR3c0TmtlZnVnTk9QbWo3YWZxYnpGaUdfZmh3RjEySkJhVExwRUJMdU1wajRpUlEwQ21sY04tUDNPNmlpYkhjQ0FGcDhsVDBYcmo4emoxWmhCbmtfZnZhVnJXdDdxa3drUlZ1R1FvdzFJMTJ5alR6ajVEN2I5WTlrSjhDVnR5b1JoZHFWRVBzdE0?hl=en-US&gl=US&ceid=US%3Aen
+                - text: SaaStr Details AI Agents Booking 614 Meetings from Chats
+            - figure [ref=e2325]
+          - time [ref=e2327]: 4 hours ago
+      - generic [ref=e2328]:
+        - separator [ref=e2330]
+        - generic [ref=e2332]:
+          - generic [ref=e2333]:
+            - link [ref=e2335] [cursor=pointer]:
+              - /url: ./read/CBMiwAFBVV95cUxOU0VMVVdZTDlrYU5SSnNhcklDbDhuTERoRnRjS21OOWNoYnhSdWtQazlTOVQ5eDN2di1mc1p4UV9yM3MxSi1icDlzWmF0dkFPdjR6ZWY3VVBOYU13WmotNmQxNXQ5cXJ6U3R2OGw4WkZiYVVmOWt5U2hLRjdzQnAtSHZUTTh6anU5ZVUxNmgxYlhJb0dKV2ViS1NvRlhYRkQwVlBxVTRaM3Q4VHBjbDdVWkRBNUN4MTdsaWcyN1M4REo?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2337]:
+              - generic [ref=e2338]:
+                - generic [ref=e2341]: AiThority
+                - generic [ref=e2345]:
+                  - generic:
+                    - button "More - GUIDE Eliminates the Enterprise AI Agent Gap with Workflow Automation Built on AWS" [ref=e2346] [cursor=pointer]:
+                      - img [ref=e2348]
+                    - tooltip [ref=e2350]: More
+              - link "GUIDE Eliminates the Enterprise AI Agent Gap with Workflow Automation Built on AWS - AiThority - 11 hours ago" [ref=e2351] [cursor=pointer]:
+                - /url: ./read/CBMiwAFBVV95cUxOU0VMVVdZTDlrYU5SSnNhcklDbDhuTERoRnRjS21OOWNoYnhSdWtQazlTOVQ5eDN2di1mc1p4UV9yM3MxSi1icDlzWmF0dkFPdjR6ZWY3VVBOYU13WmotNmQxNXQ5cXJ6U3R2OGw4WkZiYVVmOWt5U2hLRjdzQnAtSHZUTTh6anU5ZVUxNmgxYlhJb0dKV2ViS1NvRlhYRkQwVlBxVTRaM3Q4VHBjbDdVWkRBNUN4MTdsaWcyN1M4REo?hl=en-US&gl=US&ceid=US%3Aen
+                - text: GUIDE Eliminates the Enterprise AI Agent Gap with Workflow Automation Built on AWS
+            - figure [ref=e2352]
+          - time [ref=e2354]: 11 hours ago
+      - generic [ref=e2355]:
+        - separator [ref=e2357]
+        - generic [ref=e2359]:
+          - generic [ref=e2360]:
+            - link [ref=e2362] [cursor=pointer]:
+              - /url: ./read/CBMiuwFBVV95cUxOOGhnOXZtMk4zbzBnLXRuWjQ1YmJRY2ZpYU4yV2ZZM20yTF9KQTR4RXg3bEZRQXFUMkRpdlh6SzByTC1WX2xlMjJqUXdmc2Jjb1RPV3dseXdNdXhzcnBKWW5aaTU3a25YV3Q5MnVtaXVuMTdtdHNVSmZpaUFWWUJpaTVGRG9Cakp0Wkp5NlFGZS04ZTBaM3JqVEJjRGFCeUJZOXJLOEdKVi16b21fN2NwVkVvYWtMZlV0b1BF?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2364]:
+              - generic [ref=e2365]:
+                - generic [ref=e2368]: news8000.com
+                - generic [ref=e2372]:
+                  - generic:
+                    - button "More - Robinhood allows AI agents to make trades" [ref=e2373] [cursor=pointer]:
+                      - img [ref=e2375]
+                    - tooltip [ref=e2377]: More
+              - link "Robinhood allows AI agents to make trades - news8000.com - 2 days ago" [ref=e2378] [cursor=pointer]:
+                - /url: ./read/CBMiuwFBVV95cUxOOGhnOXZtMk4zbzBnLXRuWjQ1YmJRY2ZpYU4yV2ZZM20yTF9KQTR4RXg3bEZRQXFUMkRpdlh6SzByTC1WX2xlMjJqUXdmc2Jjb1RPV3dseXdNdXhzcnBKWW5aaTU3a25YV3Q5MnVtaXVuMTdtdHNVSmZpaUFWWUJpaTVGRG9Cakp0Wkp5NlFGZS04ZTBaM3JqVEJjRGFCeUJZOXJLOEdKVi16b21fN2NwVkVvYWtMZlV0b1BF?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Robinhood allows AI agents to make trades
+            - figure [ref=e2379]
+          - time [ref=e2381]: 2 days ago
+      - generic [ref=e2382]:
+        - separator [ref=e2384]
+        - generic [ref=e2386]:
+          - generic [ref=e2387]:
+            - link [ref=e2389] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxNOC1rbTFFRTZFLTV3TGRVSFVJaFhOOUJCT3NOM241R3BmZE1LT1pJWlhTUTV6TFdpajBnX0RRNWlPN0VKYXJlejA1cUcwTlotdjVhdnBKTWo4ZXJfVko0V3FmTUVxc3FsRi1sTUczaFFXT0x4SGllSjhNZzN1YS1RZ2JKN3A3enpFZFdsSTZpWkl3bG1vZlJxQ05oWHlZRkRycWdmMXVURHVXMW9YSmc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2391]:
+              - generic [ref=e2392]:
+                - generic [ref=e2395]: Cloud Wars
+                - generic [ref=e2399]:
+                  - generic:
+                    - button "More - Amazon Bedrock AgentCore Payments Enables AI Agents to Transact Using Micropayments" [ref=e2400] [cursor=pointer]:
+                      - img [ref=e2402]
+                    - tooltip [ref=e2404]: More
+              - link "Amazon Bedrock AgentCore Payments Enables AI Agents to Transact Using Micropayments - Cloud Wars - 2 days ago - By Kieron Allen" [ref=e2405] [cursor=pointer]:
+                - /url: ./read/CBMirgFBVV95cUxNOC1rbTFFRTZFLTV3TGRVSFVJaFhOOUJCT3NOM241R3BmZE1LT1pJWlhTUTV6TFdpajBnX0RRNWlPN0VKYXJlejA1cUcwTlotdjVhdnBKTWo4ZXJfVko0V3FmTUVxc3FsRi1sTUczaFFXT0x4SGllSjhNZzN1YS1RZ2JKN3A3enpFZFdsSTZpWkl3bG1vZlJxQ05oWHlZRkRycWdmMXVURHVXMW9YSmc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Amazon Bedrock AgentCore Payments Enables AI Agents to Transact Using Micropayments
+            - figure [ref=e2406]
+          - generic [ref=e2407]:
+            - time [ref=e2408]: 2 days ago
+            - separator [ref=e2409]
+            - generic [ref=e2410]: By Kieron Allen
+      - generic [ref=e2411]:
+        - separator [ref=e2413]
+        - generic [ref=e2415]:
+          - generic [ref=e2416]:
+            - link [ref=e2418] [cursor=pointer]:
+              - /url: ./read/CBMiakFVX3lxTFBjQm1rNmV1MG0wME1hZlRNZmtpNXEzeEd6em5xNHhVaXdnbHl0bnpXcUJWbnZWVU54WWtDNlVxOFBoMmQxOWJtUHA3cnFIVW5XdV9UVk5HMk1ucW9MNDhMUzlkaEFXeGtjNEE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2420]:
+              - generic [ref=e2421]:
+                - generic [ref=e2424]: The New Stack
+                - generic [ref=e2428]:
+                  - generic:
+                    - button "More - AI is shipping code faster than security was built to handle" [ref=e2429] [cursor=pointer]:
+                      - img [ref=e2431]
+                    - tooltip [ref=e2433]: More
+              - link "AI is shipping code faster than security was built to handle - The New Stack - 6 hours ago - By Darryl K. Taft" [ref=e2434] [cursor=pointer]:
+                - /url: ./read/CBMiakFVX3lxTFBjQm1rNmV1MG0wME1hZlRNZmtpNXEzeEd6em5xNHhVaXdnbHl0bnpXcUJWbnZWVU54WWtDNlVxOFBoMmQxOWJtUHA3cnFIVW5XdV9UVk5HMk1ucW9MNDhMUzlkaEFXeGtjNEE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI is shipping code faster than security was built to handle
+            - figure [ref=e2435]
+          - generic [ref=e2436]:
+            - time [ref=e2437]: 6 hours ago
+            - separator [ref=e2438]
+            - generic [ref=e2439]: By Darryl K. Taft
+      - generic [ref=e2440]:
+        - separator [ref=e2442]
+        - generic [ref=e2444]:
+          - generic [ref=e2445]:
+            - link [ref=e2447] [cursor=pointer]:
+              - /url: ./read/CBMicEFVX3lxTE9BeUZRZkI4WDdiakhWR3hDWHBTTTdoVDFOamtOVENMNllLeHotMThMeGlYZUdzR0pxS0QtTlc2WExTNUxxVjhRQjFjaVZ4cDNjbjd2ZUdvdWRsMFVXSk4zZkszM2hmTUd0ZWswTzVaMHY?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2449]:
+              - generic [ref=e2450]:
+                - generic [ref=e2453]: Kelley Blue Book
+                - generic [ref=e2457]:
+                  - generic:
+                    - button "More - What is an AI Agent and Agentic AI?" [ref=e2458] [cursor=pointer]:
+                      - img [ref=e2460]
+                    - tooltip [ref=e2462]: More
+              - link "What is an AI Agent and Agentic AI? - Kelley Blue Book - 22 hours ago - By Chris Teague" [ref=e2463] [cursor=pointer]:
+                - /url: ./read/CBMicEFVX3lxTE9BeUZRZkI4WDdiakhWR3hDWHBTTTdoVDFOamtOVENMNllLeHotMThMeGlYZUdzR0pxS0QtTlc2WExTNUxxVjhRQjFjaVZ4cDNjbjd2ZUdvdWRsMFVXSk4zZkszM2hmTUd0ZWswTzVaMHY?hl=en-US&gl=US&ceid=US%3Aen
+                - text: What is an AI Agent and Agentic AI?
+            - figure [ref=e2464]
+          - generic [ref=e2465]:
+            - time [ref=e2466]: 22 hours ago
+            - separator [ref=e2467]
+            - generic [ref=e2468]: By Chris Teague
+      - generic [ref=e2469]:
+        - separator [ref=e2471]
+        - generic [ref=e2473]:
+          - generic [ref=e2474]:
+            - link [ref=e2476] [cursor=pointer]:
+              - /url: ./read/CBMikgFBVV95cUxQNVFCU25PdkxsRXZfQlpuU0p1LTlEeVNaQVRRWmpESmtPYy1PNUl1cXJVdk93RFhTQVZ6RDhoVXlFWUtMS0szTUdhTERCRy1oQTItaUY1ZkI0RFZLUjViTDViWWdWOVludDlBWTk5dk9NdVhnLWM1MzhfZERETnJxMlExejNzSm9kdzdKa0pMQ25XQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2478]:
+              - generic [ref=e2479]:
+                - generic [ref=e2482]: Cyber Magazine
+                - generic [ref=e2486]:
+                  - generic:
+                    - button "More - Zscaler Acquires Symmetry Systems to Map & Secure AI Agents" [ref=e2487] [cursor=pointer]:
+                      - img [ref=e2489]
+                    - tooltip [ref=e2491]: More
+              - link "Zscaler Acquires Symmetry Systems to Map & Secure AI Agents - Cyber Magazine - 2 days ago" [ref=e2492] [cursor=pointer]:
+                - /url: ./read/CBMikgFBVV95cUxQNVFCU25PdkxsRXZfQlpuU0p1LTlEeVNaQVRRWmpESmtPYy1PNUl1cXJVdk93RFhTQVZ6RDhoVXlFWUtMS0szTUdhTERCRy1oQTItaUY1ZkI0RFZLUjViTDViWWdWOVludDlBWTk5dk9NdVhnLWM1MzhfZERETnJxMlExejNzSm9kdzdKa0pMQ25XQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Zscaler Acquires Symmetry Systems to Map & Secure AI Agents
+            - figure [ref=e2493]
+          - time [ref=e2495]: 2 days ago
+      - generic [ref=e2496]:
+        - separator [ref=e2498]
+        - generic [ref=e2500]:
+          - generic [ref=e2501]:
+            - link [ref=e2503] [cursor=pointer]:
+              - /url: ./read/CBMisAFBVV95cUxPc2Q4UDlQNGZES3QwUHlOcC1UUzFNWWQ4RVV1U2I1azVZQUpCSFRvcGhuVVFYMjBfVnVYNkJ3NG81YjduRGc4R21aMDVPbkNsVlg2M3I0MHZ2V1J6bHN4V0R0Y28wc0JsSF9JMGdxcnNKblFtR3MwcUstQUFvYmpVcWdJX1dUbnlVS0JRQWRmNnZfS2xFRWZ3VEZ5NTRXcmFBVXBDeUs4dU9GSXlnZDZTbg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2505]:
+              - generic [ref=e2506]:
+                - generic [ref=e2509]: GeekWire
+                - generic [ref=e2513]:
+                  - generic:
+                    - button "More - CodeIntegrity raises $5M to put permanent guardrails on unpredictable AI agents" [ref=e2514] [cursor=pointer]:
+                      - img [ref=e2516]
+                    - tooltip [ref=e2518]: More
+              - link "CodeIntegrity raises $5M to put permanent guardrails on unpredictable AI agents - GeekWire - 3 days ago - By Lisa Stiffler" [ref=e2519] [cursor=pointer]:
+                - /url: ./read/CBMisAFBVV95cUxPc2Q4UDlQNGZES3QwUHlOcC1UUzFNWWQ4RVV1U2I1azVZQUpCSFRvcGhuVVFYMjBfVnVYNkJ3NG81YjduRGc4R21aMDVPbkNsVlg2M3I0MHZ2V1J6bHN4V0R0Y28wc0JsSF9JMGdxcnNKblFtR3MwcUstQUFvYmpVcWdJX1dUbnlVS0JRQWRmNnZfS2xFRWZ3VEZ5NTRXcmFBVXBDeUs4dU9GSXlnZDZTbg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: CodeIntegrity raises $5M to put permanent guardrails on unpredictable AI agents
+            - figure [ref=e2520]
+          - generic [ref=e2521]:
+            - time [ref=e2522]: 3 days ago
+            - separator [ref=e2523]
+            - generic [ref=e2524]: By Lisa Stiffler
+      - generic [ref=e2525]:
+        - separator [ref=e2527]
+        - generic [ref=e2529]:
+          - generic [ref=e2530]:
+            - link [ref=e2532] [cursor=pointer]:
+              - /url: ./read/CBMiowFBVV95cUxNSWlFa01GY2hRNUpwUndQbEU4MVVKeHJGVU15czlpeFhFSUdtSk9VTUJ2cUFiR2pBNmwza2tLQktRTUpMSWV5MFJXekxsdVpZSWFFem5XNlJTNFc1aUhELWJNcjR2WG4tdWpvclF1LXhLRmtHdUljY1pJaUV5TWpMblZCdGdCczlBTkZKcnduYzR5VUtISXVCeHlKMUJjWnI0VWd3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2534]:
+              - generic [ref=e2535]:
+                - generic [ref=e2538]: MarketWatch
+                - generic [ref=e2542]:
+                  - generic:
+                    - button "More - Okta shares rise on earnings beat and AI-agent opportunity" [ref=e2543] [cursor=pointer]:
+                      - img [ref=e2545]
+                    - tooltip [ref=e2547]: More
+              - link "Okta shares rise on earnings beat and AI-agent opportunity - MarketWatch - 21 hours ago - By Christine Ji & Hannah Pedone" [ref=e2548] [cursor=pointer]:
+                - /url: ./read/CBMiowFBVV95cUxNSWlFa01GY2hRNUpwUndQbEU4MVVKeHJGVU15czlpeFhFSUdtSk9VTUJ2cUFiR2pBNmwza2tLQktRTUpMSWV5MFJXekxsdVpZSWFFem5XNlJTNFc1aUhELWJNcjR2WG4tdWpvclF1LXhLRmtHdUljY1pJaUV5TWpMblZCdGdCczlBTkZKcnduYzR5VUtISXVCeHlKMUJjWnI0VWd3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Okta shares rise on earnings beat and AI-agent opportunity
+            - figure [ref=e2549]
+          - generic [ref=e2550]:
+            - time [ref=e2551]: 21 hours ago
+            - separator [ref=e2552]
+            - generic [ref=e2553]: By Christine Ji & Hannah Pedone
+      - generic [ref=e2554]:
+        - separator [ref=e2556]
+        - generic [ref=e2558]:
+          - generic [ref=e2559]:
+            - link [ref=e2561] [cursor=pointer]:
+              - /url: ./read/CBMinwFBVV95cUxNR3QxdWhfZC1yWjdsRjNFOS1wNXNDcWwyLXNndzZGRExXYV9qVC01OWVkaEFVN1FJTEp3Z1gwZ3RIdVVfcVFabzZoSHhuVkp5U2p2OXhIc0JXYk90S2xBQTh0SVVxM1F4aXh5MmkwcDVVM1prbU1CQlprVkl4emhxVnNTazcycXk5VUViWEtVQzAtS1AwQXZnOUk4OHhHWjA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2563]:
+              - generic [ref=e2564]:
+                - generic [ref=e2567]: Semafor
+                - generic [ref=e2571]:
+                  - generic:
+                    - button "More - Robinhood allows users to use AI agents to trade stocks" [ref=e2572] [cursor=pointer]:
+                      - img [ref=e2574]
+                    - tooltip [ref=e2576]: More
+              - link "Robinhood allows users to use AI agents to trade stocks - Semafor - 2 days ago - By Rachyl Jones" [ref=e2577] [cursor=pointer]:
+                - /url: ./read/CBMinwFBVV95cUxNR3QxdWhfZC1yWjdsRjNFOS1wNXNDcWwyLXNndzZGRExXYV9qVC01OWVkaEFVN1FJTEp3Z1gwZ3RIdVVfcVFabzZoSHhuVkp5U2p2OXhIc0JXYk90S2xBQTh0SVVxM1F4aXh5MmkwcDVVM1prbU1CQlprVkl4emhxVnNTazcycXk5VUViWEtVQzAtS1AwQXZnOUk4OHhHWjA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Robinhood allows users to use AI agents to trade stocks
+            - figure [ref=e2578]
+          - generic [ref=e2579]:
+            - time [ref=e2580]: 2 days ago
+            - separator [ref=e2581]
+            - generic [ref=e2582]: By Rachyl Jones
+      - generic [ref=e2583]:
+        - separator [ref=e2585]
+        - generic [ref=e2587]:
+          - generic [ref=e2588]:
+            - link [ref=e2590] [cursor=pointer]:
+              - /url: ./read/CBMi2wFBVV95cUxPakwxbWJBazdBbVBJZWhLYzlndUNYWFdfZ0NMbVZFbDhYVFJMVjJWN1ZaWjN6SDhzTERDbDJZSVlCMldVRzJwNWc5MEZQeUh6NUZvSFkzUDVBYnRkRjVvcFcycTR5cXNZYnpUZm90NERzLWlqTkJta1dEVU8xTl9fZmN0eWtfajF4VU16bkVudUF4MnNZR1J5OEhkY1VieTVXQnlnRlN5dGZqN202cjdnZktCZHhRVVNOeUdYMWMyaG93SkRVMUxKakxobXl6SHo3dnR5eXBhRnFoWjA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2592]:
+              - generic [ref=e2593]:
+                - generic [ref=e2596]: 24-7 Press Release Newswire
+                - generic [ref=e2600]:
+                  - generic:
+                    - 'button "More - Kakunin Launches: First Cryptographic Identity Platform for AI Agents Under EU AI Act & MiCA" [ref=e2601] [cursor=pointer]':
+                      - img [ref=e2603]
+                    - tooltip [ref=e2605]: More
+              - 'link "Kakunin Launches: First Cryptographic Identity Platform for AI Agents Under EU AI Act & MiCA - 24-7 Press Release Newswire - 11 hours ago" [ref=e2606] [cursor=pointer]':
+                - /url: ./read/CBMi2wFBVV95cUxPakwxbWJBazdBbVBJZWhLYzlndUNYWFdfZ0NMbVZFbDhYVFJMVjJWN1ZaWjN6SDhzTERDbDJZSVlCMldVRzJwNWc5MEZQeUh6NUZvSFkzUDVBYnRkRjVvcFcycTR5cXNZYnpUZm90NERzLWlqTkJta1dEVU8xTl9fZmN0eWtfajF4VU16bkVudUF4MnNZR1J5OEhkY1VieTVXQnlnRlN5dGZqN202cjdnZktCZHhRVVNOeUdYMWMyaG93SkRVMUxKakxobXl6SHo3dnR5eXBhRnFoWjA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Kakunin Launches: First Cryptographic Identity Platform for AI Agents Under EU AI Act & MiCA"
+            - figure [ref=e2607]
+          - time [ref=e2609]: 11 hours ago
+      - generic [ref=e2610]:
+        - separator [ref=e2612]
+        - generic [ref=e2614]:
+          - generic [ref=e2615]:
+            - link [ref=e2617] [cursor=pointer]:
+              - /url: ./read/CBMijAFBVV95cUxQeUNGamJSb1RJVjgyWHN0OVUzV2RzQ2ZVeEJmMlJvWmdzaV9wX3NNd19YSkRjbmJIRWZwdUtxTk5JbWtxbmwyb3dvWEN3RTMzUWJHcXB3eFVFS1dpaHFCc0FsWHo2NXB4SmQ3bzhXamxkZmNiV0tpMHdXS2dQVndQNkxYeHh0M2RRbDRGOQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2619]:
+              - generic [ref=e2620]:
+                - generic [ref=e2623]: O'Reilly Media
+                - generic [ref=e2627]:
+                  - generic:
+                    - button "More - Your AI Agent Already Forgot Half of What You Told It" [ref=e2628] [cursor=pointer]:
+                      - img [ref=e2630]
+                    - tooltip [ref=e2632]: More
+              - link "Your AI Agent Already Forgot Half of What You Told It - O&#39;Reilly Media - 2 days ago - By Andrew Stellman" [ref=e2633] [cursor=pointer]:
+                - /url: ./read/CBMijAFBVV95cUxQeUNGamJSb1RJVjgyWHN0OVUzV2RzQ2ZVeEJmMlJvWmdzaV9wX3NNd19YSkRjbmJIRWZwdUtxTk5JbWtxbmwyb3dvWEN3RTMzUWJHcXB3eFVFS1dpaHFCc0FsWHo2NXB4SmQ3bzhXamxkZmNiV0tpMHdXS2dQVndQNkxYeHh0M2RRbDRGOQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Your AI Agent Already Forgot Half of What You Told It
+            - figure [ref=e2634]
+          - generic [ref=e2635]:
+            - time [ref=e2636]: 2 days ago
+            - separator [ref=e2637]
+            - generic [ref=e2638]: By Andrew Stellman
+      - generic [ref=e2639]:
+        - separator [ref=e2641]
+        - generic [ref=e2643]:
+          - generic [ref=e2644]:
+            - link [ref=e2646] [cursor=pointer]:
+              - /url: ./read/CBMiugFBVV95cUxNaEk2VnE2WklUQVRtQzlRMzRVNlVBOEZhT3dINENVa21aSEpMU2lVMWhmVzB6dzRnXzRidk52akJ2cXAyWWxUT0Y3Y3FkVnQtdmo5aEVHTVJ4Rm8tOXpkckF0RTlNNzh4dTJDT2oxVkZlYzlWYjVrNF9wMWg2TjFuQzl1Zkt4WXBiSlRDSlpUY05zb1NwVVBoRlBLR0NUaEV1cUlKZDRncTA4dDF2V0tTMjdndGFwVDZDQlE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2648]:
+              - generic [ref=e2649]:
+                - generic [ref=e2652]: HPCwire
+                - generic [ref=e2656]:
+                  - generic:
+                    - button "More - PNNL Deploys AI Agents to Speed Critical Minerals Recovery from Industrial Waste" [ref=e2657] [cursor=pointer]:
+                      - img [ref=e2659]
+                    - tooltip [ref=e2661]: More
+              - link "PNNL Deploys AI Agents to Speed Critical Minerals Recovery from Industrial Waste - HPCwire - 21 hours ago - By Karyn Hede" [ref=e2662] [cursor=pointer]:
+                - /url: ./read/CBMiugFBVV95cUxNaEk2VnE2WklUQVRtQzlRMzRVNlVBOEZhT3dINENVa21aSEpMU2lVMWhmVzB6dzRnXzRidk52akJ2cXAyWWxUT0Y3Y3FkVnQtdmo5aEVHTVJ4Rm8tOXpkckF0RTlNNzh4dTJDT2oxVkZlYzlWYjVrNF9wMWg2TjFuQzl1Zkt4WXBiSlRDSlpUY05zb1NwVVBoRlBLR0NUaEV1cUlKZDRncTA4dDF2V0tTMjdndGFwVDZDQlE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: PNNL Deploys AI Agents to Speed Critical Minerals Recovery from Industrial Waste
+            - figure [ref=e2663]
+          - generic [ref=e2664]:
+            - time [ref=e2665]: 21 hours ago
+            - separator [ref=e2666]
+            - generic [ref=e2667]: By Karyn Hede
+      - generic [ref=e2668]:
+        - separator [ref=e2670]
+        - generic [ref=e2672]:
+          - generic [ref=e2673]:
+            - link [ref=e2675] [cursor=pointer]:
+              - /url: ./read/CBMimAFBVV95cUxNVVVJeUZiS2d4RUdGUFlqdDlCajQwUG9xLVltTWFnS3pIajJpN0IyMFFLT1laNU13SmFkcnZRYmhFMTJ3anpNV1ZzZTljN1hkVmJJYllLZThMaFVtWkZ4RExTVUgzeW1LRGZYcjUwaHNuTmhSb3o4MlU4UnVBM3g5ZVJfc0JBZWV5ZTBxRkZ5WldjUk5lbE1Scw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2677]:
+              - generic [ref=e2678]:
+                - generic [ref=e2681]: thestreet.com
+                - generic [ref=e2685]:
+                  - generic:
+                    - button "More - Salesforce CEO delivers blunt message on AI agents" [ref=e2686] [cursor=pointer]:
+                      - img [ref=e2688]
+                    - tooltip [ref=e2690]: More
+              - link "Salesforce CEO delivers blunt message on AI agents - thestreet.com - 23 hours ago - By Aditya Raghunath" [ref=e2691] [cursor=pointer]:
+                - /url: ./read/CBMimAFBVV95cUxNVVVJeUZiS2d4RUdGUFlqdDlCajQwUG9xLVltTWFnS3pIajJpN0IyMFFLT1laNU13SmFkcnZRYmhFMTJ3anpNV1ZzZTljN1hkVmJJYllLZThMaFVtWkZ4RExTVUgzeW1LRGZYcjUwaHNuTmhSb3o4MlU4UnVBM3g5ZVJfc0JBZWV5ZTBxRkZ5WldjUk5lbE1Scw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Salesforce CEO delivers blunt message on AI agents
+            - figure [ref=e2692]
+          - generic [ref=e2693]:
+            - time [ref=e2694]: 23 hours ago
+            - separator [ref=e2695]
+            - generic [ref=e2696]: By Aditya Raghunath
+      - generic [ref=e2697]:
+        - separator [ref=e2699]
+        - generic [ref=e2701]:
+          - generic [ref=e2702]:
+            - link [ref=e2704] [cursor=pointer]:
+              - /url: ./read/CBMic0FVX3lxTE1XVS1McjVhbGRlLVdwYkVpMENleWEwczQ4R045TDA2cWl0OXhkSnNIVnlTZk54RGhuYm13ZlJwRFBLTGRmQXZRYktvYXdTUlRqcWdES2tUakZCeGNhWGRxZDkybzdHRHZxVDZaQXI3X0FfMVE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2706]:
+              - generic [ref=e2707]:
+                - generic [ref=e2710]: Fast Company
+                - generic [ref=e2714]:
+                  - generic:
+                    - button "More - Teach AI agents when to stop" [ref=e2715] [cursor=pointer]:
+                      - img [ref=e2717]
+                    - tooltip [ref=e2719]: More
+              - link "Teach AI agents when to stop - Fast Company - 2 days ago - By Neel Somani" [ref=e2720] [cursor=pointer]:
+                - /url: ./read/CBMic0FVX3lxTE1XVS1McjVhbGRlLVdwYkVpMENleWEwczQ4R045TDA2cWl0OXhkSnNIVnlTZk54RGhuYm13ZlJwRFBLTGRmQXZRYktvYXdTUlRqcWdES2tUakZCeGNhWGRxZDkybzdHRHZxVDZaQXI3X0FfMVE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Teach AI agents when to stop
+            - figure [ref=e2721]
+          - generic [ref=e2722]:
+            - time [ref=e2723]: 2 days ago
+            - separator [ref=e2724]
+            - generic [ref=e2725]: By Neel Somani
+      - generic [ref=e2726]:
+        - separator [ref=e2728]
+        - generic [ref=e2730]:
+          - generic [ref=e2731]:
+            - link [ref=e2733] [cursor=pointer]:
+              - /url: ./read/CBMiekFVX3lxTE9DT3g4bEtLMEw2OWhJbkd6UDBTMi1UQ3pVWk92V2JuRTZrVlY3U3FOWDA0b1VrZENCYlM2MG9saGRCcXNmOV9jMWp5aVZROUFxZEkzQ3gxUEphQmExOE5QWlFzSW9fbFJUQm9YU2JOdU00U2NkRXVQZm9B?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2735]:
+              - generic [ref=e2736]:
+                - generic [ref=e2739]: Cybernews
+                - generic [ref=e2743]:
+                  - generic:
+                    - button "More - AI agent steals database, makes real-time hacking decisions in less than an hour" [ref=e2744] [cursor=pointer]:
+                      - img [ref=e2746]
+                    - tooltip [ref=e2748]: More
+              - link "AI agent steals database, makes real-time hacking decisions in less than an hour - Cybernews - 4 hours ago - By Ann-marie Corvin" [ref=e2749] [cursor=pointer]:
+                - /url: ./read/CBMiekFVX3lxTE9DT3g4bEtLMEw2OWhJbkd6UDBTMi1UQ3pVWk92V2JuRTZrVlY3U3FOWDA0b1VrZENCYlM2MG9saGRCcXNmOV9jMWp5aVZROUFxZEkzQ3gxUEphQmExOE5QWlFzSW9fbFJUQm9YU2JOdU00U2NkRXVQZm9B?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI agent steals database, makes real-time hacking decisions in less than an hour
+            - figure [ref=e2750]
+          - generic [ref=e2751]:
+            - time [ref=e2752]: 4 hours ago
+            - separator [ref=e2753]
+            - generic [ref=e2754]: By Ann-marie Corvin
+      - generic [ref=e2755]:
+        - separator [ref=e2757]
+        - generic [ref=e2759]:
+          - generic [ref=e2760]:
+            - link [ref=e2762] [cursor=pointer]:
+              - /url: ./read/CBMiqwFBVV95cUxPd2drOXFmNVBGaHFIY2FOMFpoOUpiTXJ0YmFmcVJTa0VZSjR4bjBfNnc5QW1RUGJUMjYtalVfZGU0YV9ZenRucXBGM1dJZzNxY2hJcXdKdVpuWGxsZUh6UGtZV0JDcTJqRGYwcHA0RlB3N2dTR2JLSGlETUhnUkhxRnVaN2Nfd2plRmJCVTNzRnZFMmZYSmh1R05raHh5d1NVa01XUllWZnVDMEE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2764]:
+              - generic [ref=e2765]:
+                - generic [ref=e2768]: NVIDIA Developer
+                - generic [ref=e2772]:
+                  - generic:
+                    - button "More - NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents | NVIDIA Technical Blog" [ref=e2773] [cursor=pointer]:
+                      - img [ref=e2775]
+                    - tooltip [ref=e2777]: More
+              - link "NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents | NVIDIA Technical Blog - NVIDIA Developer - 11 days ago" [ref=e2778] [cursor=pointer]:
+                - /url: ./read/CBMiqwFBVV95cUxPd2drOXFmNVBGaHFIY2FOMFpoOUpiTXJ0YmFmcVJTa0VZSjR4bjBfNnc5QW1RUGJUMjYtalVfZGU0YV9ZenRucXBGM1dJZzNxY2hJcXdKdVpuWGxsZUh6UGtZV0JDcTJqRGYwcHA0RlB3N2dTR2JLSGlETUhnUkhxRnVaN2Nfd2plRmJCVTNzRnZFMmZYSmh1R05raHh5d1NVa01XUllWZnVDMEE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents | NVIDIA Technical Blog
+            - figure [ref=e2779]
+          - time [ref=e2781]: 11 days ago
+      - generic [ref=e2782]:
+        - separator [ref=e2784]
+        - generic [ref=e2786]:
+          - generic [ref=e2787]:
+            - link [ref=e2789] [cursor=pointer]:
+              - /url: ./read/CBMivwFBVV95cUxPdzdMUXNBN3BiQTdta3B4OHFqdzV4a1hxMlhaRmI5SVQ5Y1lzUnhWVmwtNEs5d1lMdFZFYXQ4eWxzRlFzWWE0NnRMeU9BYWt4d3MwdURyVm5iMFhMa3p5d09HSzZSZnlDNnM1S2tmOVY5dlh4NDUwUldPRTZoMUN2a25KMGp0WXhyNkZiYlpXYU1IY2VmdzBYcUt2UW55RmgyYzdpaEVzcFNfRml2V2k2YXZzdFVIWk5Md2hjV05qQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2791]:
+              - generic [ref=e2792]:
+                - generic [ref=e2795]: PYMNTS.com
+                - generic [ref=e2799]:
+                  - generic:
+                    - button "More - Robinhood Lets Customers Use AI Agents for Trades and Card Payments" [ref=e2800] [cursor=pointer]:
+                      - img [ref=e2802]
+                    - tooltip [ref=e2804]: More
+              - link "Robinhood Lets Customers Use AI Agents for Trades and Card Payments - PYMNTS.com - 3 days ago" [ref=e2805] [cursor=pointer]:
+                - /url: ./read/CBMivwFBVV95cUxPdzdMUXNBN3BiQTdta3B4OHFqdzV4a1hxMlhaRmI5SVQ5Y1lzUnhWVmwtNEs5d1lMdFZFYXQ4eWxzRlFzWWE0NnRMeU9BYWt4d3MwdURyVm5iMFhMa3p5d09HSzZSZnlDNnM1S2tmOVY5dlh4NDUwUldPRTZoMUN2a25KMGp0WXhyNkZiYlpXYU1IY2VmdzBYcUt2UW55RmgyYzdpaEVzcFNfRml2V2k2YXZzdFVIWk5Md2hjV05qQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Robinhood Lets Customers Use AI Agents for Trades and Card Payments
+            - figure [ref=e2806]
+          - time [ref=e2808]: 3 days ago
+      - generic [ref=e2809]:
+        - separator [ref=e2811]
+        - generic [ref=e2813]:
+          - generic [ref=e2814]:
+            - link [ref=e2816] [cursor=pointer]:
+              - /url: ./read/CBMiygFBVV95cUxOeWZtS3lGTTBkeW5KTnlDa0RObmpHUkZBdi1DTmhVaHphakd5eVZXZ3JhTm1yaHBBM0t3VElwc2VPYVVGYUg3R01LSzNPaHNrRXY0Yk1McjBzbG9jNFAxeGd6TmFseFlaOEhMSWJyOTItN0ZHSkhFYk1JSmRPdXVUcWpYNHZvUXBibmNjTXhESHNzWGJNa0JCeVc3MTdZOGN5N3IwTEtTUndWQ3p5YU5yWERvcFRkWGhSR2tOYXZpbUpvd0lPWEw3OTVR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2818]:
+              - generic [ref=e2819]:
+                - generic [ref=e2822]: theinsurer.com
+                - generic [ref=e2826]:
+                  - generic:
+                    - button "More - Pace's Cuffe says AI agents are unlocking products and markets carriers couldn't previously serve after $46 million raise" [ref=e2827] [cursor=pointer]:
+                      - img [ref=e2829]
+                    - tooltip [ref=e2831]: More
+              - link "Pace's Cuffe says AI agents are unlocking products and markets carriers couldn't previously serve after $46 million raise - theinsurer.com - 21 hours ago" [ref=e2832] [cursor=pointer]:
+                - /url: ./read/CBMiygFBVV95cUxOeWZtS3lGTTBkeW5KTnlDa0RObmpHUkZBdi1DTmhVaHphakd5eVZXZ3JhTm1yaHBBM0t3VElwc2VPYVVGYUg3R01LSzNPaHNrRXY0Yk1McjBzbG9jNFAxeGd6TmFseFlaOEhMSWJyOTItN0ZHSkhFYk1JSmRPdXVUcWpYNHZvUXBibmNjTXhESHNzWGJNa0JCeVc3MTdZOGN5N3IwTEtTUndWQ3p5YU5yWERvcFRkWGhSR2tOYXZpbUpvd0lPWEw3OTVR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Pace's Cuffe says AI agents are unlocking products and markets carriers couldn't previously serve after $46 million raise
+            - figure [ref=e2833]
+          - time [ref=e2835]: 21 hours ago
+      - generic [ref=e2836]:
+        - separator [ref=e2838]
+        - generic [ref=e2840]:
+          - generic [ref=e2841]:
+            - link [ref=e2843] [cursor=pointer]:
+              - /url: ./read/CBMilwFBVV95cUxNdnpqWC1xNWNFR05MUGpUdFIxZWJMZE9pVDhCX1RCR2t2M1M0VGtGWDdSSDRjSEhTYjNvZ1N0aGJEdWhGSnZScDdhX1FfWF8yeFJib0I2dEd6enFkdjRYSVo0V3pvNzlUM0Q3NUhfQWVia05aWUxjZzU1VFIyTHJHQmFoU0RlUXZVd3MyTnNTSDJ1RFU5cF80?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2845]:
+              - generic [ref=e2846]:
+                - generic [ref=e2849]: Amazon Web Services (AWS)
+                - generic [ref=e2853]:
+                  - generic:
+                    - button "More - Evaluating Deep Agents using LangSmith on AWS" [ref=e2854] [cursor=pointer]:
+                      - img [ref=e2856]
+                    - tooltip [ref=e2858]: More
+              - link "Evaluating Deep Agents using LangSmith on AWS - Amazon Web Services (AWS) - 21 hours ago" [ref=e2859] [cursor=pointer]:
+                - /url: ./read/CBMilwFBVV95cUxNdnpqWC1xNWNFR05MUGpUdFIxZWJMZE9pVDhCX1RCR2t2M1M0VGtGWDdSSDRjSEhTYjNvZ1N0aGJEdWhGSnZScDdhX1FfWF8yeFJib0I2dEd6enFkdjRYSVo0V3pvNzlUM0Q3NUhfQWVia05aWUxjZzU1VFIyTHJHQmFoU0RlUXZVd3MyTnNTSDJ1RFU5cF80?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Evaluating Deep Agents using LangSmith on AWS
+            - figure [ref=e2860]
+          - time [ref=e2862]: 21 hours ago
+      - generic [ref=e2863]:
+        - separator [ref=e2865]
+        - generic [ref=e2867]:
+          - generic [ref=e2868]:
+            - link [ref=e2870] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxPUnFzOHVDazZwX2loRjJRMWxuZFdhR3JQOUoyMHN0Vkg1Z3BqZkx5RWo0VDNwYXktLUpINUpPY2Q2elJfcGlKWEctMDhRalJ2ek0yajExVjRXUHMtRmhjNnRSNGpSY2pWTy1VVHRZWTNqalhlWXhUS3pHYU5oVFp2N3Q1X3VhTnlnSVU3a0FTUThfMVhqSkZuRVdTUXFyekMtSHk1NGFJRmJoY1czaE1J?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2872]:
+              - generic [ref=e2873]:
+                - generic [ref=e2876]: InfoWorld
+                - generic [ref=e2880]:
+                  - generic:
+                    - button "More - An open-source toolkit for controlling out-of-control AI agents" [ref=e2881] [cursor=pointer]:
+                      - img [ref=e2883]
+                    - tooltip [ref=e2885]: More
+              - link "An open-source toolkit for controlling out-of-control AI agents - InfoWorld - 2 days ago - By Simon Bisson" [ref=e2886] [cursor=pointer]:
+                - /url: ./read/CBMirwFBVV95cUxPUnFzOHVDazZwX2loRjJRMWxuZFdhR3JQOUoyMHN0Vkg1Z3BqZkx5RWo0VDNwYXktLUpINUpPY2Q2elJfcGlKWEctMDhRalJ2ek0yajExVjRXUHMtRmhjNnRSNGpSY2pWTy1VVHRZWTNqalhlWXhUS3pHYU5oVFp2N3Q1X3VhTnlnSVU3a0FTUThfMVhqSkZuRVdTUXFyekMtSHk1NGFJRmJoY1czaE1J?hl=en-US&gl=US&ceid=US%3Aen
+                - text: An open-source toolkit for controlling out-of-control AI agents
+            - figure [ref=e2887]
+          - generic [ref=e2888]:
+            - time [ref=e2889]: 2 days ago
+            - separator [ref=e2890]
+            - generic [ref=e2891]: By Simon Bisson
+      - generic [ref=e2892]:
+        - separator [ref=e2894]
+        - generic [ref=e2896]:
+          - generic [ref=e2897]:
+            - link [ref=e2899] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxON3JISE9BUl9iSlp4WWQ4TG1hTzJNY2JzaG15UFJZcXplYjJKS3NsLW5TaU8xRkEtRUs2SmJPVzgxd21VSDRsMmdiTGV6ZDVXQkg5VUhDOVVwUm1VSHNFX0U5YllyRE0xTGFQOThCamM0ZWZfRDM2VHdTVnhxZ0xnQzhOMTJDU1diYXhWTG1vRFU1T3cwV0ZrYWFvdjlQTXZtSDAxOEhSSmY5UQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2901]:
+              - generic [ref=e2902]:
+                - generic [ref=e2905]: cio.com
+                - generic [ref=e2909]:
+                  - generic:
+                    - button "More - Why orchestration, not the model, determines whether your AI scales" [ref=e2910] [cursor=pointer]:
+                      - img [ref=e2912]
+                    - tooltip [ref=e2914]: More
+              - link "Why orchestration, not the model, determines whether your AI scales - cio.com - 8 hours ago - By Brady Lewis" [ref=e2915] [cursor=pointer]:
+                - /url: ./read/CBMiqgFBVV95cUxON3JISE9BUl9iSlp4WWQ4TG1hTzJNY2JzaG15UFJZcXplYjJKS3NsLW5TaU8xRkEtRUs2SmJPVzgxd21VSDRsMmdiTGV6ZDVXQkg5VUhDOVVwUm1VSHNFX0U5YllyRE0xTGFQOThCamM0ZWZfRDM2VHdTVnhxZ0xnQzhOMTJDU1diYXhWTG1vRFU1T3cwV0ZrYWFvdjlQTXZtSDAxOEhSSmY5UQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Why orchestration, not the model, determines whether your AI scales
+            - figure [ref=e2916]
+          - generic [ref=e2917]:
+            - time [ref=e2918]: 8 hours ago
+            - separator [ref=e2919]
+            - generic [ref=e2920]: By Brady Lewis
+      - generic [ref=e2921]:
+        - separator [ref=e2923]
+        - generic [ref=e2925]:
+          - generic [ref=e2926]:
+            - link [ref=e2928] [cursor=pointer]:
+              - /url: ./read/CBMihgFBVV95cUxQWGVrSlZTMndZRFhFUzZ3djl4Wmh0a3V5bVRsb2hZN0R1aUJsYXVjSjZFSTZfZkNTalA3QUR1RlZ2NHp0SkpQMlVYMDVabWFKb19rQm04U2Y2QVh1QzlEMjVsZnotZG05UWN2c0E3X2hHdHJySEcwNjBpRmdnNUlPVUpmQ2Qwdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2930]:
+              - generic [ref=e2931]:
+                - generic [ref=e2934]: Futurism
+                - generic [ref=e2938]:
+                  - generic:
+                    - button "More - Debt Collectors Are Being Replaced With AI Agents" [ref=e2939] [cursor=pointer]:
+                      - img [ref=e2941]
+                    - tooltip [ref=e2943]: More
+              - link "Debt Collectors Are Being Replaced With AI Agents - Futurism - 2 days ago - By Joe Wilkins" [ref=e2944] [cursor=pointer]:
+                - /url: ./read/CBMihgFBVV95cUxQWGVrSlZTMndZRFhFUzZ3djl4Wmh0a3V5bVRsb2hZN0R1aUJsYXVjSjZFSTZfZkNTalA3QUR1RlZ2NHp0SkpQMlVYMDVabWFKb19rQm04U2Y2QVh1QzlEMjVsZnotZG05UWN2c0E3X2hHdHJySEcwNjBpRmdnNUlPVUpmQ2Qwdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Debt Collectors Are Being Replaced With AI Agents
+            - figure [ref=e2945]
+          - generic [ref=e2946]:
+            - time [ref=e2947]: 2 days ago
+            - separator [ref=e2948]
+            - generic [ref=e2949]: By Joe Wilkins
+      - generic [ref=e2950]:
+        - separator [ref=e2952]
+        - generic [ref=e2954]:
+          - generic [ref=e2955]:
+            - link [ref=e2957] [cursor=pointer]:
+              - /url: ./read/CBMinAFBVV95cUxOSEhqUWJqVlR2SnpqYl9hcDl5NVNlUHlPZ1E5aGsteGdNcEFMZ3B1SC1Yd1pDYm9vR0NfbFE4bWlIZE1TRzhGOUhOM0RJUUIzU3R3OEp1Qm51eFh5NHFtUjVZVi1CYWNMdDJmNEpMMzZDOWVWdXFEM2hnV0FmUE1YX0hzc2ZRUHNkLVJPYUhYbDdqYWVqbV85ckhBWXc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2959]:
+              - generic [ref=e2960]:
+                - generic [ref=e2963]: SiliconANGLE
+                - generic [ref=e2967]:
+                  - generic:
+                    - button "More - Modiqo raises $3M in pre-seed funding to help AI agents learn by Rote" [ref=e2968] [cursor=pointer]:
+                      - img [ref=e2970]
+                    - tooltip [ref=e2972]: More
+              - link "Modiqo raises $3M in pre-seed funding to help AI agents learn by Rote - SiliconANGLE - 2 days ago - By Mike Wheatley" [ref=e2973] [cursor=pointer]:
+                - /url: ./read/CBMinAFBVV95cUxOSEhqUWJqVlR2SnpqYl9hcDl5NVNlUHlPZ1E5aGsteGdNcEFMZ3B1SC1Yd1pDYm9vR0NfbFE4bWlIZE1TRzhGOUhOM0RJUUIzU3R3OEp1Qm51eFh5NHFtUjVZVi1CYWNMdDJmNEpMMzZDOWVWdXFEM2hnV0FmUE1YX0hzc2ZRUHNkLVJPYUhYbDdqYWVqbV85ckhBWXc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Modiqo raises $3M in pre-seed funding to help AI agents learn by Rote
+            - figure [ref=e2974]
+          - generic [ref=e2975]:
+            - time [ref=e2976]: 2 days ago
+            - separator [ref=e2977]
+            - generic [ref=e2978]: By Mike Wheatley
+    - complementary [ref=e2979]:
+      - generic [ref=e2981]:
+        - generic [ref=e2984]:
+          - heading "AI agents" [level=2] [ref=e2985]
+          - generic [ref=e2986]: Search results
+        - generic [ref=e2989]:
+          - button "Save this search - AI agents" [ref=e2991]:
+            - img [ref=e2995]
+            - generic [ref=e2997]: Save
+          - tooltip [ref=e2998]: Save this search
