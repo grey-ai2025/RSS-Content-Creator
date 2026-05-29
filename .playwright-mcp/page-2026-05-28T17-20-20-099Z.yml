@@ -1,0 +1,318 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]
+          - button "Advanced search" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]:
+                - img [ref=e23]
+              - tooltip [ref=e25]: Advanced search
+          - button "Search" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+        - generic [ref=e30]:
+          - generic [ref=e35]:
+            - button "Help" [ref=e36] [cursor=pointer]:
+              - img [ref=e38]
+            - tooltip [ref=e40]: Help
+          - generic [ref=e45]:
+            - button "Settings" [ref=e46] [cursor=pointer]:
+              - img [ref=e48]
+            - tooltip [ref=e51]: Settings
+      - generic [ref=e53]:
+        - button "Google apps" [ref=e57] [cursor=pointer]:
+          - img [ref=e58]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e64]:
+      - tablist [ref=e65]:
+        - tab "Home" [selected] [ref=e66] [cursor=pointer]:
+          - tab "Home" [selected] [ref=e67]
+        - tab "For you" [ref=e68] [cursor=pointer]:
+          - tab "For you" [ref=e69]
+        - tab "Following" [ref=e70] [cursor=pointer]:
+          - tab "Following" [ref=e71]
+        - tab "U.S." [ref=e74] [cursor=pointer]:
+          - tab "U.S." [ref=e75]
+        - tab "World" [ref=e76] [cursor=pointer]:
+          - tab "World" [ref=e77]
+        - tab "Local" [ref=e78] [cursor=pointer]:
+          - tab "Local" [ref=e79]
+        - tab "Business" [ref=e80] [cursor=pointer]:
+          - tab "Business" [ref=e81]
+        - tab "Technology" [ref=e82] [cursor=pointer]:
+          - tab "Technology" [ref=e83]
+        - tab "Entertainment" [ref=e84] [cursor=pointer]:
+          - tab "Entertainment" [ref=e85]
+      - generic [ref=e89]:
+        - button "More" [ref=e90] [cursor=pointer]:
+          - img [ref=e92]
+        - tooltip [ref=e94]: More
+  - main [ref=e99]:
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - heading "Your briefing" [level=1] [ref=e105]
+          - paragraph [ref=e106]: Friday, May 29
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: Today
+              - img [ref=e113]
+              - generic [ref=e114]:
+                - generic [ref=e115]: 33°
+                - generic [ref=e116]: 28°
+            - generic [ref=e117]:
+              - generic [ref=e118]: Sat
+              - img [ref=e119]
+              - generic [ref=e120]:
+                - generic [ref=e121]: 33°
+                - generic [ref=e122]: 28°
+            - generic [ref=e123]:
+              - generic [ref=e124]: Sun
+              - img [ref=e125]
+              - generic [ref=e126]:
+                - generic [ref=e127]: 31°
+                - generic [ref=e128]: 27°
+            - generic [ref=e129]:
+              - generic [ref=e130]: Mon
+              - img [ref=e131]
+              - generic [ref=e132]:
+                - generic [ref=e133]: 30°
+                - generic [ref=e134]: 27°
+          - generic [ref=e135]:
+            - button "Expand to view forecast" [ref=e136] [cursor=pointer]:
+              - img [ref=e137]
+            - generic "Calabarzon, 28°C, thunderstorms" [ref=e139]:
+              - img "thunderstorms" [ref=e140]:
+                - img [ref=e142]
+              - generic [ref=e161]:
+                - generic [ref=e162]:
+                  - generic [ref=e163]: Calabarzon
+                  - button "Use precise location" [ref=e164] [cursor=pointer]:
+                    - img [ref=e165]
+                - generic [ref=e167]: 28°C
+                - link "Google Weather" [ref=e168] [cursor=pointer]:
+                  - /url: https://support.google.com/websearch/answer/13687874
+      - generic [ref=e170]:
+        - heading "Top stories" [level=3] [ref=e173]:
+          - link "Top stories" [ref=e174] [cursor=pointer]:
+            - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Top stories
+            - img [ref=e175]
+        - generic [ref=e180]:
+          - generic [ref=e181]:
+            - generic [ref=e182]:
+              - link [ref=e184] [cursor=pointer]:
+                - /url: ./read/CBMilAFBVV95cUxPaGY4LXZobVBHRnJ4QmRkaHM1R1pFdjQ4TWtWSThxOVg2cUVtcHduYjhmY0stcHJzaC1leWQ4Umg3NjBuNms5RS1XV0FwUWF3X3VHMFBDQjJSYmc2UDhEcXpKN3EzYjdMTnlncXdOQjFySk9rT00waVNKWU9YRFA3OVpTWmRmbkJoQ042OEFZZG5rOU0t?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e185]
+              - generic [ref=e186]:
+                - generic [ref=e189]: CBS News
+                - generic [ref=e193]:
+                  - generic:
+                    - 'button "More - Live Updates: Iran fires missile at Kuwait after U.S. strikes, as Trump says regime \"negotiating on fumes\"" [ref=e194] [cursor=pointer]':
+                      - img [ref=e196]
+                    - tooltip [ref=e198]: More
+              - 'link "Live Updates: Iran fires missile at Kuwait after U.S. strikes, as Trump says regime \"negotiating on fumes\" - CBS News - 2 hours ago - By Tucker Reals" [ref=e199] [cursor=pointer]':
+                - /url: ./read/CBMilAFBVV95cUxPaGY4LXZobVBHRnJ4QmRkaHM1R1pFdjQ4TWtWSThxOVg2cUVtcHduYjhmY0stcHJzaC1leWQ4Umg3NjBuNms5RS1XV0FwUWF3X3VHMFBDQjJSYmc2UDhEcXpKN3EzYjdMTnlncXdOQjFySk9rT00waVNKWU9YRFA3OVpTWmRmbkJoQ042OEFZZG5rOU0t?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Live Updates: Iran fires missile at Kuwait after U.S. strikes, as Trump says regime \"negotiating on fumes\""
+              - generic [ref=e200]:
+                - time [ref=e201]: 2 hours ago
+                - separator [ref=e202]
+                - generic [ref=e203]: By Tucker Reals
+            - generic [ref=e204]:
+              - generic [ref=e205]:
+                - link [ref=e207] [cursor=pointer]:
+                  - /url: ./read/CBMipwFBVV95cUxOcHdFSU9lYXpqMVhuZDh0NndsLVpMWXNFUHVhelZNWjhveFNYYmpaTHRaZVN3MUR0UGptVlNyRElCRTd2YWtVNVNpMmtnNjhYMWU4anZvbVVObXJ0YlRRRlRtQUd3NEdfdDBZdi1rM19sM0gwZjVtcVRLT0Ywb3BjVmtXYzhEbzV0LU1CYWFWSTZjRWlRX2hQajdrbUNkM1pESHlvbzlZWdIBrAFBVV95cUxOSkl4NnlNWGhvSXRrbDRhMk9QcjVYSDB1VmtFclhBT3lMN2V6dXE2TEdQa1BmTHdadWg1UVNVTHM2UDE0VUhXYjR1T0t4NnZ0d0lkbG9xcTYwaHRONTRreFp6NFAzLUZaYXl3UmFzSV9hZTFDVnJYREFrdjM1RVVJN1AtbndXcEpud3lpaWRnX2xZQlFwYTUxeFNydW1qZW5CY3A0QmM4RXA0UFlQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e208]:
+                  - generic [ref=e211]: CNBC
+                  - generic [ref=e215]:
+                    - generic:
+                      - button "More - Oil prices pull back on report U.S.-Iran agreement to extend ceasefire awaits Trump approval" [ref=e216] [cursor=pointer]:
+                        - img [ref=e218]
+                      - tooltip [ref=e220]: More
+                - link "Oil prices pull back on report U.S.-Iran agreement to extend ceasefire awaits Trump approval - CNBC - 16 hours ago - By Ying Shan Lee & Spencer Littleford Kimball" [ref=e221] [cursor=pointer]:
+                  - /url: ./read/CBMipwFBVV95cUxOcHdFSU9lYXpqMVhuZDh0NndsLVpMWXNFUHVhelZNWjhveFNYYmpaTHRaZVN3MUR0UGptVlNyRElCRTd2YWtVNVNpMmtnNjhYMWU4anZvbVVObXJ0YlRRRlRtQUd3NEdfdDBZdi1rM19sM0gwZjVtcVRLT0Ywb3BjVmtXYzhEbzV0LU1CYWFWSTZjRWlRX2hQajdrbUNkM1pESHlvbzlZWdIBrAFBVV95cUxOSkl4NnlNWGhvSXRrbDRhMk9QcjVYSDB1VmtFclhBT3lMN2V6dXE2TEdQa1BmTHdadWg1UVNVTHM2UDE0VUhXYjR1T0t4NnZ0d0lkbG9xcTYwaHRONTRreFp6NFAzLUZaYXl3UmFzSV9hZTFDVnJYREFrdjM1RVVJN1AtbndXcEpud3lpaWRnX2xZQlFwYTUxeFNydW1qZW5CY3A0QmM4RXA0UFlQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Oil prices pull back on report U.S.-Iran agreement to extend ceasefire awaits Trump approval
+                - generic [ref=e222]:
+                  - time [ref=e223]: 16 hours ago
+                  - separator [ref=e224]
+                  - generic [ref=e225]: By Ying Shan Lee & Spencer Littleford Kimball
+              - generic [ref=e226]:
+                - link [ref=e228] [cursor=pointer]:
+                  - /url: ./read/CBMiqwFBVV95cUxPZE1mdUp5R3VsSXY4cGJOS1BYY190QjBsRVR4SmF1aWc0OERCNHhQRHVSRXpGb1RhM1h0TmdEbzdGbWVvVWlKd3ExNUxKaHVpWDM2RmVhVW9oXzVIR1gxZ09aNXIySC1GSmRjOTVsNWNRc0ZWc004V0RCZ3oxUldEMnZ4ZlYxOW14YjA2VjVfTHNuZW9CQXNrVlNseTBGX2t0Y2VIVGRjVnFlb3M?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e229]:
+                  - generic [ref=e232]: Reuters
+                  - generic [ref=e236]:
+                    - generic:
+                      - 'button "More - Iran war live: US and Iran exchange strikes as Hormuz deal hopes falter" [ref=e237] [cursor=pointer]':
+                        - img [ref=e239]
+                      - tooltip [ref=e241]: More
+                - 'link "Iran war live: US and Iran exchange strikes as Hormuz deal hopes falter - Reuters - 14 hours ago - By Zoe Law, Farouq Suleiman & Hyunsu Yim" [ref=e242] [cursor=pointer]':
+                  - /url: ./read/CBMiqwFBVV95cUxPZE1mdUp5R3VsSXY4cGJOS1BYY190QjBsRVR4SmF1aWc0OERCNHhQRHVSRXpGb1RhM1h0TmdEbzdGbWVvVWlKd3ExNUxKaHVpWDM2RmVhVW9oXzVIR1gxZ09aNXIySC1GSmRjOTVsNWNRc0ZWc004V0RCZ3oxUldEMnZ4ZlYxOW14YjA2VjVfTHNuZW9CQXNrVlNseTBGX2t0Y2VIVGRjVnFlb3M?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Iran war live: US and Iran exchange strikes as Hormuz deal hopes falter"
+                - generic [ref=e243]:
+                  - time [ref=e244]: 14 hours ago
+                  - separator [ref=e245]
+                  - generic [ref=e246]: By Zoe Law, Farouq Suleiman & Hyunsu Yim
+              - generic [ref=e247]:
+                - link [ref=e249] [cursor=pointer]:
+                  - /url: ./read/CBMidkFVX3lxTFA3dkRJeWVEaHVQdUZ3b0hMeHN3MkM1UTh3SVNKOVpQaFRPSDU3ZVMyQVhoZUppWjB3TEEzWG5jNUdqYjh4bk1GcVJtTHYtUlRrdUlycmpRc0NQTUY3U0FvVjFPQm4tdDZvNnd2NXZ5ZXU3V2pWdXc?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e250]:
+                  - generic [ref=e253]: The New York Times
+                  - generic [ref=e257]:
+                    - generic:
+                      - button "More - Oil Prices Climb on Renewed Hostilities in Middle East" [ref=e258] [cursor=pointer]:
+                        - img [ref=e260]
+                      - tooltip [ref=e262]: More
+                - link "Oil Prices Climb on Renewed Hostilities in Middle East - The New York Times - 3 hours ago" [ref=e263] [cursor=pointer]:
+                  - /url: ./read/CBMidkFVX3lxTFA3dkRJeWVEaHVQdUZ3b0hMeHN3MkM1UTh3SVNKOVpQaFRPSDU3ZVMyQVhoZUppWjB3TEEzWG5jNUdqYjh4bk1GcVJtTHYtUlRrdUlycmpRc0NQTUY3U0FvVjFPQm4tdDZvNnd2NXZ5ZXU3V2pWdXc?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Oil Prices Climb on Renewed Hostilities in Middle East
+                - time [ref=e265]: 3 hours ago
+          - link "See more headlines & perspectives" [ref=e268] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzNkp1ZEVSSHhCczBzRWdscVRTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e269]
+            - generic [ref=e271]: See more headlines & perspectives
+        - generic [ref=e275]:
+          - link "Judge's ruling on mail-in voting" [ref=e277] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o2NTkyZUVSRkY3RDcyUG9jM1NDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Judge's ruling on mail-in voting chevron_right
+          - generic [ref=e278]:
+            - generic [ref=e279]:
+              - link [ref=e281] [cursor=pointer]:
+                - /url: ./read/CBMisgFBVV95cUxOYUltbng0U2JsbFpON0MzTjFNMmZNdUNrNUVJVG1WS3NjVlJoYng2THFhYWk3Q0FheGtCYkpSZGwwRXB3RTk2SERuWEgySnNaQ1VvR18wY0xGVGEzNUFjbWFFX2dlUmJLRFhGYUxkejJHemlQUzNoclJkU3Q5T3JwOG93eWZidHZYdFJ4ZGZxRWxydkh5RmY4TWM3ZFczVjVYTTlpZzVBaGpFZDI3ZWozMTRB?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e282]
+              - generic [ref=e283]:
+                - generic [ref=e286]: Reuters
+                - generic [ref=e290]:
+                  - generic:
+                    - button "More - US judge won't block Trump's mail-in voting executive order for now" [ref=e291] [cursor=pointer]:
+                      - img [ref=e293]
+                    - tooltip [ref=e295]: More
+              - link "US judge won't block Trump's mail-in voting executive order for now - Reuters - 1 hour ago - By Luc Cohen" [ref=e296] [cursor=pointer]:
+                - /url: ./read/CBMisgFBVV95cUxOYUltbng0U2JsbFpON0MzTjFNMmZNdUNrNUVJVG1WS3NjVlJoYng2THFhYWk3Q0FheGtCYkpSZGwwRXB3RTk2SERuWEgySnNaQ1VvR18wY0xGVGEzNUFjbWFFX2dlUmJLRFhGYUxkejJHemlQUzNoclJkU3Q5T3JwOG93eWZidHZYdFJ4ZGZxRWxydkh5RmY4TWM3ZFczVjVYTTlpZzVBaGpFZDI3ZWozMTRB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: US judge won't block Trump's mail-in voting executive order for now
+              - generic [ref=e297]:
+                - time [ref=e298]: 1 hour ago
+                - separator [ref=e299]
+                - generic [ref=e300]: By Luc Cohen
+            - generic [ref=e301]:
+              - generic [ref=e302]:
+                - link [ref=e304] [cursor=pointer]:
+                  - /url: ./read/CBMie0FVX3lxTE4zYXBfVS1ySmtHQXN3NEQ5Zy1BOTFKOEFSTHVkQ1BfNFZYU19tWHRTRDVDbWVQWTJoM2lvYnpzdU54LWJUSFhPekQxaXFnYnR0aFdsbmRhZi1TbzFDVlozTnUyNWpxc0gxRzV2NmZDTGZHU3F6Q0t1clRCaw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e305]:
+                  - generic [ref=e308]: NPR
+                  - generic [ref=e312]:
+                    - generic:
+                      - button "More - A federal judge in D.C. declines to block Trump's executive order on voting by mail" [ref=e313] [cursor=pointer]:
+                        - img [ref=e315]
+                      - tooltip [ref=e317]: More
+                - link "A federal judge in D.C. declines to block Trump's executive order on voting by mail - NPR - 6 hours ago - By Lo Wang, Hansi Lo & Hansi Lo Wang" [ref=e318] [cursor=pointer]:
+                  - /url: ./read/CBMie0FVX3lxTE4zYXBfVS1ySmtHQXN3NEQ5Zy1BOTFKOEFSTHVkQ1BfNFZYU19tWHRTRDVDbWVQWTJoM2lvYnpzdU54LWJUSFhPekQxaXFnYnR0aFdsbmRhZi1TbzFDVlozTnUyNWpxc0gxRzV2NmZDTGZHU3F6Q0t1clRCaw?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: A federal judge in D.C. declines to block Trump's executive order on voting by mail
+                - generic [ref=e319]:
+                  - time [ref=e320]: 6 hours ago
+                  - separator [ref=e321]
+                  - generic [ref=e322]: By Lo Wang, Hansi Lo & Hansi Lo Wang
+              - generic [ref=e323]:
+                - link [ref=e325] [cursor=pointer]:
+                  - /url: ./read/CBMilwFBVV95cUxOdWJ2Qm1qZ0FfWHM5WFJ0aV9FbEI2VDdjRUtaTGM5dnNCWjVkSHU2ZXZUOTNpRE1FNDY5eTJkY2FXbDNYd29qV3RTVWlGQkF1WXk0c2V1SndReEVlMUhXMC05bUIxNTRqOE5LclRqTWNVbXZ3a2gtMGJ0YklpdGxFMWVpdTRxcVhWSTRxRVFlWWNiWUJJOFA00gGcAUFVX3lxTE0xeXhBbWZBX3Fvd1ZLNjFIVXF3YS11RTQxTV95UjFtU2VkeGhCOFQzZksxcjhpa0R3N1hJUHBLZVRiYmI3eERveWY5YXBUaDZ0SW1aTFJELW8xZFNORlFkSU9zd0lwZGxIQ3pSWk1ZU2hVeEJYQlNSWnNMNzNDcHZ2YmN6S1lpb014N05tY01XWU1abnFVOUhGX2VOMg?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e326]:
+                  - generic [ref=e329]: The Hill
+                  - generic [ref=e333]:
+                    - generic:
+                      - button "More - Judge clears way for Trump mail-in ballot executive order" [ref=e334] [cursor=pointer]:
+                        - img [ref=e336]
+                      - tooltip [ref=e338]: More
+                - link "Judge clears way for Trump mail-in ballot executive order - The Hill - 3 hours ago - By Ashleigh Fields" [ref=e339] [cursor=pointer]:
+                  - /url: ./read/CBMilwFBVV95cUxOdWJ2Qm1qZ0FfWHM5WFJ0aV9FbEI2VDdjRUtaTGM5dnNCWjVkSHU2ZXZUOTNpRE1FNDY5eTJkY2FXbDNYd29qV3RTVWlGQkF1WXk0c2V1SndReEVlMUhXMC05bUIxNTRqOE5LclRqTWNVbXZ3a2gtMGJ0YklpdGxFMWVpdTRxcVhWSTRxRVFlWWNiWUJJOFA00gGcAUFVX3lxTE0xeXhBbWZBX3Fvd1ZLNjFIVXF3YS11RTQxTV95UjFtU2VkeGhCOFQzZksxcjhpa0R3N1hJUHBLZVRiYmI3eERveWY5YXBUaDZ0SW1aTFJELW8xZFNORlFkSU9zd0lwZGxIQ3pSWk1ZU2hVeEJYQlNSWnNMNzNDcHZ2YmN6S1lpb014N05tY01XWU1abnFVOUhGX2VOMg?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Judge clears way for Trump mail-in ballot executive order
+                - generic [ref=e340]:
+                  - time [ref=e341]: 3 hours ago
+                  - separator [ref=e342]
+                  - generic [ref=e343]: By Ashleigh Fields
+              - generic [ref=e344]:
+                - link [ref=e346] [cursor=pointer]:
+                  - /url: ./read/CBMitAFBVV95cUxOWjB2Sy1ScXpVbmt1U1ZsUDZubG0zSTNoc0dFR2hXZUhwZ2FWQlZwVXNyMG1wbHMtU2FfaGlmV2dDbDNkcFNaLURDLVduZzkzNVduNzhKdzI3b05KNG5ycTFhbTluZnRuLW8tdzItazZBZXMwdkd1UFgwV2hodm5xa1JTakNjVTZCMW5QOVlkQTNaUy14UUZaQmprUVRNb3NQYWd3eFhfaUhYeDFMcF91cmNxQWw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e347]:
+                  - generic [ref=e350]: Bloomberg.com
+                  - generic [ref=e354]:
+                    - generic:
+                      - button "More - Democrats Lose Court Bid to Block Trump’s Mail-In Ballot Limits" [ref=e355] [cursor=pointer]:
+                        - img [ref=e357]
+                      - tooltip [ref=e359]: More
+                - link "Democrats Lose Court Bid to Block Trump’s Mail-In Ballot Limits - Bloomberg.com - 11 hours ago - By Peter Blumberg" [ref=e360] [cursor=pointer]:
+                  - /url: ./read/CBMitAFBVV95cUxOWjB2Sy1ScXpVbmt1U1ZsUDZubG0zSTNoc0dFR2hXZUhwZ2FWQlZwVXNyMG1wbHMtU2FfaGlmV2dDbDNkcFNaLURDLVduZzkzNVduNzhKdzI3b05KNG5ycTFhbTluZnRuLW8tdzItazZBZXMwdkd1UFgwV2hodm5xa1JTakNjVTZCMW5QOVlkQTNaUy14UUZaQmprUVRNb3NQYWd3eFhfaUhYeDFMcF91cmNxQWw?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Democrats Lose Court Bid to Block Trump’s Mail-In Ballot Limits
+                - generic [ref=e361]:
+                  - time [ref=e362]: 11 hours ago
+                  - separator [ref=e363]
+                  - generic [ref=e364]: By Peter Blumberg
+          - link "See more headlines & perspectives - Judge's ruling on mail-in voting" [ref=e367] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o2NTkyZUVSRkY3RDcyUG9jM1NDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e368]
+            - generic [ref=e370]: See more headlines & perspectives
+        - generic [ref=e374]:
+          - generic [ref=e375]:
+            - link [ref=e377] [cursor=pointer]:
+              - /url: ./read/CBMinAFBVV95cUxQSHBKeldsMDhnOWRKblF1YUMzWW0wTmFleUJrY2NKMlVaRmtuNjlWWUtwZGRPU21qX3VnWVVTWUZPNEstdVhUVnhic2dhTndGdzNuV1hWc3MxN245WTZVOVdWSnMyd3RDSE41SGFZUXlTVk1tVDZ5T25Gc0lPZ0JqTDQ0a3U3WUltUTJ0dENNb0JPdXN6RmVQRGhkMnc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e379]:
+              - generic [ref=e380]:
+                - generic [ref=e383]: Politico
+                - generic [ref=e387]:
+                  - generic:
+                    - button "More - Paxton win sparks GOP money panic" [ref=e388] [cursor=pointer]:
+                      - img [ref=e390]
+                    - tooltip [ref=e392]: More
+              - link "Paxton win sparks GOP money panic - Politico - 7 hours ago - By Samuel Benson, Jessica Piper & Alex Gangitano" [ref=e393] [cursor=pointer]:
+                - /url: ./read/CBMinAFBVV95cUxQSHBKeldsMDhnOWRKblF1YUMzWW0wTmFleUJrY2NKMlVaRmtuNjlWWUtwZGRPU21qX3VnWVVTWUZPNEstdVhUVnhic2dhTndGdzNuV1hWc3MxN245WTZVOVdWSnMyd3RDSE41SGFZUXlTVk1tVDZ5T25Gc0lPZ0JqTDQ0a3U3WUltUTJ0dENNb0JPdXN6RmVQRGhkMnc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Paxton win sparks GOP money panic
+            - figure [ref=e394]
+          - generic [ref=e395]:
+            - time [ref=e396]: 7 hours ago
+            - separator [ref=e397]
+            - generic [ref=e398]: By Samuel Benson, Jessica Piper & Alex Gangitano
+            - link "See more headlines & perspectives - Paxton win sparks GOP money panic" [ref=e399] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pfeWRLTEVSRmxBd3dRaVVHSjN5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e400]
+              - generic [ref=e402]: See more
+        - generic [ref=e406]:
+          - generic [ref=e407]:
+            - link [ref=e409] [cursor=pointer]:
+              - /url: ./read/CBMitwFBVV95cUxQSXNDNDJScWFDeW5ZQTdwOFlQdk9kbGtmWWEzVXJpeWR6YVVTdlZiY3JtRnZrN1ZCNmhBWDQwa2xqV0gtd1hfZWZqbTFDTGFyems1OFBSVmJzeXk1cDU1cjRwc2J1bGxlWWF1RmlWLXVCSlNFVV92bHV6TEZZUkZqUW13Y1BQa0szZ3NvT21XNkZFNjdrYVhIV0gzeUxWeUFoRjBYQXFCZFAtWlBqOWVldEhaUmVjaVU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e411]:
+              - generic [ref=e412]:
+                - generic [ref=e415]: nbcnews.com
+                - generic [ref=e419]:
+                  - generic:
+                    - button "More - Justice Department opens criminal probe into E. Jean Carroll" [ref=e420] [cursor=pointer]:
+                      - img [ref=e422]
+                    - tooltip [ref=e424]: More
+              - link "Justice Department opens criminal probe into E. Jean Carroll - nbcnews.com - 2 hours ago - By Ryan Reilly, Kyla Guilfoil & Megan Lebowitz" [ref=e425] [cursor=pointer]:
+                - /url: ./read/CBMitwFBVV95cUxQSXNDNDJScWFDeW5ZQTdwOFlQdk9kbGtmWWEzVXJpeWR6YVVTdlZiY3JtRnZrN1ZCNmhBWDQwa2xqV0gtd1hfZWZqbTFDTGFyems1OFBSVmJzeXk1cDU1cjRwc2J1bGxlWWF1RmlWLXVCSlNFVV92bHV6TEZZUkZqUW13Y1BQa0szZ3NvT21XNkZFNjdrYVhIV0gzeUxWeUFoRjBYQXFCZFAtWlBqOWVldEhaUmVjaVU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Justice Department opens criminal probe into E. Jean Carroll
+            - figure [ref=e426]
+          - generic [ref=e427]:
+            - time [ref=e428]: 2 hours ago
+            - separator [ref=e429]
+            - generic [ref=e430]: By Ryan Reilly, Kyla Guilfoil & Megan Lebowitz
+            - link "See more headlines & perspectives - Justice Department opens criminal probe into E. Jean Carroll" [ref=e431] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pNOXJHZkVSRVQ3cHBXNk9RU19pZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e432]
+              - generic [ref=e434]: See more
+      - generic [ref=e437]:
+        - generic [ref=e438]:
+          - heading "Local news" [level=3] [ref=e440]:
+            - link "Local news" [ref=e441] [cursor=pointer]:
+              - /url: ./topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Local news
+              - img [ref=e442]
+          - generic [ref=e446]:
+            - button "Manage local news" [ref=e447] [cursor=pointer]:
+              - img [ref=e448]
+            - tooltip [ref=e451]: Manage local news
+        - tablist [ref=e453]

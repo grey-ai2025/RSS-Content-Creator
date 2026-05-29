@@ -63,7 +63,8 @@
       "WebFetch(domain:www.bcg.com)",
       "Skill(generate-content)",
       "Skill(generate-content:*)",
-      "WebFetch(domain:www.blog.brightcoding.dev)"
+      "WebFetch(domain:www.blog.brightcoding.dev)",
+      "mcp__firecrawl__firecrawl_search_feedback"
     ]
   },
   "enableAllProjectMcpServers": true,
