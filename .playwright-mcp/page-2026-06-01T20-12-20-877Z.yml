@@ -1,0 +1,2176 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]
+          - button "Advanced search" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]:
+                - img [ref=e23]
+              - tooltip [ref=e25]: Advanced search
+          - button "Search" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+        - generic [ref=e30]:
+          - generic [ref=e35]:
+            - button "Help" [ref=e36] [cursor=pointer]:
+              - img [ref=e38]
+            - tooltip [ref=e40]: Help
+          - generic [ref=e45]:
+            - button "Settings" [ref=e46] [cursor=pointer]:
+              - img [ref=e48]
+            - tooltip [ref=e51]: Settings
+      - generic [ref=e53]:
+        - button "Google apps" [ref=e57] [cursor=pointer]:
+          - img [ref=e58]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e64]:
+      - tablist [ref=e65]:
+        - tab "Home" [ref=e66] [cursor=pointer]:
+          - tab "Home" [ref=e67]
+        - tab "For you" [ref=e68] [cursor=pointer]:
+          - tab "For you" [ref=e69]
+        - tab "Following" [ref=e70] [cursor=pointer]:
+          - tab "Following" [ref=e71]
+        - tab "U.S." [ref=e74] [cursor=pointer]:
+          - tab "U.S." [ref=e75]
+        - tab "World" [ref=e76] [cursor=pointer]:
+          - tab "World" [ref=e77]
+        - tab "Local" [ref=e78] [cursor=pointer]:
+          - tab "Local" [ref=e79]
+        - tab "Business" [ref=e80] [cursor=pointer]:
+          - tab "Business" [ref=e81]
+        - tab "Technology" [selected] [ref=e82] [cursor=pointer]:
+          - tab "Technology" [selected] [ref=e83]
+        - tab "Entertainment" [ref=e84] [cursor=pointer]:
+          - tab "Entertainment" [ref=e85]
+      - generic [ref=e89]:
+        - button "More" [ref=e90] [cursor=pointer]:
+          - img [ref=e92]
+        - tooltip [ref=e94]: More
+  - main [ref=e98]:
+    - generic [ref=e99]:
+      - generic [ref=e100]:
+        - heading "Technology" [level=1] [ref=e103]
+        - generic [ref=e104]:
+          - generic [ref=e106]:
+            - button "Follow this topic - Technology" [ref=e108]:
+              - img [ref=e112]
+              - generic [ref=e114]: Follow
+            - tooltip [ref=e115]: Follow this topic
+          - generic [ref=e117]:
+            - button "Share" [ref=e118] [cursor=pointer]:
+              - img [ref=e120]
+            - tooltip [ref=e122]: Share
+      - tablist [ref=e123]:
+        - tab "Latest" [selected] [ref=e124]:
+          - generic [ref=e127]: Latest
+        - tab "Mobile" [ref=e128]:
+          - generic [ref=e131]: Mobile
+        - tab "Gadgets" [ref=e132]:
+          - generic [ref=e135]: Gadgets
+        - tab "Internet" [ref=e136]:
+          - generic [ref=e139]: Internet
+        - tab "Virtual reality" [ref=e140]:
+          - generic [ref=e143]: Virtual reality
+        - tab "Artificial intelligence" [ref=e144]:
+          - generic [ref=e147]: Artificial intelligence
+        - tab "Computing" [ref=e148]:
+          - generic [ref=e151]: Computing
+      - tabpanel "Latest" [ref=e152]:
+        - generic [ref=e153]:
+          - generic [ref=e156]:
+            - link "Nvidia enters PC processor market with Arm-based RTX Spark" [ref=e158] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pwMGY2YkVSR3gxOEpHVUo2Qm5TZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Nvidia enters PC processor market with Arm-based RTX Spark chevron_right
+            - generic [ref=e159]:
+              - generic [ref=e160]:
+                - link [ref=e162] [cursor=pointer]:
+                  - /url: ./read/CBMilgFBVV95cUxQVkhTT1VuSmw3VUxsYlVjNy0xakxlaWhJU0dEdFdlN3AwNkprb25QNmZTR19FUURQRkhjVnJCUXZGUnpnN2FibXdfWkZHYnBoODMyYjljekF2SkhnLTJZNlU5MnB1WGtzc0RGeEJIclhiSzY4TjVRUGQ4WUNzRDliZHlqelM5NDVFLTVIcndVNXRmOEZCSnc?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e163]:
+                  - generic [ref=e166]: Yahoo Finance
+                  - generic [ref=e170]:
+                    - generic:
+                      - button "More - Nvidia Stock Jumps After New PC Push Triggers Selloff in Intel, AMD" [ref=e171] [cursor=pointer]:
+                        - img [ref=e173]
+                      - tooltip [ref=e175]: More
+                - link "Nvidia Stock Jumps After New PC Push Triggers Selloff in Intel, AMD - Yahoo Finance - 2 hours ago - By Nauman Khan" [ref=e176] [cursor=pointer]:
+                  - /url: ./read/CBMilgFBVV95cUxQVkhTT1VuSmw3VUxsYlVjNy0xakxlaWhJU0dEdFdlN3AwNkprb25QNmZTR19FUURQRkhjVnJCUXZGUnpnN2FibXdfWkZHYnBoODMyYjljekF2SkhnLTJZNlU5MnB1WGtzc0RGeEJIclhiSzY4TjVRUGQ4WUNzRDliZHlqelM5NDVFLTVIcndVNXRmOEZCSnc?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Nvidia Stock Jumps After New PC Push Triggers Selloff in Intel, AMD
+                - generic [ref=e177]:
+                  - time [ref=e178]: 2 hours ago
+                  - separator [ref=e179]
+                  - generic [ref=e180]: By Nauman Khan
+              - generic [ref=e181]:
+                - generic [ref=e182]:
+                  - link [ref=e184] [cursor=pointer]:
+                    - /url: ./read/CBMifEFVX3lxTE9MU0Y0VFlScVBDdDFaUXIxc1hvNlBZRnZ6NElFUHgtckZENHVMVmpvM241YjU1RnN2ejdlWEV6OFBfbldXZkItckJzOVZURWNUWmhaMUJ3SHhYd2xHWHF3VGwzeUlGTkNlc0h2UWhYbm03TXItXzEyNm1UeVk?hl=en-US&gl=US&ceid=US%3Aen
+                  - generic [ref=e185]:
+                    - generic [ref=e188]: WSJ
+                    - generic [ref=e192]:
+                      - generic:
+                        - button "More - Nvidia Introduces First PCs Designed for AI Agents" [ref=e193] [cursor=pointer]:
+                          - img [ref=e195]
+                        - tooltip [ref=e197]: More
+                  - link "Nvidia Introduces First PCs Designed for AI Agents - WSJ - 3 hours ago - By Robbie Whelan & Amrith Ramkumar" [ref=e198] [cursor=pointer]:
+                    - /url: ./read/CBMifEFVX3lxTE9MU0Y0VFlScVBDdDFaUXIxc1hvNlBZRnZ6NElFUHgtckZENHVMVmpvM241YjU1RnN2ejdlWEV6OFBfbldXZkItckJzOVZURWNUWmhaMUJ3SHhYd2xHWHF3VGwzeUlGTkNlc0h2UWhYbm03TXItXzEyNm1UeVk?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Nvidia Introduces First PCs Designed for AI Agents
+                  - generic [ref=e199]:
+                    - time [ref=e200]: 3 hours ago
+                    - separator [ref=e201]
+                    - generic [ref=e202]: By Robbie Whelan & Amrith Ramkumar
+                - generic [ref=e203]:
+                  - link [ref=e205] [cursor=pointer]:
+                    - /url: ./read/CBMilwFBVV95cUxQZkQxUEdMS0NVWEZUQ2Yzd3liS01FRnJNTnRESlNiWVdjS0NSbHRad0NsQ3ZLWVNZd1FROGRtOGxSM0xsZzB6dDZoaURoZy1Va2lndmFYRzhpSVdoelROVnRIdS1Fb1o1LTkxanVhUjYzbjhWVHBrNy1CNU1VMHBaU29GYjdoMjBXZVZwMzl6ZEZoQTBYa1dn?hl=en-US&gl=US&ceid=US%3Aen
+                  - generic [ref=e206]:
+                    - generic [ref=e209]: The Verge
+                    - generic [ref=e213]:
+                      - generic:
+                        - button "More - This could be Windows’ M1 moment — but expect it to cost a ton" [ref=e214] [cursor=pointer]:
+                          - img [ref=e216]
+                        - tooltip [ref=e218]: More
+                  - link "This could be Windows’ M1 moment — but expect it to cost a ton - The Verge - 9 minutes ago - By Antonio Benedetto" [ref=e219] [cursor=pointer]:
+                    - /url: ./read/CBMilwFBVV95cUxQZkQxUEdMS0NVWEZUQ2Yzd3liS01FRnJNTnRESlNiWVdjS0NSbHRad0NsQ3ZLWVNZd1FROGRtOGxSM0xsZzB6dDZoaURoZy1Va2lndmFYRzhpSVdoelROVnRIdS1Fb1o1LTkxanVhUjYzbjhWVHBrNy1CNU1VMHBaU29GYjdoMjBXZVZwMzl6ZEZoQTBYa1dn?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: This could be Windows’ M1 moment — but expect it to cost a ton
+                  - generic [ref=e220]:
+                    - time [ref=e221]: 9 minutes ago
+                    - separator [ref=e222]
+                    - generic [ref=e223]: By Antonio Benedetto
+                - generic [ref=e224]:
+                  - link [ref=e226] [cursor=pointer]:
+                    - /url: ./read/CBMiogFBVV95cUxQRl9LWW1nNUJiV3RDcVpQQmpabzBEdVE2TFFlMENfVExmUHI1aUl4VEJVYlpzbnNOVmNLQUl1SGdGLVZTMlg0MnpDWTR4UmtwMzN6eFNBelJVODdyaGMtWDlUSk9kbHpNU2p2dkhhT0c1ajdSeGlQQ3h6SmF1cnYtYU5zSXN3cm5mMG13Tml3RmszWWZ6bVZxMmhickRhVDR5emc?hl=en-US&gl=US&ceid=US%3Aen
+                  - generic [ref=e227]:
+                    - generic [ref=e230]: Windows Blog
+                    - generic [ref=e234]:
+                      - generic:
+                        - 'button "More - Introducing Surface Laptop Ultra: Made for world makers" [ref=e235] [cursor=pointer]':
+                          - img [ref=e237]
+                        - tooltip [ref=e239]: More
+                  - 'link "Introducing Surface Laptop Ultra: Made for world makers - Windows Blog - 15 hours ago - By Brett Ostrum" [ref=e240] [cursor=pointer]':
+                    - /url: ./read/CBMiogFBVV95cUxQRl9LWW1nNUJiV3RDcVpQQmpabzBEdVE2TFFlMENfVExmUHI1aUl4VEJVYlpzbnNOVmNLQUl1SGdGLVZTMlg0MnpDWTR4UmtwMzN6eFNBelJVODdyaGMtWDlUSk9kbHpNU2p2dkhhT0c1ajdSeGlQQ3h6SmF1cnYtYU5zSXN3cm5mMG13Tml3RmszWWZ6bVZxMmhickRhVDR5emc?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: "Introducing Surface Laptop Ultra: Made for world makers"
+                  - generic [ref=e241]:
+                    - time [ref=e242]: 15 hours ago
+                    - separator [ref=e243]
+                    - generic [ref=e244]: By Brett Ostrum
+            - link "See more headlines & perspectives - Nvidia enters PC processor market with Arm-based RTX Spark" [ref=e247] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pwMGY2YkVSR3gxOEpHVUo2Qm5TZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e248]
+              - generic [ref=e250]: See more headlines & perspectives
+          - generic [ref=e251]:
+            - separator [ref=e253]
+            - generic [ref=e255]:
+              - link "Major PC hardware reveals at Computex 2026 in Taipei" [ref=e257] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzc3UyZ0VSRmtIdXNMUXkyMzBDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Major PC hardware reveals at Computex 2026 in Taipei chevron_right
+              - generic [ref=e258]:
+                - generic [ref=e259]:
+                  - link [ref=e261] [cursor=pointer]:
+                    - /url: ./read/CBMiX0FVX3lxTE5OWEN4YVhIXzR3RlRPdl84R0h3N1VpbWx1RTVySXp2dGNrQjdqOHF4UGxvZzY0MXJiZmtLVUFGZDhmcWFUcUxscFRkN2ZRUzV5aVVOeEtHb2gwSTdjenE4?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e262]
+                  - generic [ref=e263]:
+                    - generic [ref=e266]: The Verge
+                    - generic [ref=e270]:
+                      - generic:
+                        - 'button "More - Computex 2026: All the news and announcements" [ref=e271] [cursor=pointer]':
+                          - img [ref=e273]
+                        - tooltip [ref=e275]: More
+                  - 'link "Computex 2026: All the news and announcements - The Verge - 5 hours ago - By Stevie Bonifield" [ref=e276] [cursor=pointer]':
+                    - /url: ./read/CBMiX0FVX3lxTE5OWEN4YVhIXzR3RlRPdl84R0h3N1VpbWx1RTVySXp2dGNrQjdqOHF4UGxvZzY0MXJiZmtLVUFGZDhmcWFUcUxscFRkN2ZRUzV5aVVOeEtHb2gwSTdjenE4?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: "Computex 2026: All the news and announcements"
+                  - generic [ref=e277]:
+                    - time [ref=e278]: 5 hours ago
+                    - separator [ref=e279]
+                    - generic [ref=e280]: By Stevie Bonifield
+                - generic [ref=e281]:
+                  - generic [ref=e282]:
+                    - link [ref=e284] [cursor=pointer]:
+                      - /url: ./read/CBMinwFBVV95cUxOemZScW84R2JGcXBEN0NxZ3YzVUFGeWE3THE3WDkwZWRzOXlKelRzYk5odmI4NzNVUGoxYkhPTkJzeE8yY3dvOFVRYVZPc21yOHNaSHkzSG03dFJhcFllM0gtTHhLUmNoM2pUVGlpUUc0dlpCWFVRWUZiUGh5ZmE3UWltdnNITzdsRnlUMDhCR3F5d2RuUEFqaEoybjBFUnM?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e285]:
+                      - generic [ref=e288]: PCMag
+                      - generic [ref=e292]:
+                        - generic:
+                          - 'button "More - Live From Computex 2026: We''re in Taipei Bringing You Every Big PC Hardware Reveal As It Happens" [ref=e293] [cursor=pointer]':
+                            - img [ref=e295]
+                          - tooltip [ref=e297]: More
+                    - 'link "Live From Computex 2026: We''re in Taipei Bringing You Every Big PC Hardware Reveal As It Happens - PCMag - 1 minute ago - By John A. Burek & Tom Brant" [ref=e298] [cursor=pointer]':
+                      - /url: ./read/CBMinwFBVV95cUxOemZScW84R2JGcXBEN0NxZ3YzVUFGeWE3THE3WDkwZWRzOXlKelRzYk5odmI4NzNVUGoxYkhPTkJzeE8yY3dvOFVRYVZPc21yOHNaSHkzSG03dFJhcFllM0gtTHhLUmNoM2pUVGlpUUc0dlpCWFVRWUZiUGh5ZmE3UWltdnNITzdsRnlUMDhCR3F5d2RuUEFqaEoybjBFUnM?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "Live From Computex 2026: We're in Taipei Bringing You Every Big PC Hardware Reveal As It Happens"
+                    - generic [ref=e299]:
+                      - time [ref=e300]: 1 minute ago
+                      - separator [ref=e301]
+                      - generic [ref=e302]: By John A. Burek & Tom Brant
+                  - generic [ref=e303]:
+                    - link [ref=e305] [cursor=pointer]:
+                      - /url: ./read/CBMiY0FVX3lxTE9xOHZxd0w3dWpBaTBlUXBWS1JtTWpmVEJJX2RXTXdiakttOVY1dVhxREZMby12cE1NZG0waUd2dFRqMU5kQVQyY3Qyc3RORWcwMXdXTHV0UTNNM1J0Ync2cnJfMA?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e306]:
+                      - generic [ref=e309]: Tom's Hardware
+                      - generic [ref=e313]:
+                        - generic:
+                          - 'button "More - Computex 2026 Live: Every update and announcement from day one in Taipei" [ref=e314] [cursor=pointer]':
+                            - img [ref=e316]
+                          - tooltip [ref=e318]: More
+                    - 'link "Computex 2026 Live: Every update and announcement from day one in Taipei - Tom&#39;s Hardware - 37 minutes ago - By Jeffrey Kampman, Matt Safford & Joe Shields" [ref=e319] [cursor=pointer]':
+                      - /url: ./read/CBMiY0FVX3lxTE9xOHZxd0w3dWpBaTBlUXBWS1JtTWpmVEJJX2RXTXdiakttOVY1dVhxREZMby12cE1NZG0waUd2dFRqMU5kQVQyY3Qyc3RORWcwMXdXTHV0UTNNM1J0Ync2cnJfMA?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "Computex 2026 Live: Every update and announcement from day one in Taipei"
+                    - generic [ref=e320]:
+                      - time [ref=e321]: 37 minutes ago
+                      - separator [ref=e322]
+                      - generic [ref=e323]: By Jeffrey Kampman, Matt Safford & Joe Shields
+                  - generic [ref=e324]:
+                    - link [ref=e326] [cursor=pointer]:
+                      - /url: ./read/CBMizgFBVV95cUxQNnlPa1BBSmFSZTR2UUlvUDFvRzFEWmpSaVFsQUM4OXNBemk4SFl0X1FIb2l6R3JEa3VaeTNUa3NsWFBIVUlEdG1uQ1JNTVMxSkxxLVVlenktODg2ZmRZY3dOSzVSY1dHVGpCdlZRb0h6QTI0VnlrZ3hkYWJqSTM4WTBmSHhVZUVDSXF6dlN6cGcyQTZxWW5zc2p3SkVfQ3BqZ05PWldCNUdNd1Qxa2xkRGtJWC04OFZ5LTZTOGxjYzVsRUwxY2hDQWtvM2ZmUQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e327]:
+                      - generic [ref=e330]: Tech Times
+                      - generic [ref=e334]:
+                        - generic:
+                          - 'button "More - Intel Computex 2026: Tan Meets TSMC as 200% Stock Surge Faces Its Toughest Test Yet" [ref=e335] [cursor=pointer]':
+                            - img [ref=e337]
+                          - tooltip [ref=e339]: More
+                    - 'link "Intel Computex 2026: Tan Meets TSMC as 200% Stock Surge Faces Its Toughest Test Yet - Tech Times - 4 hours ago" [ref=e340] [cursor=pointer]':
+                      - /url: ./read/CBMizgFBVV95cUxQNnlPa1BBSmFSZTR2UUlvUDFvRzFEWmpSaVFsQUM4OXNBemk4SFl0X1FIb2l6R3JEa3VaeTNUa3NsWFBIVUlEdG1uQ1JNTVMxSkxxLVVlenktODg2ZmRZY3dOSzVSY1dHVGpCdlZRb0h6QTI0VnlrZ3hkYWJqSTM4WTBmSHhVZUVDSXF6dlN6cGcyQTZxWW5zc2p3SkVfQ3BqZ05PWldCNUdNd1Qxa2xkRGtJWC04OFZ5LTZTOGxjYzVsRUwxY2hDQWtvM2ZmUQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "Intel Computex 2026: Tan Meets TSMC as 200% Stock Surge Faces Its Toughest Test Yet"
+                    - time [ref=e342]: 4 hours ago
+              - link "See more headlines & perspectives - Major PC hardware reveals at Computex 2026 in Taipei" [ref=e345] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzc3UyZ0VSRmtIdXNMUXkyMzBDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e346]
+                - generic [ref=e348]: See more headlines & perspectives
+          - generic [ref=e349]:
+            - separator [ref=e351]
+            - generic [ref=e353]:
+              - link "Apple reportedly plans to launch smart glasses in late 2027" [ref=e355] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oybVpTY0VSR0VUYmVoQ0Vub0tpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Apple reportedly plans to launch smart glasses in late 2027 chevron_right
+              - generic [ref=e356]:
+                - generic [ref=e357]:
+                  - link [ref=e359] [cursor=pointer]:
+                    - /url: ./read/CBMingFBVV95cUxQQ0JMV09fUjE1c1lzZzJZS3JKUWFZdEdNZjVSMXRidmpNbVFLaFVuYkhhQ2NCak93S01rRDREN21rNGlPUEt4OVREWk1BaHJ5NkVfc0dZTHVCUWRrUlBVUmVXSW1Va2twSVgwZThRVGtINjF1RlVaTzYtZHdlOFNEdjlIVHFrY3RfNUtqdkJkM1RRT3c4SDJmckQtUHk1QQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e360]
+                  - generic [ref=e361]:
+                    - generic [ref=e364]: 9to5Mac
+                    - generic [ref=e368]:
+                      - generic:
+                        - button "More - Latest Apple Glasses leak has me way more excited for the product" [ref=e369] [cursor=pointer]:
+                          - img [ref=e371]
+                        - tooltip [ref=e373]: More
+                  - link "Latest Apple Glasses leak has me way more excited for the product - 9to5Mac - 5 hours ago - By Ryan Christoffel" [ref=e374] [cursor=pointer]:
+                    - /url: ./read/CBMingFBVV95cUxQQ0JMV09fUjE1c1lzZzJZS3JKUWFZdEdNZjVSMXRidmpNbVFLaFVuYkhhQ2NCak93S01rRDREN21rNGlPUEt4OVREWk1BaHJ5NkVfc0dZTHVCUWRrUlBVUmVXSW1Va2twSVgwZThRVGtINjF1RlVaTzYtZHdlOFNEdjlIVHFrY3RfNUtqdkJkM1RRT3c4SDJmckQtUHk1QQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Latest Apple Glasses leak has me way more excited for the product
+                  - generic [ref=e375]:
+                    - time [ref=e376]: 5 hours ago
+                    - separator [ref=e377]
+                    - generic [ref=e378]: By Ryan Christoffel
+                - generic [ref=e379]:
+                  - generic [ref=e380]:
+                    - link [ref=e382] [cursor=pointer]:
+                      - /url: ./read/CBMixAFBVV95cUxPN0d0ZGtnc1dLdVdPcjNfU3Z2RDAwaWVaMFhicWpNTkRsNnF2M2taOXBfNEdzaFNUT2RxeTJ0QVRwaHRrRHFVSE5BbW4xblJYMjZacnZHZWxaUjhTWWhodi1yNUotbUYzTDJLOFIzZlhzdGQzS3BfR2xxN1o3U3BvTmJ4ZzY2OEdQWUI1dnVOS1MxSUE3SXlzb05qRW5ianBGWWZHNHo2VkVwQm5LTnJBSFRPWU9xMWFwUHFuUFhQbGJmV3R4?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e383]:
+                      - generic [ref=e386]: Bloomberg.com
+                      - generic [ref=e390]:
+                        - generic:
+                          - button "More - Apple Seeks to Disrupt the Glasses Market the Way It Did With Watches" [ref=e391] [cursor=pointer]:
+                            - img [ref=e393]
+                          - tooltip [ref=e395]: More
+                    - link "Apple Seeks to Disrupt the Glasses Market the Way It Did With Watches - Bloomberg.com - 2 days ago - By Mark Gurman" [ref=e396] [cursor=pointer]:
+                      - /url: ./read/CBMixAFBVV95cUxPN0d0ZGtnc1dLdVdPcjNfU3Z2RDAwaWVaMFhicWpNTkRsNnF2M2taOXBfNEdzaFNUT2RxeTJ0QVRwaHRrRHFVSE5BbW4xblJYMjZacnZHZWxaUjhTWWhodi1yNUotbUYzTDJLOFIzZlhzdGQzS3BfR2xxN1o3U3BvTmJ4ZzY2OEdQWUI1dnVOS1MxSUE3SXlzb05qRW5ianBGWWZHNHo2VkVwQm5LTnJBSFRPWU9xMWFwUHFuUFhQbGJmV3R4?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Apple Seeks to Disrupt the Glasses Market the Way It Did With Watches
+                    - generic [ref=e397]:
+                      - time [ref=e398]: 2 days ago
+                      - separator [ref=e399]
+                      - generic [ref=e400]: By Mark Gurman
+                  - generic [ref=e401]:
+                    - link [ref=e403] [cursor=pointer]:
+                      - /url: ./read/CBMijwFBVV95cUxNWWtUcWdXa0FvU3NhZmU5UG9mRTFzTmtuZWo1aHNOV2djak1GSDVUOHpna1kzb1pySjJUWHpCdUpKZGxMV1BkdV9xZml3OG5XYnlQaXFKQjVwOUVkU3N1U2RobUJzQUhaU1VLSVZWZFRUUVFLOFF2SUhuX2JfS2liTUljTXltOC1NcjFjTWx1bw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e404]:
+                      - generic [ref=e407]: CNET
+                      - generic [ref=e411]:
+                        - generic:
+                          - button "More - Apple's Smart Glasses Reportedly Delayed Until Late 2027" [ref=e412] [cursor=pointer]:
+                            - img [ref=e414]
+                          - tooltip [ref=e416]: More
+                    - link "Apple's Smart Glasses Reportedly Delayed Until Late 2027 - CNET - 7 hours ago - By Steven Musil" [ref=e417] [cursor=pointer]:
+                      - /url: ./read/CBMijwFBVV95cUxNWWtUcWdXa0FvU3NhZmU5UG9mRTFzTmtuZWo1aHNOV2djak1GSDVUOHpna1kzb1pySjJUWHpCdUpKZGxMV1BkdV9xZml3OG5XYnlQaXFKQjVwOUVkU3N1U2RobUJzQUhaU1VLSVZWZFRUUVFLOFF2SUhuX2JfS2liTUljTXltOC1NcjFjTWx1bw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Apple's Smart Glasses Reportedly Delayed Until Late 2027
+                    - generic [ref=e418]:
+                      - time [ref=e419]: 7 hours ago
+                      - separator [ref=e420]
+                      - generic [ref=e421]: By Steven Musil
+                  - generic [ref=e422]:
+                    - link [ref=e424] [cursor=pointer]:
+                      - /url: ./read/CBMihwFBVV95cUxNZGVDdHdBanR4SFRPd3MtZURFQkJoOUsxZ2d0MFgyTlpxTWpPUEdtTm5rYnFDTE1jRVZHLXlTTUtJX2lNMXg4RHlSOVpmS3FUMFFZLWU5UGJtbTk0OE1LTUpyZTJMN3ZwQWRiOXQ5dkl6YzJ0NGZtVWE4eG9RMkVMdkFfaEhSeFk?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e425]:
+                      - generic [ref=e428]: MacRumors
+                      - generic [ref=e432]:
+                        - generic:
+                          - button "More - Cheaper, Lighter Apple Vision Pro Successor Could Arrive in Late 2028" [ref=e433] [cursor=pointer]:
+                            - img [ref=e435]
+                          - tooltip [ref=e437]: More
+                    - link "Cheaper, Lighter Apple Vision Pro Successor Could Arrive in Late 2028 - MacRumors - 10 hours ago - By Tim Hardwick" [ref=e438] [cursor=pointer]:
+                      - /url: ./read/CBMihwFBVV95cUxNZGVDdHdBanR4SFRPd3MtZURFQkJoOUsxZ2d0MFgyTlpxTWpPUEdtTm5rYnFDTE1jRVZHLXlTTUtJX2lNMXg4RHlSOVpmS3FUMFFZLWU5UGJtbTk0OE1LTUpyZTJMN3ZwQWRiOXQ5dkl6YzJ0NGZtVWE4eG9RMkVMdkFfaEhSeFk?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Cheaper, Lighter Apple Vision Pro Successor Could Arrive in Late 2028
+                    - generic [ref=e439]:
+                      - time [ref=e440]: 10 hours ago
+                      - separator [ref=e441]
+                      - generic [ref=e442]: By Tim Hardwick
+              - link "See more headlines & perspectives - Apple reportedly plans to launch smart glasses in late 2027" [ref=e445] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oybVpTY0VSR0VUYmVoQ0Vub0tpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e446]
+                - generic [ref=e448]: See more headlines & perspectives
+          - generic [ref=e449]:
+            - separator [ref=e451]
+            - generic [ref=e453]:
+              - link "Samsung Display develops 4K 360Hz QD-OLED monitor panel" [ref=e455] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pHajYtZkVSR09TVk1iODI2TmdDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Samsung Display develops 4K 360Hz QD-OLED monitor panel chevron_right
+              - generic [ref=e456]:
+                - generic [ref=e457]:
+                  - link [ref=e459] [cursor=pointer]:
+                    - /url: ./read/CBMiswFBVV95cUxOWlBJd01ja3JkRG5qbzhidVBaN0VycDFLUUo0d3RqTWNuOUxyNzRDdHJkdjhhSTc1dUVubmtwVGxKRGdqc2I3Si1JVHBUWHZETHloV0s4bTBnRlhSUlFrdzlDeFVpZVdVX21xTVpxbU5YZHZOaW1pLVRRWkVOS1g5dzl1LS1kbW9aMk9ZcFBUcDJsa3hrOGwwTE9VcGxGWVNodUxocndwUk1IYW02YWF3a0pfbw?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e460]
+                  - generic [ref=e461]:
+                    - generic [ref=e464]: VideoCardz.com
+                    - generic [ref=e468]:
+                      - generic:
+                        - button "More - Samsung unveils Ultra Slim TrueBlack 1000 OLED panel for laptops and 4K 360Hz QD-OLED" [ref=e469] [cursor=pointer]:
+                          - img [ref=e471]
+                        - tooltip [ref=e473]: More
+                  - link "Samsung unveils Ultra Slim TrueBlack 1000 OLED panel for laptops and 4K 360Hz QD-OLED - VideoCardz.com - 3 hours ago" [ref=e474] [cursor=pointer]:
+                    - /url: ./read/CBMiswFBVV95cUxOWlBJd01ja3JkRG5qbzhidVBaN0VycDFLUUo0d3RqTWNuOUxyNzRDdHJkdjhhSTc1dUVubmtwVGxKRGdqc2I3Si1JVHBUWHZETHloV0s4bTBnRlhSUlFrdzlDeFVpZVdVX21xTVpxbU5YZHZOaW1pLVRRWkVOS1g5dzl1LS1kbW9aMk9ZcFBUcDJsa3hrOGwwTE9VcGxGWVNodUxocndwUk1IYW02YWF3a0pfbw?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Samsung unveils Ultra Slim TrueBlack 1000 OLED panel for laptops and 4K 360Hz QD-OLED
+                  - time [ref=e476]: 3 hours ago
+                - generic [ref=e477]:
+                  - generic [ref=e478]:
+                    - link [ref=e480] [cursor=pointer]:
+                      - /url: ./read/CBMiUEFVX3lxTE5keUJPV0NVWkNpU0ZzWi1zdF91Ylluek9jZVJoTHdOcXlFdGNtZVRIOGZmODA2WDFqbGVwd1F4RWUxZ29UeUNlcjd1QTZjZW8z?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e481]:
+                      - generic [ref=e484]: Samsung Display Newsroom
+                      - generic [ref=e488]:
+                        - generic:
+                          - button "More - Samsung Display Unveils Full Gaming Display Product Lineup at COMPUTEX 2026" [ref=e489] [cursor=pointer]:
+                            - img [ref=e491]
+                          - tooltip [ref=e493]: More
+                    - link "Samsung Display Unveils Full Gaming Display Product Lineup at COMPUTEX 2026 - Samsung Display Newsroom - 17 hours ago" [ref=e494] [cursor=pointer]:
+                      - /url: ./read/CBMiUEFVX3lxTE5keUJPV0NVWkNpU0ZzWi1zdF91Ylluek9jZVJoTHdOcXlFdGNtZVRIOGZmODA2WDFqbGVwd1F4RWUxZ29UeUNlcjd1QTZjZW8z?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Samsung Display Unveils Full Gaming Display Product Lineup at COMPUTEX 2026
+                    - time [ref=e496]: 17 hours ago
+                  - generic [ref=e497]:
+                    - link [ref=e499] [cursor=pointer]:
+                      - /url: ./read/CBMirgFBVV95cUxOVC1CcU5FcmstcUlsaWN4UnVteUJRZ0t3S1JOOEpId3Y0eXU5Z0h5eGdVSEtkdzhOSEh4MkJ0WV8yUkFkU1dEbE5ueVBXZTRnQnRGMmxZdy1RWkFab01mQWROc1FIdmcxTmtheVZHM1ctcHV6cTI5OUNwV0VVQ1hmWDF6czFQekZjNjRzQWFhRGR5Q2tCa1Z4N2V2QmxUdm5OLVFHUXhiUm1YWWxaS1E?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e500]:
+                      - generic [ref=e503]: Engadget
+                      - generic [ref=e507]:
+                        - generic:
+                          - button "More - MSI's Next-Gen Monitor Can Switch Between Three Resolutions And Refresh Rates" [ref=e508] [cursor=pointer]:
+                            - img [ref=e510]
+                          - tooltip [ref=e512]: More
+                    - link "MSI's Next-Gen Monitor Can Switch Between Three Resolutions And Refresh Rates - Engadget - 2 days ago - By Jackson Chen" [ref=e513] [cursor=pointer]:
+                      - /url: ./read/CBMirgFBVV95cUxOVC1CcU5FcmstcUlsaWN4UnVteUJRZ0t3S1JOOEpId3Y0eXU5Z0h5eGdVSEtkdzhOSEh4MkJ0WV8yUkFkU1dEbE5ueVBXZTRnQnRGMmxZdy1RWkFab01mQWROc1FIdmcxTmtheVZHM1ctcHV6cTI5OUNwV0VVQ1hmWDF6czFQekZjNjRzQWFhRGR5Q2tCa1Z4N2V2QmxUdm5OLVFHUXhiUm1YWWxaS1E?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: MSI's Next-Gen Monitor Can Switch Between Three Resolutions And Refresh Rates
+                    - generic [ref=e514]:
+                      - time [ref=e515]: 2 days ago
+                      - separator [ref=e516]
+                      - generic [ref=e517]: By Jackson Chen
+                  - generic [ref=e518]:
+                    - link [ref=e520] [cursor=pointer]:
+                      - /url: ./read/CBMikAFBVV95cUxNMnNqY3Ztem9HQThzSWxTNFFidG9VWnROMVBDbF9yLU5kVDE0U3h3SVpvWHNoUDQ1dUMtcHNGN3E5bnR6NUZpZFJ0MUdnckdYcTJiNmN0ZDhaVkFheUxXcEJ3dGRMLTNab3daN2ZkcDJyM2FucVY1UDBTWEU0WUNndWtZR0s5dW9iY3NoQUlZX1HSAZYBQVVfeXFMTTlleHVrc0tjNGMyYkFDWnRucl8wSG5wU0dBa0x3UkVVUXNSbm43THVtVHRiSVNnMlgyY3A5R1pnRm5KcnpnSUplR0N5UmdtRDlibXNqMjNqN1lpTGRsbHU0R0tnbEpPbmRid3hFNHN4bGRaMWxzRmx6dnNoTnJBSU1vVjlVRTdfY2F5Rk5VYjVpXzFXWXNR?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e521]:
+                      - generic [ref=e524]: Wccftech
+                      - generic [ref=e528]:
+                        - generic:
+                          - button "More - Samsung Drops World’s First 4K 360Hz Penta Tandem OLED at Computex, Headlining a 16-Monitor Stack From 8.8 to 49 Inches" [ref=e529] [cursor=pointer]:
+                            - img [ref=e531]
+                          - tooltip [ref=e533]: More
+                    - link "Samsung Drops World’s First 4K 360Hz Penta Tandem OLED at Computex, Headlining a 16-Monitor Stack From 8.8 to 49 Inches - Wccftech - 11 hours ago - By Sarfraz Khan" [ref=e534] [cursor=pointer]:
+                      - /url: ./read/CBMikAFBVV95cUxNMnNqY3Ztem9HQThzSWxTNFFidG9VWnROMVBDbF9yLU5kVDE0U3h3SVpvWHNoUDQ1dUMtcHNGN3E5bnR6NUZpZFJ0MUdnckdYcTJiNmN0ZDhaVkFheUxXcEJ3dGRMLTNab3daN2ZkcDJyM2FucVY1UDBTWEU0WUNndWtZR0s5dW9iY3NoQUlZX1HSAZYBQVVfeXFMTTlleHVrc0tjNGMyYkFDWnRucl8wSG5wU0dBa0x3UkVVUXNSbm43THVtVHRiSVNnMlgyY3A5R1pnRm5KcnpnSUplR0N5UmdtRDlibXNqMjNqN1lpTGRsbHU0R0tnbEpPbmRid3hFNHN4bGRaMWxzRmx6dnNoTnJBSU1vVjlVRTdfY2F5Rk5VYjVpXzFXWXNR?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Samsung Drops World’s First 4K 360Hz Penta Tandem OLED at Computex, Headlining a 16-Monitor Stack From 8.8 to 49 Inches
+                    - generic [ref=e535]:
+                      - time [ref=e536]: 11 hours ago
+                      - separator [ref=e537]
+                      - generic [ref=e538]: By Sarfraz Khan
+              - link "See more headlines & perspectives - Samsung Display develops 4K 360Hz QD-OLED monitor panel" [ref=e541] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pHajYtZkVSR09TVk1iODI2TmdDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e542]
+                - generic [ref=e544]: See more headlines & perspectives
+          - generic [ref=e545]:
+            - separator [ref=e547]
+            - generic [ref=e549]:
+              - link "AMD re-releases Ryzen 7 5800X3D for AM4 anniversary" [ref=e551] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pGdV9DZ0VSRW1TRGNVZm9MbzB5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AMD re-releases Ryzen 7 5800X3D for AM4 anniversary chevron_right
+              - generic [ref=e552]:
+                - generic [ref=e553]:
+                  - link [ref=e555] [cursor=pointer]:
+                    - /url: ./read/CBMihwFBVV95cUxORlFsUkM4LXJYNnhHTVRjMjlra2E4N3cwYTlNd2RkMVB5dUZGU29nWWZfdWhTM0lWZWkwd0d1UXBSYkJBMUR5TktyUXBGeXpPbDVBZXpFN3dYZG9IeFByeDRCRUZHQkNaT05lOUEtdWJqcTdqY2pYT291ZWp2TE93ZDkyMnc4SEE?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e556]
+                  - generic [ref=e557]:
+                    - generic [ref=e560]: Gizmodo
+                    - generic [ref=e564]:
+                      - generic:
+                        - 'button "More - AMD’s Plan to Fix RAM Costs: Bring Back Bygone CPUs" [ref=e565] [cursor=pointer]':
+                          - img [ref=e567]
+                        - tooltip [ref=e569]: More
+                  - 'link "AMD’s Plan to Fix RAM Costs: Bring Back Bygone CPUs - Gizmodo - 20 hours ago - By Kyle Barr" [ref=e570] [cursor=pointer]':
+                    - /url: ./read/CBMihwFBVV95cUxORlFsUkM4LXJYNnhHTVRjMjlra2E4N3cwYTlNd2RkMVB5dUZGU29nWWZfdWhTM0lWZWkwd0d1UXBSYkJBMUR5TktyUXBGeXpPbDVBZXpFN3dYZG9IeFByeDRCRUZHQkNaT05lOUEtdWJqcTdqY2pYT291ZWp2TE93ZDkyMnc4SEE?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: "AMD’s Plan to Fix RAM Costs: Bring Back Bygone CPUs"
+                  - generic [ref=e571]:
+                    - time [ref=e572]: 20 hours ago
+                    - separator [ref=e573]
+                    - generic [ref=e574]: By Kyle Barr
+                - generic [ref=e575]:
+                  - generic [ref=e576]:
+                    - link [ref=e578] [cursor=pointer]:
+                      - /url: ./read/CBMilwFBVV95cUxNNXFzdHliT1ZRbXZsaHVlZExZRU54bFFxUW1EOW1YVnlmRmVjOEw0Vkw4QlNycVlGSmdiRk0xQ1VwREh3UWJXdmZESGtEMHhWclIwVllpRDBwY0tVMWhEWWNObTRnT3NjRGY4V2Jpa0ZhbVFrcmJBcTZTX3Q3T1NUM1kyR3dCbkp3Q3QwLWZlY0gyNXd2LTdn?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e579]:
+                      - generic [ref=e582]: The Verge
+                      - generic [ref=e586]:
+                        - generic:
+                          - 'button "More - AMD’s new pitch: our old tech is so good you should just keep using it" [ref=e587] [cursor=pointer]':
+                            - img [ref=e589]
+                          - tooltip [ref=e591]: More
+                    - 'link "AMD’s new pitch: our old tech is so good you should just keep using it - The Verge - 20 hours ago - By Sean Hollister" [ref=e592] [cursor=pointer]':
+                      - /url: ./read/CBMilwFBVV95cUxNNXFzdHliT1ZRbXZsaHVlZExZRU54bFFxUW1EOW1YVnlmRmVjOEw0Vkw4QlNycVlGSmdiRk0xQ1VwREh3UWJXdmZESGtEMHhWclIwVllpRDBwY0tVMWhEWWNObTRnT3NjRGY4V2Jpa0ZhbVFrcmJBcTZTX3Q3T1NUM1kyR3dCbkp3Q3QwLWZlY0gyNXd2LTdn?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "AMD’s new pitch: our old tech is so good you should just keep using it"
+                    - generic [ref=e593]:
+                      - time [ref=e594]: 20 hours ago
+                      - separator [ref=e595]
+                      - generic [ref=e596]: By Sean Hollister
+                  - generic [ref=e597]:
+                    - link [ref=e599] [cursor=pointer]:
+                      - /url: ./read/CBMisgFBVV95cUxOZy1TMEs4T0p4YzZlMlJxQ1ZySkhUSjNPQTRWYXRFMk5iVER2MDR3bGYyckp3TVRRZk5ZWnkxUjdxYU40TFRmMm5idHE3UVJPZl9QRnJGSlBtcjZKX1NKS0hCUHA4dmZ5UkJsXzZrUmQwQlNBa0lFUnB3dGgwS1Mwc0UyZFNrcW1RaTlZUmFhQWN0RnI4YWFxUkpNeUZ6T25YZkxOT29SREZSQU9ZZ3NHRmR3?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e600]:
+                      - generic [ref=e603]: Ars Technica
+                      - generic [ref=e607]:
+                        - generic:
+                          - button "More - AMD extends Socket AM5 support through at least 2029; AM4 refuses to die" [ref=e608] [cursor=pointer]:
+                            - img [ref=e610]
+                          - tooltip [ref=e612]: More
+                    - link "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die - Ars Technica - 3 hours ago - By Andrew Cunningham" [ref=e613] [cursor=pointer]:
+                      - /url: ./read/CBMisgFBVV95cUxOZy1TMEs4T0p4YzZlMlJxQ1ZySkhUSjNPQTRWYXRFMk5iVER2MDR3bGYyckp3TVRRZk5ZWnkxUjdxYU40TFRmMm5idHE3UVJPZl9QRnJGSlBtcjZKX1NKS0hCUHA4dmZ5UkJsXzZrUmQwQlNBa0lFUnB3dGgwS1Mwc0UyZFNrcW1RaTlZUmFhQWN0RnI4YWFxUkpNeUZ6T25YZkxOT29SREZSQU9ZZ3NHRmR3?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: AMD extends Socket AM5 support through at least 2029; AM4 refuses to die
+                    - generic [ref=e614]:
+                      - time [ref=e615]: 3 hours ago
+                      - separator [ref=e616]
+                      - generic [ref=e617]: By Andrew Cunningham
+                  - generic [ref=e618]:
+                    - link [ref=e620] [cursor=pointer]:
+                      - /url: ./read/CBMiugFBVV95cUxQYXk1WjlTZU1LUlkyb3BmX3JpQlNWdzhLTUFXYnlXTHp0MWRFM3A0VF90a3p6OG1meTF5THB6VFdzbW8zWHZhbkNKenZ1Z21oU3E4c0dTNE5faGxsNExGMUFvWVVHanhIcFBCcVpjZGN2bUxCbVVyb2lYNU9NaEp0Z0VRX3h5RHR0b2tCZHBSUmxpR1UtU2NyazAyNFdoUkx5QjVRTVd3WC1sMEFRN1B1dURwLUg3cFV0NmfSAb8BQVVfeXFMT0FKQm1XR1Uzb2NJNGhDNGoyX0tjQlg5OXM3Ul9tQ2NkaVdPVnYyRFREZk1ZRUVObkZzRTRXYXdQdFVzQkltdUx3bFZvWmFNWHdxMXJLdTFnbXNNQ200a1lGQlp3Rmpxd2ZEVHZSeFQxSXRRMEJKTnZpTVlmcXloYnRsNG15Y3JyNGQwQWVER0toY0lNbWo2b1hGSndJTC1hRW42bVhMYlVLaEhjeTRRck10M2xUeGlyU0VSdlMxYjA?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e621]:
+                      - generic [ref=e624]: TechPowerUp
+                      - generic [ref=e628]:
+                        - generic:
+                          - button "More - AMD Formally Announces Ryzen 7 5800X3D 10th Anniversary Edition and Ryzen 7 7700X3D" [ref=e629] [cursor=pointer]:
+                            - img [ref=e631]
+                          - tooltip [ref=e633]: More
+                    - link "AMD Formally Announces Ryzen 7 5800X3D 10th Anniversary Edition and Ryzen 7 7700X3D - TechPowerUp - 19 hours ago" [ref=e634] [cursor=pointer]:
+                      - /url: ./read/CBMiugFBVV95cUxQYXk1WjlTZU1LUlkyb3BmX3JpQlNWdzhLTUFXYnlXTHp0MWRFM3A0VF90a3p6OG1meTF5THB6VFdzbW8zWHZhbkNKenZ1Z21oU3E4c0dTNE5faGxsNExGMUFvWVVHanhIcFBCcVpjZGN2bUxCbVVyb2lYNU9NaEp0Z0VRX3h5RHR0b2tCZHBSUmxpR1UtU2NyazAyNFdoUkx5QjVRTVd3WC1sMEFRN1B1dURwLUg3cFV0NmfSAb8BQVVfeXFMT0FKQm1XR1Uzb2NJNGhDNGoyX0tjQlg5OXM3Ul9tQ2NkaVdPVnYyRFREZk1ZRUVObkZzRTRXYXdQdFVzQkltdUx3bFZvWmFNWHdxMXJLdTFnbXNNQ200a1lGQlp3Rmpxd2ZEVHZSeFQxSXRRMEJKTnZpTVlmcXloYnRsNG15Y3JyNGQwQWVER0toY0lNbWo2b1hGSndJTC1hRW42bVhMYlVLaEhjeTRRck10M2xUeGlyU0VSdlMxYjA?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: AMD Formally Announces Ryzen 7 5800X3D 10th Anniversary Edition and Ryzen 7 7700X3D
+                    - time [ref=e636]: 19 hours ago
+              - link "See more headlines & perspectives - AMD re-releases Ryzen 7 5800X3D for AM4 anniversary" [ref=e639] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pGdV9DZ0VSRW1TRGNVZm9MbzB5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e640]
+                - generic [ref=e642]: See more headlines & perspectives
+          - generic [ref=e643]:
+            - separator [ref=e645]
+            - generic [ref=e647]:
+              - link "Dell unveils $699 XPS 13 to rival Apple MacBook Neo" [ref=e649] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ozdXUyZUVSR2RzUVRKSmhFNGZ5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Dell unveils $699 XPS 13 to rival Apple MacBook Neo chevron_right
+              - generic [ref=e650]:
+                - generic [ref=e651]:
+                  - link [ref=e653] [cursor=pointer]:
+                    - /url: ./read/CBMivwFBVV95cUxPM19YQXdnX2o2MU1rUUdMSFlGSnlyYVp3N0RUWUhZemptYkhxSEpjYjgzWXRSTnhBMU55UUhrcVFKeENRRGxfbU9nc21wVlNuZFBVTGVpamk3SGRpUFBMVmJseXZuWVZEQzJzZ01JS1l2dzRCbUJRYUpZcVUxQjNrTHZHaXVDdVVlXzBOMmZXMGZuaTRSbVhZaFZhMHV5a1d2QmlJZWlJV2F1LXlwS2xtTkhiOVBJOElVQUJTVURCcw?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e654]
+                  - generic [ref=e655]:
+                    - generic [ref=e658]: Bloomberg.com
+                    - generic [ref=e662]:
+                      - generic:
+                        - button "More - Dell Rivals Apple’s MacBook Neo With $699 Touch-Screen XPS 13 Laptop" [ref=e663] [cursor=pointer]:
+                          - img [ref=e665]
+                        - tooltip [ref=e667]: More
+                  - link "Dell Rivals Apple’s MacBook Neo With $699 Touch-Screen XPS 13 Laptop - Bloomberg.com - 21 hours ago - By Chris Welch" [ref=e668] [cursor=pointer]:
+                    - /url: ./read/CBMivwFBVV95cUxPM19YQXdnX2o2MU1rUUdMSFlGSnlyYVp3N0RUWUhZemptYkhxSEpjYjgzWXRSTnhBMU55UUhrcVFKeENRRGxfbU9nc21wVlNuZFBVTGVpamk3SGRpUFBMVmJseXZuWVZEQzJzZ01JS1l2dzRCbUJRYUpZcVUxQjNrTHZHaXVDdVVlXzBOMmZXMGZuaTRSbVhZaFZhMHV5a1d2QmlJZWlJV2F1LXlwS2xtTkhiOVBJOElVQUJTVURCcw?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Dell Rivals Apple’s MacBook Neo With $699 Touch-Screen XPS 13 Laptop
+                  - generic [ref=e669]:
+                    - time [ref=e670]: 21 hours ago
+                    - separator [ref=e671]
+                    - generic [ref=e672]: By Chris Welch
+                - generic [ref=e673]:
+                  - generic [ref=e674]:
+                    - link [ref=e676] [cursor=pointer]:
+                      - /url: ./read/CBMimAFBVV95cUxPQW5icllNRmFUcERPWldhaE1sMFp0OTBYajgzck1OeE9IcDVON1RwVVVHSnpPTzdOa0g2a3NGOUtjU2djazFkdF9SQnktWFhlcmdyeTBFbWhUMHBwSGJzakxld0UtSjBmVGg2aG0xSm5KZjNEd2ZuMlptNC1MQXVoakl2OFRKd3VjZERUMGVVRjl4ZUdrZnF5aQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e677]:
+                      - generic [ref=e680]: PCMag
+                      - generic [ref=e684]:
+                        - generic:
+                          - button "More - At Computex, Dell’s $700 XPS 13 Sets Its Sights on the MacBook Neo" [ref=e685] [cursor=pointer]:
+                            - img [ref=e687]
+                          - tooltip [ref=e689]: More
+                    - link "At Computex, Dell’s $700 XPS 13 Sets Its Sights on the MacBook Neo - PCMag - 2 hours ago - By Matthew Buzzi" [ref=e690] [cursor=pointer]:
+                      - /url: ./read/CBMimAFBVV95cUxPQW5icllNRmFUcERPWldhaE1sMFp0OTBYajgzck1OeE9IcDVON1RwVVVHSnpPTzdOa0g2a3NGOUtjU2djazFkdF9SQnktWFhlcmdyeTBFbWhUMHBwSGJzakxld0UtSjBmVGg2aG0xSm5KZjNEd2ZuMlptNC1MQXVoakl2OFRKd3VjZERUMGVVRjl4ZUdrZnF5aQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: At Computex, Dell’s $700 XPS 13 Sets Its Sights on the MacBook Neo
+                    - generic [ref=e691]:
+                      - time [ref=e692]: 2 hours ago
+                      - separator [ref=e693]
+                      - generic [ref=e694]: By Matthew Buzzi
+                  - generic [ref=e695]:
+                    - link [ref=e697] [cursor=pointer]:
+                      - /url: ./read/CBMipwFBVV95cUxPZUpyVVNjU3BkcVNDbUxPXy1tQjJVd3hJLWs3OXlrRFdlMlFMWXBYcEFRUzhVX0JzLWV2bkpBWURRWkxSS19Rdjh3V0M0VGI1ZzdVYjlSTG1UcDZFVUlja1ZYZi1tZzdiZkxXM0s2MmhVeE1hVktteFNaQ2V1Z0NxQWV2TzBkUXpjTkRBZTZoUktZeUFrTm9Cc3FZaS1zbFRRSVhLLVd6RQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e698]:
+                      - generic [ref=e701]: PCWorld
+                      - generic [ref=e705]:
+                        - generic:
+                          - button "More - Dell’s $599 XPS 13 is coming for the MacBook Neo’s lunch money" [ref=e706] [cursor=pointer]:
+                            - img [ref=e708]
+                          - tooltip [ref=e710]: More
+                    - link "Dell’s $599 XPS 13 is coming for the MacBook Neo’s lunch money - PCWorld - 21 hours ago - By Mark Hachman" [ref=e711] [cursor=pointer]:
+                      - /url: ./read/CBMipwFBVV95cUxPZUpyVVNjU3BkcVNDbUxPXy1tQjJVd3hJLWs3OXlrRFdlMlFMWXBYcEFRUzhVX0JzLWV2bkpBWURRWkxSS19Rdjh3V0M0VGI1ZzdVYjlSTG1UcDZFVUlja1ZYZi1tZzdiZkxXM0s2MmhVeE1hVktteFNaQ2V1Z0NxQWV2TzBkUXpjTkRBZTZoUktZeUFrTm9Cc3FZaS1zbFRRSVhLLVd6RQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Dell’s $599 XPS 13 is coming for the MacBook Neo’s lunch money
+                    - generic [ref=e712]:
+                      - time [ref=e713]: 21 hours ago
+                      - separator [ref=e714]
+                      - generic [ref=e715]: Opinion
+                      - separator [ref=e716]
+                      - generic [ref=e717]: By Mark Hachman
+                  - generic [ref=e718]:
+                    - link [ref=e720] [cursor=pointer]:
+                      - /url: ./read/CBMipgFBVV95cUxQZjFxYnF0LVAwT3FyZi1oTjQ3bVJNSjVwa2NFVlBiZUlON2V5cnNSMTdpd2JXYklRV2FTMVhreWZ0R1VmVGZnMFJSckxKcTJnQ1FJY3pET1BnUXJERUZfREs1TFdOVXRIYmF0ODc2Z1BsdElac3M3elpQMzJfSGhmVnVrd2h6RXA1UnhOSGlaNTFVclk0MzlCTzFWMDZQQXc3SUxrY2hR?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e721]:
+                      - generic [ref=e724]: 9to5Mac
+                      - generic [ref=e728]:
+                        - generic:
+                          - button "More - MacBook Neo rival launched at $599; Nvidia PC chip takes on Apple Silicon" [ref=e729] [cursor=pointer]:
+                            - img [ref=e731]
+                          - tooltip [ref=e733]: More
+                    - link "MacBook Neo rival launched at $599; Nvidia PC chip takes on Apple Silicon - 9to5Mac - 8 hours ago - By Ben Lovejoy" [ref=e734] [cursor=pointer]:
+                      - /url: ./read/CBMipgFBVV95cUxQZjFxYnF0LVAwT3FyZi1oTjQ3bVJNSjVwa2NFVlBiZUlON2V5cnNSMTdpd2JXYklRV2FTMVhreWZ0R1VmVGZnMFJSckxKcTJnQ1FJY3pET1BnUXJERUZfREs1TFdOVXRIYmF0ODc2Z1BsdElac3M3elpQMzJfSGhmVnVrd2h6RXA1UnhOSGlaNTFVclk0MzlCTzFWMDZQQXc3SUxrY2hR?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: MacBook Neo rival launched at $599; Nvidia PC chip takes on Apple Silicon
+                    - generic [ref=e735]:
+                      - time [ref=e736]: 8 hours ago
+                      - separator [ref=e737]
+                      - generic [ref=e738]: By Ben Lovejoy
+              - link "See more headlines & perspectives - Dell unveils $699 XPS 13 to rival Apple MacBook Neo" [ref=e741] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ozdXUyZUVSR2RzUVRKSmhFNGZ5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e742]
+                - generic [ref=e744]: See more headlines & perspectives
+          - generic [ref=e745]:
+            - separator [ref=e747]
+            - generic [ref=e749]:
+              - link "Google Home Speaker reportedly launches June 25" [ref=e751] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oyMTVXY0VSRW1VM0FoR3c1MmtDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Google Home Speaker reportedly launches June 25 chevron_right
+              - generic [ref=e752]:
+                - generic [ref=e753]:
+                  - link [ref=e755] [cursor=pointer]:
+                    - /url: ./read/CBMifEFVX3lxTE8yS1lFOC1lczVja0ZyMHB6Q2FPWVE4Wk5KRGM2Mi1fNTJxaVRRalNhUEhSTW5jUktkMVB4N3lya2tXd1ZndkR0STVSMTNRQ1Vvb3JhSkZmcTFybTNmM3FqTG03UnVLWHdpUnd3dFB1bzhGNEpFSkcxWHlWMS0?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e756]
+                  - generic [ref=e757]:
+                    - generic [ref=e760]: 9to5Google
+                    - generic [ref=e764]:
+                      - generic:
+                        - button "More - Google Home Speaker gets June release date from one retailer" [ref=e765] [cursor=pointer]:
+                          - img [ref=e767]
+                        - tooltip [ref=e769]: More
+                  - link "Google Home Speaker gets June release date from one retailer - 9to5Google - 17 hours ago - By Abner Li" [ref=e770] [cursor=pointer]:
+                    - /url: ./read/CBMifEFVX3lxTE8yS1lFOC1lczVja0ZyMHB6Q2FPWVE4Wk5KRGM2Mi1fNTJxaVRRalNhUEhSTW5jUktkMVB4N3lya2tXd1ZndkR0STVSMTNRQ1Vvb3JhSkZmcTFybTNmM3FqTG03UnVLWHdpUnd3dFB1bzhGNEpFSkcxWHlWMS0?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Google Home Speaker gets June release date from one retailer
+                  - generic [ref=e771]:
+                    - time [ref=e772]: 17 hours ago
+                    - separator [ref=e773]
+                    - generic [ref=e774]: By Abner Li
+                - generic [ref=e775]:
+                  - generic [ref=e776]:
+                    - link [ref=e778] [cursor=pointer]:
+                      - /url: ./read/CBMitgFBVV95cUxPTmptN2JGOHVHU3JaOUFDU05CMUY0Nkxya0dUSF9DZkozeUg4MHgwN2xSX1RYZUNuUVN0NUxyUEMxMWJpVVB0bjlJNERTd0ZJQ0lKRHlobFNlOGlXQ1plQ3pUTnRPYnZVdUlTUk10SlZRQVJVd2RuemdNcEowaktjejVQLVBCSGp4OC1nVE80MjViN2p5TlloMGpGeU9zcC1UOGZ2TGc3Vi1PY1BnazhycC1LWkpJZw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e779]:
+                      - generic [ref=e782]: Android Central
+                      - generic [ref=e786]:
+                        - generic:
+                          - button "More - Is it a date? A retailer might've revealed the Google Home Speaker's launch" [ref=e787] [cursor=pointer]:
+                            - img [ref=e789]
+                          - tooltip [ref=e791]: More
+                    - link "Is it a date? A retailer might've revealed the Google Home Speaker's launch - Android Central - 1 hour ago - By Nickolas Diaz" [ref=e792] [cursor=pointer]:
+                      - /url: ./read/CBMitgFBVV95cUxPTmptN2JGOHVHU3JaOUFDU05CMUY0Nkxya0dUSF9DZkozeUg4MHgwN2xSX1RYZUNuUVN0NUxyUEMxMWJpVVB0bjlJNERTd0ZJQ0lKRHlobFNlOGlXQ1plQ3pUTnRPYnZVdUlTUk10SlZRQVJVd2RuemdNcEowaktjejVQLVBCSGp4OC1nVE80MjViN2p5TlloMGpGeU9zcC1UOGZ2TGc3Vi1PY1BnazhycC1LWkpJZw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Is it a date? A retailer might've revealed the Google Home Speaker's launch
+                    - generic [ref=e793]:
+                      - time [ref=e794]: 1 hour ago
+                      - separator [ref=e795]
+                      - generic [ref=e796]: By Nickolas Diaz
+                  - generic [ref=e797]:
+                    - link [ref=e799] [cursor=pointer]:
+                      - /url: ./read/CBMifEFVX3lxTE1aeUNUOTBaMmVjaWlqUHJyTjVnSk5zNWhQN1pCd3RiQ3BBVXVKRUlqUEFFQkRFYWtRZTlYUy1lMUpaWUFNY2o3RllsUHlidDRtTlk0dVlqSHAycDV0RnZzWWJXeWhlTnZwSUNzR1JfT21NUDV3WXN3dUpXMmI?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e800]:
+                      - generic [ref=e803]: bgr.com
+                      - generic [ref=e807]:
+                        - generic:
+                          - button "More - 6 Google Smart Home Gadgets Worth Buying In 2026" [ref=e808] [cursor=pointer]:
+                            - img [ref=e810]
+                          - tooltip [ref=e812]: More
+                    - link "6 Google Smart Home Gadgets Worth Buying In 2026 - bgr.com - 6 days ago - By Syeda Laiba Alam" [ref=e813] [cursor=pointer]:
+                      - /url: ./read/CBMifEFVX3lxTE1aeUNUOTBaMmVjaWlqUHJyTjVnSk5zNWhQN1pCd3RiQ3BBVXVKRUlqUEFFQkRFYWtRZTlYUy1lMUpaWUFNY2o3RllsUHlidDRtTlk0dVlqSHAycDV0RnZzWWJXeWhlTnZwSUNzR1JfT21NUDV3WXN3dUpXMmI?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: 6 Google Smart Home Gadgets Worth Buying In 2026
+                    - generic [ref=e814]:
+                      - time [ref=e815]: 6 days ago
+                      - separator [ref=e816]
+                      - generic [ref=e817]: By Syeda Laiba Alam
+                  - generic [ref=e818]:
+                    - link [ref=e820] [cursor=pointer]:
+                      - /url: ./read/CBMivwJBVV95cUxPcjlYWlpTR2o2elQ0TUFENlJNODBtcGM1NVgyeFUtZHloMWxFWE1HeW54YUhsTzROQ2ZibFVNTlI3c1NiaElENTlRM3huTFVhYVQybHIyTVh3cWYwNTlxdmpCNEl2aXhkdTdUYUU0ZFlxNGZ3WlhwLWk3NWE0UXJDU3ZYWUQxZnRfeWRydTBxcjM2YWFWWFMzV1oxclNDUWFMOFQ1QWhSM2FSLW02S0pZWVhSUlBDczJuX2lnUVJwS2pNcUNKaDlZUG1KeUdrMEdZd3BlMm5FdldsMDZLWVcxRHk1VWJ4Q2xPX2Z3YUg2c1JQR1h0MjRZRmVYN3ZjRnB2LTFJQU5OSTdXb2h5dzdaNTJFVm03c1ZUX3BVSVRLTVJfaUpQTVJjakl5elFUdU9KcTRZTDlwSkNhVkRYZXVV?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e821]:
+                      - generic [ref=e824]: TechRadar
+                      - generic [ref=e828]:
+                        - generic:
+                          - button "More - This retailer just leaked the release date for the new Google Home Speaker, and the wait could be over sooner than you think — here's when you could get your hands on Google's first speaker in six years" [ref=e829] [cursor=pointer]:
+                            - img [ref=e831]
+                          - tooltip [ref=e833]: More
+                    - link "This retailer just leaked the release date for the new Google Home Speaker, and the wait could be over sooner than you think — here's when you could get your hands on Google's first speaker in six years - TechRadar - 9 hours ago - By Rowan Davies" [ref=e834] [cursor=pointer]:
+                      - /url: ./read/CBMivwJBVV95cUxPcjlYWlpTR2o2elQ0TUFENlJNODBtcGM1NVgyeFUtZHloMWxFWE1HeW54YUhsTzROQ2ZibFVNTlI3c1NiaElENTlRM3huTFVhYVQybHIyTVh3cWYwNTlxdmpCNEl2aXhkdTdUYUU0ZFlxNGZ3WlhwLWk3NWE0UXJDU3ZYWUQxZnRfeWRydTBxcjM2YWFWWFMzV1oxclNDUWFMOFQ1QWhSM2FSLW02S0pZWVhSUlBDczJuX2lnUVJwS2pNcUNKaDlZUG1KeUdrMEdZd3BlMm5FdldsMDZLWVcxRHk1VWJ4Q2xPX2Z3YUg2c1JQR1h0MjRZRmVYN3ZjRnB2LTFJQU5OSTdXb2h5dzdaNTJFVm03c1ZUX3BVSVRLTVJfaUpQTVJjakl5elFUdU9KcTRZTDlwSkNhVkRYZXVV?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: This retailer just leaked the release date for the new Google Home Speaker, and the wait could be over sooner than you think — here's when you could get your hands on Google's first speaker in six years
+                    - generic [ref=e835]:
+                      - time [ref=e836]: 9 hours ago
+                      - separator [ref=e837]
+                      - generic [ref=e838]: By Rowan Davies
+              - link "See more headlines & perspectives - Google Home Speaker reportedly launches June 25" [ref=e841] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oyMTVXY0VSRW1VM0FoR3c1MmtDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e842]
+                - generic [ref=e844]: See more headlines & perspectives
+          - generic [ref=e845]:
+            - separator [ref=e847]
+            - generic [ref=e849]:
+              - link "MSI targets $1,500 price for new Claw 8 EX AI+ handheld" [ref=e851] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPeWNTZUVSRzd6MkpDbFhBcmd5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: MSI targets $1,500 price for new Claw 8 EX AI+ handheld chevron_right
+              - generic [ref=e852]:
+                - generic [ref=e853]:
+                  - link [ref=e855] [cursor=pointer]:
+                    - /url: ./read/CBMilAFBVV95cUxNdE1WSm1LeDZ5YzdCMWtOTUM4dlVPX3hGRDV2SXp2ZS1XNXcwX3VLbVlKUDR3RmZteGJqSFlPa0ZiU2J2dnkzYV85QWg4eEYzSGZPTzdwd29XMVRvNzA0MjVyanoyTEhMYnlBRkFpakM3R0YwNEl6WUN4M2VWNW45eGdjVEFkc21qZ09BS1dDYVhkT3FM0gGaAUFVX3lxTE1jY0wxbXhNWGZwclBRYmlYV25JdzVrb0VqUzFUbXZrUTFJd0JycGRWUG4zeXRCOGR2NlpKLVNTTDVOTFp1dGQ0Tk9BRUpGcU1oN2RLYnhvM05DTDFNTjBHNUEzOERSb3BMOVhZNE1TVlo5c1A1dW0xeDVxQy1WaUZscEFOdWljZk1pRmdlRkNQSmpYM21mbjhEMHc?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e856]
+                  - generic [ref=e857]:
+                    - generic [ref=e860]: Wccftech
+                    - generic [ref=e864]:
+                      - generic:
+                        - button "More - MSI Officially Launches Claw 8 EX AI+ Powered By Intel Arc G3 Extreme, Featuring An 8-inch 120Hz Display" [ref=e865] [cursor=pointer]:
+                          - img [ref=e867]
+                        - tooltip [ref=e869]: More
+                  - link "MSI Officially Launches Claw 8 EX AI+ Powered By Intel Arc G3 Extreme, Featuring An 8-inch 120Hz Display - Wccftech - 10 hours ago - By Sarfraz Khan" [ref=e870] [cursor=pointer]:
+                    - /url: ./read/CBMilAFBVV95cUxNdE1WSm1LeDZ5YzdCMWtOTUM4dlVPX3hGRDV2SXp2ZS1XNXcwX3VLbVlKUDR3RmZteGJqSFlPa0ZiU2J2dnkzYV85QWg4eEYzSGZPTzdwd29XMVRvNzA0MjVyanoyTEhMYnlBRkFpakM3R0YwNEl6WUN4M2VWNW45eGdjVEFkc21qZ09BS1dDYVhkT3FM0gGaAUFVX3lxTE1jY0wxbXhNWGZwclBRYmlYV25JdzVrb0VqUzFUbXZrUTFJd0JycGRWUG4zeXRCOGR2NlpKLVNTTDVOTFp1dGQ0Tk9BRUpGcU1oN2RLYnhvM05DTDFNTjBHNUEzOERSb3BMOVhZNE1TVlo5c1A1dW0xeDVxQy1WaUZscEFOdWljZk1pRmdlRkNQSmpYM21mbjhEMHc?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: MSI Officially Launches Claw 8 EX AI+ Powered By Intel Arc G3 Extreme, Featuring An 8-inch 120Hz Display
+                  - generic [ref=e871]:
+                    - time [ref=e872]: 10 hours ago
+                    - separator [ref=e873]
+                    - generic [ref=e874]: By Sarfraz Khan
+                - generic [ref=e875]:
+                  - generic [ref=e876]:
+                    - link [ref=e878] [cursor=pointer]:
+                      - /url: ./read/CBMinAFBVV95cUxOdXlMSC1PcmpIa0d5T0NPckl5QWhaUWZmSVRLYXJKbjZfamtUaDRHc0VnTzMxY3d6bmpFUFhnYWFENk9VRnVRcTltMEtiMkN2SldOVUdPS2E0VDNfUTROdk9vUmtxLUVLb0xiMUhEcm9qMkZMenRpVU5WZ05MeGhoYjRtcXJrVGNOekxISF9TdmVVemVUNVQ1Ymdlem_SAaIBQVVfeXFMTzViNTJ2d3lkMVctMUN3czJSbEs0b0NfMnQ1XzQ5OGZzT1lTNWdBYmV1WVA3eTVFczY1cldISEY3dVIwVWd1X0ZmUTRmcF81U3c2LXhQMUxFclRSQUJ3MGRyU3ZZbU1HVW8yM0t4MDR2ZTM0ZDZibl9aMUg2RjlSMlozb09TUUNrOVdzaUIyRE1NdW1hZU8zcnotSGc5QU9pXzF3?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e879]:
+                      - generic [ref=e882]: TechPowerUp
+                      - generic [ref=e886]:
+                        - generic:
+                          - button "More - Intel Showcases first Gaming Handhelds Powered by Arc G3 SoCs" [ref=e887] [cursor=pointer]:
+                            - img [ref=e889]
+                          - tooltip [ref=e891]: More
+                    - link "Intel Showcases first Gaming Handhelds Powered by Arc G3 SoCs - TechPowerUp - 11 hours ago" [ref=e892] [cursor=pointer]:
+                      - /url: ./read/CBMinAFBVV95cUxOdXlMSC1PcmpIa0d5T0NPckl5QWhaUWZmSVRLYXJKbjZfamtUaDRHc0VnTzMxY3d6bmpFUFhnYWFENk9VRnVRcTltMEtiMkN2SldOVUdPS2E0VDNfUTROdk9vUmtxLUVLb0xiMUhEcm9qMkZMenRpVU5WZ05MeGhoYjRtcXJrVGNOekxISF9TdmVVemVUNVQ1Ymdlem_SAaIBQVVfeXFMTzViNTJ2d3lkMVctMUN3czJSbEs0b0NfMnQ1XzQ5OGZzT1lTNWdBYmV1WVA3eTVFczY1cldISEY3dVIwVWd1X0ZmUTRmcF81U3c2LXhQMUxFclRSQUJ3MGRyU3ZZbU1HVW8yM0t4MDR2ZTM0ZDZibl9aMUg2RjlSMlozb09TUUNrOVdzaUIyRE1NdW1hZU8zcnotSGc5QU9pXzF3?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Intel Showcases first Gaming Handhelds Powered by Arc G3 SoCs
+                    - time [ref=e894]: 11 hours ago
+                  - generic [ref=e895]:
+                    - link [ref=e897] [cursor=pointer]:
+                      - /url: ./read/CBMib0FVX3lxTE93eGhYcTU4VGhDVUtQbFk5WUZHRGhVeEJVS3BXYTRubWFlZEptZlZlRjE1OUdnMkRrOGpfOFE2SWJZMzl6V2ZhVkpwbmZmNldIbHpQV1pHY2RfOGtZY0JsVVFkWlpCcXA4NFRxaHU5QQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e898]:
+                      - generic [ref=e901]: The Shortcut | Matt Swider
+                      - generic [ref=e905]:
+                        - generic:
+                          - 'button "More - MSI Claw 8 EX AI+ hands-on review: the most powerful gaming handheld in the world" [ref=e906] [cursor=pointer]':
+                            - img [ref=e908]
+                          - tooltip [ref=e910]: More
+                    - 'link "MSI Claw 8 EX AI+ hands-on review: the most powerful gaming handheld in the world - The Shortcut | Matt Swider - 2 days ago - By Kevin Lee" [ref=e911] [cursor=pointer]':
+                      - /url: ./read/CBMib0FVX3lxTE93eGhYcTU4VGhDVUtQbFk5WUZHRGhVeEJVS3BXYTRubWFlZEptZlZlRjE1OUdnMkRrOGpfOFE2SWJZMzl6V2ZhVkpwbmZmNldIbHpQV1pHY2RfOGtZY0JsVVFkWlpCcXA4NFRxaHU5QQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "MSI Claw 8 EX AI+ hands-on review: the most powerful gaming handheld in the world"
+                    - generic [ref=e912]:
+                      - time [ref=e913]: 2 days ago
+                      - separator [ref=e914]
+                      - generic [ref=e915]: By Kevin Lee
+                  - generic [ref=e916]:
+                    - link [ref=e918] [cursor=pointer]:
+                      - /url: ./read/CBMihwFBVV95cUxOY0l0VXhza2JCS1NrdGFUdWFTVHZVYTJGVmJ5WGpTN1loaExqZWVsekF4b0dCZVNONHZZVzlpZVRJdnFqMWlTT2tiSk1DN2JXOXcyWW9aOTdxMFM4OTJIYjB2eUsxaVRLdFNoVTZLNnI2c0wzX0cxNE1OQk9aNl9GNFFIblpPYjA?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e919]:
+                      - generic [ref=e922]: Engadget
+                      - generic [ref=e926]:
+                        - generic:
+                          - button "More - MSI's Claw 8 EX AI+ Handheld Comes Out On June 23" [ref=e927] [cursor=pointer]:
+                            - img [ref=e929]
+                          - tooltip [ref=e931]: More
+                    - link "MSI's Claw 8 EX AI+ Handheld Comes Out On June 23 - Engadget - 23 hours ago - By Jackson Chen" [ref=e932] [cursor=pointer]:
+                      - /url: ./read/CBMihwFBVV95cUxOY0l0VXhza2JCS1NrdGFUdWFTVHZVYTJGVmJ5WGpTN1loaExqZWVsekF4b0dCZVNONHZZVzlpZVRJdnFqMWlTT2tiSk1DN2JXOXcyWW9aOTdxMFM4OTJIYjB2eUsxaVRLdFNoVTZLNnI2c0wzX0cxNE1OQk9aNl9GNFFIblpPYjA?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: MSI's Claw 8 EX AI+ Handheld Comes Out On June 23
+                    - generic [ref=e933]:
+                      - time [ref=e934]: 23 hours ago
+                      - separator [ref=e935]
+                      - generic [ref=e936]: By Jackson Chen
+              - link "See more headlines & perspectives - MSI targets $1,500 price for new Claw 8 EX AI+ handheld" [ref=e939] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPeWNTZUVSRzd6MkpDbFhBcmd5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e940]
+                - generic [ref=e942]: See more headlines & perspectives
+          - generic [ref=e943]:
+            - separator [ref=e945]
+            - generic [ref=e947]:
+              - link "Alienware announces 39-inch 5K monitor with RGB stripe tech" [ref=e949] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ozcEsyZ0VSR1lTd1BuUzNQTUR5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Alienware announces 39-inch 5K monitor with RGB stripe tech chevron_right
+              - generic [ref=e950]:
+                - generic [ref=e951]:
+                  - link [ref=e953] [cursor=pointer]:
+                    - /url: ./read/CBMixAFBVV95cUxQbjlyRjJfOXJ6ZFU0cHEyODF5ME1iLURwbHFoTWlXRnVtdl9pQkZydmphVGVmQlVRVmhFNTctMXpIemNXZGt2SFNFV2paMUk2d0VfMS0wdlVBU0RDTU9GZV9xSjF3V3FnOGUtcVZDQmtiS2tEeEE0RGxmNm5VOG11d0ZoUjZ3cGRLX0RCTHlnZlJKcWZaWkRveTZZRFJkdlpuOGFHNkQ4Y2xZVUFHemJjTGlOOUxPa0ZfWlRmMkdnN0JYaDY3?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e954]
+                  - generic [ref=e955]:
+                    - generic [ref=e958]: Engadget
+                    - generic [ref=e962]:
+                      - generic:
+                        - button "More - The Alienware AW3926QW is the world's first 39-inch 5K OLED monitor with an RGB stripe panel" [ref=e963] [cursor=pointer]:
+                          - img [ref=e965]
+                        - tooltip [ref=e967]: More
+                  - link "The Alienware AW3926QW is the world's first 39-inch 5K OLED monitor with an RGB stripe panel - Engadget - 21 hours ago - By Sam Rutherford" [ref=e968] [cursor=pointer]:
+                    - /url: ./read/CBMixAFBVV95cUxQbjlyRjJfOXJ6ZFU0cHEyODF5ME1iLURwbHFoTWlXRnVtdl9pQkZydmphVGVmQlVRVmhFNTctMXpIemNXZGt2SFNFV2paMUk2d0VfMS0wdlVBU0RDTU9GZV9xSjF3V3FnOGUtcVZDQmtiS2tEeEE0RGxmNm5VOG11d0ZoUjZ3cGRLX0RCTHlnZlJKcWZaWkRveTZZRFJkdlpuOGFHNkQ4Y2xZVUFHemJjTGlOOUxPa0ZfWlRmMkdnN0JYaDY3?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: The Alienware AW3926QW is the world's first 39-inch 5K OLED monitor with an RGB stripe panel
+                  - generic [ref=e969]:
+                    - time [ref=e970]: 21 hours ago
+                    - separator [ref=e971]
+                    - generic [ref=e972]: By Sam Rutherford
+                - generic [ref=e973]:
+                  - generic [ref=e974]:
+                    - link [ref=e976] [cursor=pointer]:
+                      - /url: ./read/CBMitAFBVV95cUxOTzR0Z29BaDAxRWJoWDByQ1o0cGRfTkxPQzRqZU9fOURpcE4zcW04bnpzMWhRVmYyT2wtcmE4M0tabzFSNENFQzhUUFNKTHFXNFNodXB3dC1NNEhnUUw2WHZyV1dFSzlrMW11NXpoUTdWS2lYTVVBb2JUMDM5cU9JcFFEbkItUHFSLW5LbjVaRjI2SmdaZk1LVlRXY3ZZUUItZjN0QVZuNjhZOG9vX1VOdFAxZjXSAbgBQVVfeXFMTkZwWmJoekZRc3BIbllJNzJjZTlseU0wS0ttalo4ZnJOWXYwbDhEc2N1VnU0TS1lNGlNa1FlQU13Ni1DdXBSV01WWXBaV0sxMXBCTU1kVUdvQTlhZ2h5dnB0TkE5M1hoYndMQVplYThsSG5Tb3AzeE4yc1ktU2hKdTEzU29JRDEzYUNCN1J0cmdjWnRfblp1SGJXcElhZ1JZY1dCekxpSlJmSzBqd0RFYXF1aFoxVW5icw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e977]:
+                      - generic [ref=e980]: Alienware Arena
+                      - generic [ref=e984]:
+                        - generic:
+                          - button "More - Alienware Celebrates 30th Anniversary with New 30+Inch Monitor Lineup at Computex" [ref=e985] [cursor=pointer]:
+                            - img [ref=e987]
+                          - tooltip [ref=e989]: More
+                    - link "Alienware Celebrates 30th Anniversary with New 30+Inch Monitor Lineup at Computex - Alienware Arena - 2 days ago - By Bert Park" [ref=e990] [cursor=pointer]:
+                      - /url: ./read/CBMitAFBVV95cUxOTzR0Z29BaDAxRWJoWDByQ1o0cGRfTkxPQzRqZU9fOURpcE4zcW04bnpzMWhRVmYyT2wtcmE4M0tabzFSNENFQzhUUFNKTHFXNFNodXB3dC1NNEhnUUw2WHZyV1dFSzlrMW11NXpoUTdWS2lYTVVBb2JUMDM5cU9JcFFEbkItUHFSLW5LbjVaRjI2SmdaZk1LVlRXY3ZZUUItZjN0QVZuNjhZOG9vX1VOdFAxZjXSAbgBQVVfeXFMTkZwWmJoekZRc3BIbllJNzJjZTlseU0wS0ttalo4ZnJOWXYwbDhEc2N1VnU0TS1lNGlNa1FlQU13Ni1DdXBSV01WWXBaV0sxMXBCTU1kVUdvQTlhZ2h5dnB0TkE5M1hoYndMQVplYThsSG5Tb3AzeE4yc1ktU2hKdTEzU29JRDEzYUNCN1J0cmdjWnRfblp1SGJXcElhZ1JZY1dCekxpSlJmSzBqd0RFYXF1aFoxVW5icw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Alienware Celebrates 30th Anniversary with New 30+Inch Monitor Lineup at Computex
+                    - generic [ref=e991]:
+                      - time [ref=e992]: 2 days ago
+                      - separator [ref=e993]
+                      - generic [ref=e994]: By Bert Park
+                  - generic [ref=e995]:
+                    - link [ref=e997] [cursor=pointer]:
+                      - /url: ./read/CBMiuwFBVV95cUxORDJEUjlPc0xYWVFZT2hGcVppRXdMWXlZZ1RIMDdCMkUwUmRLd05MSEU4NWd2TFFVQzN3dzVEa0RWU0RmdXJCTUJhc21lYmdMZUdlNHVpZDV0RGU2aTl0ZHQwUFhkZHZ6UVVndXBhSjNEVmZKeFNoZFBiMXlFS1dDODRYVHRPa2c1bTdsRVdOdjR5b2dYSm1qMk4zTV92Y3hfT181M0xmV25sLWlSTWRtSGVHSnNPRmRndFRn?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e998]:
+                      - generic [ref=e1001]: TFTCentral
+                      - generic [ref=e1005]:
+                        - generic:
+                          - button "More - Dell Release the Alienware AW3926QW with a Glossy 39\" Ultrawide WOLED Panel and RGB Stripe" [ref=e1006] [cursor=pointer]:
+                            - img [ref=e1008]
+                          - tooltip [ref=e1010]: More
+                    - link "Dell Release the Alienware AW3926QW with a Glossy 39\" Ultrawide WOLED Panel and RGB Stripe - TFTCentral - 4 days ago" [ref=e1011] [cursor=pointer]:
+                      - /url: ./read/CBMiuwFBVV95cUxORDJEUjlPc0xYWVFZT2hGcVppRXdMWXlZZ1RIMDdCMkUwUmRLd05MSEU4NWd2TFFVQzN3dzVEa0RWU0RmdXJCTUJhc21lYmdMZUdlNHVpZDV0RGU2aTl0ZHQwUFhkZHZ6UVVndXBhSjNEVmZKeFNoZFBiMXlFS1dDODRYVHRPa2c1bTdsRVdOdjR5b2dYSm1qMk4zTV92Y3hfT181M0xmV25sLWlSTWRtSGVHSnNPRmRndFRn?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Dell Release the Alienware AW3926QW with a Glossy 39" Ultrawide WOLED Panel and RGB Stripe
+                    - time [ref=e1013]: 4 days ago
+                  - generic [ref=e1014]:
+                    - link [ref=e1016] [cursor=pointer]:
+                      - /url: ./read/CBMirwFBVV95cUxOMElQemkwVWJGaUhtUWEyaHg5a21aSEtrM1hoeEk3R2RNX09QNTBnd0w4V1J1LXNPcnNaSlFXbHZHeVJRMk5BdXVQZ0tNX3U4a3lvTGhYS3JxdUhiN21mTHo2eFdNUFZYSVZia09paWxEVGlCQVE2V3dRLWZPUzJ1OXFGaGkwOTZMZ2xyNG5LbGlSMnczaktBRWx5aGZ2T3ltZURXellERkc4dnYtZkNZ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1017]:
+                      - generic [ref=e1020]: The Verge
+                      - generic [ref=e1024]:
+                        - generic:
+                          - button "More - The QD-OLED gaming monitor that started it all got a big upgrade" [ref=e1025] [cursor=pointer]:
+                            - img [ref=e1027]
+                          - tooltip [ref=e1029]: More
+                    - link "The QD-OLED gaming monitor that started it all got a big upgrade - The Verge - 21 hours ago - By Cameron Faulkner" [ref=e1030] [cursor=pointer]:
+                      - /url: ./read/CBMirwFBVV95cUxOMElQemkwVWJGaUhtUWEyaHg5a21aSEtrM1hoeEk3R2RNX09QNTBnd0w4V1J1LXNPcnNaSlFXbHZHeVJRMk5BdXVQZ0tNX3U4a3lvTGhYS3JxdUhiN21mTHo2eFdNUFZYSVZia09paWxEVGlCQVE2V3dRLWZPUzJ1OXFGaGkwOTZMZ2xyNG5LbGlSMnczaktBRWx5aGZ2T3ltZURXellERkc4dnYtZkNZ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: The QD-OLED gaming monitor that started it all got a big upgrade
+                    - generic [ref=e1031]:
+                      - time [ref=e1032]: 21 hours ago
+                      - separator [ref=e1033]
+                      - generic [ref=e1034]: By Cameron Faulkner
+              - link "See more headlines & perspectives - Alienware announces 39-inch 5K monitor with RGB stripe tech" [ref=e1037] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ozcEsyZ0VSR1lTd1BuUzNQTUR5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e1038]
+                - generic [ref=e1040]: See more headlines & perspectives
+          - generic [ref=e1041]:
+            - separator [ref=e1043]
+            - generic [ref=e1045]:
+              - link "PlayStation's FlexStrike Fight Stick" [ref=e1047] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o1bHMyakVSR0V0ZVpub284Mmp5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: PlayStation's FlexStrike Fight Stick chevron_right
+              - generic [ref=e1048]:
+                - generic [ref=e1049]:
+                  - link [ref=e1051] [cursor=pointer]:
+                    - /url: ./read/CBMizgFBVV95cUxQYXJoMUZvdWJSdzZ3aGZfNzR5UGhrTnpIVDFnamVZLVNBMHpocTNPQVVyWG9tTGtwZkFHZ2tXRmFNR0o4T2xpNFJaTjJNM052VVVxRVR1a2xkT2pOZVUxUm5KVEZON2kxU3Q1a2t0c0lMaGlyblFRSlRSNXh0NWlhVnhSRzM3ejFjTXFzYVVZd2VyZ2VwQ0FZRk5EYUF6eDdwSzlaNWIycnVVbkJWUmduUXVZY1dKN1VSNExuSjdRWHUxQU45VmZfNFpoNTZnUQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e1052]
+                  - generic [ref=e1053]:
+                    - generic [ref=e1056]: The Verge
+                    - generic [ref=e1060]:
+                      - generic:
+                        - button "More - Sony’s new fight stick and gaming monitor launch in August" [ref=e1061] [cursor=pointer]:
+                          - img [ref=e1063]
+                        - tooltip [ref=e1065]: More
+                  - link "Sony’s new fight stick and gaming monitor launch in August - The Verge - 3 hours ago - By Jay Peters" [ref=e1066] [cursor=pointer]:
+                    - /url: ./read/CBMizgFBVV95cUxQYXJoMUZvdWJSdzZ3aGZfNzR5UGhrTnpIVDFnamVZLVNBMHpocTNPQVVyWG9tTGtwZkFHZ2tXRmFNR0o4T2xpNFJaTjJNM052VVVxRVR1a2xkT2pOZVUxUm5KVEZON2kxU3Q1a2t0c0lMaGlyblFRSlRSNXh0NWlhVnhSRzM3ejFjTXFzYVVZd2VyZ2VwQ0FZRk5EYUF6eDdwSzlaNWIycnVVbkJWUmduUXVZY1dKN1VSNExuSjdRWHUxQU45VmZfNFpoNTZnUQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Sony’s new fight stick and gaming monitor launch in August
+                  - generic [ref=e1067]:
+                    - time [ref=e1068]: 3 hours ago
+                    - separator [ref=e1069]
+                    - generic [ref=e1070]: By Jay Peters
+                - generic [ref=e1071]:
+                  - generic [ref=e1072]:
+                    - link [ref=e1074] [cursor=pointer]:
+                      - /url: ./read/CBMib0FVX3lxTFBWUUVGVEVtZDBRTksxSG1hd2Uwc3VwQUViZkVIb21xd0NSN185ZVMyWThMcWlmdXJfTk1yWjRVYVFpXzl1Y1R2Y3BhUEVKMjlwQlRjMmVSVGt5U1RETlNHelV0cnZyTUNEUGlScXEyVQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1075]:
+                      - generic [ref=e1078]: CNET
+                      - generic [ref=e1082]:
+                        - generic:
+                          - button "More - Sony Shares Release Date, Pricing Details for Newest PlayStation Accessories" [ref=e1083] [cursor=pointer]:
+                            - img [ref=e1085]
+                          - tooltip [ref=e1087]: More
+                    - link "Sony Shares Release Date, Pricing Details for Newest PlayStation Accessories - CNET - 5 hours ago - By Oscar Gonzalez" [ref=e1088] [cursor=pointer]:
+                      - /url: ./read/CBMib0FVX3lxTFBWUUVGVEVtZDBRTksxSG1hd2Uwc3VwQUViZkVIb21xd0NSN185ZVMyWThMcWlmdXJfTk1yWjRVYVFpXzl1Y1R2Y3BhUEVKMjlwQlRjMmVSVGt5U1RETlNHelV0cnZyTUNEUGlScXEyVQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Sony Shares Release Date, Pricing Details for Newest PlayStation Accessories
+                    - generic [ref=e1089]:
+                      - time [ref=e1090]: 5 hours ago
+                      - separator [ref=e1091]
+                      - generic [ref=e1092]: By Oscar Gonzalez
+                  - generic [ref=e1093]:
+                    - link [ref=e1095] [cursor=pointer]:
+                      - /url: ./read/CBMiiwFBVV95cUxNOS1WcE9RbUNOWllWRlJXaURXQW1YZURnUGhyWE1pWXR4WXY3b0NJRl9SRzNUV2R5QlpnOVZHcklvS3pVWkk3a2FwTlBTOFotZjZzaEZnRlFBbWFHZTVncWxNQ3BuMWlWYWVxXy1lUkdoWS02WjZXUjIyd1FlN3hEUU1lWmhva1dESVpN?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1096]:
+                      - generic [ref=e1099]: Polygon.com
+                      - generic [ref=e1103]:
+                        - generic:
+                          - button "More - Sony confirms new PlayStation hardware releases for 2026" [ref=e1104] [cursor=pointer]:
+                            - img [ref=e1106]
+                          - tooltip [ref=e1108]: More
+                    - link "Sony confirms new PlayStation hardware releases for 2026 - Polygon.com - 1 hour ago - By Michael Mcwhertor" [ref=e1109] [cursor=pointer]:
+                      - /url: ./read/CBMiiwFBVV95cUxNOS1WcE9RbUNOWllWRlJXaURXQW1YZURnUGhyWE1pWXR4WXY3b0NJRl9SRzNUV2R5QlpnOVZHcklvS3pVWkk3a2FwTlBTOFotZjZzaEZnRlFBbWFHZTVncWxNQ3BuMWlWYWVxXy1lUkdoWS02WjZXUjIyd1FlN3hEUU1lWmhva1dESVpN?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Sony confirms new PlayStation hardware releases for 2026
+                    - generic [ref=e1110]:
+                      - time [ref=e1111]: 1 hour ago
+                      - separator [ref=e1112]
+                      - generic [ref=e1113]: By Michael Mcwhertor
+                  - generic [ref=e1114]:
+                    - link [ref=e1116] [cursor=pointer]:
+                      - /url: ./read/CBMib0FVX3lxTE5OM1gyRjZ0MmJvemJ0bmxhbm1rY2ZVMm81YmVpMFliMVNUX3lXUzZ2ZjMwNVVQc1VENUlNWkpzRUQybXEyWTYxZ3pKNEtKWkJlRTVtS2JFSFZHMVpjME1QWmxRZU44eXFVOFN5R25WYw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1117]:
+                      - generic [ref=e1120]: IGN
+                      - generic [ref=e1124]:
+                        - generic:
+                          - 'button "More - New PlayStation Hardware Hands-On: Here’s All the New Gear Joining the PlayStation Ecosystem This Year" [ref=e1125] [cursor=pointer]':
+                            - img [ref=e1127]
+                          - tooltip [ref=e1129]: More
+                    - 'link "New PlayStation Hardware Hands-On: Here’s All the New Gear Joining the PlayStation Ecosystem This Year - IGN - 5 hours ago - By Bo Moore" [ref=e1130] [cursor=pointer]':
+                      - /url: ./read/CBMib0FVX3lxTE5OM1gyRjZ0MmJvemJ0bmxhbm1rY2ZVMm81YmVpMFliMVNUX3lXUzZ2ZjMwNVVQc1VENUlNWkpzRUQybXEyWTYxZ3pKNEtKWkJlRTVtS2JFSFZHMVpjME1QWmxRZU44eXFVOFN5R25WYw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "New PlayStation Hardware Hands-On: Here’s All the New Gear Joining the PlayStation Ecosystem This Year"
+                    - generic [ref=e1131]:
+                      - time [ref=e1132]: 5 hours ago
+                      - separator [ref=e1133]
+                      - generic [ref=e1134]: By Bo Moore
+              - link "See more headlines & perspectives - PlayStation's FlexStrike Fight Stick" [ref=e1137] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o1bHMyakVSR0V0ZVpub284Mmp5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e1138]
+                - generic [ref=e1140]: See more headlines & perspectives
+          - generic [ref=e1141]:
+            - separator [ref=e1143]
+            - generic [ref=e1145]:
+              - link "ASUS announces ROG Xbox Ally X20 handheld with OLED screen" [ref=e1147] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pZcE5PY0VSSDZzVkd3WHkzdk1DZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: ASUS announces ROG Xbox Ally X20 handheld with OLED screen chevron_right
+              - generic [ref=e1148]:
+                - generic [ref=e1149]:
+                  - link [ref=e1151] [cursor=pointer]:
+                    - /url: ./read/CBMiogFBVV95cUxQbVBWalM4NE5nc2tKbFBPQlhzbGdVUE1aT2I4a0diQ2FKbkVTUWtBUEFsUnFlZ0lHam1MQVpkN19iRG14eWtsU2pWRU03VVBKOTE4ZFJTZ1o5R1luMTUyX3VqVktfRWtzbFVZUzdRQ3dPMmdrOExXeVZPTGZIRDIyTC0tYTV6VDlQaUh6UWlWMHAzaDdkdGxMTjNTRlhyb2VBSEE?hl=en-US&gl=US&ceid=US%3Aen
+                  - generic [ref=e1152]:
+                    - generic [ref=e1155]: ASUS Pressroom
+                    - generic [ref=e1159]:
+                      - generic:
+                        - button "More - ROG XBOX Ally X20 Bundle – 20th Anniversary OLED Handheld" [ref=e1160] [cursor=pointer]:
+                          - img [ref=e1162]
+                        - tooltip [ref=e1164]: More
+                  - link "ROG XBOX Ally X20 Bundle – 20th Anniversary OLED Handheld - ASUS Pressroom - 5 hours ago" [ref=e1165] [cursor=pointer]:
+                    - /url: ./read/CBMiogFBVV95cUxQbVBWalM4NE5nc2tKbFBPQlhzbGdVUE1aT2I4a0diQ2FKbkVTUWtBUEFsUnFlZ0lHam1MQVpkN19iRG14eWtsU2pWRU03VVBKOTE4ZFJTZ1o5R1luMTUyX3VqVktfRWtzbFVZUzdRQ3dPMmdrOExXeVZPTGZIRDIyTC0tYTV6VDlQaUh6UWlWMHAzaDdkdGxMTjNTRlhyb2VBSEE?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: ROG XBOX Ally X20 Bundle – 20th Anniversary OLED Handheld
+                  - time [ref=e1167]: 5 hours ago
+                - generic [ref=e1168]:
+                  - generic [ref=e1169]:
+                    - link [ref=e1171] [cursor=pointer]:
+                      - /url: ./read/CBMijAFBVV95cUxPblpSX3dBV0praUVPaTF6dHFJcEc0Yjl5OW1MbkR0bUR6UzZveFM1dkdsWE1NUUJ2eVJTbU9ITkMzdnp6dTVaZmZ4REtfZW9Va2N1eVFnZmk2UXlDUk1Tc3o0RTJ6OUIydGhteFB5aGw5cl8wSkxuY2k2ZWFDeURwcG9Cb0djZFBpSkRPTg?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1172]:
+                      - generic [ref=e1175]: The Verge
+                      - generic [ref=e1179]:
+                        - generic:
+                          - button "More - Asus just announced the OLED Xbox Ally X of my dreams" [ref=e1180] [cursor=pointer]:
+                            - img [ref=e1182]
+                          - tooltip [ref=e1184]: More
+                    - link "Asus just announced the OLED Xbox Ally X of my dreams - The Verge - 10 hours ago - By Sean Hollister" [ref=e1185] [cursor=pointer]:
+                      - /url: ./read/CBMijAFBVV95cUxPblpSX3dBV0praUVPaTF6dHFJcEc0Yjl5OW1MbkR0bUR6UzZveFM1dkdsWE1NUUJ2eVJTbU9ITkMzdnp6dTVaZmZ4REtfZW9Va2N1eVFnZmk2UXlDUk1Tc3o0RTJ6OUIydGhteFB5aGw5cl8wSkxuY2k2ZWFDeURwcG9Cb0djZFBpSkRPTg?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Asus just announced the OLED Xbox Ally X of my dreams
+                    - generic [ref=e1186]:
+                      - time [ref=e1187]: 10 hours ago
+                      - separator [ref=e1188]
+                      - generic [ref=e1189]: By Sean Hollister
+                  - generic [ref=e1190]:
+                    - link [ref=e1192] [cursor=pointer]:
+                      - /url: ./read/CBMi0gFBVV95cUxQZFphVjdFUEFwdk9sSlc5QTE0VW4tV1hILWxpajhlTWVFU3J4ZlBBVVBCdWl5Z1l2bFBhajhCUkV0VGptd21RcjdQakwyeWlUOWNralBHV3dmQWZ1NHF5OTktX1kwcEVGMmlKYXp4TEFNSDNNOWJKR3NiZE9TZDQzd0VreGJla2haT1NtbmFENEtRVFdzcDhCZ3pTaEdIeXlIc3pNbmYybnlXNG10eE1VS2dfcS05OVA1SnRFcmRZbTJ3SnVIbUpCUm9VUjBVRmtaZmc?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1193]:
+                      - generic [ref=e1196]: Engadget
+                      - generic [ref=e1200]:
+                        - generic:
+                          - button "More - ASUS' ROG Xbox Ally X20 bundle includes a limited-edition OLED Ally X handheld PC and AR gaming glasses" [ref=e1201] [cursor=pointer]:
+                            - img [ref=e1203]
+                          - tooltip [ref=e1205]: More
+                    - link "ASUS' ROG Xbox Ally X20 bundle includes a limited-edition OLED Ally X handheld PC and AR gaming glasses - Engadget - 8 hours ago - By Steve Dent" [ref=e1206] [cursor=pointer]:
+                      - /url: ./read/CBMi0gFBVV95cUxQZFphVjdFUEFwdk9sSlc5QTE0VW4tV1hILWxpajhlTWVFU3J4ZlBBVVBCdWl5Z1l2bFBhajhCUkV0VGptd21RcjdQakwyeWlUOWNralBHV3dmQWZ1NHF5OTktX1kwcEVGMmlKYXp4TEFNSDNNOWJKR3NiZE9TZDQzd0VreGJla2haT1NtbmFENEtRVFdzcDhCZ3pTaEdIeXlIc3pNbmYybnlXNG10eE1VS2dfcS05OVA1SnRFcmRZbTJ3SnVIbUpCUm9VUjBVRmtaZmc?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: ASUS' ROG Xbox Ally X20 bundle includes a limited-edition OLED Ally X handheld PC and AR gaming glasses
+                    - generic [ref=e1207]:
+                      - time [ref=e1208]: 8 hours ago
+                      - separator [ref=e1209]
+                      - generic [ref=e1210]: By Steve Dent
+                  - generic [ref=e1211]:
+                    - link [ref=e1213] [cursor=pointer]:
+                      - /url: ./read/CBMimAFBVV95cUxPa2xCVEJ2SHJHVWU2dkl2YnBWbDVfUzdMLUpCeF9DbHBUVjhid29TWnlBamM2NW8yNzhmalFyS0puRXdGdFJnbHN0NllFeVJreWpTOGNwT3F3UlNPa3NSbXlRajN4VmpTb2VKcEszU1IxR1ZCdkE3X25pY0dsaERZQWtIbkotRjY4Yk9CQlFJSzYzM3l5UjhwatIBngFBVV95cUxOUEhUZktGazluU1VhUHZDb1pseTJCbkprQzBCclJWX2xqS0k5YlNQR0hrb2E3RzUwVmlyS3FZNjdybjJlNV9lMy1VcWZ5V0hidTlHMFBMRUxOREdTVmlfZTFTdmZ5QklTVW5nOTVGbGlvb3R3WHlUOVFDekdxbmI4RkhBM2c2eHM4ZmhYNzhBaHFoeWotZnNHc043OXZGQQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1214]:
+                      - generic [ref=e1217]: TechPowerUp
+                      - generic [ref=e1221]:
+                        - generic:
+                          - button "More - Leak Tips Potential New ASUS ROG Xbox Ally Gaming Handheld" [ref=e1222] [cursor=pointer]:
+                            - img [ref=e1224]
+                          - tooltip [ref=e1226]: More
+                    - link "Leak Tips Potential New ASUS ROG Xbox Ally Gaming Handheld - TechPowerUp - Yesterday" [ref=e1227] [cursor=pointer]:
+                      - /url: ./read/CBMimAFBVV95cUxPa2xCVEJ2SHJHVWU2dkl2YnBWbDVfUzdMLUpCeF9DbHBUVjhid29TWnlBamM2NW8yNzhmalFyS0puRXdGdFJnbHN0NllFeVJreWpTOGNwT3F3UlNPa3NSbXlRajN4VmpTb2VKcEszU1IxR1ZCdkE3X25pY0dsaERZQWtIbkotRjY4Yk9CQlFJSzYzM3l5UjhwatIBngFBVV95cUxOUEhUZktGazluU1VhUHZDb1pseTJCbkprQzBCclJWX2xqS0k5YlNQR0hrb2E3RzUwVmlyS3FZNjdybjJlNV9lMy1VcWZ5V0hidTlHMFBMRUxOREdTVmlfZTFTdmZ5QklTVW5nOTVGbGlvb3R3WHlUOVFDekdxbmI4RkhBM2c2eHM4ZmhYNzhBaHFoeWotZnNHc043OXZGQQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Leak Tips Potential New ASUS ROG Xbox Ally Gaming Handheld
+                    - time [ref=e1229]: Yesterday
+              - link "See more headlines & perspectives - ASUS announces ROG Xbox Ally X20 handheld with OLED screen" [ref=e1232] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pZcE5PY0VSSDZzVkd3WHkzdk1DZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e1233]
+                - generic [ref=e1235]: See more headlines & perspectives
+          - generic [ref=e1236]:
+            - separator [ref=e1238]
+            - generic [ref=e1240]:
+              - link "Apple releases iOS 26.5.1 to fix iPhone 17 charging issues" [ref=e1242] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ppenVXWUVSR3lyaVZWM0Z2dkVDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Apple releases iOS 26.5.1 to fix iPhone 17 charging issues chevron_right
+              - generic [ref=e1243]:
+                - generic [ref=e1244]:
+                  - link [ref=e1246] [cursor=pointer]:
+                    - /url: ./read/CBMicEFVX3lxTE5LSnFROVVCRnBiMnkwdWltdVhLSVczQ1ZzUTlmbklvMWFnQ0hwUzNyT0x2c2lWS3U0TG9MdjV5LXVVcWdDdWVJLTFHQUlyazlGMWczanh5M080azVWQTRaQ3BFREJVVDlab3dkUHlBOTA?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e1247]
+                  - generic [ref=e1248]:
+                    - generic [ref=e1251]: MacRumors
+                    - generic [ref=e1255]:
+                      - generic:
+                        - button "More - Apple Releases iOS 26.5.1 to Fix Charging Issue on iPhone Air and iPhone 17 Models" [ref=e1256] [cursor=pointer]:
+                          - img [ref=e1258]
+                        - tooltip [ref=e1260]: More
+                  - link "Apple Releases iOS 26.5.1 to Fix Charging Issue on iPhone Air and iPhone 17 Models - MacRumors - 2 hours ago - By Juli Clover" [ref=e1261] [cursor=pointer]:
+                    - /url: ./read/CBMicEFVX3lxTE5LSnFROVVCRnBiMnkwdWltdVhLSVczQ1ZzUTlmbklvMWFnQ0hwUzNyT0x2c2lWS3U0TG9MdjV5LXVVcWdDdWVJLTFHQUlyazlGMWczanh5M080azVWQTRaQ3BFREJVVDlab3dkUHlBOTA?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Apple Releases iOS 26.5.1 to Fix Charging Issue on iPhone Air and iPhone 17 Models
+                  - generic [ref=e1262]:
+                    - time [ref=e1263]: 2 hours ago
+                    - separator [ref=e1264]
+                    - generic [ref=e1265]: By Juli Clover
+                - generic [ref=e1266]:
+                  - generic [ref=e1267]:
+                    - link [ref=e1269] [cursor=pointer]:
+                      - /url: ./read/CBMijAFBVV95cUxPOGRvc0RWRFEwcmZUcDZKYi1YRGcwU1hDbkZ5RUtSY1lYQmVYNGVtUGlWRFVlUnRERnB4U1NkSHp0MXc0WHlEaW5HSFJUaGJka1lkREN0eWc3S2doejVULWw1TjFscDYzekNscENuR2FxUmp3ZVRhY3AwR1NzRXFzelVOUjNlenAtTU1Xbw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1270]:
+                      - generic [ref=e1273]: 9to5Mac
+                      - generic [ref=e1277]:
+                        - generic:
+                          - button "More - Apple releases iOS 26.5.1 for iPhone, here’s what’s new" [ref=e1278] [cursor=pointer]:
+                            - img [ref=e1280]
+                          - tooltip [ref=e1282]: More
+                    - link "Apple releases iOS 26.5.1 for iPhone, here’s what’s new - 9to5Mac - 2 hours ago - By Ryan Christoffel" [ref=e1283] [cursor=pointer]:
+                      - /url: ./read/CBMijAFBVV95cUxPOGRvc0RWRFEwcmZUcDZKYi1YRGcwU1hDbkZ5RUtSY1lYQmVYNGVtUGlWRFVlUnRERnB4U1NkSHp0MXc0WHlEaW5HSFJUaGJka1lkREN0eWc3S2doejVULWw1TjFscDYzekNscENuR2FxUmp3ZVRhY3AwR1NzRXFzelVOUjNlenAtTU1Xbw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Apple releases iOS 26.5.1 for iPhone, here’s what’s new
+                    - generic [ref=e1284]:
+                      - time [ref=e1285]: 2 hours ago
+                      - separator [ref=e1286]
+                      - generic [ref=e1287]: By Ryan Christoffel
+                  - generic [ref=e1288]:
+                    - link [ref=e1290] [cursor=pointer]:
+                      - /url: ./read/CBMilgFBVV95cUxOVXZKVlhKUDJUZXlPbWJ0VERJOGtsS3U0SXVqeDZONFFzVUJpSHA3NkVGODNuSFhDNDFzLVgxUmcwOWlpZHlJdkhPYnlHVEY0Wk00V29ZZFNKb01UQ3V5LUJ4NjhoOG0wcWRqdkpnVXotRWRRMDZuWnhZWllnbnJQUjdNMVVCZ0E5aEg0VHgxVzNNS21aT2c?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1291]:
+                      - generic [ref=e1294]: The Verge
+                      - generic [ref=e1298]:
+                        - generic:
+                          - button "More - iOS 26.5.1 fixes charging issues on iPhone Air and iPhone 17 models." [ref=e1299] [cursor=pointer]:
+                            - img [ref=e1301]
+                          - tooltip [ref=e1303]: More
+                    - link "iOS 26.5.1 fixes charging issues on iPhone Air and iPhone 17 models. - The Verge - 2 hours ago - By Tom Warren" [ref=e1304] [cursor=pointer]:
+                      - /url: ./read/CBMilgFBVV95cUxOVXZKVlhKUDJUZXlPbWJ0VERJOGtsS3U0SXVqeDZONFFzVUJpSHA3NkVGODNuSFhDNDFzLVgxUmcwOWlpZHlJdkhPYnlHVEY0Wk00V29ZZFNKb01UQ3V5LUJ4NjhoOG0wcWRqdkpnVXotRWRRMDZuWnhZWllnbnJQUjdNMVVCZ0E5aEg0VHgxVzNNS21aT2c?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: iOS 26.5.1 fixes charging issues on iPhone Air and iPhone 17 models.
+                    - generic [ref=e1305]:
+                      - time [ref=e1306]: 2 hours ago
+                      - separator [ref=e1307]
+                      - generic [ref=e1308]: By Tom Warren
+                  - generic [ref=e1309]:
+                    - link [ref=e1311] [cursor=pointer]:
+                      - /url: ./read/CBMie0FVX3lxTE5jaHZtbGJFM2xOZDlBcklGMzVpNFNhb2ZsWE43cGxTV2Q3eTVteVNhbGpKLVMtVDNkakM5MzNtYXhPVzY1Mk1qdGNmazMzY2g0Y3c1TEFud0loTzY5cnhoeHNrdExKcU1uR2VNWEZoWHVnc2oxR3UxZFV5Zw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1312]:
+                      - generic [ref=e1315]: MacRumors
+                      - generic [ref=e1319]:
+                        - generic:
+                          - button "More - Apple Releases macOS Tahoe 26.5.1 to Fix Shutdown Issue Affecting Enterprise Users on M5 Macs" [ref=e1320] [cursor=pointer]:
+                            - img [ref=e1322]
+                          - tooltip [ref=e1324]: More
+                    - link "Apple Releases macOS Tahoe 26.5.1 to Fix Shutdown Issue Affecting Enterprise Users on M5 Macs - MacRumors - 2 hours ago - By Juli Clover" [ref=e1325] [cursor=pointer]:
+                      - /url: ./read/CBMie0FVX3lxTE5jaHZtbGJFM2xOZDlBcklGMzVpNFNhb2ZsWE43cGxTV2Q3eTVteVNhbGpKLVMtVDNkakM5MzNtYXhPVzY1Mk1qdGNmazMzY2g0Y3c1TEFud0loTzY5cnhoeHNrdExKcU1uR2VNWEZoWHVnc2oxR3UxZFV5Zw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Apple Releases macOS Tahoe 26.5.1 to Fix Shutdown Issue Affecting Enterprise Users on M5 Macs
+                    - generic [ref=e1326]:
+                      - time [ref=e1327]: 2 hours ago
+                      - separator [ref=e1328]
+                      - generic [ref=e1329]: By Juli Clover
+              - link "See more headlines & perspectives - Apple releases iOS 26.5.1 to fix iPhone 17 charging issues" [ref=e1332] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ppenVXWUVSR3lyaVZWM0Z2dkVDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e1333]
+                - generic [ref=e1335]: See more headlines & perspectives
+          - generic [ref=e1336]:
+            - separator [ref=e1338]
+            - generic [ref=e1340]:
+              - link "Samsung Galaxy Z Fold 8 reportedly features wider form factor" [ref=e1342] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pMeXJXZkVSSFpZNEttaDNjUC1DZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Samsung Galaxy Z Fold 8 reportedly features wider form factor chevron_right
+              - generic [ref=e1343]:
+                - generic [ref=e1344]:
+                  - link [ref=e1346] [cursor=pointer]:
+                    - /url: ./read/CBMiogFBVV95cUxQMWVnTzBuY2k5Y0V1MGV0RGp0NnVoZ2xsQUNlWkt1MW5lbmxDT1JtUUhIVEZXUVVZeWRPNjBFVlYzd25mOHQzV3lqUVZkR1Zsckk1NnFRSV9pSW92TUlNVGNfNjM4UVpnYW5kbTVGLWNfV19ONnB5WXVXd1pLVDRsb09NdkJJZFdyRURIMVprOXNBQ05TTDE3NmVJQUp1bGZEdEE?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e1347]
+                  - generic [ref=e1348]:
+                    - generic [ref=e1351]: 9to5Google
+                    - generic [ref=e1355]:
+                      - generic:
+                        - button "More - Galaxy Z Fold 8’s wider new form factor just showed up in the wild" [ref=e1356] [cursor=pointer]:
+                          - img [ref=e1358]
+                        - tooltip [ref=e1360]: More
+                  - link "Galaxy Z Fold 8’s wider new form factor just showed up in the wild - 9to5Google - 6 hours ago - By Ben Schoon" [ref=e1361] [cursor=pointer]:
+                    - /url: ./read/CBMiogFBVV95cUxQMWVnTzBuY2k5Y0V1MGV0RGp0NnVoZ2xsQUNlWkt1MW5lbmxDT1JtUUhIVEZXUVVZeWRPNjBFVlYzd25mOHQzV3lqUVZkR1Zsckk1NnFRSV9pSW92TUlNVGNfNjM4UVpnYW5kbTVGLWNfV19ONnB5WXVXd1pLVDRsb09NdkJJZFdyRURIMVprOXNBQ05TTDE3NmVJQUp1bGZEdEE?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Galaxy Z Fold 8’s wider new form factor just showed up in the wild
+                  - generic [ref=e1362]:
+                    - time [ref=e1363]: 6 hours ago
+                    - separator [ref=e1364]
+                    - generic [ref=e1365]: By Ben Schoon
+                - generic [ref=e1366]:
+                  - generic [ref=e1367]:
+                    - link [ref=e1369] [cursor=pointer]:
+                      - /url: ./read/CBMigwFBVV95cUxOcUtHRzlwTlRqaW1fVVJCVjZUTDFzS2hQQTFxb0pDNjAyVjhsZTBIcEVua1Zqbm5NZWh1NnE0TmVfWF95S3Y2N3RHRkNBQXd5aWdiQ0NteS0zTGVXM3JHTVRXLWtMMDhlS3pxQVFVUkZHaHRuVmVPVUltNlFfODJPS3FZZw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1370]:
+                      - generic [ref=e1373]: PhoneArena
+                      - generic [ref=e1377]:
+                        - generic:
+                          - button "More - Samsung employee spotted using wide Galaxy Z Fold 8 in public" [ref=e1378] [cursor=pointer]:
+                            - img [ref=e1380]
+                          - tooltip [ref=e1382]: More
+                    - link "Samsung employee spotted using wide Galaxy Z Fold 8 in public - PhoneArena - 2 days ago - By Anam Hamid" [ref=e1383] [cursor=pointer]:
+                      - /url: ./read/CBMigwFBVV95cUxOcUtHRzlwTlRqaW1fVVJCVjZUTDFzS2hQQTFxb0pDNjAyVjhsZTBIcEVua1Zqbm5NZWh1NnE0TmVfWF95S3Y2N3RHRkNBQXd5aWdiQ0NteS0zTGVXM3JHTVRXLWtMMDhlS3pxQVFVUkZHaHRuVmVPVUltNlFfODJPS3FZZw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Samsung employee spotted using wide Galaxy Z Fold 8 in public
+                    - generic [ref=e1384]:
+                      - time [ref=e1385]: 2 days ago
+                      - separator [ref=e1386]
+                      - generic [ref=e1387]: By Anam Hamid
+                  - generic [ref=e1388]:
+                    - link [ref=e1390] [cursor=pointer]:
+                      - /url: ./read/CBMixwFBVV95cUxQN3FHbnFOZ0Rsc3E0ZmZsZTA0X2hwMHZfOEkwdnRSaW9BVHFHNTVFNVo1cGlwT214SmQ1XzNRb3ItS1RZTnF1YkJEXzM1U241WXBwZjlGd0FVc2pVYnN3eG1fRjVtTFdpTkpna3R1SkwxR2Z4c3pkOWVOdjdNSUlTeVJBdWdfdGF3dUlySDZFcWlmcnVLWkF0Z2VoYTQ5R3dUVEVEaUJqVHZ3cTc5R2J1RUkyTGNoc3BDenk1MG5pb0pPOUh2ZDQ4?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1391]:
+                      - generic [ref=e1394]: Android Central
+                      - generic [ref=e1398]:
+                        - generic:
+                          - button "More - Galaxy Z Fold 8 leak pits Samsung’s wider foldable against the rumored Ultra" [ref=e1399] [cursor=pointer]:
+                            - img [ref=e1401]
+                          - tooltip [ref=e1403]: More
+                    - link "Galaxy Z Fold 8 leak pits Samsung’s wider foldable against the rumored Ultra - Android Central - 11 hours ago - By Jay Bonggolto" [ref=e1404] [cursor=pointer]:
+                      - /url: ./read/CBMixwFBVV95cUxQN3FHbnFOZ0Rsc3E0ZmZsZTA0X2hwMHZfOEkwdnRSaW9BVHFHNTVFNVo1cGlwT214SmQ1XzNRb3ItS1RZTnF1YkJEXzM1U241WXBwZjlGd0FVc2pVYnN3eG1fRjVtTFdpTkpna3R1SkwxR2Z4c3pkOWVOdjdNSUlTeVJBdWdfdGF3dUlySDZFcWlmcnVLWkF0Z2VoYTQ5R3dUVEVEaUJqVHZ3cTc5R2J1RUkyTGNoc3BDenk1MG5pb0pPOUh2ZDQ4?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Galaxy Z Fold 8 leak pits Samsung’s wider foldable against the rumored Ultra
+                    - generic [ref=e1405]:
+                      - time [ref=e1406]: 11 hours ago
+                      - separator [ref=e1407]
+                      - generic [ref=e1408]: By Jay Bonggolto
+                  - generic [ref=e1409]:
+                    - link [ref=e1411] [cursor=pointer]:
+                      - /url: ./read/CBMirgFBVV95cUxNdEZBeWJhQWVyWjBLMDVrdXU2UnkzdlctdHhsc3U0cXJvSGdaOTFqa0lpdlFiNXVSVkhaSzQySk92bUdVT1BVcmZPa0oyT3F2VzRXbTdQaV83SFFqc1VVOUlqT29fZmZENUhObTEzdjl3alVLOVI4cmxiOE96eWxfdWVrdWFzeGpXSWNLWUZNNmRJNVhhcFdZMFNoVWUxVTB2MGV3VFJ6RmtPTEU1VGc?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1412]:
+                      - generic [ref=e1415]: SamMobile
+                      - generic [ref=e1419]:
+                        - generic:
+                          - button "More - Samsung's renaming its foldables to beat Apple, but the logic doesn't quite fold" [ref=e1420] [cursor=pointer]:
+                            - img [ref=e1422]
+                          - tooltip [ref=e1424]: More
+                    - link "Samsung's renaming its foldables to beat Apple, but the logic doesn't quite fold - SamMobile - 22 hours ago - By Adnan Farooqui" [ref=e1425] [cursor=pointer]:
+                      - /url: ./read/CBMirgFBVV95cUxNdEZBeWJhQWVyWjBLMDVrdXU2UnkzdlctdHhsc3U0cXJvSGdaOTFqa0lpdlFiNXVSVkhaSzQySk92bUdVT1BVcmZPa0oyT3F2VzRXbTdQaV83SFFqc1VVOUlqT29fZmZENUhObTEzdjl3alVLOVI4cmxiOE96eWxfdWVrdWFzeGpXSWNLWUZNNmRJNVhhcFdZMFNoVWUxVTB2MGV3VFJ6RmtPTEU1VGc?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Samsung's renaming its foldables to beat Apple, but the logic doesn't quite fold
+                    - generic [ref=e1426]:
+                      - time [ref=e1427]: 22 hours ago
+                      - separator [ref=e1428]
+                      - generic [ref=e1429]: By Adnan Farooqui
+              - link "See more headlines & perspectives - Samsung Galaxy Z Fold 8 reportedly features wider form factor" [ref=e1432] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pMeXJXZkVSSFpZNEttaDNjUC1DZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e1433]
+                - generic [ref=e1435]: See more headlines & perspectives
+          - generic [ref=e1436]:
+            - separator [ref=e1438]
+            - generic [ref=e1440]:
+              - link "Baldur's Gate 2 remake reportedly in development" [ref=e1442] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l4X2J1akVSRzVGa09LVlJoTU15Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Baldur's Gate 2 remake reportedly in development chevron_right
+              - generic [ref=e1443]:
+                - generic [ref=e1444]:
+                  - link [ref=e1446] [cursor=pointer]:
+                    - /url: ./read/CBMifkFVX3lxTFBZejJyUWJ3M21rUTd1M1loUjYwN2tueDc1Q09BeFNDZDAzcjM4SzBFc3BKbWpSdmxycXBMTno5MEw0UndnMDZNVUZoSUwyRjFZczJCbVdHTjhxNUUyVm5qMnBSR2xxa1UwcFhTMkM1RDNINjA4VkZzdWJBSlV4QQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e1447]
+                  - generic [ref=e1448]:
+                    - generic [ref=e1451]: Eurogamer
+                    - generic [ref=e1455]:
+                      - generic:
+                        - button "More - Baldur's Gate 2 remake reportedly in the works at Wizards of the Coast, with the first game \"likely\" getting the same treatment too" [ref=e1456] [cursor=pointer]:
+                          - img [ref=e1458]
+                        - tooltip [ref=e1460]: More
+                  - link "Baldur's Gate 2 remake reportedly in the works at Wizards of the Coast, with the first game \"likely\" getting the same treatment too - Eurogamer - 5 hours ago - By Fran J. Ruiz" [ref=e1461] [cursor=pointer]:
+                    - /url: ./read/CBMifkFVX3lxTFBZejJyUWJ3M21rUTd1M1loUjYwN2tueDc1Q09BeFNDZDAzcjM4SzBFc3BKbWpSdmxycXBMTno5MEw0UndnMDZNVUZoSUwyRjFZczJCbVdHTjhxNUUyVm5qMnBSR2xxa1UwcFhTMkM1RDNINjA4VkZzdWJBSlV4QQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Baldur's Gate 2 remake reportedly in the works at Wizards of the Coast, with the first game "likely" getting the same treatment too
+                  - generic [ref=e1462]:
+                    - time [ref=e1463]: 5 hours ago
+                    - separator [ref=e1464]
+                    - generic [ref=e1465]: By Fran J. Ruiz
+                - generic [ref=e1466]:
+                  - generic [ref=e1467]:
+                    - link [ref=e1469] [cursor=pointer]:
+                      - /url: ./read/CBMizAFBVV95cUxNSVBxMWNYYkZvbHMyRUpKenNZLW9aVHRwbjVrWWkzY2NjRG1WUHI4RGE3aWZtTmdtdGd6c0JuVlk2STBKMHM5UWxqSXNGTmt2aDJUYzhmZzFHR1plQ01kcDU1OW5hX3BvR2tYLWE1enVoVmktU1phZTRNS3R1YnhGU2hkdG9DeUMxQldGNWd5OVJmOGVDWTFYUkZaRzVXWm4xRlpJaXE1WUVwTHBHSHNzWEpzcG00TnlBVWRyM2FMcGZ4ZWxGYXhRVFcxcTg?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1470]:
+                      - generic [ref=e1473]: PC Gamer
+                      - generic [ref=e1477]:
+                        - generic:
+                          - button "More - A Baldur's Gate 2 remake is apparently in development, with the original co-lead designer returning" [ref=e1478] [cursor=pointer]:
+                            - img [ref=e1480]
+                          - tooltip [ref=e1482]: More
+                    - link "A Baldur's Gate 2 remake is apparently in development, with the original co-lead designer returning - PC Gamer - 7 hours ago" [ref=e1483] [cursor=pointer]:
+                      - /url: ./read/CBMizAFBVV95cUxNSVBxMWNYYkZvbHMyRUpKenNZLW9aVHRwbjVrWWkzY2NjRG1WUHI4RGE3aWZtTmdtdGd6c0JuVlk2STBKMHM5UWxqSXNGTmt2aDJUYzhmZzFHR1plQ01kcDU1OW5hX3BvR2tYLWE1enVoVmktU1phZTRNS3R1YnhGU2hkdG9DeUMxQldGNWd5OVJmOGVDWTFYUkZaRzVXWm4xRlpJaXE1WUVwTHBHSHNzWEpzcG00TnlBVWRyM2FMcGZ4ZWxGYXhRVFcxcTg?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: A Baldur's Gate 2 remake is apparently in development, with the original co-lead designer returning
+                    - time [ref=e1485]: 7 hours ago
+                  - generic [ref=e1486]:
+                    - link [ref=e1488] [cursor=pointer]:
+                      - /url: ./read/CBMiwAFBVV95cUxQUjAzd3FMLW9VTGhlSHk4ZnZWQ0c1d2ZJcFNDRy1IbGNTZzRGWmd3RlU1U0E1LVk2NGF4Vkk4bnRMSFZfN24yRjZtTk9ueDVMTnZDQjUtVzVDY3BaYjdNOWpya0ZVU3ZzcEZfb2k1WTlNZlBQZUs3U0hpZjlmMDJ0Q2UwdEtFaWtpczFRbEFYMXJOZVhpMTJtQnhJQ1RSVWVDWmtoMHQzczhHTWtaVzNwemRlR0h0ZzhFYWRyV0RxT3o?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1489]:
+                      - generic [ref=e1492]: Windows Central
+                      - generic [ref=e1496]:
+                        - generic:
+                          - button "More - Baldur's Gate 3 and D&D publisher is reportedly developing a remake of the RPG's predecessor" [ref=e1497] [cursor=pointer]:
+                            - img [ref=e1499]
+                          - tooltip [ref=e1501]: More
+                    - link "Baldur's Gate 3 and D&D publisher is reportedly developing a remake of the RPG's predecessor - Windows Central - 4 hours ago - By Brendan Lowry" [ref=e1502] [cursor=pointer]:
+                      - /url: ./read/CBMiwAFBVV95cUxQUjAzd3FMLW9VTGhlSHk4ZnZWQ0c1d2ZJcFNDRy1IbGNTZzRGWmd3RlU1U0E1LVk2NGF4Vkk4bnRMSFZfN24yRjZtTk9ueDVMTnZDQjUtVzVDY3BaYjdNOWpya0ZVU3ZzcEZfb2k1WTlNZlBQZUs3U0hpZjlmMDJ0Q2UwdEtFaWtpczFRbEFYMXJOZVhpMTJtQnhJQ1RSVWVDWmtoMHQzczhHTWtaVzNwemRlR0h0ZzhFYWRyV0RxT3o?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Baldur's Gate 3 and D&D publisher is reportedly developing a remake of the RPG's predecessor
+                    - generic [ref=e1503]:
+                      - time [ref=e1504]: 4 hours ago
+                      - separator [ref=e1505]
+                      - generic [ref=e1506]: By Brendan Lowry
+                  - generic [ref=e1507]:
+                    - link [ref=e1509] [cursor=pointer]:
+                      - /url: ./read/CBMiugFBVV95cUxOekhZMW5ucXgyLUhQRllDV3ZpRUR6dkthQkhoNERMS2FKSGV0RVNRMUN2eC16UzZHZU1NVl9PbTM1YXYwTW1SOG5Hb29TOXN1YW4xcVh3eHRYYVoxZDdub1lTcHVzVU1Ea29HSGdqTXNXNWVGMHd0aXFHSm5nZm5xTDM0Z2l1eXJzN051MHV0cE9HWmlxQS1veTQ2aWhBU1dDY29Ub25yU08wdzQxY3NtSmhpYUNfZnFKUnc?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1510]:
+                      - generic [ref=e1513]: Game Informer
+                      - generic [ref=e1517]:
+                        - generic:
+                          - button "More - Baldur's Gate 2 Is Reportedly Getting The Remake Treatment With One Of The Original BioWare Lead Designers Returning" [ref=e1518] [cursor=pointer]:
+                            - img [ref=e1520]
+                          - tooltip [ref=e1522]: More
+                    - link "Baldur's Gate 2 Is Reportedly Getting The Remake Treatment With One Of The Original BioWare Lead Designers Returning - Game Informer - 4 hours ago - By Wesley LeBlanc" [ref=e1523] [cursor=pointer]:
+                      - /url: ./read/CBMiugFBVV95cUxOekhZMW5ucXgyLUhQRllDV3ZpRUR6dkthQkhoNERMS2FKSGV0RVNRMUN2eC16UzZHZU1NVl9PbTM1YXYwTW1SOG5Hb29TOXN1YW4xcVh3eHRYYVoxZDdub1lTcHVzVU1Ea29HSGdqTXNXNWVGMHd0aXFHSm5nZm5xTDM0Z2l1eXJzN051MHV0cE9HWmlxQS1veTQ2aWhBU1dDY29Ub25yU08wdzQxY3NtSmhpYUNfZnFKUnc?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Baldur's Gate 2 Is Reportedly Getting The Remake Treatment With One Of The Original BioWare Lead Designers Returning
+                    - generic [ref=e1524]:
+                      - time [ref=e1525]: 4 hours ago
+                      - separator [ref=e1526]
+                      - generic [ref=e1527]: By Wesley LeBlanc
+              - link "See more headlines & perspectives - Baldur's Gate 2 remake reportedly in development" [ref=e1530] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l4X2J1akVSRzVGa09LVlJoTU15Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e1531]
+                - generic [ref=e1533]: See more headlines & perspectives
+          - generic [ref=e1534]:
+            - separator [ref=e1536]
+            - generic [ref=e1538]:
+              - generic [ref=e1539]:
+                - link [ref=e1541] [cursor=pointer]:
+                  - /url: ./read/CBMiigFBVV95cUxQLXZkMjhIclRlSlJOMmw0Z0ZUbG5Sb1VTNExIMEMtT0UyOTluMFhIekREamZPVldCQmo1ZnFyTmc2c0JVNDI4Um1YME9xdWU4U0F5eTNkcmk1by1GVnhJTndoS2RuT1JmZGF4WGNReW96S1hmS0ZTYWRvOHVrSUIwa0stdC02akRrY0E?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1543]:
+                  - generic [ref=e1544]:
+                    - generic [ref=e1547]: Kotaku
+                    - generic [ref=e1551]:
+                      - generic:
+                        - button "More - Baby Steps Dev Says Mario Sunshine Hate Has 'Confined' Nintendo Devs" [ref=e1552] [cursor=pointer]:
+                          - img [ref=e1554]
+                        - tooltip [ref=e1556]: More
+                  - link "Baby Steps Dev Says Mario Sunshine Hate Has 'Confined' Nintendo Devs - Kotaku - 1 hour ago - By Rebekah Valentine" [ref=e1557] [cursor=pointer]:
+                    - /url: ./read/CBMiigFBVV95cUxQLXZkMjhIclRlSlJOMmw0Z0ZUbG5Sb1VTNExIMEMtT0UyOTluMFhIekREamZPVldCQmo1ZnFyTmc2c0JVNDI4Um1YME9xdWU4U0F5eTNkcmk1by1GVnhJTndoS2RuT1JmZGF4WGNReW96S1hmS0ZTYWRvOHVrSUIwa0stdC02akRrY0E?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Baby Steps Dev Says Mario Sunshine Hate Has 'Confined' Nintendo Devs
+                - figure [ref=e1558]
+              - generic [ref=e1559]:
+                - time [ref=e1560]: 1 hour ago
+                - separator [ref=e1561]
+                - generic [ref=e1562]: By Rebekah Valentine
+          - generic [ref=e1563]:
+            - separator [ref=e1565]
+            - generic [ref=e1567]:
+              - link "Asus announces world's first 24.5-inch OLED esports monitor" [ref=e1569] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lmenNhaUVSR096aFhIeC1BUlppZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Asus announces world's first 24.5-inch OLED esports monitor chevron_right
+              - generic [ref=e1570]:
+                - generic [ref=e1571]:
+                  - link [ref=e1573] [cursor=pointer]:
+                    - /url: ./read/CBMiowFBVV95cUxQZmp6bmFjeGVyVWp0VzFMTFFQOEpyQXE5Y1JOQ1V6aG9oQXhfdi1NT3NLcENEdUthVl9tSW05bTk3Tnh3S2wzTnZVZHc3Z3Itd0ZtOUpJb1RWZ3ZnMThKQ01yaTEyUmQta2lwaG53RnVNMnp4M280Q1Y0NFptYzhvSjA2YjNXVVUxcXlZaEpzQ3huVDdoMlFhSXlJb3VnbV9SRUVn?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e1574]
+                  - generic [ref=e1575]:
+                    - generic [ref=e1578]: ASUS Pressroom
+                    - generic [ref=e1582]:
+                      - generic:
+                        - button "More - ASUS and Republic of Gamers Announce New Displays at Computex 2026" [ref=e1583] [cursor=pointer]:
+                          - img [ref=e1585]
+                        - tooltip [ref=e1587]: More
+                  - link "ASUS and Republic of Gamers Announce New Displays at Computex 2026 - ASUS Pressroom - 10 hours ago" [ref=e1588] [cursor=pointer]:
+                    - /url: ./read/CBMiowFBVV95cUxQZmp6bmFjeGVyVWp0VzFMTFFQOEpyQXE5Y1JOQ1V6aG9oQXhfdi1NT3NLcENEdUthVl9tSW05bTk3Tnh3S2wzTnZVZHc3Z3Itd0ZtOUpJb1RWZ3ZnMThKQ01yaTEyUmQta2lwaG53RnVNMnp4M280Q1Y0NFptYzhvSjA2YjNXVVUxcXlZaEpzQ3huVDdoMlFhSXlJb3VnbV9SRUVn?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: ASUS and Republic of Gamers Announce New Displays at Computex 2026
+                  - time [ref=e1590]: 10 hours ago
+                - generic [ref=e1591]:
+                  - generic [ref=e1592]:
+                    - link [ref=e1594] [cursor=pointer]:
+                      - /url: ./read/CBMi9AFBVV95cUxNUXIyMnZUajBxSHZjVW9aU0g2aEQyN3d4djRtOFliMDNuS1pzYzViOF9lNkgxTjl3MHVad3FHSnVRNjlPOVBnTlowYlpfT2hGeW8tRkVZYVVfQkJoU2xaZDdTRXptOEtTMzc2bjFybDhCdmFtX19sZFJwQTFvZHdxcHdpSFFLelZDZ053WTlYYTBBSGNzS010emxtSnpTZk5hdm83akdRUlhvcFpCcF9fc3NPMnBHYTFZWVhDTkRrcC1KTkMzVURFenhoVVdwbVAzckxsYXRLY2FRRl9YU2xBN1FGSUdrRHdQQnhIbHNvMlYwQ1VJ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1595]:
+                      - generic [ref=e1598]: Tom's Hardware
+                      - generic [ref=e1602]:
+                        - generic:
+                          - button "More - Asus' world-first OLED esports monitor can hit 540Hz at 1080p — ROG Strix OLED model among four fresh offerings" [ref=e1603] [cursor=pointer]:
+                            - img [ref=e1605]
+                          - tooltip [ref=e1607]: More
+                    - link "Asus' world-first OLED esports monitor can hit 540Hz at 1080p — ROG Strix OLED model among four fresh offerings - Tom&#39;s Hardware - 5 hours ago - By Brandon Hill" [ref=e1608] [cursor=pointer]:
+                      - /url: ./read/CBMi9AFBVV95cUxNUXIyMnZUajBxSHZjVW9aU0g2aEQyN3d4djRtOFliMDNuS1pzYzViOF9lNkgxTjl3MHVad3FHSnVRNjlPOVBnTlowYlpfT2hGeW8tRkVZYVVfQkJoU2xaZDdTRXptOEtTMzc2bjFybDhCdmFtX19sZFJwQTFvZHdxcHdpSFFLelZDZ053WTlYYTBBSGNzS010emxtSnpTZk5hdm83akdRUlhvcFpCcF9fc3NPMnBHYTFZWVhDTkRrcC1KTkMzVURFenhoVVdwbVAzckxsYXRLY2FRRl9YU2xBN1FGSUdrRHdQQnhIbHNvMlYwQ1VJ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Asus' world-first OLED esports monitor can hit 540Hz at 1080p — ROG Strix OLED model among four fresh offerings
+                    - generic [ref=e1609]:
+                      - time [ref=e1610]: 5 hours ago
+                      - separator [ref=e1611]
+                      - generic [ref=e1612]: By Brandon Hill
+                  - generic [ref=e1613]:
+                    - link [ref=e1615] [cursor=pointer]:
+                      - /url: ./read/CBMiuAFBVV95cUxOc3JtTHVVRDZUeTk1UEh2YThpMXFqQjVucGppcWtTVmFjdU9XcjR1dUU3TE9qQ3BWNHZYSjBkR1JiSUdxdFZZbkNNb005ZFVFd19KQ283bFdBZlVacGdkaGRkcVdiQk81cktUNkpiM05ZUmJYWlVURC11czd2VVVkZVRBTVdPYkpxNWxmUzhEeWotSFZaaURzNnNxS1FweW8xZnFyOWFyNlR0TW83U0JFcFVBQ2VkenB4?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1616]:
+                      - generic [ref=e1619]: TFTCentral
+                      - generic [ref=e1623]:
+                        - generic:
+                          - button "More - Asus ROG Strix XG32UQWMS Unveiled with 32\" 4K Tandem WOLED Panel and 240/480Hz Dual-Mode" [ref=e1624] [cursor=pointer]:
+                            - img [ref=e1626]
+                          - tooltip [ref=e1628]: More
+                    - link "Asus ROG Strix XG32UQWMS Unveiled with 32\" 4K Tandem WOLED Panel and 240/480Hz Dual-Mode - TFTCentral - 4 days ago" [ref=e1629] [cursor=pointer]:
+                      - /url: ./read/CBMiuAFBVV95cUxOc3JtTHVVRDZUeTk1UEh2YThpMXFqQjVucGppcWtTVmFjdU9XcjR1dUU3TE9qQ3BWNHZYSjBkR1JiSUdxdFZZbkNNb005ZFVFd19KQ283bFdBZlVacGdkaGRkcVdiQk81cktUNkpiM05ZUmJYWlVURC11czd2VVVkZVRBTVdPYkpxNWxmUzhEeWotSFZaaURzNnNxS1FweW8xZnFyOWFyNlR0TW83U0JFcFVBQ2VkenB4?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Asus ROG Strix XG32UQWMS Unveiled with 32" 4K Tandem WOLED Panel and 240/480Hz Dual-Mode
+                    - time [ref=e1631]: 4 days ago
+                  - generic [ref=e1632]:
+                    - link [ref=e1634] [cursor=pointer]:
+                      - /url: ./read/CBMiiwFBVV95cUxOUVh1cUY5R3JUMzQyV0RUUURwNWRJVUtneUlkR1Z1S1kzcmxVcU02T0RFRGxBMUNFdUR5bVAyeEpiT1RTamxzQzVqQUNnNzlJclh3OFlKS2FrMEVhczIxS3FhRXNLQ3dhT1RUQ0xpOFdwUzVYc1BCMWJNaER3SWc0NXJSTkRoV2hiRndr0gGQAUFVX3lxTE9uSUVRcVc0TzNpM3MtdlZublhiRkhFdmJNLUJLM1U0S2xwNVU1c192cDFYVUttTUZlUkhfeXZUWmxURkdmajRpa2d5V3dLalRIaGN4YllGUVBiTkhyYTJNeHRnMF8wZU9aNzVkMFFjSTZmaEFCdHNZOExqdWhvcGJsS19ERWJYVDNWcTlEMjRwXw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1635]:
+                      - generic [ref=e1638]: Wccftech
+                      - generic [ref=e1642]:
+                        - generic:
+                          - button "More - ASUS Teases World’s First 24.5″ OLED Gaming Monitor For ESports" [ref=e1643] [cursor=pointer]:
+                            - img [ref=e1645]
+                          - tooltip [ref=e1647]: More
+                    - link "ASUS Teases World’s First 24.5″ OLED Gaming Monitor For ESports - Wccftech - 2 days ago - By Sarfraz Khan" [ref=e1648] [cursor=pointer]:
+                      - /url: ./read/CBMiiwFBVV95cUxOUVh1cUY5R3JUMzQyV0RUUURwNWRJVUtneUlkR1Z1S1kzcmxVcU02T0RFRGxBMUNFdUR5bVAyeEpiT1RTamxzQzVqQUNnNzlJclh3OFlKS2FrMEVhczIxS3FhRXNLQ3dhT1RUQ0xpOFdwUzVYc1BCMWJNaER3SWc0NXJSTkRoV2hiRndr0gGQAUFVX3lxTE9uSUVRcVc0TzNpM3MtdlZublhiRkhFdmJNLUJLM1U0S2xwNVU1c192cDFYVUttTUZlUkhfeXZUWmxURkdmajRpa2d5V3dLalRIaGN4YllGUVBiTkhyYTJNeHRnMF8wZU9aNzVkMFFjSTZmaEFCdHNZOExqdWhvcGJsS19ERWJYVDNWcTlEMjRwXw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: ASUS Teases World’s First 24.5″ OLED Gaming Monitor For ESports
+                    - generic [ref=e1649]:
+                      - time [ref=e1650]: 2 days ago
+                      - separator [ref=e1651]
+                      - generic [ref=e1652]: By Sarfraz Khan
+              - link "See more headlines & perspectives - Asus announces world's first 24.5-inch OLED esports monitor" [ref=e1655] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lmenNhaUVSR096aFhIeC1BUlppZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e1656]
+                - generic [ref=e1658]: See more headlines & perspectives
+          - generic [ref=e1659]:
+            - separator [ref=e1661]
+            - generic [ref=e1663]:
+              - generic [ref=e1664]:
+                - link [ref=e1666] [cursor=pointer]:
+                  - /url: ./read/CBMijwFBVV95cUxPMGRtOWs0dmJrdXgwdWxDYjhyVS1wRHRkNmhMaWluSE1NYkt6aklwT2dObWtTQ1U0LV9jVlNnNHR4aXdlZkpRc0l2M0NqSDNKYUh6dVNqeHpoWm9CcGg5eUhuVXBwTkt4TE5xSHFveWtIM3JxeUtDaTZ2S0loY1FEVFZNaWpoNFpMOHNxSHVDaw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1668]:
+                  - generic [ref=e1669]:
+                    - generic [ref=e1672]: Kotaku
+                    - generic [ref=e1676]:
+                      - generic:
+                        - button "More - Metal Gear Solid 4 Is An Important Disaster Of A Game" [ref=e1677] [cursor=pointer]:
+                          - img [ref=e1679]
+                        - tooltip [ref=e1681]: More
+                  - link "Metal Gear Solid 4 Is An Important Disaster Of A Game - Kotaku - 1 hour ago - By Ethan Gach" [ref=e1682] [cursor=pointer]:
+                    - /url: ./read/CBMijwFBVV95cUxPMGRtOWs0dmJrdXgwdWxDYjhyVS1wRHRkNmhMaWluSE1NYkt6aklwT2dObWtTQ1U0LV9jVlNnNHR4aXdlZkpRc0l2M0NqSDNKYUh6dVNqeHpoWm9CcGg5eUhuVXBwTkt4TE5xSHFveWtIM3JxeUtDaTZ2S0loY1FEVFZNaWpoNFpMOHNxSHVDaw?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Metal Gear Solid 4 Is An Important Disaster Of A Game
+                - figure [ref=e1683]
+              - generic [ref=e1684]:
+                - time [ref=e1685]: 1 hour ago
+                - separator [ref=e1686]
+                - generic [ref=e1687]: By Ethan Gach
+          - generic [ref=e1688]:
+            - separator [ref=e1690]
+            - generic [ref=e1692]:
+              - link "Apple's iOS 27 features" [ref=e1694] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p6ejlLY0VSSHRBLUVDbWl0OENpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Apple's iOS 27 features chevron_right
+              - generic [ref=e1695]:
+                - generic [ref=e1696]:
+                  - link [ref=e1698] [cursor=pointer]:
+                    - /url: ./read/CBMiekFVX3lxTE1qM1FGNkJRX1ZoMlBWenNhYndLUTJZdjByVjR1bURvOTlBOHhYMVJUM3IzX2kyY0NXRk8zaVpDei1lN0pKSHdiQ3FVMnhMMlNGbVJraXVhWTFHRXhSS0ppaXNUOUl5X21JWWx6MWZ3RjZBNDgxS2tYeldR?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e1699]
+                  - generic [ref=e1700]:
+                    - generic [ref=e1703]: MacRumors
+                    - generic [ref=e1707]:
+                      - generic:
+                        - button "More - Apple Shares WWDC26 Wallpaper, Playlist, 'Get Ready' Video, and More" [ref=e1708] [cursor=pointer]:
+                          - img [ref=e1710]
+                        - tooltip [ref=e1712]: More
+                  - link "Apple Shares WWDC26 Wallpaper, Playlist, 'Get Ready' Video, and More - MacRumors - 3 hours ago - By Joe Rossignol" [ref=e1713] [cursor=pointer]:
+                    - /url: ./read/CBMiekFVX3lxTE1qM1FGNkJRX1ZoMlBWenNhYndLUTJZdjByVjR1bURvOTlBOHhYMVJUM3IzX2kyY0NXRk8zaVpDei1lN0pKSHdiQ3FVMnhMMlNGbVJraXVhWTFHRXhSS0ppaXNUOUl5X21JWWx6MWZ3RjZBNDgxS2tYeldR?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Apple Shares WWDC26 Wallpaper, Playlist, 'Get Ready' Video, and More
+                  - generic [ref=e1714]:
+                    - time [ref=e1715]: 3 hours ago
+                    - separator [ref=e1716]
+                    - generic [ref=e1717]: By Joe Rossignol
+                - generic [ref=e1718]:
+                  - generic [ref=e1719]:
+                    - link [ref=e1721] [cursor=pointer]:
+                      - /url: ./read/CBMixgFBVV95cUxPVTFhUlhOTGVzeXhnTGdybnlPYXpLNFlEb3B0SW5fTzBDYl9DTXIxREEwazJTNkIzWW9CV3c3NVB6c1Z3U0k5Rm9qc3p2ZjBpVGJPemNrQnVaNUhxYmQyY080U0RDaGJ1Vl9YTHpPX0d2OVdscy1IYk8wLWdQSklsZHE4NUgtcERaNW1VQ1hDRWs5MEdVR2ZXSVR1ektKbk9xSlpMZ0daQjhjekNZWU9RTjQ4Z3YzcWVFQ0dDVzlsOHl1NlZPblE?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1722]:
+                      - generic [ref=e1725]: Bloomberg.com
+                      - generic [ref=e1729]:
+                        - generic:
+                          - 'button "More - Apple to Overhaul iOS 27 Siri, AI Features: Here''s a First Peek" [ref=e1730] [cursor=pointer]':
+                            - img [ref=e1732]
+                          - tooltip [ref=e1734]: More
+                    - 'link "Apple to Overhaul iOS 27 Siri, AI Features: Here''s a First Peek - Bloomberg.com - 5 days ago - By Mark Gurman" [ref=e1735] [cursor=pointer]':
+                      - /url: ./read/CBMixgFBVV95cUxPVTFhUlhOTGVzeXhnTGdybnlPYXpLNFlEb3B0SW5fTzBDYl9DTXIxREEwazJTNkIzWW9CV3c3NVB6c1Z3U0k5Rm9qc3p2ZjBpVGJPemNrQnVaNUhxYmQyY080U0RDaGJ1Vl9YTHpPX0d2OVdscy1IYk8wLWdQSklsZHE4NUgtcERaNW1VQ1hDRWs5MEdVR2ZXSVR1ektKbk9xSlpMZ0daQjhjekNZWU9RTjQ4Z3YzcWVFQ0dDVzlsOHl1NlZPblE?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "Apple to Overhaul iOS 27 Siri, AI Features: Here's a First Peek"
+                    - generic [ref=e1736]:
+                      - time [ref=e1737]: 5 days ago
+                      - separator [ref=e1738]
+                      - generic [ref=e1739]: By Mark Gurman
+                  - generic [ref=e1740]:
+                    - link [ref=e1742] [cursor=pointer]:
+                      - /url: ./read/CBMipgFBVV95cUxQd2NfM2RaWjJ2eHNyOHNvajY4Q2VZLU1FX1RJNVpkUUotc2pOZ05zczV6WERrNW5UT3VwdTRwa2N2TWRlREd4VFRQemFkN3JkX2laZVRyaE0xY3FNLXBJYVppeEFyeWNrMmpQT25fVG14bnFKYzFaaDVwNUt6S094bE5NSXFSRU1YMWY4U0d4RzNFV0VUM0hzNnF0OWQ3enBpTE1LSC13?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1743]:
+                      - generic [ref=e1746]: CNET
+                      - generic [ref=e1750]:
+                        - generic:
+                          - 'button "More - ''All Systems Glow'': Apple Teases WWDC 2026 With New Tagline, Playlist, Wallpapers" [ref=e1751] [cursor=pointer]':
+                            - img [ref=e1753]
+                          - tooltip [ref=e1755]: More
+                    - 'link "''All Systems Glow'': Apple Teases WWDC 2026 With New Tagline, Playlist, Wallpapers - CNET - 10 minutes ago - By Tyler Graham" [ref=e1756] [cursor=pointer]':
+                      - /url: ./read/CBMipgFBVV95cUxQd2NfM2RaWjJ2eHNyOHNvajY4Q2VZLU1FX1RJNVpkUUotc2pOZ05zczV6WERrNW5UT3VwdTRwa2N2TWRlREd4VFRQemFkN3JkX2laZVRyaE0xY3FNLXBJYVppeEFyeWNrMmpQT25fVG14bnFKYzFaaDVwNUt6S094bE5NSXFSRU1YMWY4U0d4RzNFV0VUM0hzNnF0OWQ3enBpTE1LSC13?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "'All Systems Glow': Apple Teases WWDC 2026 With New Tagline, Playlist, Wallpapers"
+                    - generic [ref=e1757]:
+                      - time [ref=e1758]: 10 minutes ago
+                      - separator [ref=e1759]
+                      - generic [ref=e1760]: By Tyler Graham
+                  - generic [ref=e1761]:
+                    - link [ref=e1763] [cursor=pointer]:
+                      - /url: ./read/CBMipgFBVV95cUxQZ0dfYk9yZEZ1YlJkWGhWbU4wS1VuZy0zbmt5ZGxpSklUXzFnM1RnOTlGcnNtUXJpUTFsVGJCcmxYYVVlR3FyaDhTNnJocGFRRnl5bVh4eklENThjakx2RFV2MEp0WHQ5QnkxRkZaMjFSQlY0QjRleHdoTnNESElGQklQbkhHbVYyc3hhMmM3ZmtIYmhTam9tMHpmUDJvZHlTS3MyTzJR?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1764]:
+                      - generic [ref=e1767]: Macworld
+                      - generic [ref=e1771]:
+                        - generic:
+                          - button "More - iOS 26 gave us Liquid Glass. Now iOS 27 will make it fluid" [ref=e1772] [cursor=pointer]:
+                            - img [ref=e1774]
+                          - tooltip [ref=e1776]: More
+                    - link "iOS 26 gave us Liquid Glass. Now iOS 27 will make it fluid - Macworld - 9 hours ago - By Michael Simon" [ref=e1777] [cursor=pointer]:
+                      - /url: ./read/CBMipgFBVV95cUxQZ0dfYk9yZEZ1YlJkWGhWbU4wS1VuZy0zbmt5ZGxpSklUXzFnM1RnOTlGcnNtUXJpUTFsVGJCcmxYYVVlR3FyaDhTNnJocGFRRnl5bVh4eklENThjakx2RFV2MEp0WHQ5QnkxRkZaMjFSQlY0QjRleHdoTnNESElGQklQbkhHbVYyc3hhMmM3ZmtIYmhTam9tMHpmUDJvZHlTS3MyTzJR?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: iOS 26 gave us Liquid Glass. Now iOS 27 will make it fluid
+                    - generic [ref=e1778]:
+                      - time [ref=e1779]: 9 hours ago
+                      - separator [ref=e1780]
+                      - generic [ref=e1781]: By Michael Simon
+              - link "See more headlines & perspectives - Apple's iOS 27 features" [ref=e1784] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p6ejlLY0VSSHRBLUVDbWl0OENpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e1785]
+                - generic [ref=e1787]: See more headlines & perspectives
+          - generic [ref=e1788]:
+            - separator [ref=e1790]
+            - generic [ref=e1792]:
+              - 'link "Infinity Ward reveals Call of Duty: Modern Warfare 4" [ref=e1794] [cursor=pointer]':
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o0dnRLWkVSRW1nakVaT1g1WnB5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Infinity Ward reveals Call of Duty: Modern Warfare 4 chevron_right"
+              - generic [ref=e1795]:
+                - generic [ref=e1796]:
+                  - link [ref=e1798] [cursor=pointer]:
+                    - /url: ./read/CBMikAFBVV95cUxNN3JRSGUxZFpmSTZwUE5zM2xyVFM1ekJSYzNPRUNRVl9FMTBCa0JabVB5ZUphSkdTaFJ0dU1oN2xBcWxPUlhGck1Cck9jaVptZkZjc0dPQVBWWGdHZ2RELXBQd2xEVkllMm9WZG1uTm5pbGVfbjRKXzNhZWh3eGRNMlBpY0V4bmk1bEJsRGhvcmo?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e1799]
+                  - generic [ref=e1800]:
+                    - generic [ref=e1803]: Eurogamer
+                    - generic [ref=e1807]:
+                      - generic:
+                        - button "More - Infinity Ward sneakily offers first look at Modern Warfare 4 multiplayer gameplay, and apparently it's all about movement now" [ref=e1808] [cursor=pointer]:
+                          - img [ref=e1810]
+                        - tooltip [ref=e1812]: More
+                  - link "Infinity Ward sneakily offers first look at Modern Warfare 4 multiplayer gameplay, and apparently it's all about movement now - Eurogamer - 6 hours ago - By Sherif Saed" [ref=e1813] [cursor=pointer]:
+                    - /url: ./read/CBMikAFBVV95cUxNN3JRSGUxZFpmSTZwUE5zM2xyVFM1ekJSYzNPRUNRVl9FMTBCa0JabVB5ZUphSkdTaFJ0dU1oN2xBcWxPUlhGck1Cck9jaVptZkZjc0dPQVBWWGdHZ2RELXBQd2xEVkllMm9WZG1uTm5pbGVfbjRKXzNhZWh3eGRNMlBpY0V4bmk1bEJsRGhvcmo?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Infinity Ward sneakily offers first look at Modern Warfare 4 multiplayer gameplay, and apparently it's all about movement now
+                  - generic [ref=e1814]:
+                    - time [ref=e1815]: 6 hours ago
+                    - separator [ref=e1816]
+                    - generic [ref=e1817]: By Sherif Saed
+                - generic [ref=e1818]:
+                  - generic [ref=e1819]:
+                    - link [ref=e1821] [cursor=pointer]:
+                      - /url: ./read/CBMirgFBVV95cUxNWTdfLTVocmFrTVBXS0ZFYVkxbmdJa0hsQVFjVGdqaWF4ZTBtTVU3T2ZCblNmeENiY2tXbHVCSm9NVklsSTVEN2RybkZ3U05xRm9vSXdqSjhrbk0zM2JtX2g3YVVCTkhKX21xNUxOWU5JX3NHbDdmMHJLOHpER3hSc3NGZDcwVnRScE83SF9RTWh6QThqNHVISk5TNUk5dU85eXNkcGctX08yN2FmQ0E?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1822]:
+                      - generic [ref=e1825]: Call of Duty
+                      - generic [ref=e1829]:
+                        - generic:
+                          - 'button "More - Modern Warfare 4: All Game Editions and Pre-order Benefits Detailed" [ref=e1830] [cursor=pointer]':
+                            - img [ref=e1832]
+                          - tooltip [ref=e1834]: More
+                    - 'link "Modern Warfare 4: All Game Editions and Pre-order Benefits Detailed - Call of Duty - 5 days ago" [ref=e1835] [cursor=pointer]':
+                      - /url: ./read/CBMirgFBVV95cUxNWTdfLTVocmFrTVBXS0ZFYVkxbmdJa0hsQVFjVGdqaWF4ZTBtTVU3T2ZCblNmeENiY2tXbHVCSm9NVklsSTVEN2RybkZ3U05xRm9vSXdqSjhrbk0zM2JtX2g3YVVCTkhKX21xNUxOWU5JX3NHbDdmMHJLOHpER3hSc3NGZDcwVnRScE83SF9RTWh6QThqNHVISk5TNUk5dU85eXNkcGctX08yN2FmQ0E?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "Modern Warfare 4: All Game Editions and Pre-order Benefits Detailed"
+                    - time [ref=e1837]: 5 days ago
+                  - generic [ref=e1838]:
+                    - link [ref=e1840] [cursor=pointer]:
+                      - /url: ./read/CBMirAFBVV95cUxNNk5vVURhalk2a3ZzWDdnX3lnWDZ2V3Jrak16MjF1aXBFaGhVMlU0YTRHZnQxN1hrUmU0SU5pSlQxalp3b0JscUd1cVN0UUU1Ni00OV9qWl9Id1lOaWJsOUtnYkFuS3Z6Q0xscXRSVVJzTi1kYUlZclIzNHdvc3g0UUl4ZWJBRlpodkthZDhPWGQ1SlNpVHZoY3FyUXNWc0lPRnRxeThLRi05ZWJS?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1841]:
+                      - generic [ref=e1844]: nintendo.com
+                      - generic [ref=e1848]:
+                        - generic:
+                          - button "More - Call of Duty series comes to Nintendo Switch 2 - News" [ref=e1849] [cursor=pointer]:
+                            - img [ref=e1851]
+                          - tooltip [ref=e1853]: More
+                    - link "Call of Duty series comes to Nintendo Switch 2 - News - nintendo.com - 4 days ago" [ref=e1854] [cursor=pointer]:
+                      - /url: ./read/CBMirAFBVV95cUxNNk5vVURhalk2a3ZzWDdnX3lnWDZ2V3Jrak16MjF1aXBFaGhVMlU0YTRHZnQxN1hrUmU0SU5pSlQxalp3b0JscUd1cVN0UUU1Ni00OV9qWl9Id1lOaWJsOUtnYkFuS3Z6Q0xscXRSVVJzTi1kYUlZclIzNHdvc3g0UUl4ZWJBRlpodkthZDhPWGQ1SlNpVHZoY3FyUXNWc0lPRnRxeThLRi05ZWJS?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Call of Duty series comes to Nintendo Switch 2 - News
+                    - time [ref=e1856]: 4 days ago
+                  - generic [ref=e1857]:
+                    - link [ref=e1859] [cursor=pointer]:
+                      - /url: ./read/CBMiuwFBVV95cUxOcUxoMjM0LXZqRDFEbFk4Z1lDQnQtbk9TNmtIdjllSHpKa01xclpEWTdBUDc0RVF6WDZnSlgzMmZRd3R2eDUySXh6d3RTREYxSF9ENmw5VmVnYWRJcHJaS3lZb3NGSVdqVS1aT0Vxdk53WGFWcVptaW81Sm1qVWN1WGNfZHp2Z0RFQW9TZ1p3eG1DalZXemJRWXpIcFZ0WjIyaVBrVHhvT29VT3djek1CLW1ldDRGRm5jRnVz?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1860]:
+                      - generic [ref=e1863]: PlayStation.Blog
+                      - generic [ref=e1867]:
+                        - generic:
+                          - 'button "More - Call of Duty: Modern Warfare 4 — Campaign, Multiplayer, and DMZ launches October 23" [ref=e1868] [cursor=pointer]':
+                            - img [ref=e1870]
+                          - tooltip [ref=e1872]: More
+                    - 'link "Call of Duty: Modern Warfare 4 — Campaign, Multiplayer, and DMZ launches October 23 - PlayStation.Blog - 5 days ago - By Daniel Noel" [ref=e1873] [cursor=pointer]':
+                      - /url: ./read/CBMiuwFBVV95cUxOcUxoMjM0LXZqRDFEbFk4Z1lDQnQtbk9TNmtIdjllSHpKa01xclpEWTdBUDc0RVF6WDZnSlgzMmZRd3R2eDUySXh6d3RTREYxSF9ENmw5VmVnYWRJcHJaS3lZb3NGSVdqVS1aT0Vxdk53WGFWcVptaW81Sm1qVWN1WGNfZHp2Z0RFQW9TZ1p3eG1DalZXemJRWXpIcFZ0WjIyaVBrVHhvT29VT3djek1CLW1ldDRGRm5jRnVz?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "Call of Duty: Modern Warfare 4 — Campaign, Multiplayer, and DMZ launches October 23"
+                    - generic [ref=e1874]:
+                      - time [ref=e1875]: 5 days ago
+                      - separator [ref=e1876]
+                      - generic [ref=e1877]: By Daniel Noel
+              - 'link "See more headlines & perspectives - Infinity Ward reveals Call of Duty: Modern Warfare 4" [ref=e1880] [cursor=pointer]':
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o0dnRLWkVSRW1nakVaT1g1WnB5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e1881]
+                - generic [ref=e1883]: See more headlines & perspectives
+          - generic [ref=e1884]:
+            - separator [ref=e1886]
+            - generic [ref=e1888]:
+              - generic [ref=e1889]:
+                - link [ref=e1891] [cursor=pointer]:
+                  - /url: ./read/CBMijwFBVV95cUxOcFlIY25UbFh3MWR6ZVpGSzR6dklBTVByRkxSR0plSFVNOF9EYUF3ZnJuUnJEdHhzRDM1UG9JQlBCNnRBbWpoMzVNaldGRl9lbHBtN0p1djVmZktfTkpfQW14eUR5bGRXWXl5QmI2LWFmU1pocGRFd3hxdHJKMi1jOXQ4dXl6U2NmcnhCOTlkaw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1893]:
+                  - generic [ref=e1894]:
+                    - generic [ref=e1897]: bgr.com
+                    - generic [ref=e1901]:
+                      - generic:
+                        - button "More - 4 Disadvantages Of 100-Inch TVs You Should Know About" [ref=e1902] [cursor=pointer]:
+                          - img [ref=e1904]
+                        - tooltip [ref=e1906]: More
+                  - link "4 Disadvantages Of 100-Inch TVs You Should Know About - bgr.com - 7 hours ago - By Michael Bizzaco" [ref=e1907] [cursor=pointer]:
+                    - /url: ./read/CBMijwFBVV95cUxOcFlIY25UbFh3MWR6ZVpGSzR6dklBTVByRkxSR0plSFVNOF9EYUF3ZnJuUnJEdHhzRDM1UG9JQlBCNnRBbWpoMzVNaldGRl9lbHBtN0p1djVmZktfTkpfQW14eUR5bGRXWXl5QmI2LWFmU1pocGRFd3hxdHJKMi1jOXQ4dXl6U2NmcnhCOTlkaw?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: 4 Disadvantages Of 100-Inch TVs You Should Know About
+                - figure [ref=e1908]
+              - generic [ref=e1909]:
+                - time [ref=e1910]: 7 hours ago
+                - separator [ref=e1911]
+                - generic [ref=e1912]: By Michael Bizzaco
+          - generic [ref=e1913]:
+            - separator [ref=e1915]
+            - generic [ref=e1917]:
+              - link "IO Interactive releases James Bond game 007 First Light" [ref=e1919] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lLek1xVkVSSF8wWU5YWVE1OGl5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: IO Interactive releases James Bond game 007 First Light chevron_right
+              - generic [ref=e1920]:
+                - generic [ref=e1921]:
+                  - link [ref=e1923] [cursor=pointer]:
+                    - /url: ./read/CBMirgFBVV95cUxPZGhRQTdweVVsV1p4N3V1YTQwMEJPc3YwV1hpT0tYMlFzM0gteHBkVGtGNk1zMjQteUZrYV93bnpWSVliR0cybS13QU11Rk1WX1l6eVpwRHYtcnlicDlGb3VReFlyb000T3ZxRDRLNU1oTXdBZTUtR0lnRlcxZkp6MGluLWVGR0JRdU9ZNVJsQzVYYWR2elBpSnVXNzZYeTEweDhDeERxWUctQ2d5VXc?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e1924]
+                  - generic [ref=e1925]:
+                    - generic [ref=e1928]: MP1st
+                    - generic [ref=e1932]:
+                      - generic:
+                        - button "More - 007 First Light Budget Over $200 Million to Develop; Considered Denmark's Most Expensive Entertainment Project" [ref=e1933] [cursor=pointer]:
+                          - img [ref=e1935]
+                        - tooltip [ref=e1937]: More
+                  - link "007 First Light Budget Over $200 Million to Develop; Considered Denmark's Most Expensive Entertainment Project - MP1st - Yesterday - By Alex Co" [ref=e1938] [cursor=pointer]:
+                    - /url: ./read/CBMirgFBVV95cUxPZGhRQTdweVVsV1p4N3V1YTQwMEJPc3YwV1hpT0tYMlFzM0gteHBkVGtGNk1zMjQteUZrYV93bnpWSVliR0cybS13QU11Rk1WX1l6eVpwRHYtcnlicDlGb3VReFlyb000T3ZxRDRLNU1oTXdBZTUtR0lnRlcxZkp6MGluLWVGR0JRdU9ZNVJsQzVYYWR2elBpSnVXNzZYeTEweDhDeERxWUctQ2d5VXc?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: 007 First Light Budget Over $200 Million to Develop; Considered Denmark's Most Expensive Entertainment Project
+                  - generic [ref=e1939]:
+                    - time [ref=e1940]: Yesterday
+                    - separator [ref=e1941]
+                    - generic [ref=e1942]: By Alex Co
+                - generic [ref=e1943]:
+                  - generic [ref=e1944]:
+                    - link [ref=e1946] [cursor=pointer]:
+                      - /url: ./read/CBMihAFBVV95cUxNYXBjR2ZZeW9DeTBHTHo5OFJ6MDZMYVJIb3A0Yl9XSG4zZ2x3VVBhUmtjbjc0eFp0c2tRWGJ3Y0gxdVRMcEpMSTF5RHQzRG9rUDhmbVB3clFaQTRnTGJXdkoyU1QySEJlanNJTU1tTU9VMDlfQWc3blRHbDY4TWt5YmxycmM?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1947]:
+                      - generic [ref=e1950]: The New York Times
+                      - generic [ref=e1954]:
+                        - generic:
+                          - button "More - For This James Bond, the Freedom Is Not Enough" [ref=e1955] [cursor=pointer]:
+                            - img [ref=e1957]
+                          - tooltip [ref=e1959]: More
+                    - link "For This James Bond, the Freedom Is Not Enough - The New York Times - 4 days ago - By Yussef Cole" [ref=e1960] [cursor=pointer]:
+                      - /url: ./read/CBMihAFBVV95cUxNYXBjR2ZZeW9DeTBHTHo5OFJ6MDZMYVJIb3A0Yl9XSG4zZ2x3VVBhUmtjbjc0eFp0c2tRWGJ3Y0gxdVRMcEpMSTF5RHQzRG9rUDhmbVB3clFaQTRnTGJXdkoyU1QySEJlanNJTU1tTU9VMDlfQWc3blRHbDY4TWt5YmxycmM?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: For This James Bond, the Freedom Is Not Enough
+                    - generic [ref=e1961]:
+                      - time [ref=e1962]: 4 days ago
+                      - separator [ref=e1963]
+                      - generic [ref=e1964]: Opinion
+                      - separator [ref=e1965]
+                      - generic [ref=e1966]: By Yussef Cole
+                  - generic [ref=e1967]:
+                    - link [ref=e1969] [cursor=pointer]:
+                      - /url: ./read/CBMiqgFBVV95cUxOSWhoT3NjNTB3QTllbHdDeWFCSndKcVRaZTFMb1hsdjZBbVdIYnlWcGlwdjhGYnZkQ1NvbHRveUZ3cWRNc2lkSk1Gb0hBZzdiMDdVM0VTam52bXB5WUVNQUdDZndZazBYQWhrSElFdU1CS0RCMkN1SUVSQmVzT0xUOXQwQTJLc0tUcGY4VUxMVHpsUkI5ZzN3S3l6a00zTkJYWElMa1VudmVPQQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1970]:
+                      - generic [ref=e1973]: The Guardian
+                      - generic [ref=e1977]:
+                        - generic:
+                          - button "More - 007 First Light review – a triumphant James Bond game made by obsessive fans | Games" [ref=e1978] [cursor=pointer]:
+                            - img [ref=e1980]
+                          - tooltip [ref=e1982]: More
+                    - link "007 First Light review – a triumphant James Bond game made by obsessive fans | Games - The Guardian - May 26 - By Matthew Castle" [ref=e1983] [cursor=pointer]:
+                      - /url: ./read/CBMiqgFBVV95cUxOSWhoT3NjNTB3QTllbHdDeWFCSndKcVRaZTFMb1hsdjZBbVdIYnlWcGlwdjhGYnZkQ1NvbHRveUZ3cWRNc2lkSk1Gb0hBZzdiMDdVM0VTam52bXB5WUVNQUdDZndZazBYQWhrSElFdU1CS0RCMkN1SUVSQmVzT0xUOXQwQTJLc0tUcGY4VUxMVHpsUkI5ZzN3S3l6a00zTkJYWElMa1VudmVPQQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: 007 First Light review – a triumphant James Bond game made by obsessive fans | Games
+                    - generic [ref=e1984]:
+                      - time [ref=e1985]: May 26
+                      - separator [ref=e1986]
+                      - generic [ref=e1987]: Opinion
+                      - separator [ref=e1988]
+                      - generic [ref=e1989]: By Matthew Castle
+                  - generic [ref=e1990]:
+                    - link [ref=e1992] [cursor=pointer]:
+                      - /url: ./read/CBMihAFBVV95cUxNN0YwdWxOUGlNeVgzQUw1ajdMNUROVUR5aDBXdmdyQmFScDBPVHJ5UjZ5Nm1mamlIOEktblBqb2NGOHJlZ2E1ZXdpTVgxQnFEZFpOZk8zSlRXZjg1b25rLXNYaVN1Y1NZWklZSXRDMURXQXREemVFQlQ0eFZYYjdNaDhZSGk?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e1993]:
+                      - generic [ref=e1996]: The Verge
+                      - generic [ref=e2000]:
+                        - generic:
+                          - button "More - 007 First Light is already discounted for the PS5 and Steam" [ref=e2001] [cursor=pointer]:
+                            - img [ref=e2003]
+                          - tooltip [ref=e2005]: More
+                    - link "007 First Light is already discounted for the PS5 and Steam - The Verge - 2 days ago - By Cameron Faulkner" [ref=e2006] [cursor=pointer]:
+                      - /url: ./read/CBMihAFBVV95cUxNN0YwdWxOUGlNeVgzQUw1ajdMNUROVUR5aDBXdmdyQmFScDBPVHJ5UjZ5Nm1mamlIOEktblBqb2NGOHJlZ2E1ZXdpTVgxQnFEZFpOZk8zSlRXZjg1b25rLXNYaVN1Y1NZWklZSXRDMURXQXREemVFQlQ0eFZYYjdNaDhZSGk?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: 007 First Light is already discounted for the PS5 and Steam
+                    - generic [ref=e2007]:
+                      - time [ref=e2008]: 2 days ago
+                      - separator [ref=e2009]
+                      - generic [ref=e2010]: By Cameron Faulkner
+              - link "See more headlines & perspectives - IO Interactive releases James Bond game 007 First Light" [ref=e2013] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lLek1xVkVSSF8wWU5YWVE1OGl5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e2014]
+                - generic [ref=e2016]: See more headlines & perspectives
+          - generic [ref=e2017]:
+            - separator [ref=e2019]
+            - generic [ref=e2021]:
+              - generic [ref=e2022]:
+                - link [ref=e2024] [cursor=pointer]:
+                  - /url: ./read/CBMirAFBVV95cUxPWjM4N1BWRUhMcUdQazBZLThiUlRyeDM0a2NKcWVxWmw3Q3V2bk9xM1dvUHVCbk44YUE5aUt1WEptYzZvYTAyakNCX1NGREdtZ0QxVnFfbVhhcW5aRG1vajl4VXdSNEpNbzBTa0RlWUUwQzNYRkUxa3ZXVmNMZWQ0YTRyeER4b3VUNVE3US02OEVSQmpManBoY3VJMldUeXNtNlpGMU1qT3dmbmNS0gGyAUFVX3lxTE93S0FqNGkyY0VJMFpka2lXNWpYTjJaQVpyWGpJYkZ5SXM3dm9MZ3BBSHl1dlBKQTNPSU51bVVXZFZKZlB2VDZEcEFjeExPNmZkdjk0U1NxaEwwMHhvLVhjRU8tVWtvSmR2NUZCNXZkb3pRYmE1YmE2aFZCbkN5ckVidXBpbUx2Zkg3RnFMN0NiMUt6NWlWaTVSeUFwU2N0U3ZkalpGWENSaXZuVWl5YW4tM2c?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e2026]:
+                  - generic [ref=e2027]:
+                    - generic [ref=e2030]: BleepingComputer
+                    - generic [ref=e2034]:
+                      - generic:
+                        - button "More - Microsoft fixes outage affecting MFA setup, MySignIn service" [ref=e2035] [cursor=pointer]:
+                          - img [ref=e2037]
+                        - tooltip [ref=e2039]: More
+                  - link "Microsoft fixes outage affecting MFA setup, MySignIn service - BleepingComputer - 8 hours ago - By Sergiu Gatlan" [ref=e2040] [cursor=pointer]:
+                    - /url: ./read/CBMirAFBVV95cUxPWjM4N1BWRUhMcUdQazBZLThiUlRyeDM0a2NKcWVxWmw3Q3V2bk9xM1dvUHVCbk44YUE5aUt1WEptYzZvYTAyakNCX1NGREdtZ0QxVnFfbVhhcW5aRG1vajl4VXdSNEpNbzBTa0RlWUUwQzNYRkUxa3ZXVmNMZWQ0YTRyeER4b3VUNVE3US02OEVSQmpManBoY3VJMldUeXNtNlpGMU1qT3dmbmNS0gGyAUFVX3lxTE93S0FqNGkyY0VJMFpka2lXNWpYTjJaQVpyWGpJYkZ5SXM3dm9MZ3BBSHl1dlBKQTNPSU51bVVXZFZKZlB2VDZEcEFjeExPNmZkdjk0U1NxaEwwMHhvLVhjRU8tVWtvSmR2NUZCNXZkb3pRYmE1YmE2aFZCbkN5ckVidXBpbUx2Zkg3RnFMN0NiMUt6NWlWaTVSeUFwU2N0U3ZkalpGWENSaXZuVWl5YW4tM2c?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Microsoft fixes outage affecting MFA setup, MySignIn service
+                - figure [ref=e2041]
+              - generic [ref=e2042]:
+                - time [ref=e2043]: 8 hours ago
+                - separator [ref=e2044]
+                - generic [ref=e2045]: By Sergiu Gatlan
+          - generic [ref=e2046]:
+            - separator [ref=e2048]
+            - generic [ref=e2050]:
+              - link "Apple's folding iPhone Ultra leaks" [ref=e2052] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pNODhHZEVSSDc3WE1IUUdrcGhpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Apple's folding iPhone Ultra leaks chevron_right
+              - generic [ref=e2053]:
+                - generic [ref=e2054]:
+                  - link [ref=e2056] [cursor=pointer]:
+                    - /url: ./read/CBMimAFBVV95cUxQT3pOYmhNbXNjSjhsU1Z3bnh4YzZWNzl2ZktMQW5ucGlJampUUHZyWV9feEFrcTZMTDJTZTZhZ2JVNTh0b0FpNTRVX3NjU2hHUDdGX3BUZWVoMGgwcE1pODhBczlxWkFoRTB0TEtwSWZldFFqeVVVMk9lVGhqSi1xQnl1eDlndEJ0RlZCN09ieTc4Qkp2aHNpSg?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e2057]
+                  - generic [ref=e2058]:
+                    - generic [ref=e2061]: 9to5Mac
+                    - generic [ref=e2065]:
+                      - generic:
+                        - button "More - Leaker reveals new iPhone Ultra feature, release timing update" [ref=e2066] [cursor=pointer]:
+                          - img [ref=e2068]
+                        - tooltip [ref=e2070]: More
+                  - link "Leaker reveals new iPhone Ultra feature, release timing update - 9to5Mac - 4 hours ago - By Ryan Christoffel" [ref=e2071] [cursor=pointer]:
+                    - /url: ./read/CBMimAFBVV95cUxQT3pOYmhNbXNjSjhsU1Z3bnh4YzZWNzl2ZktMQW5ucGlJampUUHZyWV9feEFrcTZMTDJTZTZhZ2JVNTh0b0FpNTRVX3NjU2hHUDdGX3BUZWVoMGgwcE1pODhBczlxWkFoRTB0TEtwSWZldFFqeVVVMk9lVGhqSi1xQnl1eDlndEJ0RlZCN09ieTc4Qkp2aHNpSg?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Leaker reveals new iPhone Ultra feature, release timing update
+                  - generic [ref=e2072]:
+                    - time [ref=e2073]: 4 hours ago
+                    - separator [ref=e2074]
+                    - generic [ref=e2075]: By Ryan Christoffel
+                - generic [ref=e2076]:
+                  - generic [ref=e2077]:
+                    - link [ref=e2079] [cursor=pointer]:
+                      - /url: ./read/CBMihgFBVV95cUxPVU1qX25rNmtiRU11OXd2b2JQbUtwbWRGQzZBSG1LeGdmTEdEQ2xGZVBjWWs1OHJ0bWRZWTc0QlU1V0t0dFdiTXhfMVhKbDhKSjFtckRVRUJaYjNmWU51c0ZYanJjM3NObG5KaGJQaUlHT0NSWENZUnVWUDVEV1FPSktOVUVEUQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2080]:
+                      - generic [ref=e2083]: MacRumors
+                      - generic [ref=e2087]:
+                        - generic:
+                          - button "More - First 'Confirmed' iPhone Ultra Color Allegedly Revealed in Leaked Image" [ref=e2088] [cursor=pointer]:
+                            - img [ref=e2090]
+                          - tooltip [ref=e2092]: More
+                    - link "First 'Confirmed' iPhone Ultra Color Allegedly Revealed in Leaked Image - MacRumors - 8 hours ago - By Tim Hardwick" [ref=e2093] [cursor=pointer]:
+                      - /url: ./read/CBMihgFBVV95cUxPVU1qX25rNmtiRU11OXd2b2JQbUtwbWRGQzZBSG1LeGdmTEdEQ2xGZVBjWWs1OHJ0bWRZWTc0QlU1V0t0dFdiTXhfMVhKbDhKSjFtckRVRUJaYjNmWU51c0ZYanJjM3NObG5KaGJQaUlHT0NSWENZUnVWUDVEV1FPSktOVUVEUQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: First 'Confirmed' iPhone Ultra Color Allegedly Revealed in Leaked Image
+                    - generic [ref=e2094]:
+                      - time [ref=e2095]: 8 hours ago
+                      - separator [ref=e2096]
+                      - generic [ref=e2097]: By Tim Hardwick
+                  - generic [ref=e2098]:
+                    - link [ref=e2100] [cursor=pointer]:
+                      - /url: ./read/CBMivwFBVV95cUxPb1VGNmludHVjUW56LXg3eG5rQ1h1cDVCNDJRSHM0cHNydlhlMnhiSTItQWhGWVB2R2wyWEVxV1BKdHBpaGNpdTJKdzR0UlZ6R0JCMkRYbDd1V2pJZUlIV1o4X3h4TUgta1RsLXUxekJtWVVwajVVd0pOTHUtX0NueTR2Z3k1S1hEZ3EtSndWQmwtT2Zld1VrWmFHdUlJbFNEZlFGQk9RVkxJc2M4MFVHdWp6WEdBZmtpd00xbklwZw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2101]:
+                      - generic [ref=e2104]: Digital Trends
+                      - generic [ref=e2108]:
+                        - generic:
+                          - button "More - iPhone Ultra replica model predicts a design deja vu for Apple’s first foldable phone" [ref=e2109] [cursor=pointer]:
+                            - img [ref=e2111]
+                          - tooltip [ref=e2113]: More
+                    - link "iPhone Ultra replica model predicts a design deja vu for Apple’s first foldable phone - Digital Trends - 10 hours ago - By Moinak Pal" [ref=e2114] [cursor=pointer]:
+                      - /url: ./read/CBMivwFBVV95cUxPb1VGNmludHVjUW56LXg3eG5rQ1h1cDVCNDJRSHM0cHNydlhlMnhiSTItQWhGWVB2R2wyWEVxV1BKdHBpaGNpdTJKdzR0UlZ6R0JCMkRYbDd1V2pJZUlIV1o4X3h4TUgta1RsLXUxekJtWVVwajVVd0pOTHUtX0NueTR2Z3k1S1hEZ3EtSndWQmwtT2Zld1VrWmFHdUlJbFNEZlFGQk9RVkxJc2M4MFVHdWp6WEdBZmtpd00xbklwZw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: iPhone Ultra replica model predicts a design deja vu for Apple’s first foldable phone
+                    - generic [ref=e2115]:
+                      - time [ref=e2116]: 10 hours ago
+                      - separator [ref=e2117]
+                      - generic [ref=e2118]: By Moinak Pal
+                  - generic [ref=e2119]:
+                    - link [ref=e2121] [cursor=pointer]:
+                      - /url: ./read/CBMipgFBVV95cUxNLUdMajRoM2R4YmxSbDlDckUwV1lfMlVEZGc0SWZDT2FRaEpKS0FCQTEzalhBekdlTk9hYm9EckFlaUxja0dtUmVqVTB6M29NSk1uTXp5czc3UEcyaXFUMC03OHV2T3VCNWpqNm1OalZZNXZWRzlYZm92eGRLdGZibkE4MnBaXzBFVnVLT0xHeDFpX2J1cmJFbVdYZmlheWVzN01YTlFR?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2122]:
+                      - generic [ref=e2125]: AppleInsider
+                      - generic [ref=e2129]:
+                        - generic:
+                          - button "More - iPhone Fold now reportedly held up by circuit board problems" [ref=e2130] [cursor=pointer]:
+                            - img [ref=e2132]
+                          - tooltip [ref=e2134]: More
+                    - link "iPhone Fold now reportedly held up by circuit board problems - AppleInsider - May 26 - By Malcolm Owen" [ref=e2135] [cursor=pointer]:
+                      - /url: ./read/CBMipgFBVV95cUxNLUdMajRoM2R4YmxSbDlDckUwV1lfMlVEZGc0SWZDT2FRaEpKS0FCQTEzalhBekdlTk9hYm9EckFlaUxja0dtUmVqVTB6M29NSk1uTXp5czc3UEcyaXFUMC03OHV2T3VCNWpqNm1OalZZNXZWRzlYZm92eGRLdGZibkE4MnBaXzBFVnVLT0xHeDFpX2J1cmJFbVdYZmlheWVzN01YTlFR?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: iPhone Fold now reportedly held up by circuit board problems
+                    - generic [ref=e2136]:
+                      - time [ref=e2137]: May 26
+                      - separator [ref=e2138]
+                      - generic [ref=e2139]: By Malcolm Owen
+              - link "See more headlines & perspectives - Apple's folding iPhone Ultra leaks" [ref=e2142] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pNODhHZEVSSDc3WE1IUUdrcGhpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e2143]
+                - generic [ref=e2145]: See more headlines & perspectives
+          - generic [ref=e2146]:
+            - separator [ref=e2148]
+            - generic [ref=e2150]:
+              - generic [ref=e2151]:
+                - link [ref=e2153] [cursor=pointer]:
+                  - /url: ./read/CBMiuwFBVV95cUxPd1lYOXFNNmVnRU42YURzOE83NC1ZSTJWZDVDMldUS092aUZOY3FlSUY1ZV9ROW03YXhDX0FIYVZOZkdqZUxnZUoyT0RJVlNsOTY3ZW55SXdkUkNvM2JHd2FjdzJZY2JhNXo1dkxkYlpLaGNZSENFNi1POFJMeGszTmxLcWhHenFSaTVoQW1pMlAtMklSRDBxYU8zeXBxNVZKa3M2UG5UVkZHVkNyMG1YbEdQcXNOSFJiZnJR?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e2155]:
+                  - generic [ref=e2156]:
+                    - generic [ref=e2159]: Warhammer Community
+                    - generic [ref=e2163]:
+                      - generic:
+                        - button "More - June’s Miniature of the Month and collectible coin revealed" [ref=e2164] [cursor=pointer]:
+                          - img [ref=e2166]
+                        - tooltip [ref=e2168]: More
+                  - link "June’s Miniature of the Month and collectible coin revealed - Warhammer Community - 8 hours ago" [ref=e2169] [cursor=pointer]:
+                    - /url: ./read/CBMiuwFBVV95cUxPd1lYOXFNNmVnRU42YURzOE83NC1ZSTJWZDVDMldUS092aUZOY3FlSUY1ZV9ROW03YXhDX0FIYVZOZkdqZUxnZUoyT0RJVlNsOTY3ZW55SXdkUkNvM2JHd2FjdzJZY2JhNXo1dkxkYlpLaGNZSENFNi1POFJMeGszTmxLcWhHenFSaTVoQW1pMlAtMklSRDBxYU8zeXBxNVZKa3M2UG5UVkZHVkNyMG1YbEdQcXNOSFJiZnJR?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: June’s Miniature of the Month and collectible coin revealed
+                - figure [ref=e2170]
+              - time [ref=e2172]: 8 hours ago
+          - generic [ref=e2173]:
+            - separator [ref=e2175]
+            - generic [ref=e2177]:
+              - link "New Apple TV and HomePod mini reportedly ready for fall launch" [ref=e2179] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lzN05xYUVSR09QM3UyN3NMTGhDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: New Apple TV and HomePod mini reportedly ready for fall launch chevron_right
+              - generic [ref=e2180]:
+                - generic [ref=e2181]:
+                  - link [ref=e2183] [cursor=pointer]:
+                    - /url: ./read/CBMihwFBVV95cUxOZ090TXNvTzYwZEJzS05XZnNuNXMyTUtZTFpKUzJwRmtyWkxuZnN1bU9aelcweHUtWDhlNkJ2Ri1XYW9mbkU1a2QtT0RHMThPbEJiYjlXVTdDaUJSODkzbUFEVDB5NkxidmJMN1M0VmEwQ0NWWF9UZ0RjbDluVUloS20yY1pOZnM?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e2184]
+                  - generic [ref=e2185]:
+                    - generic [ref=e2188]: MacRumors
+                    - generic [ref=e2192]:
+                      - generic:
+                        - button "More - New Apple TV and HomePod Mini Are 'Nearly Ready' to Launch, New Siri Remote Also Rumored" [ref=e2193] [cursor=pointer]:
+                          - img [ref=e2195]
+                        - tooltip [ref=e2197]: More
+                  - link "New Apple TV and HomePod Mini Are 'Nearly Ready' to Launch, New Siri Remote Also Rumored - MacRumors - 2 days ago - By Joe Rossignol" [ref=e2198] [cursor=pointer]:
+                    - /url: ./read/CBMihwFBVV95cUxOZ090TXNvTzYwZEJzS05XZnNuNXMyTUtZTFpKUzJwRmtyWkxuZnN1bU9aelcweHUtWDhlNkJ2Ri1XYW9mbkU1a2QtT0RHMThPbEJiYjlXVTdDaUJSODkzbUFEVDB5NkxidmJMN1M0VmEwQ0NWWF9UZ0RjbDluVUloS20yY1pOZnM?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: New Apple TV and HomePod Mini Are 'Nearly Ready' to Launch, New Siri Remote Also Rumored
+                  - generic [ref=e2199]:
+                    - time [ref=e2200]: 2 days ago
+                    - separator [ref=e2201]
+                    - generic [ref=e2202]: By Joe Rossignol
+                - generic [ref=e2203]:
+                  - generic [ref=e2204]:
+                    - link [ref=e2206] [cursor=pointer]:
+                      - /url: ./read/CBMiogFBVV95cUxPcThycDJsRE51TFR0YUdmb3NaNklyVHJkNEVJSUlWVjJ0UzliZXFURndhMGNWUTcxR1NhYTJnVFRjY1BiRDNnN3MwVUJZSmdMYW9lNVZEWk9EV2NSRkhoM3ltNVhkYmlMQ1VVLWQ2WlllQkFkVUM5QmZLZnJZdXpDOG9ZejZBNWxXR0xMZGpRa3M5UndRQ2xhci1VOWdrM0RmVFE?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2207]:
+                      - generic [ref=e2210]: 9to5Mac
+                      - generic [ref=e2214]:
+                        - generic:
+                          - 'button "More - Report: New Apple TV, HomePod mini set to launch this fall; Siri Remote ‘refresh’ possible" [ref=e2215] [cursor=pointer]':
+                            - img [ref=e2217]
+                          - tooltip [ref=e2219]: More
+                    - 'link "Report: New Apple TV, HomePod mini set to launch this fall; Siri Remote ‘refresh’ possible - 9to5Mac - 2 days ago - By Michael Burkhardt" [ref=e2220] [cursor=pointer]':
+                      - /url: ./read/CBMiogFBVV95cUxPcThycDJsRE51TFR0YUdmb3NaNklyVHJkNEVJSUlWVjJ0UzliZXFURndhMGNWUTcxR1NhYTJnVFRjY1BiRDNnN3MwVUJZSmdMYW9lNVZEWk9EV2NSRkhoM3ltNVhkYmlMQ1VVLWQ2WlllQkFkVUM5QmZLZnJZdXpDOG9ZejZBNWxXR0xMZGpRa3M5UndRQ2xhci1VOWdrM0RmVFE?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "Report: New Apple TV, HomePod mini set to launch this fall; Siri Remote ‘refresh’ possible"
+                    - generic [ref=e2221]:
+                      - time [ref=e2222]: 2 days ago
+                      - separator [ref=e2223]
+                      - generic [ref=e2224]: By Michael Burkhardt
+                  - generic [ref=e2225]:
+                    - link [ref=e2227] [cursor=pointer]:
+                      - /url: ./read/CBMipAFBVV95cUxNZlZwclB6SFVNWlkwWmtNbW53TlVZVGJyb1QydkNLOFJCMFdCalE5Z2U3MF9ValhLOUdvWDNiOFZRV25xZ19fenZjQVN6WDZQdUtIX1pmMHJBcDNSVjdkM2wzdUMxY3dyYjBLUWVXdVVTNUE5UExpekk0VHNtN2J2X2NxaVJmRE5udENkdzZsYWVmcnYyVGVtWTljdTkzajJnWDlBVg?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2228]:
+                      - generic [ref=e2231]: AppleInsider
+                      - generic [ref=e2235]:
+                        - generic:
+                          - button "More - Apple TV, HomePod mini updates are waiting for Siri's upgrade" [ref=e2236] [cursor=pointer]:
+                            - img [ref=e2238]
+                          - tooltip [ref=e2240]: More
+                    - link "Apple TV, HomePod mini updates are waiting for Siri's upgrade - AppleInsider - 2 days ago - By Malcolm Owen" [ref=e2241] [cursor=pointer]:
+                      - /url: ./read/CBMipAFBVV95cUxNZlZwclB6SFVNWlkwWmtNbW53TlVZVGJyb1QydkNLOFJCMFdCalE5Z2U3MF9ValhLOUdvWDNiOFZRV25xZ19fenZjQVN6WDZQdUtIX1pmMHJBcDNSVjdkM2wzdUMxY3dyYjBLUWVXdVVTNUE5UExpekk0VHNtN2J2X2NxaVJmRE5udENkdzZsYWVmcnYyVGVtWTljdTkzajJnWDlBVg?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Apple TV, HomePod mini updates are waiting for Siri's upgrade
+                    - generic [ref=e2242]:
+                      - time [ref=e2243]: 2 days ago
+                      - separator [ref=e2244]
+                      - generic [ref=e2245]: By Malcolm Owen
+                  - generic [ref=e2246]:
+                    - link [ref=e2248] [cursor=pointer]:
+                      - /url: ./read/CBMilAFBVV95cUxQTWRFM0NuZmZ6ZVF2ektwYlFBeEF0M1dyV0xUNjIzcHh1cERzQVBGMHNJVVlIZFV3aDY1TUgxWnZxYWJObzluMGRYTU44QU5GQ29lRFplZlRIRUxXdm1ZbDNzd1pveXBZS0ZnUWZnTVJSSnh2MWZvMTdMaVUwU05ESDJIdWVsMjY5ZmhxSkFvZFJ6R1NB?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2249]:
+                      - generic [ref=e2252]: Engadget
+                      - generic [ref=e2256]:
+                        - generic:
+                          - button "More - A New Apple TV And HomePod Mini Could Arrive In The Fall" [ref=e2257] [cursor=pointer]:
+                            - img [ref=e2259]
+                          - tooltip [ref=e2261]: More
+                    - link "A New Apple TV And HomePod Mini Could Arrive In The Fall - Engadget - Yesterday - By Jackson Chen" [ref=e2262] [cursor=pointer]:
+                      - /url: ./read/CBMilAFBVV95cUxQTWRFM0NuZmZ6ZVF2ektwYlFBeEF0M1dyV0xUNjIzcHh1cERzQVBGMHNJVVlIZFV3aDY1TUgxWnZxYWJObzluMGRYTU44QU5GQ29lRFplZlRIRUxXdm1ZbDNzd1pveXBZS0ZnUWZnTVJSSnh2MWZvMTdMaVUwU05ESDJIdWVsMjY5ZmhxSkFvZFJ6R1NB?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: A New Apple TV And HomePod Mini Could Arrive In The Fall
+                    - generic [ref=e2263]:
+                      - time [ref=e2264]: Yesterday
+                      - separator [ref=e2265]
+                      - generic [ref=e2266]: By Jackson Chen
+              - link "See more headlines & perspectives - New Apple TV and HomePod mini reportedly ready for fall launch" [ref=e2269] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lzN05xYUVSR09QM3UyN3NMTGhDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e2270]
+                - generic [ref=e2272]: See more headlines & perspectives
+          - generic [ref=e2273]:
+            - separator [ref=e2275]
+            - generic [ref=e2277]:
+              - link "Sony to host PlayStation State of Play on June 2" [ref=e2279] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lid1o2aEVSRjlQdGV1Y2NGdVRDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Sony to host PlayStation State of Play on June 2 chevron_right
+              - generic [ref=e2280]:
+                - generic [ref=e2281]:
+                  - link [ref=e2283] [cursor=pointer]:
+                    - /url: ./read/CBMiwgFBVV95cUxPMzJ6N05KMHVocFZTNjJUTHpnV2xfZDBiYW5GRXpUbzRRRmNxblc5TTBNU3p4cDJYbVFsQmlPcjVlNmFmNlhVT0RjakZza3JMRUNhWGNaOGdXOGpBeE1Md05VZTAwbHRocE1sV3RDUE1EeXRUVFF6dkNIaDRHeUpfaFRob0FOeVRtWVdiTlJVSmZFTG1DaG44NGU3YTYwRUNtSV9XbDA0T1AtZDBsd3UxSmJtZF8xOVNwblY5VV82bkYwZw?hl=en-US&gl=US&ceid=US%3Aen
+                  - generic [ref=e2284]:
+                    - generic [ref=e2287]: Push Square
+                    - generic [ref=e2291]:
+                      - generic:
+                        - button "More - State of Play's Special Alamo Drafthouse Menu Has Leaked, and Here's What Sony's Cooking" [ref=e2292] [cursor=pointer]:
+                          - img [ref=e2294]
+                        - tooltip [ref=e2296]: More
+                  - link "State of Play's Special Alamo Drafthouse Menu Has Leaked, and Here's What Sony's Cooking - Push Square - 21 hours ago - By Sammy Barker" [ref=e2297] [cursor=pointer]:
+                    - /url: ./read/CBMiwgFBVV95cUxPMzJ6N05KMHVocFZTNjJUTHpnV2xfZDBiYW5GRXpUbzRRRmNxblc5TTBNU3p4cDJYbVFsQmlPcjVlNmFmNlhVT0RjakZza3JMRUNhWGNaOGdXOGpBeE1Md05VZTAwbHRocE1sV3RDUE1EeXRUVFF6dkNIaDRHeUpfaFRob0FOeVRtWVdiTlJVSmZFTG1DaG44NGU3YTYwRUNtSV9XbDA0T1AtZDBsd3UxSmJtZF8xOVNwblY5VV82bkYwZw?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: State of Play's Special Alamo Drafthouse Menu Has Leaked, and Here's What Sony's Cooking
+                  - generic [ref=e2298]:
+                    - time [ref=e2299]: 21 hours ago
+                    - separator [ref=e2300]
+                    - generic [ref=e2301]: By Sammy Barker
+                - generic [ref=e2302]:
+                  - generic [ref=e2303]:
+                    - link [ref=e2305] [cursor=pointer]:
+                      - /url: ./read/CBMihgFBVV95cUxPazVoWG9PMV9yQjBZTjBWYmpiemM2bHN3TW9BUmktS1VlZWNFVEdWY21Ka3k4ZWZBX2s2ZVJ1bzdFS2t1WkozUzk0cTZNWHRwV2VkamF4enVRZVpuem5XYjJIcnpSZ3JkUmc0RnppVlJYaUZfZGJoeWxHeVlsY2VLaGFXX2N0QQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2306]:
+                      - generic [ref=e2309]: IGN
+                      - generic [ref=e2313]:
+                        - generic:
+                          - 'button "More - Marvel’s Wolverine, Intergalactic: The Heretic Prophet, and New God of War: What to Expect From PlayStation’s State of Play June 2026" [ref=e2314] [cursor=pointer]':
+                            - img [ref=e2316]
+                          - tooltip [ref=e2318]: More
+                    - 'link "Marvel’s Wolverine, Intergalactic: The Heretic Prophet, and New God of War: What to Expect From PlayStation’s State of Play June 2026 - IGN - May 26 - By Simon Cardy" [ref=e2319] [cursor=pointer]':
+                      - /url: ./read/CBMihgFBVV95cUxPazVoWG9PMV9yQjBZTjBWYmpiemM2bHN3TW9BUmktS1VlZWNFVEdWY21Ka3k4ZWZBX2s2ZVJ1bzdFS2t1WkozUzk0cTZNWHRwV2VkamF4enVRZVpuem5XYjJIcnpSZ3JkUmc0RnppVlJYaUZfZGJoeWxHeVlsY2VLaGFXX2N0QQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "Marvel’s Wolverine, Intergalactic: The Heretic Prophet, and New God of War: What to Expect From PlayStation’s State of Play June 2026"
+                    - generic [ref=e2320]:
+                      - time [ref=e2321]: May 26
+                      - separator [ref=e2322]
+                      - generic [ref=e2323]: By Simon Cardy
+                  - generic [ref=e2324]:
+                    - link [ref=e2326] [cursor=pointer]:
+                      - /url: ./read/CBMiigFBVV95cUxOS2NtSnI2SDllZHlleDJXb19NS3ZOUVNESnA0UjA3X2VaSVRkTGgxMWN4Rm4tYWF6QUw4SnI4OTVhTnBFVUZOaDFfdV9CMHhXeXFnWi1ReDJpRGpBbm5PWDRxMWNVdnBHZkdkQjBoZGp2ZWk4NXdXSkF6bmhleUtwbWFqamhiRXc3S3c?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2327]:
+                      - generic [ref=e2330]: Push Square
+                      - generic [ref=e2334]:
+                        - generic:
+                          - button "More - 17 PS5 Predictions for State of Play June 2026" [ref=e2335] [cursor=pointer]:
+                            - img [ref=e2337]
+                          - tooltip [ref=e2339]: More
+                    - link "17 PS5 Predictions for State of Play June 2026 - Push Square - 8 hours ago - By Stephen Tailby" [ref=e2340] [cursor=pointer]:
+                      - /url: ./read/CBMiigFBVV95cUxOS2NtSnI2SDllZHlleDJXb19NS3ZOUVNESnA0UjA3X2VaSVRkTGgxMWN4Rm4tYWF6QUw4SnI4OTVhTnBFVUZOaDFfdV9CMHhXeXFnWi1ReDJpRGpBbm5PWDRxMWNVdnBHZkdkQjBoZGp2ZWk4NXdXSkF6bmhleUtwbWFqamhiRXc3S3c?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: 17 PS5 Predictions for State of Play June 2026
+                    - generic [ref=e2341]:
+                      - time [ref=e2342]: 8 hours ago
+                      - separator [ref=e2343]
+                      - generic [ref=e2344]: By Stephen Tailby
+                  - generic [ref=e2345]:
+                    - link [ref=e2347] [cursor=pointer]:
+                      - /url: ./read/CBMif0FVX3lxTE9ieDZlWjFReldENkVpdktzc2J0QkJWLU9fdkdPdjN2MEl1OEFOVl9lYi1fZnVtU2JQdWNkVnBEakYwUkxsOG14Tm9aR2V6WVFhMkxUMTZib0lNT0o4OVUzbGpVai1QUUU4TTdncUhDbjVnMWhRQUxSYWVBdldaak0?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2348]:
+                      - generic [ref=e2351]: Eurogamer
+                      - generic [ref=e2355]:
+                        - generic:
+                          - button "More - Sony State of Play June 2026 time and where to watch" [ref=e2356] [cursor=pointer]:
+                            - img [ref=e2358]
+                          - tooltip [ref=e2360]: More
+                    - link "Sony State of Play June 2026 time and where to watch - Eurogamer - 5 hours ago - By Lottie Lynn" [ref=e2361] [cursor=pointer]:
+                      - /url: ./read/CBMif0FVX3lxTE9ieDZlWjFReldENkVpdktzc2J0QkJWLU9fdkdPdjN2MEl1OEFOVl9lYi1fZnVtU2JQdWNkVnBEakYwUkxsOG14Tm9aR2V6WVFhMkxUMTZib0lNT0o4OVUzbGpVai1QUUU4TTdncUhDbjVnMWhRQUxSYWVBdldaak0?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Sony State of Play June 2026 time and where to watch
+                    - generic [ref=e2362]:
+                      - time [ref=e2363]: 5 hours ago
+                      - separator [ref=e2364]
+                      - generic [ref=e2365]: By Lottie Lynn
+              - link "See more headlines & perspectives - Sony to host PlayStation State of Play on June 2" [ref=e2368] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lid1o2aEVSRjlQdGV1Y2NGdVRDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e2369]
+                - generic [ref=e2371]: See more headlines & perspectives
+          - generic [ref=e2372]:
+            - separator [ref=e2374]
+            - generic [ref=e2376]:
+              - link "Yacht Club Games releases Mina the Hollower" [ref=e2378] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l0bVlDYkVSRTVtdmFVcEJKY2JDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Yacht Club Games releases Mina the Hollower chevron_right
+              - generic [ref=e2379]:
+                - generic [ref=e2380]:
+                  - link [ref=e2382] [cursor=pointer]:
+                    - /url: ./read/CBMibkFVX3lxTE9CRVBPeEVNcHhRU09za1BWbVlnY0pOZ3ZuLWU3ZkZkYUVBTTNjMHJPUEdDQUh3bW1qc1lpNy1ZM2diazVoOFBJRmtqTndhUHFfVXpNdUFNMlRGVHJlRkQxbkRCZEY1XzlIUWw1aEx3?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e2383]
+                  - generic [ref=e2384]:
+                    - generic [ref=e2387]: Eurogamer
+                    - generic [ref=e2391]:
+                      - generic:
+                        - button "More - Is Mina the Hollower too hard? The debate is on, as players discuss the challenge of Yacht Club's smash hit" [ref=e2392] [cursor=pointer]:
+                          - img [ref=e2394]
+                        - tooltip [ref=e2396]: More
+                  - link "Is Mina the Hollower too hard? The debate is on, as players discuss the challenge of Yacht Club's smash hit - Eurogamer - 5 hours ago - By Connor Makar" [ref=e2397] [cursor=pointer]:
+                    - /url: ./read/CBMibkFVX3lxTE9CRVBPeEVNcHhRU09za1BWbVlnY0pOZ3ZuLWU3ZkZkYUVBTTNjMHJPUEdDQUh3bW1qc1lpNy1ZM2diazVoOFBJRmtqTndhUHFfVXpNdUFNMlRGVHJlRkQxbkRCZEY1XzlIUWw1aEx3?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Is Mina the Hollower too hard? The debate is on, as players discuss the challenge of Yacht Club's smash hit
+                  - generic [ref=e2398]:
+                    - time [ref=e2399]: 5 hours ago
+                    - separator [ref=e2400]
+                    - generic [ref=e2401]: By Connor Makar
+                - generic [ref=e2402]:
+                  - generic [ref=e2403]:
+                    - link [ref=e2405] [cursor=pointer]:
+                      - /url: ./read/CBMijwFBVV95cUxNR3lIVHVaQklNU3cxWk9FUDY0VWVBYTVSN05YYVNfLUtJaWo1cVc2QzYwaG1VT2xaZnBFcDRhZXpUU0JvWEw2ZGVQZkNXME9MSmcxYzlGQ1NUMlNwemxYWHQ4aUMzYVpyTmltU3JiM2w3VzZZSDRsWlFhTGNVZ0x1SXVINEZ3Sk1BZWJoVFdQYw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2406]:
+                      - generic [ref=e2409]: Bloomberg.com
+                      - generic [ref=e2413]:
+                        - generic:
+                          - button "More - Why One of This Year’s Best Games, ‘Mina the Hollower,’ Is Only $20" [ref=e2414] [cursor=pointer]:
+                            - img [ref=e2416]
+                          - tooltip [ref=e2418]: More
+                    - link "Why One of This Year’s Best Games, ‘Mina the Hollower,’ Is Only $20 - Bloomberg.com - 4 days ago - By Jason Schreier" [ref=e2419] [cursor=pointer]:
+                      - /url: ./read/CBMijwFBVV95cUxNR3lIVHVaQklNU3cxWk9FUDY0VWVBYTVSN05YYVNfLUtJaWo1cVc2QzYwaG1VT2xaZnBFcDRhZXpUU0JvWEw2ZGVQZkNXME9MSmcxYzlGQ1NUMlNwemxYWHQ4aUMzYVpyTmltU3JiM2w3VzZZSDRsWlFhTGNVZ0x1SXVINEZ3Sk1BZWJoVFdQYw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Why One of This Year’s Best Games, ‘Mina the Hollower,’ Is Only $20
+                    - generic [ref=e2420]:
+                      - time [ref=e2421]: 4 days ago
+                      - separator [ref=e2422]
+                      - generic [ref=e2423]: By Jason Schreier
+                  - generic [ref=e2424]:
+                    - link [ref=e2426] [cursor=pointer]:
+                      - /url: ./read/CBMiY0FVX3lxTE45TEZDTl9TcFo5VDJraTk4aDk5WFpyTGxMQ3BpOHJMU0QzclpVZ2FPTGNudFVXd1BoU2E2ZGNDblkzanFDRUJXdEdScjk0eFBudFFZSkNkX0IwUXpnUnl0NlkwVQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2427]:
+                      - generic [ref=e2430]: IGN
+                      - generic [ref=e2434]:
+                        - generic:
+                          - button "More - Mina the Hollower Review" [ref=e2435] [cursor=pointer]:
+                            - img [ref=e2437]
+                          - tooltip [ref=e2439]: More
+                    - link "Mina the Hollower Review - IGN - 5 days ago - By Samuel Claiborn" [ref=e2440] [cursor=pointer]:
+                      - /url: ./read/CBMiY0FVX3lxTE45TEZDTl9TcFo5VDJraTk4aDk5WFpyTGxMQ3BpOHJMU0QzclpVZ2FPTGNudFVXd1BoU2E2ZGNDblkzanFDRUJXdEdScjk0eFBudFFZSkNkX0IwUXpnUnl0NlkwVQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Mina the Hollower Review
+                    - generic [ref=e2441]:
+                      - time [ref=e2442]: 5 days ago
+                      - separator [ref=e2443]
+                      - generic [ref=e2444]: Opinion
+                      - separator [ref=e2445]
+                      - generic [ref=e2446]: By Samuel Claiborn
+                  - generic [ref=e2447]:
+                    - link [ref=e2449] [cursor=pointer]:
+                      - /url: ./read/CBMidkFVX3lxTE4wZmRWYy1VaVpxbmtmQzZoMkV2MVA5LTdHWDFfRlJwMjdqRDBjTmJseGtIZ0lJR0ZYTzhSdGVoclZKVWdoVjJvMWV0WXhHWEZmSFVYSDkwZXdwT1BFODlLcmF5ZDMzaG9wNFd4X28xTFJrWUZGRWc?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2450]:
+                      - generic [ref=e2453]: Game Informer
+                      - generic [ref=e2457]:
+                        - generic:
+                          - button "More - Mina the Hollower Review - Refined Throwback" [ref=e2458] [cursor=pointer]:
+                            - img [ref=e2460]
+                          - tooltip [ref=e2462]: More
+                    - link "Mina the Hollower Review - Refined Throwback - Game Informer - 6 days ago - By Kyle Hilliard" [ref=e2463] [cursor=pointer]:
+                      - /url: ./read/CBMidkFVX3lxTE4wZmRWYy1VaVpxbmtmQzZoMkV2MVA5LTdHWDFfRlJwMjdqRDBjTmJseGtIZ0lJR0ZYTzhSdGVoclZKVWdoVjJvMWV0WXhHWEZmSFVYSDkwZXdwT1BFODlLcmF5ZDMzaG9wNFd4X28xTFJrWUZGRWc?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Mina the Hollower Review - Refined Throwback
+                    - generic [ref=e2464]:
+                      - time [ref=e2465]: 6 days ago
+                      - separator [ref=e2466]
+                      - generic [ref=e2467]: Opinion
+                      - separator [ref=e2468]
+                      - generic [ref=e2469]: By Kyle Hilliard
+              - link "See more headlines & perspectives - Yacht Club Games releases Mina the Hollower" [ref=e2472] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l0bVlDYkVSRTVtdmFVcEJKY2JDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e2473]
+                - generic [ref=e2475]: See more headlines & perspectives
+          - generic [ref=e2476]:
+            - separator [ref=e2478]
+            - generic [ref=e2480]:
+              - link "Oura Health Oy unveils Oura Ring 5 smart wearable" [ref=e2482] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pOcHM2UkVSR1l6NlNiN2lBRGhpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Oura Health Oy unveils Oura Ring 5 smart wearable chevron_right
+              - generic [ref=e2483]:
+                - generic [ref=e2484]:
+                  - link [ref=e2486] [cursor=pointer]:
+                    - /url: ./read/CBMiZEFVX3lxTFBSaTNLSXJNV1lTalpOakhpYWktLVhtNEhwbnQ2ZkdfM05XaER2Tkt4LW9ubFFSbUlfRk5XVUtDS00ySlB0bFJocVQtWnkzbUtJVFhKUlZtbEpCYnA0MWxPVG0wNTI?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e2487]
+                  - generic [ref=e2488]:
+                    - generic [ref=e2491]: Geeky Gadgets
+                    - generic [ref=e2495]:
+                      - generic:
+                        - 'button "More - Oura Ring 5 vs Oura Ring 4: What You Actually Get for the Upgrade" [ref=e2496] [cursor=pointer]':
+                          - img [ref=e2498]
+                        - tooltip [ref=e2500]: More
+                  - 'link "Oura Ring 5 vs Oura Ring 4: What You Actually Get for the Upgrade - Geeky Gadgets - 2 days ago - By Julian Horsey" [ref=e2501] [cursor=pointer]':
+                    - /url: ./read/CBMiZEFVX3lxTFBSaTNLSXJNV1lTalpOakhpYWktLVhtNEhwbnQ2ZkdfM05XaER2Tkt4LW9ubFFSbUlfRk5XVUtDS00ySlB0bFJocVQtWnkzbUtJVFhKUlZtbEpCYnA0MWxPVG0wNTI?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: "Oura Ring 5 vs Oura Ring 4: What You Actually Get for the Upgrade"
+                  - generic [ref=e2502]:
+                    - time [ref=e2503]: 2 days ago
+                    - separator [ref=e2504]
+                    - generic [ref=e2505]: By Julian Horsey
+                - generic [ref=e2506]:
+                  - generic [ref=e2507]:
+                    - link [ref=e2509] [cursor=pointer]:
+                      - /url: ./read/CBMisAFBVV95cUxQUUZtMUFQcFJtZmxRUWlDQm1wTFVNbWhaejVhQW9JcXhVVXN4RmNVbzJtVWdka2JzNkgxMG9SYmhrODFmNDhlbnlmU3IyVXBVcEFxMGF3SUZXRWx2cmNoLUlTay05S0xpeWlhdXFRWC1ZQ3paRXdtcnFkWWpnb1l6OFM4aHNVcmR5VVB1NlhsOTdzLVExMHdvdkRFTktXNXo2ek5rVWFEM1IzRzU2UmVLSw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2510]:
+                      - generic [ref=e2513]: WWD
+                      - generic [ref=e2517]:
+                        - generic:
+                          - button "More - Oura Debuts Ring 5, Ahead of Potential IPO" [ref=e2518] [cursor=pointer]:
+                            - img [ref=e2520]
+                          - tooltip [ref=e2522]: More
+                    - link "Oura Debuts Ring 5, Ahead of Potential IPO - WWD - 5 days ago - By Kanika Talwar" [ref=e2523] [cursor=pointer]:
+                      - /url: ./read/CBMisAFBVV95cUxQUUZtMUFQcFJtZmxRUWlDQm1wTFVNbWhaejVhQW9JcXhVVXN4RmNVbzJtVWdka2JzNkgxMG9SYmhrODFmNDhlbnlmU3IyVXBVcEFxMGF3SUZXRWx2cmNoLUlTay05S0xpeWlhdXFRWC1ZQ3paRXdtcnFkWWpnb1l6OFM4aHNVcmR5VVB1NlhsOTdzLVExMHdvdkRFTktXNXo2ek5rVWFEM1IzRzU2UmVLSw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Oura Debuts Ring 5, Ahead of Potential IPO
+                    - generic [ref=e2524]:
+                      - time [ref=e2525]: 5 days ago
+                      - separator [ref=e2526]
+                      - generic [ref=e2527]: By Kanika Talwar
+                  - generic [ref=e2528]:
+                    - link [ref=e2530] [cursor=pointer]:
+                      - /url: ./read/CBMinwFBVV95cUxQWmI0WVB1NC1YeUdlaUJWVmVETUZiV0R3MWY5bEh1bW96WlhLdlpwdGdadWMxUkh4UXhzNk95YldrLWN5amJaQXV6RUNFU1ZEaE1KMkFhS0pvZ2tyeXFBVWQxSkphbmE5OTZ4cXdQcUhPaWoyWlpXeWEzRDN2RzhhWGZTRi1jMHFHWnN1WnZkUmV6Y3c3ZGJJMk1yb3BiUzA?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2531]:
+                      - generic [ref=e2534]: Tech Advisor
+                      - generic [ref=e2538]:
+                        - generic:
+                          - button "More - Why Oura Ring 5 is a watershed moment for smart rings" [ref=e2539] [cursor=pointer]:
+                            - img [ref=e2541]
+                          - tooltip [ref=e2543]: More
+                    - link "Why Oura Ring 5 is a watershed moment for smart rings - Tech Advisor - 11 hours ago - By Mike Sawh" [ref=e2544] [cursor=pointer]:
+                      - /url: ./read/CBMinwFBVV95cUxQWmI0WVB1NC1YeUdlaUJWVmVETUZiV0R3MWY5bEh1bW96WlhLdlpwdGdadWMxUkh4UXhzNk95YldrLWN5amJaQXV6RUNFU1ZEaE1KMkFhS0pvZ2tyeXFBVWQxSkphbmE5OTZ4cXdQcUhPaWoyWlpXeWEzRDN2RzhhWGZTRi1jMHFHWnN1WnZkUmV6Y3c3ZGJJMk1yb3BiUzA?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Why Oura Ring 5 is a watershed moment for smart rings
+                    - generic [ref=e2545]:
+                      - time [ref=e2546]: 11 hours ago
+                      - separator [ref=e2547]
+                      - generic [ref=e2548]: Opinion
+                      - separator [ref=e2549]
+                      - generic [ref=e2550]: By Mike Sawh
+                  - generic [ref=e2551]:
+                    - link [ref=e2553] [cursor=pointer]:
+                      - /url: ./read/CBMitAFBVV95cUxPWHRqYVRKdDc4amUtX3VPRVFUZllFcXJxdmtSeV9LOUxvRXRiT0pZeFBIT09LeVBaWDZyZV9VSkZ6LXpsNi1oWXRjZ0dZUVh3YXk3ZzlxZE9sLUZCWjFNYmduek1XWURhTTdSeXJnMEtPVzNhNTY1bXN0M1BvRVE3VkFnZU14RjZuaHJCOElVRzc4ZGc4QUhNMDBhdXphc3cyWHZqNzkxMEJFeVlkZFVRZFVIMDc?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2554]:
+                      - generic [ref=e2557]: Business Wire
+                      - generic [ref=e2561]:
+                        - generic:
+                          - 'button "More - ŌURA Introduces The World’s Smallest Smart Ring: Oura Ring 5" [ref=e2562] [cursor=pointer]':
+                            - img [ref=e2564]
+                          - tooltip [ref=e2566]: More
+                    - 'link "ŌURA Introduces The World’s Smallest Smart Ring: Oura Ring 5 - Business Wire - 5 days ago" [ref=e2567] [cursor=pointer]':
+                      - /url: ./read/CBMitAFBVV95cUxPWHRqYVRKdDc4amUtX3VPRVFUZllFcXJxdmtSeV9LOUxvRXRiT0pZeFBIT09LeVBaWDZyZV9VSkZ6LXpsNi1oWXRjZ0dZUVh3YXk3ZzlxZE9sLUZCWjFNYmduek1XWURhTTdSeXJnMEtPVzNhNTY1bXN0M1BvRVE3VkFnZU14RjZuaHJCOElVRzc4ZGc4QUhNMDBhdXphc3cyWHZqNzkxMEJFeVlkZFVRZFVIMDc?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "ŌURA Introduces The World’s Smallest Smart Ring: Oura Ring 5"
+                    - time [ref=e2569]: 5 days ago
+              - link "See more headlines & perspectives - Oura Health Oy unveils Oura Ring 5 smart wearable" [ref=e2572] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pOcHM2UkVSR1l6NlNiN2lBRGhpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e2573]
+                - generic [ref=e2575]: See more headlines & perspectives
+          - generic [ref=e2576]:
+            - separator [ref=e2578]
+            - generic [ref=e2580]:
+              - link "Bungie to launch Marathon Season 2 on June 2" [ref=e2582] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lqbExXWUVSRWtEMFJUdV9fRHhpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Bungie to launch Marathon Season 2 on June 2 chevron_right
+              - generic [ref=e2583]:
+                - generic [ref=e2584]:
+                  - link [ref=e2586] [cursor=pointer]:
+                    - /url: ./read/CBMiuAFBVV95cUxONXhIc2ZZY3BzNFlrOTVsWktIQ05TcnFlYlhyQ0tGOExMa2RTVFRlRnhpU2p3cXMxNnN4bFdQcmZQM3p5dU8zUW4wSnozbDNJLWVOZWJYU1hnbDVNS0FNYXlSU0hoLXdTZjFFMnlacUM0WkdVRndsd3dmaXFZblNkemx6Q0dsX0pvODdpS0VIQWtHc2ZCTVNCTmNPYTNqNGt2ZU5wcFRfeURJelBKS3lxdWJKTUFNSVdq?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e2587]
+                  - generic [ref=e2588]:
+                    - generic [ref=e2591]: Forbes
+                    - generic [ref=e2595]:
+                      - generic:
+                        - button "More - Marathon’s Season 2 Launch And Free Week Is A Hugely Important Test" [ref=e2596] [cursor=pointer]:
+                          - img [ref=e2598]
+                        - tooltip [ref=e2600]: More
+                  - link "Marathon’s Season 2 Launch And Free Week Is A Hugely Important Test - Forbes - 5 hours ago - By Paul Tassi" [ref=e2601] [cursor=pointer]:
+                    - /url: ./read/CBMiuAFBVV95cUxONXhIc2ZZY3BzNFlrOTVsWktIQ05TcnFlYlhyQ0tGOExMa2RTVFRlRnhpU2p3cXMxNnN4bFdQcmZQM3p5dU8zUW4wSnozbDNJLWVOZWJYU1hnbDVNS0FNYXlSU0hoLXdTZjFFMnlacUM0WkdVRndsd3dmaXFZblNkemx6Q0dsX0pvODdpS0VIQWtHc2ZCTVNCTmNPYTNqNGt2ZU5wcFRfeURJelBKS3lxdWJKTUFNSVdq?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Marathon’s Season 2 Launch And Free Week Is A Hugely Important Test
+                  - generic [ref=e2602]:
+                    - time [ref=e2603]: 5 hours ago
+                    - separator [ref=e2604]
+                    - generic [ref=e2605]: By Paul Tassi
+                - generic [ref=e2606]:
+                  - generic [ref=e2607]:
+                    - link [ref=e2609] [cursor=pointer]:
+                      - /url: ./read/CBMickFVX3lxTE9qTVlieElPZWlfYTNOODdqdEZSRWM5bzlacDliTm82UnQyQXZMQ1N1bHNYVXQ3eHViTjJBZkdidnNDd0dubVNCMnE5dHh5Q3pXejZCaVFYNHA0OUFVZEVHVWxmdkw2OVZha0toVU9fVGhJZw?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2610]:
+                      - generic [ref=e2613]: Bungie.net
+                      - generic [ref=e2617]:
+                        - generic:
+                          - 'button "More - Open Play Week: June 2 - June 9" [ref=e2618] [cursor=pointer]':
+                            - img [ref=e2620]
+                          - tooltip [ref=e2622]: More
+                    - 'link "Open Play Week: June 2 - June 9 - Bungie.net - 5 hours ago" [ref=e2623] [cursor=pointer]':
+                      - /url: ./read/CBMickFVX3lxTE9qTVlieElPZWlfYTNOODdqdEZSRWM5bzlacDliTm82UnQyQXZMQ1N1bHNYVXQ3eHViTjJBZkdidnNDd0dubVNCMnE5dHh5Q3pXejZCaVFYNHA0OUFVZEVHVWxmdkw2OVZha0toVU9fVGhJZw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "Open Play Week: June 2 - June 9"
+                    - time [ref=e2625]: 5 hours ago
+                  - generic [ref=e2626]:
+                    - link [ref=e2628] [cursor=pointer]:
+                      - /url: ./read/CBMif0FVX3lxTFBZM1pOaFd6NC1OM2JQOU5RTHJsM3JNTnZYd2lDS1lPWFB4dnJkLWx0QmhfX2tWTnQyM1JvUGdpcGVkM1FTajRIVVhwTDU3dDRyeHdPc1BHUVRIVG1ZUjJzMkpkY0x3UzFVOXllQkRIa3JmVVVEQ2ZHSFk1cnpsWVE?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2629]:
+                      - generic [ref=e2632]: Yahoo
+                      - generic [ref=e2636]:
+                        - generic:
+                          - button "More - PS5 Owners Can Play 2026 Sony First-Party Game for Free" [ref=e2637] [cursor=pointer]:
+                            - img [ref=e2639]
+                          - tooltip [ref=e2641]: More
+                    - link "PS5 Owners Can Play 2026 Sony First-Party Game for Free - Yahoo - 1 hour ago" [ref=e2642] [cursor=pointer]:
+                      - /url: ./read/CBMif0FVX3lxTFBZM1pOaFd6NC1OM2JQOU5RTHJsM3JNTnZYd2lDS1lPWFB4dnJkLWx0QmhfX2tWTnQyM1JvUGdpcGVkM1FTajRIVVhwTDU3dDRyeHdPc1BHUVRIVG1ZUjJzMkpkY0x3UzFVOXllQkRIa3JmVVVEQ2ZHSFk1cnpsWVE?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: PS5 Owners Can Play 2026 Sony First-Party Game for Free
+                    - time [ref=e2644]: 1 hour ago
+                  - generic [ref=e2645]:
+                    - link [ref=e2647] [cursor=pointer]:
+                      - /url: ./read/CBMifkFVX3lxTE9DSzBFaEtRMlJ5RTA3QUZQNzVORmZzOXozejVSeFVjaWRhTGs2OXBVem94NEVqMkVPbS1FaUxObzYwUFA0V2pURXlQODRDMkhXZ3pSb1FlMW9IbWhWT2F1THJjakF0Wk9tYmVIUmZtUHZPeGJvYy14VkJvaEp6UQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2648]:
+                      - generic [ref=e2651]: PlayStation.Blog
+                      - generic [ref=e2655]:
+                        - generic:
+                          - button "More - Marathon Season 2 arrives June 2" [ref=e2656] [cursor=pointer]:
+                            - img [ref=e2658]
+                          - tooltip [ref=e2660]: More
+                    - link "Marathon Season 2 arrives June 2 - PlayStation.Blog - 6 days ago - By Brian Ekberg" [ref=e2661] [cursor=pointer]:
+                      - /url: ./read/CBMifkFVX3lxTE9DSzBFaEtRMlJ5RTA3QUZQNzVORmZzOXozejVSeFVjaWRhTGs2OXBVem94NEVqMkVPbS1FaUxObzYwUFA0V2pURXlQODRDMkhXZ3pSb1FlMW9IbWhWT2F1THJjakF0Wk9tYmVIUmZtUHZPeGJvYy14VkJvaEp6UQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Marathon Season 2 arrives June 2
+                    - generic [ref=e2662]:
+                      - time [ref=e2663]: 6 days ago
+                      - separator [ref=e2664]
+                      - generic [ref=e2665]: By Brian Ekberg
+              - link "See more headlines & perspectives - Bungie to launch Marathon Season 2 on June 2" [ref=e2668] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lqbExXWUVSRWtEMFJUdV9fRHhpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e2669]
+                - generic [ref=e2671]: See more headlines & perspectives
+          - generic [ref=e2672]:
+            - separator [ref=e2674]
+            - generic [ref=e2676]:
+              - link "iPhone 18 Pro news" [ref=e2678] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oxdUwtZ0VSRnBBaXVfOUh1Yjd5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: iPhone 18 Pro news chevron_right
+              - generic [ref=e2679]:
+                - generic [ref=e2680]:
+                  - link [ref=e2682] [cursor=pointer]:
+                    - /url: ./read/CBMia0FVX3lxTE4yaWNHcnhBRE1rcnZXOEdnYjVpdUFPTG1BRlJBVnZpdVhlanVKWkpHSmd2aERydzBwbGROSzZ0MmlPUEJWWko1MnZjU3B1TFlkWUdxZGV2TGZwZ2dTVVFUajA3YllUZ294MzNv?hl=en-US&gl=US&ceid=US%3Aen
+                  - figure [ref=e2683]
+                  - generic [ref=e2684]:
+                    - generic [ref=e2687]: Geeky Gadgets
+                    - generic [ref=e2691]:
+                      - generic:
+                        - button "More - Why the iPhone 18 Pro Max Will Be Apple’s Biggest Leap in Years" [ref=e2692] [cursor=pointer]:
+                          - img [ref=e2694]
+                        - tooltip [ref=e2696]: More
+                  - link "Why the iPhone 18 Pro Max Will Be Apple’s Biggest Leap in Years - Geeky Gadgets - 2 days ago - By Roland Hutchinson" [ref=e2697] [cursor=pointer]:
+                    - /url: ./read/CBMia0FVX3lxTE4yaWNHcnhBRE1rcnZXOEdnYjVpdUFPTG1BRlJBVnZpdVhlanVKWkpHSmd2aERydzBwbGROSzZ0MmlPUEJWWko1MnZjU3B1TFlkWUdxZGV2TGZwZ2dTVVFUajA3YllUZ294MzNv?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Why the iPhone 18 Pro Max Will Be Apple’s Biggest Leap in Years
+                  - generic [ref=e2698]:
+                    - time [ref=e2699]: 2 days ago
+                    - separator [ref=e2700]
+                    - generic [ref=e2701]: By Roland Hutchinson
+                - generic [ref=e2702]:
+                  - generic [ref=e2703]:
+                    - link [ref=e2705] [cursor=pointer]:
+                      - /url: ./read/CBMinwFBVV95cUxPVnRrdGNOVE9oaFZaT2QwUk5oLXVsRE5VXzF3T1hwUHQ1UFBkbk9UVzE4THZMYmhIYjB0aGxYMFhXSWswbENsY2lWaEhmVEo1eVVuVXFMMmZfWXRpaHViNGdMNUlISE5GMHV1TFRaSm9JUFBsLW1vSk5ZeFhuVW5TajJWNWVSakNKV0xkWHJsRXJNZGctSVpfdnJrOHFIM0k?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2706]:
+                      - generic [ref=e2709]: Forbes
+                      - generic [ref=e2713]:
+                        - generic:
+                          - button "More - Apple’s iPhone 18 Pro Strategy Means Cancelling Cosmic Orange" [ref=e2714] [cursor=pointer]:
+                            - img [ref=e2716]
+                          - tooltip [ref=e2718]: More
+                    - link "Apple’s iPhone 18 Pro Strategy Means Cancelling Cosmic Orange - Forbes - 2 days ago - By Ewan Spence" [ref=e2719] [cursor=pointer]:
+                      - /url: ./read/CBMinwFBVV95cUxPVnRrdGNOVE9oaFZaT2QwUk5oLXVsRE5VXzF3T1hwUHQ1UFBkbk9UVzE4THZMYmhIYjB0aGxYMFhXSWswbENsY2lWaEhmVEo1eVVuVXFMMmZfWXRpaHViNGdMNUlISE5GMHV1TFRaSm9JUFBsLW1vSk5ZeFhuVW5TajJWNWVSakNKV0xkWHJsRXJNZGctSVpfdnJrOHFIM0k?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Apple’s iPhone 18 Pro Strategy Means Cancelling Cosmic Orange
+                    - generic [ref=e2720]:
+                      - time [ref=e2721]: 2 days ago
+                      - separator [ref=e2722]
+                      - generic [ref=e2723]: By Ewan Spence
+                  - generic [ref=e2724]:
+                    - link [ref=e2726] [cursor=pointer]:
+                      - /url: ./read/CBMiigFBVV95cUxQT2dOVnB3YzVLTHpONXpROE43b3MzZC0wTzM2RTFET2dOTW5UUFc3akZ4Y0lISXRkazRSREhFMmI2a0FZUmVUTXQ0MWQzNnZVUVBKWVdGT05WcTVmbkQtSXo1SUg0OHhfLTB4SHJJRTNpYXFab0FLS25nTHpLbmRLX2tQU28tWENha1E?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2727]:
+                      - generic [ref=e2730]: MacRumors
+                      - generic [ref=e2734]:
+                        - generic:
+                          - button "More - iPhone 18 Pro's Camera Upgrade Will Cost Apple 50% More" [ref=e2735] [cursor=pointer]:
+                            - img [ref=e2737]
+                          - tooltip [ref=e2739]: More
+                    - link "iPhone 18 Pro's Camera Upgrade Will Cost Apple 50% More - MacRumors - 4 days ago - By Hartley Charlton" [ref=e2740] [cursor=pointer]:
+                      - /url: ./read/CBMiigFBVV95cUxQT2dOVnB3YzVLTHpONXpROE43b3MzZC0wTzM2RTFET2dOTW5UUFc3akZ4Y0lISXRkazRSREhFMmI2a0FZUmVUTXQ0MWQzNnZVUVBKWVdGT05WcTVmbkQtSXo1SUg0OHhfLTB4SHJJRTNpYXFab0FLS25nTHpLbmRLX2tQU28tWENha1E?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: iPhone 18 Pro's Camera Upgrade Will Cost Apple 50% More
+                    - generic [ref=e2741]:
+                      - time [ref=e2742]: 4 days ago
+                      - separator [ref=e2743]
+                      - generic [ref=e2744]: By Hartley Charlton
+                  - generic [ref=e2745]:
+                    - link [ref=e2747] [cursor=pointer]:
+                      - /url: ./read/CBMia0FVX3lxTFA2V3N2elpFZm9tMzFnaEJBQ2pNZnNDa0ZRdV9VQmVHaEJyZ3BJOG5CUFUxZkNvMFBOaUVsOUJFT0Z0VnB6U1doOWJ4VThvaDNVNDhMdjhqcUdFT0lZMVU2YzVMQ19LZlJzaUpR?hl=en-US&gl=US&ceid=US%3Aen
+                    - generic [ref=e2748]:
+                      - generic [ref=e2751]: Mashable
+                      - generic [ref=e2755]:
+                        - generic:
+                          - 'button "More - iPhone 18 news: The latest leaks, rumored features, and colors" [ref=e2756] [cursor=pointer]':
+                            - img [ref=e2758]
+                          - tooltip [ref=e2760]: More
+                    - 'link "iPhone 18 news: The latest leaks, rumored features, and colors - Mashable - 1 hour ago - By Alex Perry & Timothy Beck Werth" [ref=e2761] [cursor=pointer]':
+                      - /url: ./read/CBMia0FVX3lxTFA2V3N2elpFZm9tMzFnaEJBQ2pNZnNDa0ZRdV9VQmVHaEJyZ3BJOG5CUFUxZkNvMFBOaUVsOUJFT0Z0VnB6U1doOWJ4VThvaDNVNDhMdjhqcUdFT0lZMVU2YzVMQ19LZlJzaUpR?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: "iPhone 18 news: The latest leaks, rumored features, and colors"
+                    - generic [ref=e2762]:
+                      - time [ref=e2763]: 1 hour ago
+                      - separator [ref=e2764]
+                      - generic [ref=e2765]: By Alex Perry & Timothy Beck Werth
+              - link "See more headlines & perspectives - iPhone 18 Pro news" [ref=e2768] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oxdUwtZ0VSRnBBaXVfOUh1Yjd5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - img [ref=e2769]
+                - generic [ref=e2771]: See more headlines & perspectives

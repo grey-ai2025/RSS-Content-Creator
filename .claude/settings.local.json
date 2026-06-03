@@ -66,7 +66,9 @@
       "WebFetch(domain:www.blog.brightcoding.dev)",
       "mcp__firecrawl__firecrawl_search_feedback",
       "WebFetch(domain:sproutsocial.com)",
-      "WebFetch(domain:www.draftly.so)"
+      "WebFetch(domain:www.draftly.so)",
+      "WebFetch(domain:contentin.io)",
+      "WebFetch(domain:postiv.ai)"
     ]
   },
   "enableAllProjectMcpServers": true,

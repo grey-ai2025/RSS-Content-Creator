@@ -1,0 +1,2121 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]: AI agents
+          - button "Advanced search" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]:
+                - img [ref=e23]
+              - tooltip [ref=e25]: Advanced search
+          - button "Clear search" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - button "Search" [ref=e30] [cursor=pointer]:
+            - img [ref=e31]
+        - generic [ref=e34]:
+          - generic [ref=e39]:
+            - button "Help" [ref=e40] [cursor=pointer]:
+              - img [ref=e42]
+            - tooltip [ref=e44]: Help
+          - generic [ref=e49]:
+            - button "Settings" [ref=e50] [cursor=pointer]:
+              - img [ref=e52]
+            - tooltip [ref=e55]: Settings
+      - generic [ref=e57]:
+        - button "Google apps" [ref=e61] [cursor=pointer]:
+          - img [ref=e62]
+        - link "Sign in" [ref=e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/search?q%3DAI%2Bagents%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/search?q%3DAI%2Bagents%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e68]:
+      - tablist [ref=e69]:
+        - tab "Home" [ref=e70] [cursor=pointer]:
+          - tab "Home" [ref=e71]
+        - tab "For you" [ref=e72] [cursor=pointer]:
+          - tab "For you" [ref=e73]
+        - tab "Following" [ref=e74] [cursor=pointer]:
+          - tab "Following" [ref=e75]
+        - tab "U.S." [ref=e78] [cursor=pointer]:
+          - tab "U.S." [ref=e79]
+        - tab "World" [ref=e80] [cursor=pointer]:
+          - tab "World" [ref=e81]
+        - tab "Local" [ref=e82] [cursor=pointer]:
+          - tab "Local" [ref=e83]
+        - tab "Business" [ref=e84] [cursor=pointer]:
+          - tab "Business" [ref=e85]
+        - tab "Technology" [ref=e86] [cursor=pointer]:
+          - tab "Technology" [ref=e87]
+        - tab "Entertainment" [ref=e88] [cursor=pointer]:
+          - tab "Entertainment" [ref=e89]
+      - generic [ref=e93]:
+        - button "More" [ref=e94] [cursor=pointer]:
+          - img [ref=e96]
+        - tooltip [ref=e98]: More
+  - main [ref=e102]:
+    - generic [ref=e104]:
+      - generic [ref=e106]:
+        - heading "Nvidia unveils RTX Spark chip for AI-powered Windows PCs" [level=3] [ref=e107]
+        - separator [ref=e108]
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e112]:
+              - generic [ref=e113]:
+                - link [ref=e115] [cursor=pointer]:
+                  - /url: ./read/CBMifEFVX3lxTE9MU0Y0VFlScVBDdDFaUXIxc1hvNlBZRnZ6NElFUHgtckZENHVMVmpvM241YjU1RnN2ejdlWEV6OFBfbldXZkItckJzOVZURWNUWmhaMUJ3SHhYd2xHWHF3VGwzeUlGTkNlc0h2UWhYbm03TXItXzEyNm1UeVk?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e117]:
+                  - generic [ref=e118]:
+                    - generic [ref=e121]: WSJ
+                    - generic [ref=e125]:
+                      - generic:
+                        - button "More - Nvidia Introduces First PCs Designed for AI Agents" [ref=e126] [cursor=pointer]:
+                          - img [ref=e128]
+                        - tooltip [ref=e130]: More
+                  - link "Nvidia Introduces First PCs Designed for AI Agents - WSJ - 3 hours ago - By Robbie Whelan & Amrith Ramkumar" [ref=e131] [cursor=pointer]:
+                    - /url: ./read/CBMifEFVX3lxTE9MU0Y0VFlScVBDdDFaUXIxc1hvNlBZRnZ6NElFUHgtckZENHVMVmpvM241YjU1RnN2ejdlWEV6OFBfbldXZkItckJzOVZURWNUWmhaMUJ3SHhYd2xHWHF3VGwzeUlGTkNlc0h2UWhYbm03TXItXzEyNm1UeVk?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Nvidia Introduces First PCs Designed for AI Agents
+                - figure [ref=e132]
+              - generic [ref=e133]:
+                - time [ref=e134]: 3 hours ago
+                - separator [ref=e135]
+                - generic [ref=e136]: By Robbie Whelan & Amrith Ramkumar
+            - separator [ref=e137]
+          - generic [ref=e138]:
+            - generic [ref=e140]:
+              - generic [ref=e141]:
+                - link [ref=e143] [cursor=pointer]:
+                  - /url: ./read/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e145]:
+                  - generic [ref=e146]:
+                    - generic [ref=e149]: NVIDIA Newsroom
+                    - generic [ref=e153]:
+                      - generic:
+                        - button "More - NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI" [ref=e154] [cursor=pointer]:
+                          - img [ref=e156]
+                        - tooltip [ref=e158]: More
+                  - link "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom - 15 hours ago - By Kelly Musgrave" [ref=e159] [cursor=pointer]:
+                    - /url: ./read/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI
+                - figure [ref=e160]
+              - generic [ref=e161]:
+                - time [ref=e162]: 15 hours ago
+                - separator [ref=e163]
+                - generic [ref=e164]: By Kelly Musgrave
+            - separator [ref=e165]
+          - generic [ref=e166]:
+            - generic [ref=e168]:
+              - generic [ref=e169]:
+                - link [ref=e171] [cursor=pointer]:
+                  - /url: ./read/CBMiqwFBVV95cUxOaWNNNWc0cjBrLXR1T2FRV1pXRXZjRXFBVTlHLVpyMDF5RWxuM21FSkpPWDhzUVVRUFdYNW0tVXQzOUJ0dVBGNzJTQUFpZUNJU0hqdHJtbmZOWWxkYjZ4bXFqaVlyMVJqRWYzYXZNdzl0bTVuYXZkZEtMZkNyaGh2WVNMM3FCTXc1al8yUzBqdjJHZ2w3OVV0azhfR010TVhSbUF4Si1JRldXdlE?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e173]:
+                  - generic [ref=e174]:
+                    - generic [ref=e177]: Interesting Engineering
+                    - generic [ref=e181]:
+                      - generic:
+                        - button "More - NVIDIA’s new desk-sized supercomputer for Windows to deploy AI agents" [ref=e182] [cursor=pointer]:
+                          - img [ref=e184]
+                        - tooltip [ref=e186]: More
+                  - link "NVIDIA’s new desk-sized supercomputer for Windows to deploy AI agents - Interesting Engineering - 6 hours ago - By Ameya Paleja" [ref=e187] [cursor=pointer]:
+                    - /url: ./read/CBMiqwFBVV95cUxOaWNNNWc0cjBrLXR1T2FRV1pXRXZjRXFBVTlHLVpyMDF5RWxuM21FSkpPWDhzUVVRUFdYNW0tVXQzOUJ0dVBGNzJTQUFpZUNJU0hqdHJtbmZOWWxkYjZ4bXFqaVlyMVJqRWYzYXZNdzl0bTVuYXZkZEtMZkNyaGh2WVNMM3FCTXc1al8yUzBqdjJHZ2w3OVV0azhfR010TVhSbUF4Si1JRldXdlE?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: NVIDIA’s new desk-sized supercomputer for Windows to deploy AI agents
+                - figure [ref=e188]
+              - generic [ref=e189]:
+                - time [ref=e190]: 6 hours ago
+                - separator [ref=e191]
+                - generic [ref=e192]: By Ameya Paleja
+            - separator [ref=e193]
+          - generic [ref=e194]:
+            - generic [ref=e196]:
+              - generic [ref=e197]:
+                - link [ref=e199] [cursor=pointer]:
+                  - /url: ./read/CBMilAFBVV95cUxONlJxU1NoNm9BNUIySnhNLTBXcF8zSVpmUlpFTzNXRzhlRGJIUk43bnNZbVNPX0toT1YyQXkwbGJMSW1VWnR5MG51U2w5Z2lkT1RGc0lRNTJQVmxCcXNYbHdGMkFRZnpjYUtidGlxR3ZjMHNtT1ZSTWVrckVraGlKNXcxaHpVeklPTGhsY3ZUTmVpLTFa?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e201]:
+                  - generic [ref=e202]:
+                    - generic [ref=e205]: TechRepublic
+                    - generic [ref=e209]:
+                      - generic:
+                        - button "More - Nvidia, Microsoft Launch RTX Spark PCs for AI Agents" [ref=e210] [cursor=pointer]:
+                          - img [ref=e212]
+                        - tooltip [ref=e214]: More
+                  - link "Nvidia, Microsoft Launch RTX Spark PCs for AI Agents - TechRepublic - 3 hours ago - By Kezia Grace Jungco" [ref=e215] [cursor=pointer]:
+                    - /url: ./read/CBMilAFBVV95cUxONlJxU1NoNm9BNUIySnhNLTBXcF8zSVpmUlpFTzNXRzhlRGJIUk43bnNZbVNPX0toT1YyQXkwbGJMSW1VWnR5MG51U2w5Z2lkT1RGc0lRNTJQVmxCcXNYbHdGMkFRZnpjYUtidGlxR3ZjMHNtT1ZSTWVrckVraGlKNXcxaHpVeklPTGhsY3ZUTmVpLTFa?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Nvidia, Microsoft Launch RTX Spark PCs for AI Agents
+                - figure [ref=e216]
+              - generic [ref=e217]:
+                - time [ref=e218]: 3 hours ago
+                - separator [ref=e219]
+                - generic [ref=e220]: By Kezia Grace Jungco
+            - separator [ref=e221]
+          - generic [ref=e222]:
+            - generic [ref=e224]:
+              - generic [ref=e225]:
+                - link [ref=e227] [cursor=pointer]:
+                  - /url: ./read/CBMixwFBVV95cUxNSFd3dFZ6emFSMEpVSGg1R2NOZFBiWXVJeUl4dEc5dS1raDYwLVZhRnNTdzJQaUdxRTJ0WElNM1NpRWlCVkFSdjc3TUk4MzBqSXFZUlZyZ25oOUo0dEtham5OdTBwS19VWnFwVFd3NGxDYmFMMElac3NBLVRsaEJEOE5XaDRhck9SSk5mdHl0RVJvODJSR1ZjTDE0T2lob0hYY05yYXIybnFsNktXX21UOWRtT3dxVHpVd2xVZV9sWFY1UEtZdDFN?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e229]:
+                  - generic [ref=e230]:
+                    - generic [ref=e233]: TweakTown
+                    - generic [ref=e237]:
+                      - generic:
+                        - button "More - NVIDIA and Microsoft team up to bring secure on-device AI agents to Windows PCs" [ref=e238] [cursor=pointer]:
+                          - img [ref=e240]
+                        - tooltip [ref=e242]: More
+                  - link "NVIDIA and Microsoft team up to bring secure on-device AI agents to Windows PCs - TweakTown - 6 hours ago - By Jak Connor" [ref=e243] [cursor=pointer]:
+                    - /url: ./read/CBMixwFBVV95cUxNSFd3dFZ6emFSMEpVSGg1R2NOZFBiWXVJeUl4dEc5dS1raDYwLVZhRnNTdzJQaUdxRTJ0WElNM1NpRWlCVkFSdjc3TUk4MzBqSXFZUlZyZ25oOUo0dEtham5OdTBwS19VWnFwVFd3NGxDYmFMMElac3NBLVRsaEJEOE5XaDRhck9SSk5mdHl0RVJvODJSR1ZjTDE0T2lob0hYY05yYXIybnFsNktXX21UOWRtT3dxVHpVd2xVZV9sWFY1UEtZdDFN?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: NVIDIA and Microsoft team up to bring secure on-device AI agents to Windows PCs
+                - figure [ref=e244]
+              - generic [ref=e245]:
+                - time [ref=e246]: 6 hours ago
+                - separator [ref=e247]
+                - generic [ref=e248]: By Jak Connor
+            - separator [ref=e249]
+          - generic [ref=e252]:
+            - generic [ref=e253]:
+              - link [ref=e255] [cursor=pointer]:
+                - /url: ./read/CBMigAFBVV95cUxQbDRsX2E0Z2VVNHpOdVJnaTNQSkVDUWlDbG52ZXZVNlhXQkRKZkg2azFwdE9BRV9PMHNTNkFseWlwaXMyTUF0Z0JHNGI5UWVUWW80Wkp0WTdCU1VmS2lKbWxwZjN3NVktc0FNZTZyOVl5RzNsblpTeUNXSHQwRTc2cA?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e257]:
+                - generic [ref=e258]:
+                  - generic [ref=e261]: digitimes
+                  - generic [ref=e265]:
+                    - generic:
+                      - button "More - Eight PC brands commit to Nvidia-MediaTek RTX Spark as AI agent laptops take shape for fall" [ref=e266] [cursor=pointer]:
+                        - img [ref=e268]
+                      - tooltip [ref=e270]: More
+                - link "Eight PC brands commit to Nvidia-MediaTek RTX Spark as AI agent laptops take shape for fall - digitimes - 15 hours ago" [ref=e271] [cursor=pointer]:
+                  - /url: ./read/CBMigAFBVV95cUxQbDRsX2E0Z2VVNHpOdVJnaTNQSkVDUWlDbG52ZXZVNlhXQkRKZkg2azFwdE9BRV9PMHNTNkFseWlwaXMyTUF0Z0JHNGI5UWVUWW80Wkp0WTdCU1VmS2lKbWxwZjN3NVktc0FNZTZyOVl5RzNsblpTeUNXSHQwRTc2cA?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Eight PC brands commit to Nvidia-MediaTek RTX Spark as AI agent laptops take shape for fall
+              - figure [ref=e272]
+            - time [ref=e274]: 15 hours ago
+          - generic [ref=e277]:
+            - generic [ref=e278]:
+              - link [ref=e280] [cursor=pointer]:
+                - /url: ./read/CBMifEFVX3lxTE80MlRaSTR5aXNWWWJyTV8xVTZpa1BzZWJNNXhCdVAyeHg2UEp0WGpGRG1fNEJJZnZELXd2Z2dwS0ZjMWRjZGdqZFY5NFZ1Q3hwZk05Yml0dHhNSTdDWkpBUktQUGpUTVZ0VFNYNlhPRjZnT0JidHJRSkRld2k?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e282]:
+                - generic [ref=e283]:
+                  - generic [ref=e286]: NVIDIA Blog
+                  - generic [ref=e290]:
+                    - generic:
+                      - button "More - NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark" [ref=e291] [cursor=pointer]:
+                        - img [ref=e293]
+                      - tooltip [ref=e295]: More
+                - link "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark - NVIDIA Blog - 15 hours ago - By Gerardo Delgado" [ref=e296] [cursor=pointer]:
+                  - /url: ./read/CBMifEFVX3lxTE80MlRaSTR5aXNWWWJyTV8xVTZpa1BzZWJNNXhCdVAyeHg2UEp0WGpGRG1fNEJJZnZELXd2Z2dwS0ZjMWRjZGdqZFY5NFZ1Q3hwZk05Yml0dHhNSTdDWkpBUktQUGpUTVZ0VFNYNlhPRjZnT0JidHJRSkRld2k?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark
+              - figure [ref=e297]
+            - generic [ref=e298]:
+              - time [ref=e299]: 15 hours ago
+              - separator [ref=e300]
+              - generic [ref=e301]: By Gerardo Delgado
+      - generic [ref=e305]:
+        - generic [ref=e306]:
+          - link [ref=e308] [cursor=pointer]:
+            - /url: ./read/CBMif0FVX3lxTE9QRmJZakxwbW50XzBJbThBSVJoLVhLTzR2S0FzWjRVbTgzbmF2Smc4QTZqQS0wRndPd2FmWWkwZUI1V3JSOC15UFl2T1BKMjJuTGVJRU5HbkFGRm1iVEVQbE9jSjRmN2c0amstZVdXVnBPNzRDdUNlUmw3b2c0dmM?hl=en-US&gl=US&ceid=US%3Aen
+          - generic [ref=e310]:
+            - generic [ref=e311]:
+              - generic [ref=e314]: The Verge
+              - generic [ref=e318]:
+                - generic:
+                  - button "More - Gemini’s new AI agent is about as good as Google’s demo" [ref=e319] [cursor=pointer]:
+                    - img [ref=e321]
+                  - tooltip [ref=e323]: More
+            - link "Gemini’s new AI agent is about as good as Google’s demo - The Verge - 12 minutes ago - By Jay Peters" [ref=e324] [cursor=pointer]:
+              - /url: ./read/CBMif0FVX3lxTE9QRmJZakxwbW50XzBJbThBSVJoLVhLTzR2S0FzWjRVbTgzbmF2Smc4QTZqQS0wRndPd2FmWWkwZUI1V3JSOC15UFl2T1BKMjJuTGVJRU5HbkFGRm1iVEVQbE9jSjRmN2c0amstZVdXVnBPNzRDdUNlUmw3b2c0dmM?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Gemini’s new AI agent is about as good as Google’s demo
+          - figure [ref=e325]
+        - generic [ref=e326]:
+          - time [ref=e327]: 12 minutes ago
+          - separator [ref=e328]
+          - generic [ref=e329]: By Jay Peters
+      - generic [ref=e330]:
+        - separator [ref=e332]
+        - generic [ref=e334]:
+          - generic [ref=e335]:
+            - link [ref=e337] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxNYW9HTVplaGZ0dHh4VHNiTS1IRWFlNHhzbWNMdVZVa2RTNVFZSGtHSzZvMW9oN3AyNTNzSEF3bkFwWkV0VkhLb0I2Wk5DZXBkUEtZUmVLUV9Sa0RmLUhOc3pTdTFGd0d5bEY4WHQydnVFQnVXN0RpeWoybll4UGQyMDdMc3NSMW5fNWdocGlabjR4TWRhaUdfRmZ0ZmRQQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e339]:
+              - generic [ref=e340]:
+                - generic [ref=e343]: Gizmodo
+                - generic [ref=e347]:
+                  - generic:
+                    - button "More - PewDiePie Is Here to Offer You Privacy Assurances in the Age of AI" [ref=e348] [cursor=pointer]:
+                      - img [ref=e350]
+                    - tooltip [ref=e352]: More
+              - link "PewDiePie Is Here to Offer You Privacy Assurances in the Age of AI - Gizmodo - 1 hour ago - By AJ Dellinger" [ref=e353] [cursor=pointer]:
+                - /url: ./read/CBMingFBVV95cUxNYW9HTVplaGZ0dHh4VHNiTS1IRWFlNHhzbWNMdVZVa2RTNVFZSGtHSzZvMW9oN3AyNTNzSEF3bkFwWkV0VkhLb0I2Wk5DZXBkUEtZUmVLUV9Sa0RmLUhOc3pTdTFGd0d5bEY4WHQydnVFQnVXN0RpeWoybll4UGQyMDdMc3NSMW5fNWdocGlabjR4TWRhaUdfRmZ0ZmRQQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: PewDiePie Is Here to Offer You Privacy Assurances in the Age of AI
+            - figure [ref=e354]
+          - generic [ref=e355]:
+            - time [ref=e356]: 1 hour ago
+            - separator [ref=e357]
+            - generic [ref=e358]: By AJ Dellinger
+      - generic [ref=e359]:
+        - separator [ref=e361]
+        - generic [ref=e363]:
+          - generic [ref=e364]:
+            - link [ref=e366] [cursor=pointer]:
+              - /url: ./read/CBMiiwFBVV95cUxOTnpqN2ZjQkhENERLZHg3aDZpVzR0Mm0tZDk3WE8wYVdmLVRncFdtd0puRER1dkFidVJWbmN5TTZCYjV1bi1hN3d1TW9OaUtRTVBHNjhGS1RzOUxmT2I4M1RSTi1laHc3WnYwLXoxTzItWXo5MF9CWHFnZ1JQZHJpSC1EUExXLXZPYlZN?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e368]:
+              - generic [ref=e369]:
+                - generic [ref=e372]: cio.com
+                - generic [ref=e376]:
+                  - generic:
+                    - button "More - Nvidia stacks up agentic AI infrastructure" [ref=e377] [cursor=pointer]:
+                      - img [ref=e379]
+                    - tooltip [ref=e381]: More
+              - link "Nvidia stacks up agentic AI infrastructure - cio.com - 13 minutes ago - By Gyana Swain" [ref=e382] [cursor=pointer]:
+                - /url: ./read/CBMiiwFBVV95cUxOTnpqN2ZjQkhENERLZHg3aDZpVzR0Mm0tZDk3WE8wYVdmLVRncFdtd0puRER1dkFidVJWbmN5TTZCYjV1bi1hN3d1TW9OaUtRTVBHNjhGS1RzOUxmT2I4M1RSTi1laHc3WnYwLXoxTzItWXo5MF9CWHFnZ1JQZHJpSC1EUExXLXZPYlZN?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia stacks up agentic AI infrastructure
+            - figure [ref=e383]
+          - generic [ref=e384]:
+            - time [ref=e385]: 13 minutes ago
+            - separator [ref=e386]
+            - generic [ref=e387]: By Gyana Swain
+      - generic [ref=e388]:
+        - separator [ref=e390]
+        - generic [ref=e392]:
+          - generic [ref=e393]:
+            - link [ref=e395] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxOcEhwcGRGVXhGa1JyWWJhOHVEaGlVYUxzbnhyNFRJNFJ4bVhTdWFPT1A0SUVoY1B4Sm5OOUhoajltWUZLNmdDaUdITGJCMDJCX1FhSlNXaXdBSHVPUWpaWEhlQUJhTHlsT3ZaOG1RTUNJMWs0aWVkM0Q0U0FUZDJCbDZQWmpTeC1lRGRCVU5nU1RTZWNOSGl4bzc4c3dmYjV1MjhOSmpEY21tYWR3TFE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e397]:
+              - generic [ref=e398]:
+                - generic [ref=e401]: MSSP Alert
+                - generic [ref=e405]:
+                  - generic:
+                    - button "More - MSSPs see new security demand as AI agent governance gaps grow" [ref=e406] [cursor=pointer]:
+                      - img [ref=e408]
+                    - tooltip [ref=e410]: More
+              - link "MSSPs see new security demand as AI agent governance gaps grow - MSSP Alert - 2 hours ago" [ref=e411] [cursor=pointer]:
+                - /url: ./read/CBMirgFBVV95cUxOcEhwcGRGVXhGa1JyWWJhOHVEaGlVYUxzbnhyNFRJNFJ4bVhTdWFPT1A0SUVoY1B4Sm5OOUhoajltWUZLNmdDaUdITGJCMDJCX1FhSlNXaXdBSHVPUWpaWEhlQUJhTHlsT3ZaOG1RTUNJMWs0aWVkM0Q0U0FUZDJCbDZQWmpTeC1lRGRCVU5nU1RTZWNOSGl4bzc4c3dmYjV1MjhOSmpEY21tYWR3TFE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: MSSPs see new security demand as AI agent governance gaps grow
+            - figure [ref=e412]
+          - time [ref=e414]: 2 hours ago
+      - generic [ref=e415]:
+        - separator [ref=e417]
+        - generic [ref=e419]:
+          - generic [ref=e420]:
+            - link [ref=e422] [cursor=pointer]:
+              - /url: ./read/CBMi0AFBVV95cUxNSy1iakgyb2lFU1FBTk4wXzk5T0pRb1l6QzRieEdtUTVSMktwX29xVkkwY0luSlZsWHVaVXZpbmN6UnFBdW9fcUFmVndaaUEwZUtESEZvd2ZpTjRWemhxS01OQUJwVDhYM3dTdjEydjVJdy1PMnZ6UDBmVFhiUkhSaFVZekNqS0hmMS1XWFhoREVTU2pvV2tOemRBejJsWHVNVlZpZWJNSHhldjEzb2JnN01fNUt5NVVpTHFkSXpSSXBkcE1saVliaFZwQXV2QUJ3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e424]:
+              - generic [ref=e425]:
+                - generic [ref=e428]: Amazon Web Services (AWS)
+                - generic [ref=e432]:
+                  - generic:
+                    - button "More - Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway" [ref=e433] [cursor=pointer]:
+                      - img [ref=e435]
+                    - tooltip [ref=e437]: More
+              - link "Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway - Amazon Web Services (AWS) - 2 hours ago" [ref=e438] [cursor=pointer]:
+                - /url: ./read/CBMi0AFBVV95cUxNSy1iakgyb2lFU1FBTk4wXzk5T0pRb1l6QzRieEdtUTVSMktwX29xVkkwY0luSlZsWHVaVXZpbmN6UnFBdW9fcUFmVndaaUEwZUtESEZvd2ZpTjRWemhxS01OQUJwVDhYM3dTdjEydjVJdy1PMnZ6UDBmVFhiUkhSaFVZekNqS0hmMS1XWFhoREVTU2pvV2tOemRBejJsWHVNVlZpZWJNSHhldjEzb2JnN01fNUt5NVVpTHFkSXpSSXBkcE1saVliaFZwQXV2QUJ3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway
+            - figure [ref=e439]
+          - time [ref=e441]: 2 hours ago
+      - generic [ref=e442]:
+        - separator [ref=e444]
+        - generic [ref=e446]:
+          - generic [ref=e447]:
+            - link [ref=e449] [cursor=pointer]:
+              - /url: ./read/CBMipAFBVV95cUxOazN3cnpjZTZTanRsMVpJOGRwTlZWR3poRnJBMWF5TjlQanN2ZHBHVDFCUzF2SFMyUTN2a2MtblZUdkQ1ZE1hSmlaVzd2X1hPMmNXZkQwSkxTZU5idGpQcUF2cDNSeEVKOGM5OUxTUFNWNmRJTGxlR2FSQkJfNGNiMWtSaEJrS295b3kxNTlFc3A2T2dIWFJsVGVMSXVDQ25BSDBtUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e451]:
+              - generic [ref=e452]:
+                - generic [ref=e455]: Cloud Wars
+                - generic [ref=e459]:
+                  - generic:
+                    - button "More - Microsoft Governance Tools Ensure AI Agents Play Within the Rules at Runtime" [ref=e460] [cursor=pointer]:
+                      - img [ref=e462]
+                    - tooltip [ref=e464]: More
+              - link "Microsoft Governance Tools Ensure AI Agents Play Within the Rules at Runtime - Cloud Wars - 6 hours ago - By Tom Smith" [ref=e465] [cursor=pointer]:
+                - /url: ./read/CBMipAFBVV95cUxOazN3cnpjZTZTanRsMVpJOGRwTlZWR3poRnJBMWF5TjlQanN2ZHBHVDFCUzF2SFMyUTN2a2MtblZUdkQ1ZE1hSmlaVzd2X1hPMmNXZkQwSkxTZU5idGpQcUF2cDNSeEVKOGM5OUxTUFNWNmRJTGxlR2FSQkJfNGNiMWtSaEJrS295b3kxNTlFc3A2T2dIWFJsVGVMSXVDQ25BSDBtUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Microsoft Governance Tools Ensure AI Agents Play Within the Rules at Runtime
+            - figure [ref=e466]
+          - generic [ref=e467]:
+            - time [ref=e468]: 6 hours ago
+            - separator [ref=e469]
+            - generic [ref=e470]: By Tom Smith
+      - generic [ref=e471]:
+        - separator [ref=e473]
+        - generic [ref=e475]:
+          - generic [ref=e476]:
+            - link [ref=e478] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxNMjBxbmRaaS1XRXp5U2ZvdWlZUXhGdV9Ld2lvRm5vLVhkQVgwNTlUbU9OcXp4ME1aNm1QdHpKRHBWUUt2VG9COEZNY05QTHhwNXdKb0xuUjYxY0FWSDROZ1JuT1BXR0lpZTRCQTdOa251QVI0NEVsQXJQUWJibXIycmRWbmVLTFFnT1hqcUxvZWRuSG5mZHJ4ZlhOT0d2MWdhbUJKbEJjT2ZkdFUtd3B3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e480]:
+              - generic [ref=e481]:
+                - generic [ref=e484]: Harvard Business School
+                - generic [ref=e488]:
+                  - generic:
+                    - button "More - Who’s Adopting AI Agents—and What They’re Actually Doing With Them" [ref=e489] [cursor=pointer]:
+                      - img [ref=e491]
+                    - tooltip [ref=e493]: More
+              - link "Who’s Adopting AI Agents—and What They’re Actually Doing With Them - Harvard Business School - 7 hours ago - By Michael Blanding" [ref=e494] [cursor=pointer]:
+                - /url: ./read/CBMirwFBVV95cUxNMjBxbmRaaS1XRXp5U2ZvdWlZUXhGdV9Ld2lvRm5vLVhkQVgwNTlUbU9OcXp4ME1aNm1QdHpKRHBWUUt2VG9COEZNY05QTHhwNXdKb0xuUjYxY0FWSDROZ1JuT1BXR0lpZTRCQTdOa251QVI0NEVsQXJQUWJibXIycmRWbmVLTFFnT1hqcUxvZWRuSG5mZHJ4ZlhOT0d2MWdhbUJKbEJjT2ZkdFUtd3B3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Who’s Adopting AI Agents—and What They’re Actually Doing With Them
+            - figure [ref=e495]
+          - generic [ref=e496]:
+            - time [ref=e497]: 7 hours ago
+            - separator [ref=e498]
+            - generic [ref=e499]: By Michael Blanding
+      - generic [ref=e500]:
+        - separator [ref=e502]
+        - generic [ref=e504]:
+          - generic [ref=e505]:
+            - link [ref=e507] [cursor=pointer]:
+              - /url: ./read/CBMid0FVX3lxTE4zUzVrYkwtMjVZZ0ZicFdJR1hvV2h3dHgwNW42QXRnVm1SZVdzOVBBZGR3TlN2UF9KOHJ0azhiYnIxbW8zbHZxZFJDRHFXRXJicGV6a3pYNG9YeG10NkpTVTVQX1Nab0tuMFoycDVHeS15SFVvTF9F?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e509]:
+              - generic [ref=e510]:
+                - generic [ref=e513]: infoq.com
+                - generic [ref=e517]:
+                  - generic:
+                    - button "More - BadHost Vulnerability Exposes AI Agents, Evaluators, and LLM Gateways" [ref=e518] [cursor=pointer]:
+                      - img [ref=e520]
+                    - tooltip [ref=e522]: More
+              - link "BadHost Vulnerability Exposes AI Agents, Evaluators, and LLM Gateways - infoq.com - 6 hours ago - By Sergio De Simone" [ref=e523] [cursor=pointer]:
+                - /url: ./read/CBMid0FVX3lxTE4zUzVrYkwtMjVZZ0ZicFdJR1hvV2h3dHgwNW42QXRnVm1SZVdzOVBBZGR3TlN2UF9KOHJ0azhiYnIxbW8zbHZxZFJDRHFXRXJicGV6a3pYNG9YeG10NkpTVTVQX1Nab0tuMFoycDVHeS15SFVvTF9F?hl=en-US&gl=US&ceid=US%3Aen
+                - text: BadHost Vulnerability Exposes AI Agents, Evaluators, and LLM Gateways
+            - figure [ref=e524]
+          - generic [ref=e525]:
+            - time [ref=e526]: 6 hours ago
+            - separator [ref=e527]
+            - generic [ref=e528]: By Sergio De Simone
+      - generic [ref=e529]:
+        - separator [ref=e531]
+        - generic [ref=e533]:
+          - generic [ref=e534]:
+            - link [ref=e536] [cursor=pointer]:
+              - /url: ./read/CBMiiwFBVV95cUxPUkNrUXRYSXR0a2ZwbWZQQmdzc1RlaXZwR3R4UDVvRFFjTDlvNlBHNEJqR1d0MGVsNnFYWjkxcDkxejVsTDJvVWdFcTFFekNNaWJoQURtNFVkaW9BbTE0a05vTVdBcUFTY3VKX2w2Z2poU09tQUdVVmM2Y3BkOHhqQUNkMXo2LVhNRE9B?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e538]:
+              - generic [ref=e539]:
+                - generic [ref=e542]: Artificial Lawyer
+                - generic [ref=e546]:
+                  - generic:
+                    - button "More - Claude For Legal Has Over 90 AI Agents" [ref=e547] [cursor=pointer]:
+                      - img [ref=e549]
+                    - tooltip [ref=e551]: More
+              - link "Claude For Legal Has Over 90 AI Agents - Artificial Lawyer - 11 hours ago" [ref=e552] [cursor=pointer]:
+                - /url: ./read/CBMiiwFBVV95cUxPUkNrUXRYSXR0a2ZwbWZQQmdzc1RlaXZwR3R4UDVvRFFjTDlvNlBHNEJqR1d0MGVsNnFYWjkxcDkxejVsTDJvVWdFcTFFekNNaWJoQURtNFVkaW9BbTE0a05vTVdBcUFTY3VKX2w2Z2poU09tQUdVVmM2Y3BkOHhqQUNkMXo2LVhNRE9B?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Claude For Legal Has Over 90 AI Agents
+            - figure [ref=e553]
+          - time [ref=e555]: 11 hours ago
+      - generic [ref=e556]:
+        - separator [ref=e558]
+        - generic [ref=e560]:
+          - generic [ref=e561]:
+            - link [ref=e563] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxPSEU1SDlkSUhrREtfc0JHVGlaUXA1MGVSSDhENjRmODlMSlZlT2V0RjBFQ0lOOVRHQUtISWxCaXVIYllSck5vS2xiNUJpSGU3UzBDSEFnZktXSXNKZG03SzlqempfWVBuak1NcXAyZTlsb1J5VGlVYXZEQ2dZYlQwem9qenJSV1JibjJrRnZldHU4cXZGQjNMRGNnMVVQS0RGSEVaM05jWnZEQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e565]:
+              - generic [ref=e566]:
+                - generic [ref=e569]: SiliconANGLE
+                - generic [ref=e573]:
+                  - generic:
+                    - button "More - Merge launches Agent Handler for Employees as an IT gatekeeper for workplace AI agents" [ref=e574] [cursor=pointer]:
+                      - img [ref=e576]
+                    - tooltip [ref=e578]: More
+              - link "Merge launches Agent Handler for Employees as an IT gatekeeper for workplace AI agents - SiliconANGLE - 7 hours ago - By Kyt Dotson" [ref=e579] [cursor=pointer]:
+                - /url: ./read/CBMiqgFBVV95cUxPSEU1SDlkSUhrREtfc0JHVGlaUXA1MGVSSDhENjRmODlMSlZlT2V0RjBFQ0lOOVRHQUtISWxCaXVIYllSck5vS2xiNUJpSGU3UzBDSEFnZktXSXNKZG03SzlqempfWVBuak1NcXAyZTlsb1J5VGlVYXZEQ2dZYlQwem9qenJSV1JibjJrRnZldHU4cXZGQjNMRGNnMVVQS0RGSEVaM05jWnZEQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Merge launches Agent Handler for Employees as an IT gatekeeper for workplace AI agents
+            - figure [ref=e580]
+          - generic [ref=e581]:
+            - time [ref=e582]: 7 hours ago
+            - separator [ref=e583]
+            - generic [ref=e584]: By Kyt Dotson
+      - generic [ref=e585]:
+        - separator [ref=e587]
+        - generic [ref=e589]:
+          - generic [ref=e590]:
+            - link [ref=e592] [cursor=pointer]:
+              - /url: ./read/CBMif0FVX3lxTE5GOVhfRkY5eEJ1RlJfUG9HZEtfSzZaVm5BTGlFTWRjNVMzUU5PRzJaN2lYWFVLOW1scnFKRi1XOWFCT1AxOXFJN3dNWF84b3Nma2cweFVXRk9DQndRSElEV2tOcjBnMkNReG5MWHZ0bDBVdFdmREFMTVEwRlNKOU0?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e594]:
+              - generic [ref=e595]:
+                - generic [ref=e598]: Help Net Security
+                - generic [ref=e602]:
+                  - generic:
+                    - button "More - DNS-AID lets AI agents find and verify each other through DNS" [ref=e603] [cursor=pointer]:
+                      - img [ref=e605]
+                    - tooltip [ref=e607]: More
+              - link "DNS-AID lets AI agents find and verify each other through DNS - Help Net Security - 12 hours ago" [ref=e608] [cursor=pointer]:
+                - /url: ./read/CBMif0FVX3lxTE5GOVhfRkY5eEJ1RlJfUG9HZEtfSzZaVm5BTGlFTWRjNVMzUU5PRzJaN2lYWFVLOW1scnFKRi1XOWFCT1AxOXFJN3dNWF84b3Nma2cweFVXRk9DQndRSElEV2tOcjBnMkNReG5MWHZ0bDBVdFdmREFMTVEwRlNKOU0?hl=en-US&gl=US&ceid=US%3Aen
+                - text: DNS-AID lets AI agents find and verify each other through DNS
+            - figure [ref=e609]
+          - time [ref=e611]: 12 hours ago
+      - generic [ref=e612]:
+        - separator [ref=e614]
+        - generic [ref=e616]:
+          - generic [ref=e617]:
+            - link [ref=e619] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxNUFFlODdKNWowS1F1a0VkMi1GVUhRRkEyb0VMZTRLZ0RqY2p5aW9GbkxNY2tVWmhrQXpPQ1p4M1NRQkp2bDRleWhTbWVvN25Hc29hbkdiOGo4Tnp6aEh1Z1JDTGhWRFE2ZXJWTGR5MFUzM0hNSzhPdG9yNUhsUjdENFdzbkd1a0JwUk1jS2h6TkxmY3luSmtXZEpETnJqR09JUFE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e621]:
+              - generic [ref=e622]:
+                - generic [ref=e625]: The Futurum Group
+                - generic [ref=e629]:
+                  - generic:
+                    - button "More - Can Bigin’s AI Agents Redefine CRM Automation for Small Businesses?" [ref=e630] [cursor=pointer]:
+                      - img [ref=e632]
+                    - tooltip [ref=e634]: More
+              - link "Can Bigin’s AI Agents Redefine CRM Automation for Small Businesses? - The Futurum Group - 2 hours ago - By Keith Kirkpatrick" [ref=e635] [cursor=pointer]:
+                - /url: ./read/CBMiogFBVV95cUxNUFFlODdKNWowS1F1a0VkMi1GVUhRRkEyb0VMZTRLZ0RqY2p5aW9GbkxNY2tVWmhrQXpPQ1p4M1NRQkp2bDRleWhTbWVvN25Hc29hbkdiOGo4Tnp6aEh1Z1JDTGhWRFE2ZXJWTGR5MFUzM0hNSzhPdG9yNUhsUjdENFdzbkd1a0JwUk1jS2h6TkxmY3luSmtXZEpETnJqR09JUFE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Can Bigin’s AI Agents Redefine CRM Automation for Small Businesses?
+            - figure [ref=e636]
+          - generic [ref=e637]:
+            - time [ref=e638]: 2 hours ago
+            - separator [ref=e639]
+            - generic [ref=e640]: By Keith Kirkpatrick
+      - generic [ref=e641]:
+        - separator [ref=e643]
+        - generic [ref=e645]:
+          - generic [ref=e646]:
+            - link [ref=e648] [cursor=pointer]:
+              - /url: ./read/CBMiyAFBVV95cUxORWM2S2ItQkJrX3EzZEtHNV9ZSWt0ZXBBVURMQ3dZWVBRYUlPaG9iUUd4bXUtSk92ZFMyQnh0X0RJakNHUF9PWm1FWTRubUVMbjh2TjFSNVNmLTBDVzF4TWk1LXVvZF9LejRMOHNxN0FYR3o2LVhwMUplZTBHQl9GUU44NlNYYUZNNl90d1BaeFBXTFVySXRIdHNJQUhYcjlLb04wRTZmM2FLWVV4cDEyTGlQd1IzVzVfb0ljeVZMTzFseVlPY3dwdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e650]:
+              - generic [ref=e651]:
+                - generic [ref=e654]: Business Wire
+                - generic [ref=e658]:
+                  - generic:
+                    - button "More - Telinta and Vida Team Up to Bring AI Agents to Telecom Service Providers" [ref=e659] [cursor=pointer]:
+                      - img [ref=e661]
+                    - tooltip [ref=e663]: More
+              - link "Telinta and Vida Team Up to Bring AI Agents to Telecom Service Providers - Business Wire - 6 hours ago" [ref=e664] [cursor=pointer]:
+                - /url: ./read/CBMiyAFBVV95cUxORWM2S2ItQkJrX3EzZEtHNV9ZSWt0ZXBBVURMQ3dZWVBRYUlPaG9iUUd4bXUtSk92ZFMyQnh0X0RJakNHUF9PWm1FWTRubUVMbjh2TjFSNVNmLTBDVzF4TWk1LXVvZF9LejRMOHNxN0FYR3o2LVhwMUplZTBHQl9GUU44NlNYYUZNNl90d1BaeFBXTFVySXRIdHNJQUhYcjlLb04wRTZmM2FLWVV4cDEyTGlQd1IzVzVfb0ljeVZMTzFseVlPY3dwdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Telinta and Vida Team Up to Bring AI Agents to Telecom Service Providers
+            - figure [ref=e665]
+          - time [ref=e667]: 6 hours ago
+      - generic [ref=e668]:
+        - separator [ref=e670]
+        - generic [ref=e672]:
+          - generic [ref=e673]:
+            - link [ref=e675] [cursor=pointer]:
+              - /url: ./read/CBMiuAFBVV95cUxNY2cwN29IVEMwMkhGZjJxQmhKdEFjV280bTVfMUk4SFJMSDUxQXhvQXY3c3FvZ3VJRE9YTXFSVjd4Sk5fTnJGbDJHZnZYVXAtVHhDR3lsbjJPRUxmSVhFWmpsaUV3WUgyTElMUnVxRjlEV2dsOW1ka0MxcGZMZG5QZXhmMDBhN1dTMENoeEU1Smt6dTNhMW5abEVJY2VTM2dxOWNDZjk4NzBRTlhROF9UUkRSZ1d4amJr?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e677]:
+              - generic [ref=e678]:
+                - generic [ref=e681]: HPCwire
+                - generic [ref=e685]:
+                  - generic:
+                    - button "More - NVIDIA Partners with Software Leaders to Build Secure, Autonomous AI Agents" [ref=e686] [cursor=pointer]:
+                      - img [ref=e688]
+                    - tooltip [ref=e690]: More
+              - link "NVIDIA Partners with Software Leaders to Build Secure, Autonomous AI Agents - HPCwire - 2 hours ago" [ref=e691] [cursor=pointer]:
+                - /url: ./read/CBMiuAFBVV95cUxNY2cwN29IVEMwMkhGZjJxQmhKdEFjV280bTVfMUk4SFJMSDUxQXhvQXY3c3FvZ3VJRE9YTXFSVjd4Sk5fTnJGbDJHZnZYVXAtVHhDR3lsbjJPRUxmSVhFWmpsaUV3WUgyTElMUnVxRjlEV2dsOW1ka0MxcGZMZG5QZXhmMDBhN1dTMENoeEU1Smt6dTNhMW5abEVJY2VTM2dxOWNDZjk4NzBRTlhROF9UUkRSZ1d4amJr?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA Partners with Software Leaders to Build Secure, Autonomous AI Agents
+            - figure [ref=e692]
+          - time [ref=e694]: 2 hours ago
+      - generic [ref=e695]:
+        - separator [ref=e697]
+        - generic [ref=e699]:
+          - generic [ref=e700]:
+            - link [ref=e702] [cursor=pointer]:
+              - /url: ./read/CBMilAFBVV95cUxQcHJFOGJ1R0Rmb3FyLW4wRkZ4S0RzTTMwcVpZNWw2akdva0gxOFY2b0U1TDRTdWJoZmFPLUEwZmlYRTk4R1BzRnBCZUFDMHE5cGVlYlIyWXdtV0V5czBtV2pQUzgwYWEyTkY2a0pGVXZ6QTFjS0l3VU1NOFludDJiNFNJRTljRVp0NmVDRUdWZEh4WEpM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e704]:
+              - generic [ref=e705]:
+                - generic [ref=e708]: NVIDIA Newsroom
+                - generic [ref=e712]:
+                  - generic:
+                    - button "More - Enterprise Software Leaders Build AI Agents With NVIDIA" [ref=e713] [cursor=pointer]:
+                      - img [ref=e715]
+                    - tooltip [ref=e717]: More
+              - link "Enterprise Software Leaders Build AI Agents With NVIDIA - NVIDIA Newsroom - 15 hours ago" [ref=e718] [cursor=pointer]:
+                - /url: ./read/CBMilAFBVV95cUxQcHJFOGJ1R0Rmb3FyLW4wRkZ4S0RzTTMwcVpZNWw2akdva0gxOFY2b0U1TDRTdWJoZmFPLUEwZmlYRTk4R1BzRnBCZUFDMHE5cGVlYlIyWXdtV0V5czBtV2pQUzgwYWEyTkY2a0pGVXZ6QTFjS0l3VU1NOFludDJiNFNJRTljRVp0NmVDRUdWZEh4WEpM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Enterprise Software Leaders Build AI Agents With NVIDIA
+            - figure [ref=e719]
+          - time [ref=e721]: 15 hours ago
+      - generic [ref=e722]:
+        - separator [ref=e724]
+        - generic [ref=e726]:
+          - generic [ref=e727]:
+            - link [ref=e729] [cursor=pointer]:
+              - /url: ./read/CBMimgFBVV95cUxPa3JhM09NU0NZTTBWMDBocWtYTWJKaXFuN0czV3ZVQXZCbEJFdDJJaHpvejRUc3hmMUtiYWtqWFpmMUVfS0dFckpFZlMySklLcGU0NnozVHVMTjZ5SzQwRHZfeERsaEhfb2pLM1E5U2FGeVlISjdZSEZqeXZWVmpJWW5NaFlpRng0LVBJZldXYzhlYXZWS29KLS1B?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e731]:
+              - generic [ref=e732]:
+                - generic [ref=e735]: Cloud Wars
+                - generic [ref=e739]:
+                  - generic:
+                    - 'button "More - Event Moment: Dona Sarkar on Why Coding Agents Are Leading the AI Era" [ref=e740] [cursor=pointer]':
+                      - img [ref=e742]
+                    - tooltip [ref=e744]: More
+              - 'link "Event Moment: Dona Sarkar on Why Coding Agents Are Leading the AI Era - Cloud Wars - 7 hours ago - By Kieron Allen" [ref=e745] [cursor=pointer]':
+                - /url: ./read/CBMimgFBVV95cUxPa3JhM09NU0NZTTBWMDBocWtYTWJKaXFuN0czV3ZVQXZCbEJFdDJJaHpvejRUc3hmMUtiYWtqWFpmMUVfS0dFckpFZlMySklLcGU0NnozVHVMTjZ5SzQwRHZfeERsaEhfb2pLM1E5U2FGeVlISjdZSEZqeXZWVmpJWW5NaFlpRng0LVBJZldXYzhlYXZWS29KLS1B?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Event Moment: Dona Sarkar on Why Coding Agents Are Leading the AI Era"
+            - figure [ref=e746]
+          - generic [ref=e747]:
+            - time [ref=e748]: 7 hours ago
+            - separator [ref=e749]
+            - generic [ref=e750]: By Kieron Allen
+      - generic [ref=e751]:
+        - separator [ref=e753]
+        - generic [ref=e755]:
+          - generic [ref=e756]:
+            - link [ref=e758] [cursor=pointer]:
+              - /url: ./read/CBMipwFBVV95cUxOM1VGRUhLNTJDRXZOcnFpWUlpdTIwbGVsZk15Z3VucjRHX2F0VXc0RXBMSVVQVGYxTHlEay1rS2dNX3FyNDNQS2xLUG11MTdLRlRieW8xa2lObThNN0NDUTBVWEFNcXQycWhuemFWVno1cGhLODlpX3g2dHUwVEJDYmYtV0s4cHdVT0FWbE1udVYxRWQwbzMzYXBYdk1pcExkcmN1NG9DQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e760]:
+              - generic [ref=e761]:
+                - generic [ref=e764]: MSSP Alert
+                - generic [ref=e768]:
+                  - generic:
+                    - button "More - 7AI gives security teams new ways to direct AI agents for threat hunting" [ref=e769] [cursor=pointer]:
+                      - img [ref=e771]
+                    - tooltip [ref=e773]: More
+              - link "7AI gives security teams new ways to direct AI agents for threat hunting - MSSP Alert - 50 minutes ago" [ref=e774] [cursor=pointer]:
+                - /url: ./read/CBMipwFBVV95cUxOM1VGRUhLNTJDRXZOcnFpWUlpdTIwbGVsZk15Z3VucjRHX2F0VXc0RXBMSVVQVGYxTHlEay1rS2dNX3FyNDNQS2xLUG11MTdLRlRieW8xa2lObThNN0NDUTBVWEFNcXQycWhuemFWVno1cGhLODlpX3g2dHUwVEJDYmYtV0s4cHdVT0FWbE1udVYxRWQwbzMzYXBYdk1pcExkcmN1NG9DQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: 7AI gives security teams new ways to direct AI agents for threat hunting
+            - figure [ref=e775]
+          - time [ref=e777]: 50 minutes ago
+      - generic [ref=e778]:
+        - separator [ref=e780]
+        - generic [ref=e782]:
+          - generic [ref=e783]:
+            - link [ref=e785] [cursor=pointer]:
+              - /url: ./read/CBMivgFBVV95cUxQaXh6M3BwdlF3a3VWWEhQSUdhQTR5WFk4UGJINUFwa0ZCQW0ybUljYWoxbzNETmViNGJpS2llXzV6R01iemV0QndtSzIzMmlwMXlhOTJmZUxrSGxWUlhGb0ZSRWJlcVhaMURQMHhzRjRIYzhnUl9OYzRaaWZOSjNPOVA1b25Gcm9PNXBCcnI3bG9ucThQRXBzUzExX3NWQ1VURjZxNXhLSWdMRXFhNUV2ajZoZnRieVc5dUQ3ZXBB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e787]:
+              - generic [ref=e788]:
+                - generic [ref=e791]: NVIDIA Newsroom
+                - generic [ref=e795]:
+                  - generic:
+                    - button "More - NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI" [ref=e796] [cursor=pointer]:
+                      - img [ref=e798]
+                    - tooltip [ref=e800]: More
+              - link "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI - NVIDIA Newsroom - 15 hours ago" [ref=e801] [cursor=pointer]:
+                - /url: ./read/CBMivgFBVV95cUxQaXh6M3BwdlF3a3VWWEhQSUdhQTR5WFk4UGJINUFwa0ZCQW0ybUljYWoxbzNETmViNGJpS2llXzV6R01iemV0QndtSzIzMmlwMXlhOTJmZUxrSGxWUlhGb0ZSRWJlcVhaMURQMHhzRjRIYzhnUl9OYzRaaWZOSjNPOVA1b25Gcm9PNXBCcnI3bG9ucThQRXBzUzExX3NWQ1VURjZxNXhLSWdMRXFhNUV2ajZoZnRieVc5dUQ3ZXBB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI
+            - figure [ref=e802]
+          - time [ref=e804]: 15 hours ago
+      - generic [ref=e805]:
+        - separator [ref=e807]
+        - generic [ref=e809]:
+          - generic [ref=e810]:
+            - link [ref=e812] [cursor=pointer]:
+              - /url: ./read/CBMizgFBVV95cUxNeU1SbnhOVDNfSXBubmYzOTJQMkgwYkhnZE5YVVFpZU5LaFM3ZUNTWnNsRW1pbnJHQTdfR1NiMWxHd2x6TFBZQk9hT3VGVTVhU0NTcEhwMEtBeGQyOEZjbnZmUmJVU1NTdkVRXzhwaGZqcWdaV2NqYnl0TWVSZzhNNXlaRkpzZVdQRTM0bXdWaFBnSU9fUHlZcVQ0dEl4OHRrZ0d0LXlzM2hwbTZzTnJrMGhiYkxlUDRHUTNXa3pyNm5BQWRVamZqY3RCNXZuQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e814]:
+              - generic [ref=e815]:
+                - generic [ref=e818]: NVIDIA Newsroom
+                - generic [ref=e822]:
+                  - generic:
+                    - button "More - NVIDIA DGX Station for Windows Puts a Trillion-Parameter AI Supercomputer on Every Enterprise Desk" [ref=e823] [cursor=pointer]:
+                      - img [ref=e825]
+                    - tooltip [ref=e827]: More
+              - link "NVIDIA DGX Station for Windows Puts a Trillion-Parameter AI Supercomputer on Every Enterprise Desk - NVIDIA Newsroom - 15 hours ago" [ref=e828] [cursor=pointer]:
+                - /url: ./read/CBMizgFBVV95cUxNeU1SbnhOVDNfSXBubmYzOTJQMkgwYkhnZE5YVVFpZU5LaFM3ZUNTWnNsRW1pbnJHQTdfR1NiMWxHd2x6TFBZQk9hT3VGVTVhU0NTcEhwMEtBeGQyOEZjbnZmUmJVU1NTdkVRXzhwaGZqcWdaV2NqYnl0TWVSZzhNNXlaRkpzZVdQRTM0bXdWaFBnSU9fUHlZcVQ0dEl4OHRrZ0d0LXlzM2hwbTZzTnJrMGhiYkxlUDRHUTNXa3pyNm5BQWRVamZqY3RCNXZuQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA DGX Station for Windows Puts a Trillion-Parameter AI Supercomputer on Every Enterprise Desk
+            - figure [ref=e829]
+          - time [ref=e831]: 15 hours ago
+      - generic [ref=e832]:
+        - separator [ref=e834]
+        - generic [ref=e836]:
+          - generic [ref=e837]:
+            - link [ref=e839] [cursor=pointer]:
+              - /url: ./read/CBMifkFVX3lxTE01NlJFNGItQVlnUjBkUTlndjRIMWdWNzlUSG9mNWJVY3NUMUxGa0Q1aXZVWFo3LV9YQkFHZGNaNVZJRERPU0RGY2puYUpLa1E5bHFXVWw4S3dwT0dEcUhBbXVvU0pKZG5CWnN4RWlpRjJLT3o1MFZKUWZidGRPZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e841]:
+              - generic [ref=e842]:
+                - generic [ref=e845]: NVIDIA Newsroom
+                - generic [ref=e849]:
+                  - generic:
+                    - button "More - NVIDIA Unveils Vera, the CPU for Agents" [ref=e850] [cursor=pointer]:
+                      - img [ref=e852]
+                    - tooltip [ref=e854]: More
+              - link "NVIDIA Unveils Vera, the CPU for Agents - NVIDIA Newsroom - 16 hours ago" [ref=e855] [cursor=pointer]:
+                - /url: ./read/CBMifkFVX3lxTE01NlJFNGItQVlnUjBkUTlndjRIMWdWNzlUSG9mNWJVY3NUMUxGa0Q1aXZVWFo3LV9YQkFHZGNaNVZJRERPU0RGY2puYUpLa1E5bHFXVWw4S3dwT0dEcUhBbXVvU0pKZG5CWnN4RWlpRjJLT3o1MFZKUWZidGRPZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA Unveils Vera, the CPU for Agents
+            - figure [ref=e856]
+          - time [ref=e858]: 16 hours ago
+      - generic [ref=e859]:
+        - separator [ref=e861]
+        - generic [ref=e863]:
+          - generic [ref=e864]:
+            - link [ref=e866] [cursor=pointer]:
+              - /url: ./read/CBMibkFVX3lxTFBjeWx5WkppZ25iOWo3U0t4ODM4SjJqalNMcVAzSFF0WVFBczBGTXZIUkZCbG81SmFrQ195a2xEVlMwUGpJREZUYVRsX1E3REx5TThyRXJydjdBTGQzdXZWaHFvYzNoTm9hVzZvSW5R?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e868]:
+              - generic [ref=e869]:
+                - generic [ref=e872]: Siemens
+                - generic [ref=e876]:
+                  - generic:
+                    - button "More - Siemens powers the next phase of industrial AI with Intelligence Center X" [ref=e877] [cursor=pointer]:
+                      - img [ref=e879]
+                    - tooltip [ref=e881]: More
+              - link "Siemens powers the next phase of industrial AI with Intelligence Center X - Siemens - 19 minutes ago" [ref=e882] [cursor=pointer]:
+                - /url: ./read/CBMibkFVX3lxTFBjeWx5WkppZ25iOWo3U0t4ODM4SjJqalNMcVAzSFF0WVFBczBGTXZIUkZCbG81SmFrQ195a2xEVlMwUGpJREZUYVRsX1E3REx5TThyRXJydjdBTGQzdXZWaHFvYzNoTm9hVzZvSW5R?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Siemens powers the next phase of industrial AI with Intelligence Center X
+            - figure [ref=e883]
+          - time [ref=e885]: 19 minutes ago
+      - generic [ref=e886]:
+        - separator [ref=e888]
+        - generic [ref=e890]:
+          - generic [ref=e891]:
+            - link [ref=e893] [cursor=pointer]:
+              - /url: ./read/CBMiwgFBVV95cUxQRUdzelZIVWowN2h4X29mMzI2dFlTdXJqX3hjVHFZMWhrSFIxVmV3ZWw1YW5ORWxHT1hqTVFLNXU1UG5ONno1ZzZHZzJOdnk3cU9vd1dxY2lwWDQwVG9CQnVsYWtCcWszbU9oQkdqQjBTdGlsaUptNTFUVXRydzVVUHZ1ck9xZUJ6eXpjSlQzb3hVanFpZm5rdDdQNUxzdUYzeTg3anZ0SC1iS193MUFkbHpMZVh4QVBCTWNqalNkOTlYQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e895]:
+              - generic [ref=e896]:
+                - generic [ref=e899]: NVIDIA Newsroom
+                - generic [ref=e903]:
+                  - generic:
+                    - button "More - NVIDIA, Foxconn and Taiwan Medical Centers Bring Agentic and Physical AI to ‘Healthy Taiwan’" [ref=e904] [cursor=pointer]:
+                      - img [ref=e906]
+                    - tooltip [ref=e908]: More
+              - link "NVIDIA, Foxconn and Taiwan Medical Centers Bring Agentic and Physical AI to ‘Healthy Taiwan’ - NVIDIA Newsroom - 15 hours ago" [ref=e909] [cursor=pointer]:
+                - /url: ./read/CBMiwgFBVV95cUxQRUdzelZIVWowN2h4X29mMzI2dFlTdXJqX3hjVHFZMWhrSFIxVmV3ZWw1YW5ORWxHT1hqTVFLNXU1UG5ONno1ZzZHZzJOdnk3cU9vd1dxY2lwWDQwVG9CQnVsYWtCcWszbU9oQkdqQjBTdGlsaUptNTFUVXRydzVVUHZ1ck9xZUJ6eXpjSlQzb3hVanFpZm5rdDdQNUxzdUYzeTg3anZ0SC1iS193MUFkbHpMZVh4QVBCTWNqalNkOTlYQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA, Foxconn and Taiwan Medical Centers Bring Agentic and Physical AI to ‘Healthy Taiwan’
+            - figure [ref=e910]
+          - time [ref=e912]: 15 hours ago
+      - generic [ref=e913]:
+        - separator [ref=e915]
+        - generic [ref=e917]:
+          - generic [ref=e918]:
+            - link [ref=e920] [cursor=pointer]:
+              - /url: ./read/CBMirAFBVV95cUxOVmd0ODJwRkowTkNHeG82NHBKdFJNSk5RRjg5aWRYeTBwYkwzYnBPN2xScldQSGdBazFjd2RUcVJDaUs0UEpBdG5xMGJrWVR0ZllzaGJGdzVpbmhTNzhkaUR5Q0ZkNV8zNnZSd2c0d3J5ZF8yUDdXYmtxbHY0elBjNmllRVlyRks4SDdwaXVXREJKdzRxWTNFczNYTkdTN2xRRVF3Q256ckZaemxT?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e922]:
+              - generic [ref=e923]:
+                - generic [ref=e926]: NVIDIA Developer
+                - generic [ref=e930]:
+                  - generic:
+                    - button "More - NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories | NVIDIA Technical Blog" [ref=e931] [cursor=pointer]:
+                      - img [ref=e933]
+                    - tooltip [ref=e935]: More
+              - link "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories | NVIDIA Technical Blog - NVIDIA Developer - 15 hours ago - By Praveen Menon" [ref=e936] [cursor=pointer]:
+                - /url: ./read/CBMirAFBVV95cUxOVmd0ODJwRkowTkNHeG82NHBKdFJNSk5RRjg5aWRYeTBwYkwzYnBPN2xScldQSGdBazFjd2RUcVJDaUs0UEpBdG5xMGJrWVR0ZllzaGJGdzVpbmhTNzhkaUR5Q0ZkNV8zNnZSd2c0d3J5ZF8yUDdXYmtxbHY0elBjNmllRVlyRks4SDdwaXVXREJKdzRxWTNFczNYTkdTN2xRRVF3Q256ckZaemxT?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories | NVIDIA Technical Blog
+            - figure [ref=e937]
+          - generic [ref=e938]:
+            - time [ref=e939]: 15 hours ago
+            - separator [ref=e940]
+            - generic [ref=e941]: By Praveen Menon
+      - generic [ref=e942]:
+        - separator [ref=e944]
+        - generic [ref=e946]:
+          - generic [ref=e947]:
+            - link [ref=e949] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxPT0hvNmJNN2NkZlpubnotdFVBOW1wZVQ3WFpwYWtWTmhZR0Q4UHk5a29CVXZhSFhYelg3c3QyVWszcU5HX3VwbmF5SjRLM3d0aXQtR2dGOS1NMDZjdnpXUGtrOHBucjM1WV93VDRlSTNhUlI3UWNOS21ULWxVUnJleUFNSXFhVGdMeHZmVGlHMXlYV1RsNTlsb1RHTXdESzIxMHdjdk8tcFgzQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e951]:
+              - generic [ref=e952]:
+                - generic [ref=e955]: WashingtonExec
+                - generic [ref=e959]:
+                  - generic:
+                    - button "More - CORAS.ai to Bring IL5 GARY AI Agents to Navy Aircraft Carrier Programs" [ref=e960] [cursor=pointer]:
+                      - img [ref=e962]
+                    - tooltip [ref=e964]: More
+              - link "CORAS.ai to Bring IL5 GARY AI Agents to Navy Aircraft Carrier Programs - WashingtonExec - 2 hours ago" [ref=e965] [cursor=pointer]:
+                - /url: ./read/CBMiqgFBVV95cUxPT0hvNmJNN2NkZlpubnotdFVBOW1wZVQ3WFpwYWtWTmhZR0Q4UHk5a29CVXZhSFhYelg3c3QyVWszcU5HX3VwbmF5SjRLM3d0aXQtR2dGOS1NMDZjdnpXUGtrOHBucjM1WV93VDRlSTNhUlI3UWNOS21ULWxVUnJleUFNSXFhVGdMeHZmVGlHMXlYV1RsNTlsb1RHTXdESzIxMHdjdk8tcFgzQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: CORAS.ai to Bring IL5 GARY AI Agents to Navy Aircraft Carrier Programs
+            - figure [ref=e966]
+          - time [ref=e968]: 2 hours ago
+      - generic [ref=e969]:
+        - separator [ref=e971]
+        - generic [ref=e973]:
+          - generic [ref=e974]:
+            - link [ref=e976] [cursor=pointer]:
+              - /url: ./read/CBMiswFBVV95cUxOTFlleGYzNW9KMlFDUmYwVW1GWjZvSkNRdjZwd0dma01vcjJyUjRaT2w1aHczMnlhazBnYkNsVkdYWE43T0RtbzZnWlNnR0FtZ0VkVFFSZGYxWXc5U3A4cUVDaHpfVld1cU9fLTFjbFFxZ0gxamRpelNVZDFMQ2JRMHVEcHdMUElVSG5sZ1U3bWF5R2xoQ3o4Z2ZFb0dtaW5qQmI2Tmg1TlFvVHBLMFRvcElDcw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e978]:
+              - generic [ref=e979]:
+                - generic [ref=e982]: Federal News Network
+                - generic [ref=e986]:
+                  - generic:
+                    - button "More - Why the agentic AI-powered ROC is the new frontline of defense" [ref=e987] [cursor=pointer]:
+                      - img [ref=e989]
+                    - tooltip [ref=e991]: More
+              - link "Why the agentic AI-powered ROC is the new frontline of defense - Federal News Network - 3 minutes ago - By Jonathan Trull" [ref=e992] [cursor=pointer]:
+                - /url: ./read/CBMiswFBVV95cUxOTFlleGYzNW9KMlFDUmYwVW1GWjZvSkNRdjZwd0dma01vcjJyUjRaT2w1aHczMnlhazBnYkNsVkdYWE43T0RtbzZnWlNnR0FtZ0VkVFFSZGYxWXc5U3A4cUVDaHpfVld1cU9fLTFjbFFxZ0gxamRpelNVZDFMQ2JRMHVEcHdMUElVSG5sZ1U3bWF5R2xoQ3o4Z2ZFb0dtaW5qQmI2Tmg1TlFvVHBLMFRvcElDcw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Why the agentic AI-powered ROC is the new frontline of defense
+            - figure [ref=e993]
+          - generic [ref=e994]:
+            - time [ref=e995]: 3 minutes ago
+            - separator [ref=e996]
+            - generic [ref=e997]: By Jonathan Trull
+      - generic [ref=e998]:
+        - separator [ref=e1000]
+        - generic [ref=e1002]:
+          - generic [ref=e1003]:
+            - link [ref=e1005] [cursor=pointer]:
+              - /url: ./read/CBMid0FVX3lxTE1DckhOQi00SnpVZXRiTWRfT3lfbFpiUEVFLVdwakRpckpZS05HNWFibGdiNnVjTmRoTkxLUWM3RUFoU09MbUd5Ri1NMk5ldVdYS1BHbHNvTkJfZEM5dHJ5cGFVZkk3eVZTSzkzREROMGNLWFZpSGFz?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1007]:
+              - generic [ref=e1008]:
+                - generic [ref=e1011]: Kyndryl
+                - generic [ref=e1015]:
+                  - generic:
+                    - button "More - Governing AI agents" [ref=e1016] [cursor=pointer]:
+                      - img [ref=e1018]
+                    - tooltip [ref=e1020]: More
+              - link "Governing AI agents - Kyndryl - 12 hours ago" [ref=e1021] [cursor=pointer]:
+                - /url: ./read/CBMid0FVX3lxTE1DckhOQi00SnpVZXRiTWRfT3lfbFpiUEVFLVdwakRpckpZS05HNWFibGdiNnVjTmRoTkxLUWM3RUFoU09MbUd5Ri1NMk5ldVdYS1BHbHNvTkJfZEM5dHJ5cGFVZkk3eVZTSzkzREROMGNLWFZpSGFz?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Governing AI agents
+            - figure [ref=e1022]
+          - time [ref=e1024]: 12 hours ago
+      - generic [ref=e1025]:
+        - separator [ref=e1027]
+        - generic [ref=e1029]:
+          - generic [ref=e1030]:
+            - link [ref=e1032] [cursor=pointer]:
+              - /url: ./read/CBMipwFBVV95cUxQVkY4QU52MXNKc3dsMm1zNEhORU82aHVPRzBRVjFnMUxHbmVhNzRobC1ZZ0djSmR5RWNKd2FBbFE5NHpoQktCeDhtbTZvZm1hcFJXTjJ5SHZzYy1oVDBBNW9KMHQtRXNyQTE1VjQtZXRTeE5nTUMtX2lBYjI1enh1SXZicW10SWhjLWtGMkUzNmQ1dHdfaDVXcUs0QW8ydkdidkdwM3pNc9IBrAFBVV95cUxQM3FIUFRSVnNZNDhwRml3cVl0TmhOMENseWhBTGVuM1oyRTFKSnQtbUJrSlcwY3BjUmhZaWpZUHdQVUZTNEVYNnVXV1F0NkNGSjA5dHpGV0pjTTFFNTc5QmRQY2hneExnT0wySGp0UEg4R0VoNElZSHg5cDUyRXhEajc4Uml6U3czRnlCcDJ1MGV6X3A5YTVHX1RxMkI4RjBFYndoeGtKTW1LSVFi?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1034]:
+              - generic [ref=e1035]:
+                - generic [ref=e1038]: Pulse 2.0
+                - generic [ref=e1042]:
+                  - generic:
+                    - button "More - Gradient Labs Raises $26 Million To Build Specialist AI Agents For Financial Services" [ref=e1043] [cursor=pointer]:
+                      - img [ref=e1045]
+                    - tooltip [ref=e1047]: More
+              - link "Gradient Labs Raises $26 Million To Build Specialist AI Agents For Financial Services - Pulse 2.0 - 31 minutes ago - By Amit Chowdhry" [ref=e1048] [cursor=pointer]:
+                - /url: ./read/CBMipwFBVV95cUxQVkY4QU52MXNKc3dsMm1zNEhORU82aHVPRzBRVjFnMUxHbmVhNzRobC1ZZ0djSmR5RWNKd2FBbFE5NHpoQktCeDhtbTZvZm1hcFJXTjJ5SHZzYy1oVDBBNW9KMHQtRXNyQTE1VjQtZXRTeE5nTUMtX2lBYjI1enh1SXZicW10SWhjLWtGMkUzNmQ1dHdfaDVXcUs0QW8ydkdidkdwM3pNc9IBrAFBVV95cUxQM3FIUFRSVnNZNDhwRml3cVl0TmhOMENseWhBTGVuM1oyRTFKSnQtbUJrSlcwY3BjUmhZaWpZUHdQVUZTNEVYNnVXV1F0NkNGSjA5dHpGV0pjTTFFNTc5QmRQY2hneExnT0wySGp0UEg4R0VoNElZSHg5cDUyRXhEajc4Uml6U3czRnlCcDJ1MGV6X3A5YTVHX1RxMkI4RjBFYndoeGtKTW1LSVFi?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Gradient Labs Raises $26 Million To Build Specialist AI Agents For Financial Services
+          - generic [ref=e1049]:
+            - time [ref=e1050]: 31 minutes ago
+            - separator [ref=e1051]
+            - generic [ref=e1052]: By Amit Chowdhry
+      - generic [ref=e1053]:
+        - separator [ref=e1055]
+        - generic [ref=e1057]:
+          - generic [ref=e1058]:
+            - link [ref=e1060] [cursor=pointer]:
+              - /url: ./read/CBMinAFBVV95cUxNSlVlc3ZHdlcxWVdGZmtDRmZzWERtM3pBN0VxOTI3T0ZKZlR4YVpfT2I1dmR4SFYtN1RQTmhMQncwRmJTQnV2YUxweDR0aTVqMjRIZzc5ZmhaQVB2RVpUNW42UHhzeXh4WUY1VnJhMnZfcWlvZ194ZjRIQjRRU1BNcTZ4WjJBaENkdC1TX2xEbXFaZjRxRUxBTkJMZHQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1062]:
+              - generic [ref=e1063]:
+                - generic [ref=e1066]: Towards Data Science
+                - generic [ref=e1070]:
+                  - generic:
+                    - button "More - Most AI Agents Fail in Production Because They’re Built Backwards" [ref=e1071] [cursor=pointer]:
+                      - img [ref=e1073]
+                    - tooltip [ref=e1075]: More
+              - link "Most AI Agents Fail in Production Because They’re Built Backwards - Towards Data Science - 6 days ago" [ref=e1076] [cursor=pointer]:
+                - /url: ./read/CBMinAFBVV95cUxNSlVlc3ZHdlcxWVdGZmtDRmZzWERtM3pBN0VxOTI3T0ZKZlR4YVpfT2I1dmR4SFYtN1RQTmhMQncwRmJTQnV2YUxweDR0aTVqMjRIZzc5ZmhaQVB2RVpUNW42UHhzeXh4WUY1VnJhMnZfcWlvZ194ZjRIQjRRU1BNcTZ4WjJBaENkdC1TX2xEbXFaZjRxRUxBTkJMZHQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Most AI Agents Fail in Production Because They’re Built Backwards
+            - figure [ref=e1077]
+          - time [ref=e1079]: 6 days ago
+      - generic [ref=e1080]:
+        - separator [ref=e1082]
+        - generic [ref=e1084]:
+          - generic [ref=e1085]:
+            - link [ref=e1087] [cursor=pointer]:
+              - /url: ./read/CBMicEFVX3lxTE90S0lxcHZqbEtEZDlkOS12OVBqaFlUSzltdlZzZnF3TUxXSHVxYjZpdEp4YUVDUTdWQzJwM0ZxdjZ1UldjTkFTaE9aSXM2Y2gxUnhGd1BmM1o1UWRka1ZVTFdfUGdHQ3VxY012dzBrTVA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1089]:
+              - generic [ref=e1090]:
+                - generic [ref=e1093]: The New Stack
+                - generic [ref=e1097]:
+                  - generic:
+                    - 'button "More - \"Blowing things up\": The one move vendors got wrong on AI agents" [ref=e1098] [cursor=pointer]':
+                      - img [ref=e1100]
+                    - tooltip [ref=e1102]: More
+              - 'link "\"Blowing things up\": The one move vendors got wrong on AI agents - The New Stack - 5 hours ago - By Frederic Lardinois" [ref=e1103] [cursor=pointer]':
+                - /url: ./read/CBMicEFVX3lxTE90S0lxcHZqbEtEZDlkOS12OVBqaFlUSzltdlZzZnF3TUxXSHVxYjZpdEp4YUVDUTdWQzJwM0ZxdjZ1UldjTkFTaE9aSXM2Y2gxUnhGd1BmM1o1UWRka1ZVTFdfUGdHQ3VxY012dzBrTVA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "\"Blowing things up\": The one move vendors got wrong on AI agents"
+            - figure [ref=e1104]
+          - generic [ref=e1105]:
+            - time [ref=e1106]: 5 hours ago
+            - separator [ref=e1107]
+            - generic [ref=e1108]: By Frederic Lardinois
+      - generic [ref=e1109]:
+        - separator [ref=e1111]
+        - generic [ref=e1113]:
+          - generic [ref=e1114]:
+            - link [ref=e1116] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxONWRFQ2Joc3YxOHlzdFhna2JhMGo2TWNrb1pyTmFfNW1fQ3RUekZETlY2UThDdEZCWUVJTlAydFhiTzQ1cHpjblUydlNESUlVaWt6czR3a2Q2cXNiUjlBM0NpR2xCREdQVkIybC1JdjN0bGRHZVBBeXl4akFpaEI1bGpaaWllNkczQ1diNnJyOXA0VGo5SG5aSWpZSTFZX3oxU1FWTjRmWUJ4dw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1118]:
+              - generic [ref=e1119]:
+                - generic [ref=e1122]: Chicago Agent Magazine
+                - generic [ref=e1126]:
+                  - generic:
+                    - button "More - Chicagoland agents turn to AI to drive leads and productivity" [ref=e1127] [cursor=pointer]:
+                      - img [ref=e1129]
+                    - tooltip [ref=e1131]: More
+              - link "Chicagoland agents turn to AI to drive leads and productivity - Chicago Agent Magazine - 8 hours ago - By Jason Porterfield" [ref=e1132] [cursor=pointer]:
+                - /url: ./read/CBMiqgFBVV95cUxONWRFQ2Joc3YxOHlzdFhna2JhMGo2TWNrb1pyTmFfNW1fQ3RUekZETlY2UThDdEZCWUVJTlAydFhiTzQ1cHpjblUydlNESUlVaWt6czR3a2Q2cXNiUjlBM0NpR2xCREdQVkIybC1JdjN0bGRHZVBBeXl4akFpaEI1bGpaaWllNkczQ1diNnJyOXA0VGo5SG5aSWpZSTFZX3oxU1FWTjRmWUJ4dw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Chicagoland agents turn to AI to drive leads and productivity
+            - figure [ref=e1133]
+          - generic [ref=e1134]:
+            - time [ref=e1135]: 8 hours ago
+            - separator [ref=e1136]
+            - generic [ref=e1137]: By Jason Porterfield
+      - generic [ref=e1138]:
+        - separator [ref=e1140]
+        - generic [ref=e1142]:
+          - generic [ref=e1143]:
+            - link [ref=e1145] [cursor=pointer]:
+              - /url: ./read/CBMivAFBVV95cUxOa0xMeVA4WXFuV3pIQk1GMDRxdWlyNE41N3NyWnpMZ1VsUlIwOVRqQnBDWFVYRkFDNDRpcEs4cUloczZtQ0NfNXN3dXRVa3d4TGNaQzBHcTl4TkJ1dFU2aEQwaldBQ3FWM3FfQktYd3VDa3lTQ2Z4UDBrRXJLVFo3TVVScnNFTGktOWdMeUEwQnd5YlNiOHRTcG55TTJTNTE2UFdlVmo3bEFLVFc4RmEzM2JreWtBMFU4cVpUbw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1147]:
+              - generic [ref=e1148]:
+                - generic [ref=e1151]: Amazon Web Services (AWS)
+                - generic [ref=e1155]:
+                  - generic:
+                    - 'button "More - AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore" [ref=e1156] [cursor=pointer]':
+                      - img [ref=e1158]
+                    - tooltip [ref=e1160]: More
+              - 'link "AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore - Amazon Web Services (AWS) - 4 hours ago" [ref=e1161] [cursor=pointer]':
+                - /url: ./read/CBMivAFBVV95cUxOa0xMeVA4WXFuV3pIQk1GMDRxdWlyNE41N3NyWnpMZ1VsUlIwOVRqQnBDWFVYRkFDNDRpcEs4cUloczZtQ0NfNXN3dXRVa3d4TGNaQzBHcTl4TkJ1dFU2aEQwaldBQ3FWM3FfQktYd3VDa3lTQ2Z4UDBrRXJLVFo3TVVScnNFTGktOWdMeUEwQnd5YlNiOHRTcG55TTJTNTE2UFdlVmo3bEFLVFc4RmEzM2JreWtBMFU4cVpUbw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore"
+            - figure [ref=e1162]
+          - time [ref=e1164]: 4 hours ago
+      - generic [ref=e1165]:
+        - separator [ref=e1167]
+        - generic [ref=e1169]:
+          - generic [ref=e1170]:
+            - link [ref=e1172] [cursor=pointer]:
+              - /url: ./read/CBMisgFBVV95cUxOVzlxSkN1STZGU3lFOW52UTRoVDFYVDlCZUU0Nk5Nb2hKbG4xdGZ4THE0akE4LUluWktHR3VybG82MWxhb1VoSFBQX0hIYVQ3eWI3Wm5JdlAwNkFBenF4Z0VzeFg2SUNSQmMyZU9nNFBXN1NzU2hEWGtfb3BLcGtRdTZPMjJfTkdjVXJjTHVkRDJFRDlTbzVhNk4tOGs2V0lvZC1UT3k3QXRFeUJRNVh1eUNR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1174]:
+              - generic [ref=e1175]:
+                - generic [ref=e1178]: KnowBe4 Blog
+                - generic [ref=e1182]:
+                  - generic:
+                    - 'button "More - AI Agent Governance Part 3 - Runtime Governance: The Hidden Performance Cost of Agentic AI" [ref=e1183] [cursor=pointer]':
+                      - img [ref=e1185]
+                    - tooltip [ref=e1187]: More
+              - 'link "AI Agent Governance Part 3 - Runtime Governance: The Hidden Performance Cost of Agentic AI - KnowBe4 Blog - 6 hours ago - By Anna Collard" [ref=e1188] [cursor=pointer]':
+                - /url: ./read/CBMisgFBVV95cUxOVzlxSkN1STZGU3lFOW52UTRoVDFYVDlCZUU0Nk5Nb2hKbG4xdGZ4THE0akE4LUluWktHR3VybG82MWxhb1VoSFBQX0hIYVQ3eWI3Wm5JdlAwNkFBenF4Z0VzeFg2SUNSQmMyZU9nNFBXN1NzU2hEWGtfb3BLcGtRdTZPMjJfTkdjVXJjTHVkRDJFRDlTbzVhNk4tOGs2V0lvZC1UT3k3QXRFeUJRNVh1eUNR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI Agent Governance Part 3 - Runtime Governance: The Hidden Performance Cost of Agentic AI"
+            - figure [ref=e1189]
+          - generic [ref=e1190]:
+            - time [ref=e1191]: 6 hours ago
+            - separator [ref=e1192]
+            - generic [ref=e1193]: By Anna Collard
+      - generic [ref=e1194]:
+        - separator [ref=e1196]
+        - generic [ref=e1198]:
+          - generic [ref=e1199]:
+            - link [ref=e1201] [cursor=pointer]:
+              - /url: ./read/CBMiuAFBVV95cUxQTlc1YnZjQThjcnZla0dvUW5NRTdJaXpmdnFVWmtEOXgwYTMyZVhOU0tjZVB3Vm9YWWhzTHc2dmU4eFE0NG1vam9hU1o0OUl4T1RJYmdfcFNhT1ZXTVA4MmdjUEVTS3pqOUNEcy1JX1lKREVRV3Q4QmRXazhUaG1nWFBGLTZaQWl1aE1nVng3T3c2cjduQVJYd01NQnFhQy02cElxRHNCeEhMU2M5bUFuTDZNVEJDTjAt?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1203]:
+              - generic [ref=e1204]:
+                - generic [ref=e1207]: Palo Alto Networks
+                - generic [ref=e1211]:
+                  - generic:
+                    - button "More - Securing and Governing AI Agents At Scale Through A Unified AI Gateway" [ref=e1212] [cursor=pointer]:
+                      - img [ref=e1214]
+                    - tooltip [ref=e1216]: More
+              - link "Securing and Governing AI Agents At Scale Through A Unified AI Gateway - Palo Alto Networks - 4 days ago - By Anand Oswal" [ref=e1217] [cursor=pointer]:
+                - /url: ./read/CBMiuAFBVV95cUxQTlc1YnZjQThjcnZla0dvUW5NRTdJaXpmdnFVWmtEOXgwYTMyZVhOU0tjZVB3Vm9YWWhzTHc2dmU4eFE0NG1vam9hU1o0OUl4T1RJYmdfcFNhT1ZXTVA4MmdjUEVTS3pqOUNEcy1JX1lKREVRV3Q4QmRXazhUaG1nWFBGLTZaQWl1aE1nVng3T3c2cjduQVJYd01NQnFhQy02cElxRHNCeEhMU2M5bUFuTDZNVEJDTjAt?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Securing and Governing AI Agents At Scale Through A Unified AI Gateway
+            - figure [ref=e1218]
+          - generic [ref=e1219]:
+            - time [ref=e1220]: 4 days ago
+            - separator [ref=e1221]
+            - generic [ref=e1222]: By Anand Oswal
+      - generic [ref=e1223]:
+        - separator [ref=e1225]
+        - generic [ref=e1227]:
+          - generic [ref=e1228]:
+            - link [ref=e1230] [cursor=pointer]:
+              - /url: ./read/CBMiigFBVV95cUxQSERUUl8wUUw4VHhfQ2dyVHBVNEQxeFEzVzVidnJGSXREbi1hVUZvVnFPMTNFRDgzOXJQSkFxcDhPTnJRYWZxQmtXM2VGd3FBRm1pc25TbU1QWUJfaFlFd2ZDR3g2eTRfbGJRZUtLVnhmR2kzUTBJZ29PeWw2ZnJGaHpHcXJNbERodWc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1232]:
+              - generic [ref=e1233]:
+                - generic [ref=e1236]: The New York Times
+                - generic [ref=e1240]:
+                  - generic:
+                    - button "More - Nvidia Has a Plan to Put Its Chips in Personal Computers" [ref=e1241] [cursor=pointer]:
+                      - img [ref=e1243]
+                    - tooltip [ref=e1245]: More
+              - link "Nvidia Has a Plan to Put Its Chips in Personal Computers - The New York Times - 14 hours ago - By Tripp Mickle" [ref=e1246] [cursor=pointer]:
+                - /url: ./read/CBMiigFBVV95cUxQSERUUl8wUUw4VHhfQ2dyVHBVNEQxeFEzVzVidnJGSXREbi1hVUZvVnFPMTNFRDgzOXJQSkFxcDhPTnJRYWZxQmtXM2VGd3FBRm1pc25TbU1QWUJfaFlFd2ZDR3g2eTRfbGJRZUtLVnhmR2kzUTBJZ29PeWw2ZnJGaHpHcXJNbERodWc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia Has a Plan to Put Its Chips in Personal Computers
+            - figure [ref=e1247]
+          - generic [ref=e1248]:
+            - time [ref=e1249]: 14 hours ago
+            - separator [ref=e1250]
+            - generic [ref=e1251]: By Tripp Mickle
+      - generic [ref=e1252]:
+        - separator [ref=e1254]
+        - generic [ref=e1256]:
+          - generic [ref=e1257]:
+            - link [ref=e1259] [cursor=pointer]:
+              - /url: ./read/CBMiyAFBVV95cUxNREhfVGlpdS1abDVyQks5TjRtbWNrMFA4bTIwSlFCLUxIa1pRZWNZT3ZkT0lQdlJ1ZTlGRmRpRm9TWmViQzlnZTBEVGNnbERXdFE0aEN2dlFRUHN4cm5XX2FOV1pLTlprNWFRS2FKdTB4UTM2VlFmcUxrOXlseS0zRkEwdURwQU96STMyX1d5NG1KcklBVHBjUzZCWG41QVdRRVdYdzVEb0NmNmtEMU9lTWxWZEVhUGtiSHg2TzVfTVBOZktjRUFfTg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1261]:
+              - generic [ref=e1262]:
+                - generic [ref=e1265]: Constellation Research
+                - generic [ref=e1269]:
+                  - generic:
+                    - 'button "More - Nvidia''s Vera CPU, DGX Station, Windows PCs all go to the same place: AI agents running locally" [ref=e1270] [cursor=pointer]':
+                      - img [ref=e1272]
+                    - tooltip [ref=e1274]: More
+              - 'link "Nvidia''s Vera CPU, DGX Station, Windows PCs all go to the same place: AI agents running locally - Constellation Research - 9 hours ago" [ref=e1275] [cursor=pointer]':
+                - /url: ./read/CBMiyAFBVV95cUxNREhfVGlpdS1abDVyQks5TjRtbWNrMFA4bTIwSlFCLUxIa1pRZWNZT3ZkT0lQdlJ1ZTlGRmRpRm9TWmViQzlnZTBEVGNnbERXdFE0aEN2dlFRUHN4cm5XX2FOV1pLTlprNWFRS2FKdTB4UTM2VlFmcUxrOXlseS0zRkEwdURwQU96STMyX1d5NG1KcklBVHBjUzZCWG41QVdRRVdYdzVEb0NmNmtEMU9lTWxWZEVhUGtiSHg2TzVfTVBOZktjRUFfTg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Nvidia's Vera CPU, DGX Station, Windows PCs all go to the same place: AI agents running locally"
+            - figure [ref=e1276]
+          - time [ref=e1278]: 9 hours ago
+      - generic [ref=e1279]:
+        - separator [ref=e1281]
+        - generic [ref=e1283]:
+          - generic [ref=e1284]:
+            - link [ref=e1286] [cursor=pointer]:
+              - /url: ./read/CBMimgFBVV95cUxQNlFSSzV0MHQ3WVNkakJVNEdnbE1YZVA4VmhzeVA4WDExNFF3Mnd0QmdsMFh5dldjcHI2OVVQYkczY3VMRDJIN0VBOU1oa29XNFNERmRWamdQbHpDNDRCazBXOWZidFlzSUQzVFJwbWF3cURWQXNIMktvUVBZS2o4SnNVZXhQcGlYS2JWOGFYS0dLRUJ0TXlYNVFn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1288]:
+              - generic [ref=e1289]:
+                - generic [ref=e1292]: Chattanooga Times Free Press
+                - generic [ref=e1296]:
+                  - generic:
+                    - button "More - Specialized AI agents can handle those mundane, time-consuming tasks" [ref=e1297] [cursor=pointer]:
+                      - img [ref=e1299]
+                    - tooltip [ref=e1301]: More
+              - link "Specialized AI agents can handle those mundane, time-consuming tasks - Chattanooga Times Free Press - 16 hours ago - By Tripp Stanford" [ref=e1302] [cursor=pointer]:
+                - /url: ./read/CBMimgFBVV95cUxQNlFSSzV0MHQ3WVNkakJVNEdnbE1YZVA4VmhzeVA4WDExNFF3Mnd0QmdsMFh5dldjcHI2OVVQYkczY3VMRDJIN0VBOU1oa29XNFNERmRWamdQbHpDNDRCazBXOWZidFlzSUQzVFJwbWF3cURWQXNIMktvUVBZS2o4SnNVZXhQcGlYS2JWOGFYS0dLRUJ0TXlYNVFn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Specialized AI agents can handle those mundane, time-consuming tasks
+            - figure [ref=e1303]
+          - generic [ref=e1304]:
+            - time [ref=e1305]: 16 hours ago
+            - separator [ref=e1306]
+            - generic [ref=e1307]: By Tripp Stanford
+      - generic [ref=e1308]:
+        - separator [ref=e1310]
+        - generic [ref=e1312]:
+          - generic [ref=e1313]:
+            - link [ref=e1315] [cursor=pointer]:
+              - /url: ./read/CBMihwFBVV95cUxQSWtvbUh3MXN6dVBEMTBKNkl1alhzWHM5TEpkMWduVm9zNDhFUE1hdWx5azBuNUFvaEktTjJBU0NCcUxlWTE2c01mRFcwdGdlbmtCNWZtYTZzTm03TE8xaHNEdHZ3dHR0cmxjV2Qtdk9hVDdXWDFXN3ZjMXZkWWx1SjgtZURsOHM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1317]:
+              - generic [ref=e1318]:
+                - generic [ref=e1321]: UC Today
+                - generic [ref=e1325]:
+                  - generic:
+                    - button "More - NVIDIA Wants to Put AI Agents to Work in the Physical World" [ref=e1326] [cursor=pointer]:
+                      - img [ref=e1328]
+                    - tooltip [ref=e1330]: More
+              - link "NVIDIA Wants to Put AI Agents to Work in the Physical World - UC Today - 8 hours ago" [ref=e1331] [cursor=pointer]:
+                - /url: ./read/CBMihwFBVV95cUxQSWtvbUh3MXN6dVBEMTBKNkl1alhzWHM5TEpkMWduVm9zNDhFUE1hdWx5azBuNUFvaEktTjJBU0NCcUxlWTE2c01mRFcwdGdlbmtCNWZtYTZzTm03TE8xaHNEdHZ3dHR0cmxjV2Qtdk9hVDdXWDFXN3ZjMXZkWWx1SjgtZURsOHM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA Wants to Put AI Agents to Work in the Physical World
+            - figure [ref=e1332]
+          - time [ref=e1334]: 8 hours ago
+      - generic [ref=e1335]:
+        - separator [ref=e1337]
+        - generic [ref=e1339]:
+          - generic [ref=e1340]:
+            - link [ref=e1342] [cursor=pointer]:
+              - /url: ./read/CBMiWkFVX3lxTFBGOUR1ZWt4cjBrc2hua05UUThBNFkzRVFyYUZ5NU9uRzFjQjlJWmZBX2ZESk43eUNzSURoN041QUhSWGM4ZXBLRVhKVmV6UXlWcUkyTE9UVUVzdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1344]:
+              - generic [ref=e1345]:
+                - generic [ref=e1348]: BBC
+                - generic [ref=e1352]:
+                  - generic:
+                    - button "More - Nvidia announces new AI chip for personal computers" [ref=e1353] [cursor=pointer]:
+                      - img [ref=e1355]
+                    - tooltip [ref=e1357]: More
+              - link "Nvidia announces new AI chip for personal computers - BBC - 8 hours ago - By Peter Hoskins" [ref=e1358] [cursor=pointer]:
+                - /url: ./read/CBMiWkFVX3lxTFBGOUR1ZWt4cjBrc2hua05UUThBNFkzRVFyYUZ5NU9uRzFjQjlJWmZBX2ZESk43eUNzSURoN041QUhSWGM4ZXBLRVhKVmV6UXlWcUkyTE9UVUVzdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia announces new AI chip for personal computers
+            - figure [ref=e1359]
+          - generic [ref=e1360]:
+            - time [ref=e1361]: 8 hours ago
+            - separator [ref=e1362]
+            - generic [ref=e1363]: By Peter Hoskins
+      - generic [ref=e1364]:
+        - separator [ref=e1366]
+        - generic [ref=e1368]:
+          - generic [ref=e1369]:
+            - link [ref=e1371] [cursor=pointer]:
+              - /url: ./read/CBMiiAFBVV95cUxQVTVycWZWd2hkLXhRakwwSnJ6dzdibi1YQzQ4akpXM0xJM3AxeXlncVp6UjRZNXd4LTRwTVh5SlhSNTVBWEhfb1o0ek5CTk10Z2duZURDRG9mbTk1bTVSYjVRVkJ1RGtGbmNTemNycUdvc3RxdjV4RmRweU5rVHRJbjZpREd3VnBM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1373]:
+              - generic [ref=e1374]:
+                - generic [ref=e1377]: Help Net Security
+                - generic [ref=e1381]:
+                  - generic:
+                    - button "More - NVIDIA goes open source with a big batch of physical AI agent tools" [ref=e1382] [cursor=pointer]:
+                      - img [ref=e1384]
+                    - tooltip [ref=e1386]: More
+              - link "NVIDIA goes open source with a big batch of physical AI agent tools - Help Net Security - 11 hours ago" [ref=e1387] [cursor=pointer]:
+                - /url: ./read/CBMiiAFBVV95cUxQVTVycWZWd2hkLXhRakwwSnJ6dzdibi1YQzQ4akpXM0xJM3AxeXlncVp6UjRZNXd4LTRwTVh5SlhSNTVBWEhfb1o0ek5CTk10Z2duZURDRG9mbTk1bTVSYjVRVkJ1RGtGbmNTemNycUdvc3RxdjV4RmRweU5rVHRJbjZpREd3VnBM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA goes open source with a big batch of physical AI agent tools
+            - figure [ref=e1388]
+          - time [ref=e1390]: 11 hours ago
+      - generic [ref=e1391]:
+        - separator [ref=e1393]
+        - generic [ref=e1395]:
+          - generic [ref=e1396]:
+            - link [ref=e1398] [cursor=pointer]:
+              - /url: ./read/CBMipAFBVV95cUxNTVZhLS1JUEtJZXRlOC1sX0xFN0hFdVJNVGhzVHpzV3hEeVdRWUN0MEcwZTgxaW11MEctNENzTjdLY3hjYUJvZEVQdThuY29PSkVTMDlaUENyR3p5dXVTelBpNWZvWXlWVDJ0dENHUC10cUhQSWhMLUotUWVUc2xLUGN0QWoxN2VvNTFxQ2dXNi1uOHNnNnNycm9DbHFocVF4alZTNw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1400]:
+              - generic [ref=e1401]:
+                - generic [ref=e1404]: MIT Sloan Management Review Middle East
+                - generic [ref=e1408]:
+                  - generic:
+                    - button "More - Nvidia Enters the PC Market with RTX Spark to Run AI Agents Locally" [ref=e1409] [cursor=pointer]:
+                      - img [ref=e1411]
+                    - tooltip [ref=e1413]: More
+              - link "Nvidia Enters the PC Market with RTX Spark to Run AI Agents Locally - MIT Sloan Management Review Middle East - 6 hours ago" [ref=e1414] [cursor=pointer]:
+                - /url: ./read/CBMipAFBVV95cUxNTVZhLS1JUEtJZXRlOC1sX0xFN0hFdVJNVGhzVHpzV3hEeVdRWUN0MEcwZTgxaW11MEctNENzTjdLY3hjYUJvZEVQdThuY29PSkVTMDlaUENyR3p5dXVTelBpNWZvWXlWVDJ0dENHUC10cUhQSWhMLUotUWVUc2xLUGN0QWoxN2VvNTFxQ2dXNi1uOHNnNnNycm9DbHFocVF4alZTNw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia Enters the PC Market with RTX Spark to Run AI Agents Locally
+            - figure [ref=e1415]
+          - time [ref=e1417]: 6 hours ago
+      - generic [ref=e1418]:
+        - separator [ref=e1420]
+        - generic [ref=e1422]:
+          - generic [ref=e1423]:
+            - link [ref=e1425] [cursor=pointer]:
+              - /url: ./read/CBMipgFBVV95cUxPdkFMb0Eza19hWWFyekNiM25JOWxRcHp5eFpHZjc5RTU4X1dUOEtueDZTd0RzUGdoLWh3Q0lOUXUxWGdSVDAwSkdveE9zMUVhb0hiZ1c1S29abW5CbmVvQTlDbHByMzh5bUxubFZYSV9UQTlER0RPWG4wNEVSaHp5Q3RScTdCT3lSSHJydEpPdjZVbTBjN295Zmp3cVctNHg4VUJ2am13?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1427]:
+              - generic [ref=e1428]:
+                - generic [ref=e1431]: Yahoo Finance
+                - generic [ref=e1435]:
+                  - generic:
+                    - button "More - Itential Brings Governed AI Agents to Enterprise Infrastructure with FlowAI General Availability" [ref=e1436] [cursor=pointer]:
+                      - img [ref=e1438]
+                    - tooltip [ref=e1440]: More
+              - link "Itential Brings Governed AI Agents to Enterprise Infrastructure with FlowAI General Availability - Yahoo Finance - 7 hours ago" [ref=e1441] [cursor=pointer]:
+                - /url: ./read/CBMipgFBVV95cUxPdkFMb0Eza19hWWFyekNiM25JOWxRcHp5eFpHZjc5RTU4X1dUOEtueDZTd0RzUGdoLWh3Q0lOUXUxWGdSVDAwSkdveE9zMUVhb0hiZ1c1S29abW5CbmVvQTlDbHByMzh5bUxubFZYSV9UQTlER0RPWG4wNEVSaHp5Q3RScTdCT3lSSHJydEpPdjZVbTBjN295Zmp3cVctNHg4VUJ2am13?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Itential Brings Governed AI Agents to Enterprise Infrastructure with FlowAI General Availability
+            - figure [ref=e1442]
+          - time [ref=e1444]: 7 hours ago
+      - generic [ref=e1445]:
+        - separator [ref=e1447]
+        - generic [ref=e1449]:
+          - generic [ref=e1450]:
+            - link [ref=e1452] [cursor=pointer]:
+              - /url: ./read/CBMie0FVX3lxTE41VG1GMV8ydHJCVHV4Qnp4REE1N2J4eER1RUFHLW82ZDBydEhucktzRXkxN1Q5c0lUcTRBM3YtOWhXMEhWQlRtTnNUX2xLNkxuTGNRRU9YakFNS0hiMGFvNVkxR0VzeFczV1ZpdUgtdmVJdlFENHhNVkVPVQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1454]:
+              - generic [ref=e1455]:
+                - generic [ref=e1458]: Help Net Security
+                - generic [ref=e1462]:
+                  - generic:
+                    - button "More - Hyland platform innovations focus on AI governance, context, and agent oversight" [ref=e1463] [cursor=pointer]:
+                      - img [ref=e1465]
+                    - tooltip [ref=e1467]: More
+              - link "Hyland platform innovations focus on AI governance, context, and agent oversight - Help Net Security - 7 hours ago" [ref=e1468] [cursor=pointer]:
+                - /url: ./read/CBMie0FVX3lxTE41VG1GMV8ydHJCVHV4Qnp4REE1N2J4eER1RUFHLW82ZDBydEhucktzRXkxN1Q5c0lUcTRBM3YtOWhXMEhWQlRtTnNUX2xLNkxuTGNRRU9YakFNS0hiMGFvNVkxR0VzeFczV1ZpdUgtdmVJdlFENHhNVkVPVQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Hyland platform innovations focus on AI governance, context, and agent oversight
+            - figure [ref=e1469]
+          - time [ref=e1471]: 7 hours ago
+      - generic [ref=e1472]:
+        - separator [ref=e1474]
+        - generic [ref=e1476]:
+          - generic [ref=e1477]:
+            - link [ref=e1479] [cursor=pointer]:
+              - /url: ./read/CBMizAFBVV95cUxNNll6SERHWXBkcmRkNzV4eDNkR1BKaDRzdlU5R0NydjNfSWs2ajJwbHVQelhyTW5IaUdFdFhsSTh0dGFXV0xsc043aFh1VEFKTUM0Tzh6Ty1GVzlteERub0hheWxLLXZBWXRic204SUFIMWJiQ0ZweUU0Rlc1Y3liaHN2ZXJibnpGQnV3MXhyOXRmUXhLaXJWYUttaEdFNmI4c18tZk5Gb2pFcWlMcUQzTkp6eUo4c3Fkd2RKV1FDTWluSjc5MFd6eVRUTE0?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1481]:
+              - generic [ref=e1482]:
+                - generic [ref=e1485]: Business Wire
+                - generic [ref=e1489]:
+                  - generic:
+                    - button "More - Synera Advances AI Agents for Design and Engineering Simulation with NVIDIA" [ref=e1490] [cursor=pointer]:
+                      - img [ref=e1492]
+                    - tooltip [ref=e1494]: More
+              - link "Synera Advances AI Agents for Design and Engineering Simulation with NVIDIA - Business Wire - 14 hours ago" [ref=e1495] [cursor=pointer]:
+                - /url: ./read/CBMizAFBVV95cUxNNll6SERHWXBkcmRkNzV4eDNkR1BKaDRzdlU5R0NydjNfSWs2ajJwbHVQelhyTW5IaUdFdFhsSTh0dGFXV0xsc043aFh1VEFKTUM0Tzh6Ty1GVzlteERub0hheWxLLXZBWXRic204SUFIMWJiQ0ZweUU0Rlc1Y3liaHN2ZXJibnpGQnV3MXhyOXRmUXhLaXJWYUttaEdFNmI4c18tZk5Gb2pFcWlMcUQzTkp6eUo4c3Fkd2RKV1FDTWluSjc5MFd6eVRUTE0?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Synera Advances AI Agents for Design and Engineering Simulation with NVIDIA
+            - figure [ref=e1496]
+          - time [ref=e1498]: 14 hours ago
+      - generic [ref=e1499]:
+        - separator [ref=e1501]
+        - generic [ref=e1503]:
+          - generic [ref=e1504]:
+            - link [ref=e1506] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxOWVJfb0xuMkM4emZseW5iUWl3VWVJeVV1UVJmLVp2REY3N1dFeXlHeXpHZ1NNOFY1TlZlSFBrQ0h5Ym9ncjNvWEYtcTlZSEVQN2U5ekpYMGZSSmhfcjRzcy04clZ1aWhPbWNoNS0yVDI0bUwxdHdGOHN4WnZGc0gtZU5qdUpWd2FweVUwcW4yZy1WZ3NHdHZEdWpWZWxTeVI1S1B0aHZ1YVdscU5CdUlB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1508]:
+              - generic [ref=e1509]:
+                - generic [ref=e1512]: Yahoo Finance
+                - generic [ref=e1516]:
+                  - generic:
+                    - button "More - Guesty® Unleashes the Agentic Revolution; The First PMS Built as a Coordinated System of AI Agents" [ref=e1517] [cursor=pointer]:
+                      - img [ref=e1519]
+                    - tooltip [ref=e1521]: More
+              - link "Guesty® Unleashes the Agentic Revolution; The First PMS Built as a Coordinated System of AI Agents - Yahoo Finance - 7 hours ago" [ref=e1522] [cursor=pointer]:
+                - /url: ./read/CBMirwFBVV95cUxOWVJfb0xuMkM4emZseW5iUWl3VWVJeVV1UVJmLVp2REY3N1dFeXlHeXpHZ1NNOFY1TlZlSFBrQ0h5Ym9ncjNvWEYtcTlZSEVQN2U5ekpYMGZSSmhfcjRzcy04clZ1aWhPbWNoNS0yVDI0bUwxdHdGOHN4WnZGc0gtZU5qdUpWd2FweVUwcW4yZy1WZ3NHdHZEdWpWZWxTeVI1S1B0aHZ1YVdscU5CdUlB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Guesty® Unleashes the Agentic Revolution; The First PMS Built as a Coordinated System of AI Agents
+            - figure [ref=e1523]
+          - time [ref=e1525]: 7 hours ago
+      - generic [ref=e1526]:
+        - separator [ref=e1528]
+        - generic [ref=e1530]:
+          - generic [ref=e1531]:
+            - link [ref=e1533] [cursor=pointer]:
+              - /url: ./read/CBMia0FVX3lxTE5McDJEcGYwOE1HU2d3TTJDc1hsZXJfTW90RHZMNFZpazA4SkI3c3RGUlh2UndudVA2aHZWNUdVQVNhTGdtV3ZKUnJCVTBvNUdlejNMVVNfR1JiMkdKWjFyRUdfNC1La2lfam44?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1535]:
+              - generic [ref=e1536]:
+                - generic [ref=e1539]: Skift
+                - generic [ref=e1543]:
+                  - generic:
+                    - 'button "More - The High Cost of Infinite Search: How AI Agents Break Travel Economics" [ref=e1544] [cursor=pointer]':
+                      - img [ref=e1546]
+                    - tooltip [ref=e1548]: More
+              - 'link "The High Cost of Infinite Search: How AI Agents Break Travel Economics - Skift - 1 hour ago - By Adriana Lee" [ref=e1549] [cursor=pointer]':
+                - /url: ./read/CBMia0FVX3lxTE5McDJEcGYwOE1HU2d3TTJDc1hsZXJfTW90RHZMNFZpazA4SkI3c3RGUlh2UndudVA2aHZWNUdVQVNhTGdtV3ZKUnJCVTBvNUdlejNMVVNfR1JiMkdKWjFyRUdfNC1La2lfam44?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "The High Cost of Infinite Search: How AI Agents Break Travel Economics"
+            - figure [ref=e1550]
+          - generic [ref=e1551]:
+            - time [ref=e1552]: 1 hour ago
+            - separator [ref=e1553]
+            - generic [ref=e1554]: By Adriana Lee
+      - generic [ref=e1555]:
+        - separator [ref=e1557]
+        - generic [ref=e1559]:
+          - generic [ref=e1560]:
+            - link [ref=e1562] [cursor=pointer]:
+              - /url: ./read/CBMickFVX3lxTE9kdHhQMlBiR28tdW8wbFVOY001RzZlVGlCa2k0VTVpV3ZLUXVRNHNseHNfYWVETndsUlRwNFJQaUNYMFA1SnZGVTFSQWp5N1J1X1YtSm5OenZfT3drQjNqTGtHelJQbmV0cU1NNjVNTy1hdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1564]:
+              - generic [ref=e1565]:
+                - generic [ref=e1568]: About Amazon
+                - generic [ref=e1572]:
+                  - generic:
+                    - button "More - How Amazon is building AI that takes action in the real world" [ref=e1573] [cursor=pointer]:
+                      - img [ref=e1575]
+                    - tooltip [ref=e1577]: More
+              - link "How Amazon is building AI that takes action in the real world - About Amazon - 5 days ago - By Isaac Schultz" [ref=e1578] [cursor=pointer]:
+                - /url: ./read/CBMickFVX3lxTE9kdHhQMlBiR28tdW8wbFVOY001RzZlVGlCa2k0VTVpV3ZLUXVRNHNseHNfYWVETndsUlRwNFJQaUNYMFA1SnZGVTFSQWp5N1J1X1YtSm5OenZfT3drQjNqTGtHelJQbmV0cU1NNjVNTy1hdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: How Amazon is building AI that takes action in the real world
+            - figure [ref=e1579]
+          - generic [ref=e1580]:
+            - time [ref=e1581]: 5 days ago
+            - separator [ref=e1582]
+            - generic [ref=e1583]: By Isaac Schultz
+      - generic [ref=e1584]:
+        - separator [ref=e1586]
+        - generic [ref=e1588]:
+          - generic [ref=e1589]:
+            - link [ref=e1591] [cursor=pointer]:
+              - /url: ./read/CBMiowFBVV95cUxOdkZYZlBPdm01UW9BSm85c2FDOGg2N2RjWjF1dUFBN1R4eWlQV0NKUDlXakE5aWRzbzU2YlhlOGJoWGs1dzZvQnRvdXh4dXI0SXdVT1piUklkbTFCNHBxRmxfRXl5LWE1S3NIdWtSX1pNZkVlejFJWTU5WllmTEMxempyYWdubWdzaXRhZnROWjhyLTM0cnROOXZaZzdTWUZSQUpn0gGrAUFVX3lxTE1PS3hvUm1BVDZFQXdmQUxfUTA1MzdTMjVEaUxNV0dob2FEX0hiTlFESzMtRlJuRUZjX1NLcHVxWkhVb1BfTTJ3UmZsZnVFMmVYSXk0QU8xZkF5NEtnbVQ4dVEzZXFsQWQ3SE5kbjdUVWRDNVRGcWJOaWNucWxkMGRJOExWamhoLUJlTDQxTTVtQm5JWjJYTU1DX3FpQlltbjFpZEEzUGtJRkIxQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1593]:
+              - generic [ref=e1594]:
+                - generic [ref=e1597]: NBC Bay Area
+                - generic [ref=e1601]:
+                  - generic:
+                    - button "More - Nvidia bets on AI personal computers with new ‘superchip' powering Windows laptops" [ref=e1602] [cursor=pointer]:
+                      - img [ref=e1604]
+                    - tooltip [ref=e1606]: More
+              - link "Nvidia bets on AI personal computers with new ‘superchip' powering Windows laptops - NBC Bay Area - 4 hours ago" [ref=e1607] [cursor=pointer]:
+                - /url: ./read/CBMiowFBVV95cUxOdkZYZlBPdm01UW9BSm85c2FDOGg2N2RjWjF1dUFBN1R4eWlQV0NKUDlXakE5aWRzbzU2YlhlOGJoWGs1dzZvQnRvdXh4dXI0SXdVT1piUklkbTFCNHBxRmxfRXl5LWE1S3NIdWtSX1pNZkVlejFJWTU5WllmTEMxempyYWdubWdzaXRhZnROWjhyLTM0cnROOXZaZzdTWUZSQUpn0gGrAUFVX3lxTE1PS3hvUm1BVDZFQXdmQUxfUTA1MzdTMjVEaUxNV0dob2FEX0hiTlFESzMtRlJuRUZjX1NLcHVxWkhVb1BfTTJ3UmZsZnVFMmVYSXk0QU8xZkF5NEtnbVQ4dVEzZXFsQWQ3SE5kbjdUVWRDNVRGcWJOaWNucWxkMGRJOExWamhoLUJlTDQxTTVtQm5JWjJYTU1DX3FpQlltbjFpZEEzUGtJRkIxQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia bets on AI personal computers with new ‘superchip' powering Windows laptops
+            - figure [ref=e1608]
+          - time [ref=e1610]: 4 hours ago
+      - generic [ref=e1611]:
+        - separator [ref=e1613]
+        - generic [ref=e1615]:
+          - generic [ref=e1616]:
+            - link [ref=e1618] [cursor=pointer]:
+              - /url: ./read/CBMifEFVX3lxTE14U3l3SUFIS1hQS3Zvb3puN1MxUW1pdWlOcWtIblZTbGZRcWpKRmlJS0tFMkMtYVZqZ2hvYlR6TWlRVnhYdHRHTm5zLTNJWHdNR3pVUlRFNUJRZ0Rlb0p5ZFZXTUluSVhma3U0NjFTQ0Vwb1JkVlNEcGVhRVk?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1620]:
+              - generic [ref=e1621]:
+                - generic [ref=e1624]: NVIDIA Blog
+                - generic [ref=e1628]:
+                  - generic:
+                    - button "More - NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain" [ref=e1629] [cursor=pointer]:
+                      - img [ref=e1631]
+                    - tooltip [ref=e1633]: More
+              - link "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain - NVIDIA Blog - 15 hours ago - By Esther Lee" [ref=e1634] [cursor=pointer]:
+                - /url: ./read/CBMifEFVX3lxTE14U3l3SUFIS1hQS3Zvb3puN1MxUW1pdWlOcWtIblZTbGZRcWpKRmlJS0tFMkMtYVZqZ2hvYlR6TWlRVnhYdHRHTm5zLTNJWHdNR3pVUlRFNUJRZ0Rlb0p5ZFZXTUluSVhma3U0NjFTQ0Vwb1JkVlNEcGVhRVk?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain
+            - figure [ref=e1635]
+          - generic [ref=e1636]:
+            - time [ref=e1637]: 15 hours ago
+            - separator [ref=e1638]
+            - generic [ref=e1639]: By Esther Lee
+      - generic [ref=e1640]:
+        - separator [ref=e1642]
+        - generic [ref=e1644]:
+          - generic [ref=e1645]:
+            - link [ref=e1647] [cursor=pointer]:
+              - /url: ./read/CBMi4wFBVV95cUxQNGR4eUZlWnpveVBYZXE2Sko4dEZCVllIRkExR1pxS0hLUEFteFdQemxfTGljamRHTlpYaTJQVGNEUG5ETHRmSjdKeWNxOWJFSTVPR2JORVd2clNWOWh5dFllVFo3aFZMc1RUTTJLanJNNnU2M2FNaGRwTUJ1emFhWEc0ZUtJRDJoanBzVFVGSGlTTkxyVzBEMHFUYjdwWDk4eTVlai1VUXRCYWJDeVVZVHBPQUNVNUZkVWZSaGd2emtSUzhKcUVCamFOTmJDREowclV1SE5FUGViWVFLbUFoV0xocw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1649]:
+              - generic [ref=e1650]:
+                - generic [ref=e1653]: PR Newswire
+                - generic [ref=e1657]:
+                  - generic:
+                    - button "More - Nota AI Works with NVIDIA to Expand Video AI Agent Market… Deployment of VSS-based NVA Spreads" [ref=e1658] [cursor=pointer]:
+                      - img [ref=e1660]
+                    - tooltip [ref=e1662]: More
+              - link "Nota AI Works with NVIDIA to Expand Video AI Agent Market… Deployment of VSS-based NVA Spreads - PR Newswire - 8 hours ago" [ref=e1663] [cursor=pointer]:
+                - /url: ./read/CBMi4wFBVV95cUxQNGR4eUZlWnpveVBYZXE2Sko4dEZCVllIRkExR1pxS0hLUEFteFdQemxfTGljamRHTlpYaTJQVGNEUG5ETHRmSjdKeWNxOWJFSTVPR2JORVd2clNWOWh5dFllVFo3aFZMc1RUTTJLanJNNnU2M2FNaGRwTUJ1emFhWEc0ZUtJRDJoanBzVFVGSGlTTkxyVzBEMHFUYjdwWDk4eTVlai1VUXRCYWJDeVVZVHBPQUNVNUZkVWZSaGd2emtSUzhKcUVCamFOTmJDREowclV1SE5FUGViWVFLbUFoV0xocw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nota AI Works with NVIDIA to Expand Video AI Agent Market… Deployment of VSS-based NVA Spreads
+            - figure [ref=e1664]
+          - time [ref=e1666]: 8 hours ago
+      - generic [ref=e1667]:
+        - separator [ref=e1669]
+        - generic [ref=e1671]:
+          - generic [ref=e1672]:
+            - link [ref=e1674] [cursor=pointer]:
+              - /url: ./read/CBMi0gFBVV95cUxNMUJ3U2lDWXBieXFSaTZfZkg1bHJveVZkbjA1b0QxVnZ2cTFaaHRSVEtQcTNkYnNhWkZpN0xka2lGVTNER1lOMFo2SUMxQVBVTDJkWE5xSDdGdGZQZEhtVkR3R3NfSS1US0lIQlhBdFNtSEtMcVdHdTRWczJLa2dCeVhTVEhQLXVZeDA2SDJCaFl5WkJocGFiWWxrMHBhUTJ2MEJJR19FdWlGLVYtWkFJSVRVamJuUjNkbUh2cTUtLXZqOHhScWFPNzR1QjE0N0M2MXc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1676]:
+              - generic [ref=e1677]:
+                - generic [ref=e1680]: Blocks & Files
+                - generic [ref=e1684]:
+                  - generic:
+                    - button "More - Nvidia supercharges BlueField 4 with AI agent security SW running on its silicon" [ref=e1685] [cursor=pointer]:
+                      - img [ref=e1687]
+                    - tooltip [ref=e1689]: More
+              - link "Nvidia supercharges BlueField 4 with AI agent security SW running on its silicon - Blocks &amp; Files - 9 hours ago - By Chris Mellor" [ref=e1690] [cursor=pointer]:
+                - /url: ./read/CBMi0gFBVV95cUxNMUJ3U2lDWXBieXFSaTZfZkg1bHJveVZkbjA1b0QxVnZ2cTFaaHRSVEtQcTNkYnNhWkZpN0xka2lGVTNER1lOMFo2SUMxQVBVTDJkWE5xSDdGdGZQZEhtVkR3R3NfSS1US0lIQlhBdFNtSEtMcVdHdTRWczJLa2dCeVhTVEhQLXVZeDA2SDJCaFl5WkJocGFiWWxrMHBhUTJ2MEJJR19FdWlGLVYtWkFJSVRVamJuUjNkbUh2cTUtLXZqOHhScWFPNzR1QjE0N0M2MXc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia supercharges BlueField 4 with AI agent security SW running on its silicon
+            - figure [ref=e1691]
+          - generic [ref=e1692]:
+            - time [ref=e1693]: 9 hours ago
+            - separator [ref=e1694]
+            - generic [ref=e1695]: By Chris Mellor
+      - generic [ref=e1696]:
+        - separator [ref=e1698]
+        - generic [ref=e1700]:
+          - generic [ref=e1701]:
+            - link [ref=e1703] [cursor=pointer]:
+              - /url: ./read/CBMiswFBVV95cUxOVHhvWEFaUjNreDRNUUNXZXBUZDVOdzhJWjV6MEtyX3BMaVZqMFBMZ3lsRTd3YlFVdm11R3ZpRVRyYXJUSDQzQUlieWxXLXl4dU1RQmtuVjZZWEZMcVlDME1SWXVIVXc2SmhUYm5YQzIzSWNvY2hsNVB0Nk1LOXdnMUYwNldSM3ozR1lHS25SZWZkVHBfbG1NdzlKcVN0dVU4YVp1d0Q1M3BmUnpqQjVvZWo3WQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1705]:
+              - generic [ref=e1706]:
+                - generic [ref=e1709]: The Guardian
+                - generic [ref=e1713]:
+                  - generic:
+                    - button "More - Nvidia launches ‘superchip’ putting AI power into laptops and PCs" [ref=e1714] [cursor=pointer]:
+                      - img [ref=e1716]
+                    - tooltip [ref=e1718]: More
+              - link "Nvidia launches ‘superchip’ putting AI power into laptops and PCs - The Guardian - 2 hours ago - By Julia Kollewe" [ref=e1719] [cursor=pointer]:
+                - /url: ./read/CBMiswFBVV95cUxOVHhvWEFaUjNreDRNUUNXZXBUZDVOdzhJWjV6MEtyX3BMaVZqMFBMZ3lsRTd3YlFVdm11R3ZpRVRyYXJUSDQzQUlieWxXLXl4dU1RQmtuVjZZWEZMcVlDME1SWXVIVXc2SmhUYm5YQzIzSWNvY2hsNVB0Nk1LOXdnMUYwNldSM3ozR1lHS25SZWZkVHBfbG1NdzlKcVN0dVU4YVp1d0Q1M3BmUnpqQjVvZWo3WQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia launches ‘superchip’ putting AI power into laptops and PCs
+            - figure [ref=e1720]
+          - generic [ref=e1721]:
+            - time [ref=e1722]: 2 hours ago
+            - separator [ref=e1723]
+            - generic [ref=e1724]: By Julia Kollewe
+      - generic [ref=e1725]:
+        - separator [ref=e1727]
+        - generic [ref=e1729]:
+          - generic [ref=e1730]:
+            - link [ref=e1732] [cursor=pointer]:
+              - /url: ./read/CBMidkFVX3lxTE5NblVHeDZFd01NMktLbXdkU09IeUVLd0V1ZEhnTTY1emo3ZTF5am9zSjM0UVBHekpHbDRQX0ZFY18zdXNmcTZManNWMWlFVzBKSV80RFIydFd2QzdWa01iaERrLWZ6bzZYQnBvUmVqaVd5N0xnUVE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1734]:
+              - generic [ref=e1735]:
+                - generic [ref=e1738]: Taipei Times
+                - generic [ref=e1742]:
+                  - generic:
+                    - 'button "More - AI agents to replace smartphones as center of digital life: Qualcomm CEO" [ref=e1743] [cursor=pointer]':
+                      - img [ref=e1745]
+                    - tooltip [ref=e1747]: More
+              - 'link "AI agents to replace smartphones as center of digital life: Qualcomm CEO - Taipei Times - 4 hours ago" [ref=e1748] [cursor=pointer]':
+                - /url: ./read/CBMidkFVX3lxTE5NblVHeDZFd01NMktLbXdkU09IeUVLd0V1ZEhnTTY1emo3ZTF5am9zSjM0UVBHekpHbDRQX0ZFY18zdXNmcTZManNWMWlFVzBKSV80RFIydFd2QzdWa01iaERrLWZ6bzZYQnBvUmVqaVd5N0xnUVE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI agents to replace smartphones as center of digital life: Qualcomm CEO"
+            - figure [ref=e1749]
+          - time [ref=e1751]: 4 hours ago
+      - generic [ref=e1752]:
+        - separator [ref=e1754]
+        - generic [ref=e1756]:
+          - generic [ref=e1757]:
+            - link [ref=e1759] [cursor=pointer]:
+              - /url: ./read/CBMid0FVX3lxTE9RUXNjY1M3dEV6bmZycktlR0hnUlFzQi05TTdiNTFlWUJkZmRFMmViakR5WW1fS1FsazlmWm1vS0g2aFRPMWpyRWNxT2hnNkY2N2RVbU1vcTVxZ2ZFdm8zY0ZWQWdUNkg3XzB4RFMyUTZhYVg0RmRN?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1761]:
+              - generic [ref=e1762]:
+                - generic [ref=e1765]: Help Net Security
+                - generic [ref=e1769]:
+                  - generic:
+                    - 'button "More - OWASP Agent Memory Guard: Stop AI agents from being weaponized through their own memory" [ref=e1770] [cursor=pointer]':
+                      - img [ref=e1772]
+                    - tooltip [ref=e1774]: More
+              - 'link "OWASP Agent Memory Guard: Stop AI agents from being weaponized through their own memory - Help Net Security - 15 hours ago - By Mirko Zorz" [ref=e1775] [cursor=pointer]':
+                - /url: ./read/CBMid0FVX3lxTE9RUXNjY1M3dEV6bmZycktlR0hnUlFzQi05TTdiNTFlWUJkZmRFMmViakR5WW1fS1FsazlmWm1vS0g2aFRPMWpyRWNxT2hnNkY2N2RVbU1vcTVxZ2ZFdm8zY0ZWQWdUNkg3XzB4RFMyUTZhYVg0RmRN?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "OWASP Agent Memory Guard: Stop AI agents from being weaponized through their own memory"
+            - figure [ref=e1776]
+          - generic [ref=e1777]:
+            - time [ref=e1778]: 15 hours ago
+            - separator [ref=e1779]
+            - generic [ref=e1780]: By Mirko Zorz
+      - generic [ref=e1781]:
+        - separator [ref=e1783]
+        - generic [ref=e1785]:
+          - generic [ref=e1786]:
+            - link [ref=e1788] [cursor=pointer]:
+              - /url: ./read/CBMitAFBVV95cUxOcVZYR1lPd1NtcTg0c0I0Rl9pX3ZtWEd4VlJ3em5ULWFpX0RzUDF1aHY3bkFHOFpGelZPNUNNTnhDbHBHY3NqV1p0MUdsaU10aGE0a0phdDljNW4xMWx1Y2JsdzNWRHVwbW8tQlBiMHRJd2JjbEFwWm5DVHdkVTZyd3lnbTJidmxPRW82UDRnUWF4WkxVY0RKV1dpY1RhR0JLNzFxTlNiTGlodjNKOTlXclNsZGQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1790]:
+              - generic [ref=e1791]:
+                - generic [ref=e1794]: NVIDIA Developer
+                - generic [ref=e1798]:
+                  - generic:
+                    - button "More - Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security | NVIDIA Technical Blog" [ref=e1799] [cursor=pointer]:
+                      - img [ref=e1801]
+                    - tooltip [ref=e1803]: More
+              - link "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security | NVIDIA Technical Blog - NVIDIA Developer - 15 hours ago - By Ofir Arkin" [ref=e1804] [cursor=pointer]:
+                - /url: ./read/CBMitAFBVV95cUxOcVZYR1lPd1NtcTg0c0I0Rl9pX3ZtWEd4VlJ3em5ULWFpX0RzUDF1aHY3bkFHOFpGelZPNUNNTnhDbHBHY3NqV1p0MUdsaU10aGE0a0phdDljNW4xMWx1Y2JsdzNWRHVwbW8tQlBiMHRJd2JjbEFwWm5DVHdkVTZyd3lnbTJidmxPRW82UDRnUWF4WkxVY0RKV1dpY1RhR0JLNzFxTlNiTGlodjNKOTlXclNsZGQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security | NVIDIA Technical Blog
+            - figure [ref=e1805]
+          - generic [ref=e1806]:
+            - time [ref=e1807]: 15 hours ago
+            - separator [ref=e1808]
+            - generic [ref=e1809]: By Ofir Arkin
+      - generic [ref=e1810]:
+        - separator [ref=e1812]
+        - generic [ref=e1814]:
+          - generic [ref=e1815]:
+            - link [ref=e1817] [cursor=pointer]:
+              - /url: ./read/CBMiwgFBVV95cUxQVUI4WEZ2ZHhsNlJnUWNuUU9WQU5oMDBZcmYzcjBxYXBYVkNPUUhMY3NNYzJDWlBCNUtDMWVMYk9RTEZuaFV2S2J0ZHZoTzcxZmpqR3JfRXNTSTBwdVBpVHZsc2o3UFNEeDhFTTU2ajNxeGZ4ZnBQR1ZHcWFSQUsweVpac0hSZXF5d3RONGVrWE9WYlhLYTVrc1BqRmRyU3d4N1IxZGxpTFg5a0pWTlg0ZWRKM1RXR2doRmQzT0YxVFAzZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1819]:
+              - generic [ref=e1820]:
+                - generic [ref=e1823]: NVIDIA Newsroom
+                - generic [ref=e1827]:
+                  - generic:
+                    - button "More - NVIDIA Vera BlueField-4 STX Brings Agentic AI Storage Processing With In-Silicon Security" [ref=e1828] [cursor=pointer]:
+                      - img [ref=e1830]
+                    - tooltip [ref=e1832]: More
+              - link "NVIDIA Vera BlueField-4 STX Brings Agentic AI Storage Processing With In-Silicon Security - NVIDIA Newsroom - 16 hours ago - By Alex Shapiro" [ref=e1833] [cursor=pointer]:
+                - /url: ./read/CBMiwgFBVV95cUxQVUI4WEZ2ZHhsNlJnUWNuUU9WQU5oMDBZcmYzcjBxYXBYVkNPUUhMY3NNYzJDWlBCNUtDMWVMYk9RTEZuaFV2S2J0ZHZoTzcxZmpqR3JfRXNTSTBwdVBpVHZsc2o3UFNEeDhFTTU2ajNxeGZ4ZnBQR1ZHcWFSQUsweVpac0hSZXF5d3RONGVrWE9WYlhLYTVrc1BqRmRyU3d4N1IxZGxpTFg5a0pWTlg0ZWRKM1RXR2doRmQzT0YxVFAzZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA Vera BlueField-4 STX Brings Agentic AI Storage Processing With In-Silicon Security
+            - figure [ref=e1834]
+          - generic [ref=e1835]:
+            - time [ref=e1836]: 16 hours ago
+            - separator [ref=e1837]
+            - generic [ref=e1838]: By Alex Shapiro
+      - generic [ref=e1839]:
+        - separator [ref=e1841]
+        - generic [ref=e1843]:
+          - generic [ref=e1844]:
+            - link [ref=e1846] [cursor=pointer]:
+              - /url: ./read/CBMitgFBVV95cUxNYTJzTjZYbDhObGZEY0xUT0JpbUVMQ2xweC0yWVRDc2UxcnNtRWxOUkNSN1lEUjZsQkI1ZlI3Q3ZFUnJjb0t0QTlUQ3pVUGZSaXdBLXNRRXZHTzJpVHQzRVVGYWNGcGtacm1zV2VjYmlsZmFrc05oVHE4cExnT1lWQ1gycElONUQ2REZWaVJXY1Fvd01hZnFXRVIwZFBYTHo0dTVieE1makIwZVkyOVE5VkFpRDdFQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1848]:
+              - generic [ref=e1849]:
+                - generic [ref=e1852]: The World Economic Forum
+                - generic [ref=e1856]:
+                  - generic:
+                    - 'button "More - AI Agents in Action: A Playbook for Trusted Adoption, Authorization and Scaling 2026" [ref=e1857] [cursor=pointer]':
+                      - img [ref=e1859]
+                    - tooltip [ref=e1861]: More
+              - 'link "AI Agents in Action: A Playbook for Trusted Adoption, Authorization and Scaling 2026 - The World Economic Forum - May 26" [ref=e1862] [cursor=pointer]':
+                - /url: ./read/CBMitgFBVV95cUxNYTJzTjZYbDhObGZEY0xUT0JpbUVMQ2xweC0yWVRDc2UxcnNtRWxOUkNSN1lEUjZsQkI1ZlI3Q3ZFUnJjb0t0QTlUQ3pVUGZSaXdBLXNRRXZHTzJpVHQzRVVGYWNGcGtacm1zV2VjYmlsZmFrc05oVHE4cExnT1lWQ1gycElONUQ2REZWaVJXY1Fvd01hZnFXRVIwZFBYTHo0dTVieE1makIwZVkyOVE5VkFpRDdFQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI Agents in Action: A Playbook for Trusted Adoption, Authorization and Scaling 2026"
+            - figure [ref=e1863]
+          - time [ref=e1865]: May 26
+      - generic [ref=e1866]:
+        - separator [ref=e1868]
+        - generic [ref=e1870]:
+          - generic [ref=e1871]:
+            - link [ref=e1873] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxNeGg3ZWpGSEhvYUlzYWJCbGpJcW9kazA4bDJLM3RHLXhYNWdiVHZDWEo2d1BUX25vZUVTangzcFYyUEx1SVBUNGpwMkdObEl5dmY2Y0hBNVZkamotX1hZSlduS29mTWJuWDBwdkdfZlhKa0JrYlUxOUtyVzNxNXY2VU5QdjY5Smc2d0VxRXpKTG9EQjhlbnRidzBZeFJySFRIalNadUV3OGhfZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1875]:
+              - generic [ref=e1876]:
+                - generic [ref=e1879]: SiliconANGLE
+                - generic [ref=e1883]:
+                  - generic:
+                    - button "More - Nvidia gives developers the tools to build secure, autonomous AI workers that scale" [ref=e1884] [cursor=pointer]:
+                      - img [ref=e1886]
+                    - tooltip [ref=e1888]: More
+              - link "Nvidia gives developers the tools to build secure, autonomous AI workers that scale - SiliconANGLE - 14 hours ago - By Mike Wheatley" [ref=e1889] [cursor=pointer]:
+                - /url: ./read/CBMiqgFBVV95cUxNeGg3ZWpGSEhvYUlzYWJCbGpJcW9kazA4bDJLM3RHLXhYNWdiVHZDWEo2d1BUX25vZUVTangzcFYyUEx1SVBUNGpwMkdObEl5dmY2Y0hBNVZkamotX1hZSlduS29mTWJuWDBwdkdfZlhKa0JrYlUxOUtyVzNxNXY2VU5QdjY5Smc2d0VxRXpKTG9EQjhlbnRidzBZeFJySFRIalNadUV3OGhfZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia gives developers the tools to build secure, autonomous AI workers that scale
+            - figure [ref=e1890]
+          - generic [ref=e1891]:
+            - time [ref=e1892]: 14 hours ago
+            - separator [ref=e1893]
+            - generic [ref=e1894]: By Mike Wheatley
+      - generic [ref=e1895]:
+        - separator [ref=e1897]
+        - generic [ref=e1899]:
+          - generic [ref=e1900]:
+            - link [ref=e1902] [cursor=pointer]:
+              - /url: ./read/CBMipgFBVV95cUxQYVlMN0p0SHFQaDd1MDRXVjhpRk5vRmZjNkdSSjQ2bVlhSEhHaEZVNkpNZG5uUkZjZUc2djBPaWdlU0Z2ZXRZcGtxMjlQbGgyUXZwcUtyVUJZZkpSeml2SGFZWjZLVFJzcGUteTFCNUM2VjVVX3ljMUU5Y28xYVlaYmgwQjFXT3pyNUx0TTFPa1hENWpHQUxocV9PWTVpVE80aGY5RUJn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1904]:
+              - generic [ref=e1905]:
+                - generic [ref=e1908]: Stock Titan
+                - generic [ref=e1912]:
+                  - generic:
+                    - button "More - NVIDIA's AI coworkers help turn weeks of engineering into hours" [ref=e1913] [cursor=pointer]:
+                      - img [ref=e1915]
+                    - tooltip [ref=e1917]: More
+              - link "NVIDIA's AI coworkers help turn weeks of engineering into hours - Stock Titan - 15 hours ago" [ref=e1918] [cursor=pointer]:
+                - /url: ./read/CBMipgFBVV95cUxQYVlMN0p0SHFQaDd1MDRXVjhpRk5vRmZjNkdSSjQ2bVlhSEhHaEZVNkpNZG5uUkZjZUc2djBPaWdlU0Z2ZXRZcGtxMjlQbGgyUXZwcUtyVUJZZkpSeml2SGFZWjZLVFJzcGUteTFCNUM2VjVVX3ljMUU5Y28xYVlaYmgwQjFXT3pyNUx0TTFPa1hENWpHQUxocV9PWTVpVE80aGY5RUJn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA's AI coworkers help turn weeks of engineering into hours
+            - figure [ref=e1919]
+          - time [ref=e1921]: 15 hours ago
+      - generic [ref=e1922]:
+        - separator [ref=e1924]
+        - generic [ref=e1926]:
+          - generic [ref=e1927]:
+            - link [ref=e1929] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxQaUNSLXNUU0pqdFF4SVJIQm9YUU05bVVpemFSd1dXZGtkMzFYLWh2Q28wSEpHbWdRZ2dwMnUwNkotWEp4dGFKSy1haFVQclBDcnZQTXYxb1hZNVZVYm9NMFBMc0RwdFVPYktFQ05OME9lRlJlZGZ5eUdwc1U3QThta1dOMDBlTkJkMnlDUTlGdEJWYkZ5VGlyR3Z4YlVZS21sTGc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1931]:
+              - generic [ref=e1932]:
+                - generic [ref=e1935]: Yahoo Finance
+                - generic [ref=e1939]:
+                  - generic:
+                    - button "More - After the AI binge, companies balk at soaring bills" [ref=e1940] [cursor=pointer]:
+                      - img [ref=e1942]
+                    - tooltip [ref=e1944]: More
+              - link "After the AI binge, companies balk at soaring bills - Yahoo Finance - 6 hours ago - By Thomas Urbain" [ref=e1945] [cursor=pointer]:
+                - /url: ./read/CBMiogFBVV95cUxQaUNSLXNUU0pqdFF4SVJIQm9YUU05bVVpemFSd1dXZGtkMzFYLWh2Q28wSEpHbWdRZ2dwMnUwNkotWEp4dGFKSy1haFVQclBDcnZQTXYxb1hZNVZVYm9NMFBMc0RwdFVPYktFQ05OME9lRlJlZGZ5eUdwc1U3QThta1dOMDBlTkJkMnlDUTlGdEJWYkZ5VGlyR3Z4YlVZS21sTGc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: After the AI binge, companies balk at soaring bills
+            - figure [ref=e1946]
+          - generic [ref=e1947]:
+            - time [ref=e1948]: 6 hours ago
+            - separator [ref=e1949]
+            - generic [ref=e1950]: By Thomas Urbain
+      - generic [ref=e1951]:
+        - separator [ref=e1953]
+        - generic [ref=e1955]:
+          - generic [ref=e1956]:
+            - link [ref=e1958] [cursor=pointer]:
+              - /url: ./read/CBMiowFBVV95cUxQc1RmeDBUV29TMDZJNDBia1pqWGQ5RkVncXlSUEJmdEFBRFRjSWNkVUtJRFA5LWt0R1A1TE1pRWhqcWp0X2Ewc3hrd2tyeEFqTmVqZHZ5eS03Vm5ER3ZRYVFGcGxuNHl3VWVZSll5d2tLcC1NNktoVmtvR2FHOHBfWGJWSDRvenJlU3FZeXE2NlE0VGFKWUtNRGpUY21VbGtsSDl3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1960]:
+              - generic [ref=e1961]:
+                - generic [ref=e1964]: Computer Weekly
+                - generic [ref=e1968]:
+                  - generic:
+                    - button "More - AI agents help Cato slash ‘time-to-protect’ from new CVEs" [ref=e1969] [cursor=pointer]:
+                      - img [ref=e1971]
+                    - tooltip [ref=e1973]: More
+              - link "AI agents help Cato slash ‘time-to-protect’ from new CVEs - Computer Weekly - 3 hours ago - By Alex Scroxton" [ref=e1974] [cursor=pointer]:
+                - /url: ./read/CBMiowFBVV95cUxQc1RmeDBUV29TMDZJNDBia1pqWGQ5RkVncXlSUEJmdEFBRFRjSWNkVUtJRFA5LWt0R1A1TE1pRWhqcWp0X2Ewc3hrd2tyeEFqTmVqZHZ5eS03Vm5ER3ZRYVFGcGxuNHl3VWVZSll5d2tLcC1NNktoVmtvR2FHOHBfWGJWSDRvenJlU3FZeXE2NlE0VGFKWUtNRGpUY21VbGtsSDl3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI agents help Cato slash ‘time-to-protect’ from new CVEs
+            - figure [ref=e1975]
+          - generic [ref=e1976]:
+            - time [ref=e1977]: 3 hours ago
+            - separator [ref=e1978]
+            - generic [ref=e1979]: By Alex Scroxton
+      - generic [ref=e1980]:
+        - separator [ref=e1982]
+        - generic [ref=e1984]:
+          - generic [ref=e1985]:
+            - link [ref=e1987] [cursor=pointer]:
+              - /url: ./read/CBMiugFBVV95cUxQREE4TjJkbDJvZkltWENaR0pvSUlGWEl5cjRUZjZGQ3ZyUGxkdmE2c2lTSk5BRFQyUkw5ODN3M1VmMFJEanA2cmNJLV9Wb3VFZ0lYNnd0MF9abjlYeDRjc2JyU1gzdVVoUUNKUHpXbXN3T3RVUXFuX1NzdU5KVXFRQjVuQ0xLZXZrSFYxT0JhUnpfdXoxeHJ0Nk95NlY1NXUyTXZSM0dobDFNdk05MXVEZFpIcV9mYkE1MGc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1989]:
+              - generic [ref=e1990]:
+                - generic [ref=e1993]: TNGlobal
+                - generic [ref=e1997]:
+                  - generic:
+                    - 'button "More - AI agents in finance: How autonomous AI is reshaping the financial industry in 2026" [ref=e1998] [cursor=pointer]':
+                      - img [ref=e2000]
+                    - tooltip [ref=e2002]: More
+              - 'link "AI agents in finance: How autonomous AI is reshaping the financial industry in 2026 - TNGlobal - 13 hours ago - By Anand Eswara Subramanian" [ref=e2003] [cursor=pointer]':
+                - /url: ./read/CBMiugFBVV95cUxQREE4TjJkbDJvZkltWENaR0pvSUlGWEl5cjRUZjZGQ3ZyUGxkdmE2c2lTSk5BRFQyUkw5ODN3M1VmMFJEanA2cmNJLV9Wb3VFZ0lYNnd0MF9abjlYeDRjc2JyU1gzdVVoUUNKUHpXbXN3T3RVUXFuX1NzdU5KVXFRQjVuQ0xLZXZrSFYxT0JhUnpfdXoxeHJ0Nk95NlY1NXUyTXZSM0dobDFNdk05MXVEZFpIcV9mYkE1MGc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI agents in finance: How autonomous AI is reshaping the financial industry in 2026"
+            - figure [ref=e2004]
+          - generic [ref=e2005]:
+            - time [ref=e2006]: 13 hours ago
+            - separator [ref=e2007]
+            - generic [ref=e2008]: By Anand Eswara Subramanian
+      - generic [ref=e2009]:
+        - separator [ref=e2011]
+        - generic [ref=e2013]:
+          - generic [ref=e2014]:
+            - link [ref=e2016] [cursor=pointer]:
+              - /url: ./read/CBMiuAFBVV95cUxNUkk4YXN0VDQ0RUplbjJWb3I5ZEdLNWk0WGNZZjBPWF9tNEpld3ROUko1VDRiSnk2VDB1ZjM3aDJJSkFrckZJcE83ZFkwYVJfUFFYSHVnSFh0VGJPSmZGVS1QU1huVXB3R3lxTUFhb0JLYjJJTFhKN1B6M0RVNDhZNXc1ZHpHX01xbldFMWxzV0t6QmRHNEtpYlJ0TWFtVG5TUkY5T3ZNamJCdjFkRFRBN3pLY1lyNDBz?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2018]:
+              - generic [ref=e2019]:
+                - generic [ref=e2022]: shorttermrentalz.com
+                - generic [ref=e2026]:
+                  - generic:
+                    - button "More - Guesty launches AI agent platform for short-term rental operations" [ref=e2027] [cursor=pointer]:
+                      - img [ref=e2029]
+                    - tooltip [ref=e2031]: More
+              - link "Guesty launches AI agent platform for short-term rental operations - shorttermrentalz.com - 7 hours ago - By Priya Khaira" [ref=e2032] [cursor=pointer]:
+                - /url: ./read/CBMiuAFBVV95cUxNUkk4YXN0VDQ0RUplbjJWb3I5ZEdLNWk0WGNZZjBPWF9tNEpld3ROUko1VDRiSnk2VDB1ZjM3aDJJSkFrckZJcE83ZFkwYVJfUFFYSHVnSFh0VGJPSmZGVS1QU1huVXB3R3lxTUFhb0JLYjJJTFhKN1B6M0RVNDhZNXc1ZHpHX01xbldFMWxzV0t6QmRHNEtpYlJ0TWFtVG5TUkY5T3ZNamJCdjFkRFRBN3pLY1lyNDBz?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Guesty launches AI agent platform for short-term rental operations
+            - figure [ref=e2033]
+          - generic [ref=e2034]:
+            - time [ref=e2035]: 7 hours ago
+            - separator [ref=e2036]
+            - generic [ref=e2037]: By Priya Khaira
+      - generic [ref=e2038]:
+        - separator [ref=e2040]
+        - generic [ref=e2042]:
+          - generic [ref=e2043]:
+            - link [ref=e2045] [cursor=pointer]:
+              - /url: ./read/CBMiaEFVX3lxTFBZYzRidVU1RFJEZkhUamotbVJiVE04Z1k1MlJpWms2VHhWOFhqUnFDanRSS3JzaEZHSW9LZ2pPV05KVUY4aVZWVGhmZ0E4Q3djZHV2ak5oSjB0WFNFRm9Qd3BJUGEySlpa?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2047]:
+              - generic [ref=e2048]:
+                - generic [ref=e2051]: Home Furnishings Association
+                - generic [ref=e2055]:
+                  - generic:
+                    - button "More - AI and the New Digital Storefront" [ref=e2056] [cursor=pointer]:
+                      - img [ref=e2058]
+                    - tooltip [ref=e2060]: More
+              - link "AI and the New Digital Storefront - Home Furnishings Association - 6 hours ago" [ref=e2061] [cursor=pointer]:
+                - /url: ./read/CBMiaEFVX3lxTFBZYzRidVU1RFJEZkhUamotbVJiVE04Z1k1MlJpWms2VHhWOFhqUnFDanRSS3JzaEZHSW9LZ2pPV05KVUY4aVZWVGhmZ0E4Q3djZHV2ak5oSjB0WFNFRm9Qd3BJUGEySlpa?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI and the New Digital Storefront
+            - figure [ref=e2062]
+          - time [ref=e2064]: 6 hours ago
+      - generic [ref=e2065]:
+        - separator [ref=e2067]
+        - generic [ref=e2069]:
+          - generic [ref=e2070]:
+            - link [ref=e2072] [cursor=pointer]:
+              - /url: ./read/CBMicEFVX3lxTE5vOWg1UXRJeF9zM2JfSTREZ3d1QTFnMHoxNmJrd0RqR2tTMkxEWDF0ZmEzZ2NvcEVXUUhXNnUtNjRXV0ZyZERtWGJkdGhjTVN0THRWcEJ1UHNiT2h4N292TUxPSFFZQlFULTRURGZscHQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2074]:
+              - generic [ref=e2075]:
+                - generic [ref=e2078]: CrowdStrike
+                - generic [ref=e2082]:
+                  - generic:
+                    - button "More - Gartner Magic Quadrant for Endpoint Protection" [ref=e2083] [cursor=pointer]:
+                      - img [ref=e2085]
+                    - tooltip [ref=e2087]: More
+              - link "Gartner Magic Quadrant for Endpoint Protection - CrowdStrike - 4 hours ago" [ref=e2088] [cursor=pointer]:
+                - /url: ./read/CBMicEFVX3lxTE5vOWg1UXRJeF9zM2JfSTREZ3d1QTFnMHoxNmJrd0RqR2tTMkxEWDF0ZmEzZ2NvcEVXUUhXNnUtNjRXV0ZyZERtWGJkdGhjTVN0THRWcEJ1UHNiT2h4N292TUxPSFFZQlFULTRURGZscHQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Gartner Magic Quadrant for Endpoint Protection
+            - figure [ref=e2089]
+          - time [ref=e2091]: 4 hours ago
+      - generic [ref=e2092]:
+        - separator [ref=e2094]
+        - generic [ref=e2096]:
+          - generic [ref=e2097]:
+            - link [ref=e2099] [cursor=pointer]:
+              - /url: ./read/CBMifEFVX3lxTE1ydjI0cHBmYXhBY0tXcFdINDQxcl9IYnQ2Skx1T2ZZajBXZ3JQM0poTlFjN20xMVowYjNWX2hHbEg2ZWxwaUJfYVVHYlh4REY3aUlKNjZDSmpYbGkwYjNadzFnZHpwUnZqdEJSY3A0cHFOVUo1RWZUY3lsaUg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2101]:
+              - generic [ref=e2102]:
+                - generic [ref=e2105]: WIRED
+                - generic [ref=e2109]:
+                  - generic:
+                    - button "More - AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened" [ref=e2110] [cursor=pointer]:
+                      - img [ref=e2112]
+                    - tooltip [ref=e2114]: More
+              - link "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened - WIRED - May 26 - By Steven Levy" [ref=e2115] [cursor=pointer]:
+                - /url: ./read/CBMifEFVX3lxTE1ydjI0cHBmYXhBY0tXcFdINDQxcl9IYnQ2Skx1T2ZZajBXZ3JQM0poTlFjN20xMVowYjNWX2hHbEg2ZWxwaUJfYVVHYlh4REY3aUlKNjZDSmpYbGkwYjNadzFnZHpwUnZqdEJSY3A0cHFOVUo1RWZUY3lsaUg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened
+            - figure [ref=e2116]
+          - generic [ref=e2117]:
+            - time [ref=e2118]: May 26
+            - separator [ref=e2119]
+            - generic [ref=e2120]: By Steven Levy
+      - generic [ref=e2121]:
+        - separator [ref=e2123]
+        - generic [ref=e2125]:
+          - generic [ref=e2126]:
+            - link [ref=e2128] [cursor=pointer]:
+              - /url: ./read/CBMiiwFBVV95cUxOcEdJblV2dld5SkZnQjh1TGZkS0xneE9lcEJMUDZKOTRETW9ILS04ZXI3Q0Zic3hNc0RRX1hVeEpsOFRRS0JyOFp0SnFnQ1lpU2FRV21TOUtlM3hWc2lWYldGXzl2TTIzUC03SlA2TjZFVHZ1M2xsbWlDRFFjZFpsc2NFcVBLcE9mMTUw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2130]:
+              - generic [ref=e2131]:
+                - generic [ref=e2134]: Axios
+                - generic [ref=e2138]:
+                  - generic:
+                    - button "More - Gradient Labs doubles Series A for fintech AI agents" [ref=e2139] [cursor=pointer]:
+                      - img [ref=e2141]
+                    - tooltip [ref=e2143]: More
+              - link "Gradient Labs doubles Series A for fintech AI agents - Axios - 7 hours ago - By Ryan Lawler" [ref=e2144] [cursor=pointer]:
+                - /url: ./read/CBMiiwFBVV95cUxOcEdJblV2dld5SkZnQjh1TGZkS0xneE9lcEJMUDZKOTRETW9ILS04ZXI3Q0Zic3hNc0RRX1hVeEpsOFRRS0JyOFp0SnFnQ1lpU2FRV21TOUtlM3hWc2lWYldGXzl2TTIzUC03SlA2TjZFVHZ1M2xsbWlDRFFjZFpsc2NFcVBLcE9mMTUw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Gradient Labs doubles Series A for fintech AI agents
+            - figure [ref=e2145]
+          - generic [ref=e2146]:
+            - time [ref=e2147]: 7 hours ago
+            - separator [ref=e2148]
+            - generic [ref=e2149]: By Ryan Lawler
+      - generic [ref=e2150]:
+        - separator [ref=e2152]
+        - generic [ref=e2154]:
+          - generic [ref=e2155]:
+            - link [ref=e2157] [cursor=pointer]:
+              - /url: ./read/CBMickFVX3lxTE9fMmZkMUlLRlRjQ0VDWFB5bFA1NjE4YjVsRm1mZ0h5RzlteUYzZF9RUUNFaUwxZnJiX0FBS2FjQ1V1NkdqU1BNMlFEZDhNRzdIMmZJZktZNUN2Rk5nSEJsZUlSd1pqSUR3SHpBc2xSR2RaUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2159]:
+              - generic [ref=e2160]:
+                - generic [ref=e2163]: ERP Today
+                - generic [ref=e2167]:
+                  - generic:
+                    - button "More - Priority Software Bets Midmarket ERP Users Are Ready for AI That Executes" [ref=e2168] [cursor=pointer]:
+                      - img [ref=e2170]
+                    - tooltip [ref=e2172]: More
+              - link "Priority Software Bets Midmarket ERP Users Are Ready for AI That Executes - ERP Today - 5 hours ago - By Tarsilla Moura" [ref=e2173] [cursor=pointer]:
+                - /url: ./read/CBMickFVX3lxTE9fMmZkMUlLRlRjQ0VDWFB5bFA1NjE4YjVsRm1mZ0h5RzlteUYzZF9RUUNFaUwxZnJiX0FBS2FjQ1V1NkdqU1BNMlFEZDhNRzdIMmZJZktZNUN2Rk5nSEJsZUlSd1pqSUR3SHpBc2xSR2RaUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Priority Software Bets Midmarket ERP Users Are Ready for AI That Executes
+            - figure [ref=e2174]
+          - generic [ref=e2175]:
+            - time [ref=e2176]: 5 hours ago
+            - separator [ref=e2177]
+            - generic [ref=e2178]: By Tarsilla Moura
+      - generic [ref=e2179]:
+        - separator [ref=e2181]
+        - generic [ref=e2183]:
+          - generic [ref=e2184]:
+            - link [ref=e2186] [cursor=pointer]:
+              - /url: ./read/CBMiekFVX3lxTFAzb0dEdVBPaWlpQU1kUGRSakxKS2NMZThXbzVDQ09HVWUzTWVFUmNjblJjbW1LRkFkUmNYY1FXWTJab3l3a3pHV3FXQ0pxUTNhZlM2OGl0Qk1SbFlCdk1KU1ZuT25TOGQ0U0o0bVN2MjE0ZHNZX3U4T3B3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2188]:
+              - generic [ref=e2189]:
+                - generic [ref=e2192]: TechRadar
+                - generic [ref=e2196]:
+                  - generic:
+                    - button "More - AI agents shouldn’t run your supply chain" [ref=e2197] [cursor=pointer]:
+                      - img [ref=e2199]
+                    - tooltip [ref=e2201]: More
+              - link "AI agents shouldn’t run your supply chain - TechRadar - 11 hours ago" [ref=e2202] [cursor=pointer]:
+                - /url: ./read/CBMiekFVX3lxTFAzb0dEdVBPaWlpQU1kUGRSakxKS2NMZThXbzVDQ09HVWUzTWVFUmNjblJjbW1LRkFkUmNYY1FXWTJab3l3a3pHV3FXQ0pxUTNhZlM2OGl0Qk1SbFlCdk1KU1ZuT25TOGQ0U0o0bVN2MjE0ZHNZX3U4T3B3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI agents shouldn’t run your supply chain
+            - figure [ref=e2203]
+          - time [ref=e2205]: 11 hours ago
+      - generic [ref=e2206]:
+        - separator [ref=e2208]
+        - generic [ref=e2210]:
+          - generic [ref=e2211]:
+            - link [ref=e2213] [cursor=pointer]:
+              - /url: ./read/CBMiwwFBVV95cUxPQmFSRmt4SG9GSWVXS1FNYzRCZmtIRXlPeWljVzVQVF9abWV3aGJ6Nk1SZm5CejZUeFZ5dXFHcEJ2bElWODBCTGNLSWxHTFI2dC1lcmREYkRVZ0FIcHpiZVBIRk5GWFpyMDQxRVRvTGFGVnBiekJsVjNGRmhxRWlBOU12Z1lxTVVxemZEUFBuTTNNc2t5S2RWem1UZ0wxeUtXT2dfcGJmSUswSmNWeXNocHExYlk3NGVLR2VpaDhhMWpVdXM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2215]:
+              - generic [ref=e2216]:
+                - generic [ref=e2219]: the-decoder.com
+                - generic [ref=e2223]:
+                  - generic:
+                    - button "More - Nvidia pitches RTX Spark as the chip that finally makes local AI agents practical on Windows devices" [ref=e2224] [cursor=pointer]:
+                      - img [ref=e2226]
+                    - tooltip [ref=e2228]: More
+              - link "Nvidia pitches RTX Spark as the chip that finally makes local AI agents practical on Windows devices - the-decoder.com - 6 hours ago - By Maximilian Schreiner" [ref=e2229] [cursor=pointer]:
+                - /url: ./read/CBMiwwFBVV95cUxPQmFSRmt4SG9GSWVXS1FNYzRCZmtIRXlPeWljVzVQVF9abWV3aGJ6Nk1SZm5CejZUeFZ5dXFHcEJ2bElWODBCTGNLSWxHTFI2dC1lcmREYkRVZ0FIcHpiZVBIRk5GWFpyMDQxRVRvTGFGVnBiekJsVjNGRmhxRWlBOU12Z1lxTVVxemZEUFBuTTNNc2t5S2RWem1UZ0wxeUtXT2dfcGJmSUswSmNWeXNocHExYlk3NGVLR2VpaDhhMWpVdXM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia pitches RTX Spark as the chip that finally makes local AI agents practical on Windows devices
+            - figure [ref=e2230]
+          - generic [ref=e2231]:
+            - time [ref=e2232]: 6 hours ago
+            - separator [ref=e2233]
+            - generic [ref=e2234]: By Maximilian Schreiner
+      - generic [ref=e2235]:
+        - separator [ref=e2237]
+        - generic [ref=e2239]:
+          - generic [ref=e2240]:
+            - link [ref=e2242] [cursor=pointer]:
+              - /url: ./read/CBMilAFBVV95cUxQMGJzcUktSzVWM216aFBzMjc5cERhUF9lV0JwTXkzcndKWVBnR2VwZGEteU5vT1VqdWJ0MGtjaUQ2RW5tYWctVk1iUEg3MkNDYmMxUjN1aHp0b0tJQTBCbm9yNTYwdU9qSGF1SHZMTkM0bHNmd2NiMS05RW1ZVUxYSjZIbWRrR3E3aTNfcXVtNm5LS2JG?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2244]:
+              - generic [ref=e2245]:
+                - generic [ref=e2248]: CX Today
+                - generic [ref=e2252]:
+                  - generic:
+                    - button "More - Afiniti Wants to Own Contact Center AI Decisioning" [ref=e2253] [cursor=pointer]:
+                      - img [ref=e2255]
+                    - tooltip [ref=e2257]: More
+              - link "Afiniti Wants to Own Contact Center AI Decisioning - CX Today - 8 hours ago" [ref=e2258] [cursor=pointer]:
+                - /url: ./read/CBMilAFBVV95cUxQMGJzcUktSzVWM216aFBzMjc5cERhUF9lV0JwTXkzcndKWVBnR2VwZGEteU5vT1VqdWJ0MGtjaUQ2RW5tYWctVk1iUEg3MkNDYmMxUjN1aHp0b0tJQTBCbm9yNTYwdU9qSGF1SHZMTkM0bHNmd2NiMS05RW1ZVUxYSjZIbWRrR3E3aTNfcXVtNm5LS2JG?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Afiniti Wants to Own Contact Center AI Decisioning
+            - figure [ref=e2259]
+          - time [ref=e2261]: 8 hours ago
+      - generic [ref=e2262]:
+        - separator [ref=e2264]
+        - generic [ref=e2266]:
+          - generic [ref=e2267]:
+            - link [ref=e2269] [cursor=pointer]:
+              - /url: ./read/CBMiqAFBVV95cUxQY3N4eTNXdU5qcWRza1ZyUXBEM3RfQkpBOUg0b2p1NEdjSVlVeGtKTFI5S29FTE5SeWYxbFRqa3VFSjY4aHV4bS1uaUZma2NlZ3gzSFVndjBDZjVnei1ZTEM4ZVNtM2w1SHVTcmVWWVozVzBwM08ycGlsZk9aczB2dGM5Ums5T1g4dHpZMmU3cjJRRldaajF3bHFSYXlZeTd2clZseW44bUvSAa4BQVVfeXFMTnMzUF8xWmdIcmxTaEJsejVqRnZpVzFFSzhZaWZaY3Z6NEx5WGM4eWVLUWg5OUROLVhvTW9ya0FKckpIakRzanNYdTNIQ09wM1dtZDNYQktnLVktVnVrRGUxRXZ2NnZrMnViYXVfeUdrVWdXekFONHVjbjI0U3VhVHNWbERUUzN3SGpQQU5YdDVVT2JWVDZZVGNOazRRTFBLck5GNlpTSU4ydjZTbmFB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2271]:
+              - generic [ref=e2272]:
+                - generic [ref=e2275]: Pulse 2.0
+                - generic [ref=e2279]:
+                  - generic:
+                    - button "More - NVIDIA And Microsoft Unveil RTX Spark, A 1-Petaflop AI PC Platform For Personal Agents" [ref=e2280] [cursor=pointer]:
+                      - img [ref=e2282]
+                    - tooltip [ref=e2284]: More
+              - link "NVIDIA And Microsoft Unveil RTX Spark, A 1-Petaflop AI PC Platform For Personal Agents - Pulse 2.0 - 7 hours ago - By Amit Chowdhry" [ref=e2285] [cursor=pointer]:
+                - /url: ./read/CBMiqAFBVV95cUxQY3N4eTNXdU5qcWRza1ZyUXBEM3RfQkpBOUg0b2p1NEdjSVlVeGtKTFI5S29FTE5SeWYxbFRqa3VFSjY4aHV4bS1uaUZma2NlZ3gzSFVndjBDZjVnei1ZTEM4ZVNtM2w1SHVTcmVWWVozVzBwM08ycGlsZk9aczB2dGM5Ums5T1g4dHpZMmU3cjJRRldaajF3bHFSYXlZeTd2clZseW44bUvSAa4BQVVfeXFMTnMzUF8xWmdIcmxTaEJsejVqRnZpVzFFSzhZaWZaY3Z6NEx5WGM4eWVLUWg5OUROLVhvTW9ya0FKckpIakRzanNYdTNIQ09wM1dtZDNYQktnLVktVnVrRGUxRXZ2NnZrMnViYXVfeUdrVWdXekFONHVjbjI0U3VhVHNWbERUUzN3SGpQQU5YdDVVT2JWVDZZVGNOazRRTFBLck5GNlpTSU4ydjZTbmFB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA And Microsoft Unveil RTX Spark, A 1-Petaflop AI PC Platform For Personal Agents
+            - figure [ref=e2286]
+          - generic [ref=e2287]:
+            - time [ref=e2288]: 7 hours ago
+            - separator [ref=e2289]
+            - generic [ref=e2290]: By Amit Chowdhry
+      - generic [ref=e2291]:
+        - separator [ref=e2293]
+        - generic [ref=e2295]:
+          - generic [ref=e2296]:
+            - link [ref=e2298] [cursor=pointer]:
+              - /url: ./read/CBMikgFBVV95cUxPUGlvbU1jcmVRSVlidVh2Z2Uyc1hNbll2V0VfOFdPcWt6bzZEUzBMNUJ2UExZNnhXbkUtN2NtYjFtRmNvekg0UElxRVhaUF9pUDhhYTJ6VS04bVVEMUh4Q3FNc0t6Q1BqVzNtMVpkZ18wTzdJajZ1WXgyb2plcVJFTXU2UnhhN1VOaVJCREZvZHg2Zw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2300]:
+              - generic [ref=e2301]:
+                - generic [ref=e2304]: Android Headlines
+                - generic [ref=e2308]:
+                  - generic:
+                    - 'button "More - Meet NVIDIA Vera: The Radical New CPU Custom-Built for AI Agents" [ref=e2309] [cursor=pointer]':
+                      - img [ref=e2311]
+                    - tooltip [ref=e2313]: More
+              - 'link "Meet NVIDIA Vera: The Radical New CPU Custom-Built for AI Agents - Android Headlines - 2 hours ago - By Jean Leon" [ref=e2314] [cursor=pointer]':
+                - /url: ./read/CBMikgFBVV95cUxPUGlvbU1jcmVRSVlidVh2Z2Uyc1hNbll2V0VfOFdPcWt6bzZEUzBMNUJ2UExZNnhXbkUtN2NtYjFtRmNvekg0UElxRVhaUF9pUDhhYTJ6VS04bVVEMUh4Q3FNc0t6Q1BqVzNtMVpkZ18wTzdJajZ1WXgyb2plcVJFTXU2UnhhN1VOaVJCREZvZHg2Zw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Meet NVIDIA Vera: The Radical New CPU Custom-Built for AI Agents"
+            - figure [ref=e2315]
+          - generic [ref=e2316]:
+            - time [ref=e2317]: 2 hours ago
+            - separator [ref=e2318]
+            - generic [ref=e2319]: By Jean Leon
+      - generic [ref=e2320]:
+        - separator [ref=e2322]
+        - generic [ref=e2324]:
+          - generic [ref=e2325]:
+            - link [ref=e2327] [cursor=pointer]:
+              - /url: ./read/CBMiggJBVV95cUxNMno5WW05RC0xZmJoUkUwRlhObzI3ZlY1c29XdjF1Vk15SnB2bEtlLU4wZDJmM1hJbmpmZ0dpRG0yMFdXSHVSWjRiaDZHLUJndHlZVFY2bm5FNzVSbENXdnl0ZS15dGthdlJJdlpCYkdGTkhyOUxMd2VjMk1VOWZwenA2RThxNG4xcFFmMTRJOTlNNTZaUHMzNzRFOUdWeW54eEdWQk9tSWtyZVR1b0ZMWDlOSXh3b2t0YmFMNVFHb0ZtXzhaaVEwVkNWNDIxRjFRVXRlcnd1RnlySzNHOEFrTE1RNjBqcXEtR0RlUHBuY1FkLTc2NkttQjIwSzk4MDZvcHc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2329]:
+              - generic [ref=e2330]:
+                - generic [ref=e2333]: Google Cloud Press Corner
+                - generic [ref=e2337]:
+                  - generic:
+                    - button "More - Workday and Google Cloud Expand Strategic Partnership to Bring AI Agents for HR and Finance Into Employees' Daily Workflows" [ref=e2338] [cursor=pointer]:
+                      - img [ref=e2340]
+                    - tooltip [ref=e2342]: More
+              - link "Workday and Google Cloud Expand Strategic Partnership to Bring AI Agents for HR and Finance Into Employees' Daily Workflows - Google Cloud Press Corner - 5 days ago" [ref=e2343] [cursor=pointer]:
+                - /url: ./read/CBMiggJBVV95cUxNMno5WW05RC0xZmJoUkUwRlhObzI3ZlY1c29XdjF1Vk15SnB2bEtlLU4wZDJmM1hJbmpmZ0dpRG0yMFdXSHVSWjRiaDZHLUJndHlZVFY2bm5FNzVSbENXdnl0ZS15dGthdlJJdlpCYkdGTkhyOUxMd2VjMk1VOWZwenA2RThxNG4xcFFmMTRJOTlNNTZaUHMzNzRFOUdWeW54eEdWQk9tSWtyZVR1b0ZMWDlOSXh3b2t0YmFMNVFHb0ZtXzhaaVEwVkNWNDIxRjFRVXRlcnd1RnlySzNHOEFrTE1RNjBqcXEtR0RlUHBuY1FkLTc2NkttQjIwSzk4MDZvcHc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Workday and Google Cloud Expand Strategic Partnership to Bring AI Agents for HR and Finance Into Employees' Daily Workflows
+            - figure [ref=e2344]
+          - time [ref=e2346]: 5 days ago
+      - generic [ref=e2347]:
+        - separator [ref=e2349]
+        - generic [ref=e2351]:
+          - generic [ref=e2352]:
+            - link [ref=e2354] [cursor=pointer]:
+              - /url: ./read/CBMiekFVX3lxTFB1eGp4eGlpbDB5NExqbmgyRmFQTjN5emdlUGxHMkpYekZMemJucVVRbHB1MWVHM1RjQkJOMTF3S0hpNzlBeDFwRWx0V3JlZkF6b0IwMDZZT0RqYThWQ1RaSzdDUGtRLWdidEUzN3ZSOW1wQkxOQUQzclZR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2356]:
+              - generic [ref=e2357]:
+                - generic [ref=e2360]: CBS News
+                - generic [ref=e2364]:
+                  - generic:
+                    - button "More - Nvidia making consumer PC push with new AI superchip" [ref=e2365] [cursor=pointer]:
+                      - img [ref=e2367]
+                    - tooltip [ref=e2369]: More
+              - link "Nvidia making consumer PC push with new AI superchip - CBS News - 7 hours ago" [ref=e2370] [cursor=pointer]:
+                - /url: ./read/CBMiekFVX3lxTFB1eGp4eGlpbDB5NExqbmgyRmFQTjN5emdlUGxHMkpYekZMemJucVVRbHB1MWVHM1RjQkJOMTF3S0hpNzlBeDFwRWx0V3JlZkF6b0IwMDZZT0RqYThWQ1RaSzdDUGtRLWdidEUzN3ZSOW1wQkxOQUQzclZR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia making consumer PC push with new AI superchip
+            - figure [ref=e2371]
+          - time [ref=e2373]: 7 hours ago
+      - generic [ref=e2374]:
+        - separator [ref=e2376]
+        - generic [ref=e2378]:
+          - generic [ref=e2379]:
+            - link [ref=e2381] [cursor=pointer]:
+              - /url: ./read/CBMiuwFBVV95cUxNTG5fendPWExtNUJhOEt5R3dFdVJORDIwREhPZXkyNDRkSDUtUTZzdTl4UERBaGdmZ25jV1ZrM29nRV9GbU5OWTFxVVZIVlRybGpnVFJUSTVoQVFvdEFMUXMyNnpFSHA1NnQxWkNoenlLcTFjQ1FzQWlycTNUYVZRZ2ljbzZFbXZ6Q2RRTk95VU5QSkQ3N2FXeFVHVkppbnl0M3EyZjYzUDhTclhmbFZEZ0dBRWlnOWthOURr?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2383]:
+              - generic [ref=e2384]:
+                - generic [ref=e2387]: citybiz
+                - generic [ref=e2391]:
+                  - generic:
+                    - button "More - Canyon Code Raises $5M to Help Enterprises Control AI Agent Costs and Performance" [ref=e2392] [cursor=pointer]:
+                      - img [ref=e2394]
+                    - tooltip [ref=e2396]: More
+              - link "Canyon Code Raises $5M to Help Enterprises Control AI Agent Costs and Performance - citybiz - 10 hours ago" [ref=e2397] [cursor=pointer]:
+                - /url: ./read/CBMiuwFBVV95cUxNTG5fendPWExtNUJhOEt5R3dFdVJORDIwREhPZXkyNDRkSDUtUTZzdTl4UERBaGdmZ25jV1ZrM29nRV9GbU5OWTFxVVZIVlRybGpnVFJUSTVoQVFvdEFMUXMyNnpFSHA1NnQxWkNoenlLcTFjQ1FzQWlycTNUYVZRZ2ljbzZFbXZ6Q2RRTk95VU5QSkQ3N2FXeFVHVkppbnl0M3EyZjYzUDhTclhmbFZEZ0dBRWlnOWthOURr?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Canyon Code Raises $5M to Help Enterprises Control AI Agent Costs and Performance
+            - figure [ref=e2398]
+          - time [ref=e2400]: 10 hours ago
+      - generic [ref=e2401]:
+        - separator [ref=e2403]
+        - generic [ref=e2405]:
+          - generic [ref=e2406]:
+            - link [ref=e2408] [cursor=pointer]:
+              - /url: ./read/CBMisgFBVV95cUxQUmEzYUc3V3FJUUdaTHE2ZnF4Rm9Bc0s0VDNoeTlUMUIzLWZVdGMzUFZsOUpTc2w4MXgyeTFjR0ZiN1hnbGRQUjdXWFRWOWhIakU0bUdqSy1TRkdhMlNvaGw3TzRRdUVzNENZTXRXX0swUkFsdzRNVnBUTjE3bk9HUXVnMXJ3ZkVvNnBaNm9oa1VJVGZvZDQ1VmVqdTNqTUhtbFlUcWZLOXVrNUJJODZldjhn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2410]:
+              - generic [ref=e2411]:
+                - generic [ref=e2414]: Technology Record
+                - generic [ref=e2418]:
+                  - generic:
+                    - button "More - Nvidia and Microsoft partner to bring AI agents natively to Windows PCs" [ref=e2419] [cursor=pointer]:
+                      - img [ref=e2421]
+                    - tooltip [ref=e2423]: More
+              - link "Nvidia and Microsoft partner to bring AI agents natively to Windows PCs - Technology Record - 14 hours ago" [ref=e2424] [cursor=pointer]:
+                - /url: ./read/CBMisgFBVV95cUxQUmEzYUc3V3FJUUdaTHE2ZnF4Rm9Bc0s0VDNoeTlUMUIzLWZVdGMzUFZsOUpTc2w4MXgyeTFjR0ZiN1hnbGRQUjdXWFRWOWhIakU0bUdqSy1TRkdhMlNvaGw3TzRRdUVzNENZTXRXX0swUkFsdzRNVnBUTjE3bk9HUXVnMXJ3ZkVvNnBaNm9oa1VJVGZvZDQ1VmVqdTNqTUhtbFlUcWZLOXVrNUJJODZldjhn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia and Microsoft partner to bring AI agents natively to Windows PCs
+            - figure [ref=e2425]
+          - time [ref=e2427]: 14 hours ago
+      - generic [ref=e2428]:
+        - separator [ref=e2430]
+        - generic [ref=e2432]:
+          - generic [ref=e2433]:
+            - link [ref=e2435] [cursor=pointer]:
+              - /url: ./read/CBMic0FVX3lxTE12RnF0YVN2bGwtOGhaa3UyRFNiTFRPZDVkZl9xRVl4X1BWLURxS3NqTzJHSS0zU1JjdmstY2x4R0JHWmdVckVNQVdXTGNzX3dzX0pOeHFpNTFFN2Zva2lWSEx0ekN3eDRfNFpCNFp0RVQ1TTA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2437]:
+              - generic [ref=e2438]:
+                - generic [ref=e2441]: NVIDIA Blog
+                - generic [ref=e2445]:
+                  - generic:
+                    - button "More - Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA" [ref=e2446] [cursor=pointer]:
+                      - img [ref=e2448]
+                    - tooltip [ref=e2450]: More
+              - link "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA - NVIDIA Blog - 15 hours ago - By Timothy Costa" [ref=e2451] [cursor=pointer]:
+                - /url: ./read/CBMic0FVX3lxTE12RnF0YVN2bGwtOGhaa3UyRFNiTFRPZDVkZl9xRVl4X1BWLURxS3NqTzJHSS0zU1JjdmstY2x4R0JHWmdVckVNQVdXTGNzX3dzX0pOeHFpNTFFN2Zva2lWSEx0ekN3eDRfNFpCNFp0RVQ1TTA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA
+            - figure [ref=e2452]
+          - generic [ref=e2453]:
+            - time [ref=e2454]: 15 hours ago
+            - separator [ref=e2455]
+            - generic [ref=e2456]: By Timothy Costa
+      - generic [ref=e2457]:
+        - separator [ref=e2459]
+        - generic [ref=e2461]:
+          - generic [ref=e2462]:
+            - link [ref=e2464] [cursor=pointer]:
+              - /url: ./read/CBMiiAFBVV95cUxQd2NkbHZFajFaeTViTGUySzJQWGlBU3dQajlCRTh5ZHYzMHlaS1J1NXphS2VCS25wYjdkRUN6dmNTZmpYeXo5NnN3V1NuY01XeXAzWGxPVVlTZ1ZjNi1SMnJvTUl2d0FpeU41cHdib3pJT0wxTTV5VWhEQWF0bmNhQlQ0WEctX2FR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2466]:
+              - generic [ref=e2467]:
+                - generic [ref=e2470]: TechCrunch
+                - generic [ref=e2474]:
+                  - generic:
+                    - button "More - Robinhood now lets your AI agents trade stocks" [ref=e2475] [cursor=pointer]:
+                      - img [ref=e2477]
+                    - tooltip [ref=e2479]: More
+              - link "Robinhood now lets your AI agents trade stocks - TechCrunch - 6 days ago - By Ivan Mehta" [ref=e2480] [cursor=pointer]:
+                - /url: ./read/CBMiiAFBVV95cUxQd2NkbHZFajFaeTViTGUySzJQWGlBU3dQajlCRTh5ZHYzMHlaS1J1NXphS2VCS25wYjdkRUN6dmNTZmpYeXo5NnN3V1NuY01XeXAzWGxPVVlTZ1ZjNi1SMnJvTUl2d0FpeU41cHdib3pJT0wxTTV5VWhEQWF0bmNhQlQ0WEctX2FR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Robinhood now lets your AI agents trade stocks
+            - figure [ref=e2481]
+          - generic [ref=e2482]:
+            - time [ref=e2483]: 6 days ago
+            - separator [ref=e2484]
+            - generic [ref=e2485]: By Ivan Mehta
+      - generic [ref=e2486]:
+        - separator [ref=e2488]
+        - generic [ref=e2490]:
+          - generic [ref=e2491]:
+            - link [ref=e2493] [cursor=pointer]:
+              - /url: ./read/CBMizAFBVV95cUxPRmFkXzBDZkNmT2NFc2hwZC1pTEY4Z1RZYUVINmNmT1hDLWIwOXM1TTBEQlp4NzUzMmVocEJhcFEyVFo5ZFY1bmktTzlhSDF4U0FZMjdoajZ0QzNld3VPSTZ3ZGdEUjRsNkxzenJyOGVQWUh3T2tYNFg4Z2stVUR1UHEzYk1rTTFyMVlrajZZV3ZIaTlwWDdYcnc2MkdYNW9IVGFlWlI4MEZHQTE5eFhod0R2YmJkSjlyUGdpS0p4NkdZVm9ZcFJqTENocG8?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2495]:
+              - generic [ref=e2496]:
+                - generic [ref=e2499]: Windows Central
+                - generic [ref=e2503]:
+                  - generic:
+                    - 'button "More - How to watch Microsoft Build 2026: Windows 11, NVIDIA RTX Spark, AI agents, and more" [ref=e2504] [cursor=pointer]':
+                      - img [ref=e2506]
+                    - tooltip [ref=e2508]: More
+              - 'link "How to watch Microsoft Build 2026: Windows 11, NVIDIA RTX Spark, AI agents, and more - Windows Central - 3 hours ago - By Sean Endicott" [ref=e2509] [cursor=pointer]':
+                - /url: ./read/CBMizAFBVV95cUxPRmFkXzBDZkNmT2NFc2hwZC1pTEY4Z1RZYUVINmNmT1hDLWIwOXM1TTBEQlp4NzUzMmVocEJhcFEyVFo5ZFY1bmktTzlhSDF4U0FZMjdoajZ0QzNld3VPSTZ3ZGdEUjRsNkxzenJyOGVQWUh3T2tYNFg4Z2stVUR1UHEzYk1rTTFyMVlrajZZV3ZIaTlwWDdYcnc2MkdYNW9IVGFlWlI4MEZHQTE5eFhod0R2YmJkSjlyUGdpS0p4NkdZVm9ZcFJqTENocG8?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "How to watch Microsoft Build 2026: Windows 11, NVIDIA RTX Spark, AI agents, and more"
+            - figure [ref=e2510]
+          - generic [ref=e2511]:
+            - time [ref=e2512]: 3 hours ago
+            - separator [ref=e2513]
+            - generic [ref=e2514]: By Sean Endicott
+      - generic [ref=e2515]:
+        - separator [ref=e2517]
+        - generic [ref=e2519]:
+          - generic [ref=e2520]:
+            - link [ref=e2522] [cursor=pointer]:
+              - /url: ./read/CBMic0FVX3lxTE13TV9oS3VyZE1WVkhjWHdteXQ1MGdtT1ZxdHVLbks1dms3RGdhQXlEWlNQd0g4c2otSEs3ZU52bTRWUzRJYlpHRHI4NzdzM0dfWXV1b3FPWHQ2RzZKQl9OVWdUcFNoNWFlb1BwYkxSZ1ZlLW8?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2524]:
+              - generic [ref=e2525]:
+                - generic [ref=e2528]: infoq.com
+                - generic [ref=e2532]:
+                  - generic:
+                    - button "More - Claude Code Adds Dynamic Workflows for Parallel Agent Coordination" [ref=e2533] [cursor=pointer]:
+                      - img [ref=e2535]
+                    - tooltip [ref=e2537]: More
+              - link "Claude Code Adds Dynamic Workflows for Parallel Agent Coordination - infoq.com - 3 hours ago - By Robert Krzaczynski" [ref=e2538] [cursor=pointer]:
+                - /url: ./read/CBMic0FVX3lxTE13TV9oS3VyZE1WVkhjWHdteXQ1MGdtT1ZxdHVLbks1dms3RGdhQXlEWlNQd0g4c2otSEs3ZU52bTRWUzRJYlpHRHI4NzdzM0dfWXV1b3FPWHQ2RzZKQl9OVWdUcFNoNWFlb1BwYkxSZ1ZlLW8?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Claude Code Adds Dynamic Workflows for Parallel Agent Coordination
+            - figure [ref=e2539]
+          - generic [ref=e2540]:
+            - time [ref=e2541]: 3 hours ago
+            - separator [ref=e2542]
+            - generic [ref=e2543]: By Robert Krzaczynski
+      - generic [ref=e2544]:
+        - separator [ref=e2546]
+        - generic [ref=e2548]:
+          - generic [ref=e2549]:
+            - link [ref=e2551] [cursor=pointer]:
+              - /url: ./read/CBMiigFBVV95cUxPczN3ZlhJc0JKQkFyUWpxdFlycEVycTZELXExRnRqVVFUcWxMQ0x6NGwzcWwxRlkwZ0NPR0QwWElTb3RmRjJteHlhaUxKMTUtQWdSRnZwSWZ0akVqNm1PY3lQdUQyNWF5SHJnYkt1ZXl4SndSM243ZUR5UEl3YUx1c1dzbzhHZ2pjQUE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2553]:
+              - generic [ref=e2554]:
+                - generic [ref=e2557]: Investing.com
+                - generic [ref=e2561]:
+                  - generic:
+                    - button "More - Nvidia Brings AI Agents to Every Desk" [ref=e2562] [cursor=pointer]:
+                      - img [ref=e2564]
+                    - tooltip [ref=e2566]: More
+              - link "Nvidia Brings AI Agents to Every Desk - Investing.com - 9 hours ago" [ref=e2567] [cursor=pointer]:
+                - /url: ./read/CBMiigFBVV95cUxPczN3ZlhJc0JKQkFyUWpxdFlycEVycTZELXExRnRqVVFUcWxMQ0x6NGwzcWwxRlkwZ0NPR0QwWElTb3RmRjJteHlhaUxKMTUtQWdSRnZwSWZ0akVqNm1PY3lQdUQyNWF5SHJnYkt1ZXl4SndSM243ZUR5UEl3YUx1c1dzbzhHZ2pjQUE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Nvidia Brings AI Agents to Every Desk
+            - figure [ref=e2568]
+          - time [ref=e2570]: 9 hours ago
+      - generic [ref=e2571]:
+        - separator [ref=e2573]
+        - generic [ref=e2575]:
+          - generic [ref=e2576]:
+            - link [ref=e2578] [cursor=pointer]:
+              - /url: ./read/CBMiyAFBVV95cUxPTTA4NjJ6blpYdm9zU2VGbi10ZlJoa05Mek5tUFNsWUx5S2VZY3FUeHNvTnpHVXVCVVo2UDRhNnpScDFnMVVmYjhidGNLRkpERTdnY0hyQkZHekRNVlhaWTRDalhoN1hnZjlfOGc1MHhLcE9NM1NkVktGVFUyN2JxMDJqSzRXY2Vrbmd2SHAtLWdJUGNQQjhRMHc4QjY5emZPWWNzV0VTaWNFZlZQdjRCeUQzVDFRdWhTWnJQX3J4MXQxdC1QRU43RQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2580]:
+              - generic [ref=e2581]:
+                - generic [ref=e2584]: TweakTown
+                - generic [ref=e2588]:
+                  - generic:
+                    - button "More - NVIDIA's RTX Spark Superchip brings 120B-parameter local AI agents to Windows PCs" [ref=e2589] [cursor=pointer]:
+                      - img [ref=e2591]
+                    - tooltip [ref=e2593]: More
+              - link "NVIDIA's RTX Spark Superchip brings 120B-parameter local AI agents to Windows PCs - TweakTown - 14 hours ago - By Jak Connor" [ref=e2594] [cursor=pointer]:
+                - /url: ./read/CBMiyAFBVV95cUxPTTA4NjJ6blpYdm9zU2VGbi10ZlJoa05Mek5tUFNsWUx5S2VZY3FUeHNvTnpHVXVCVVo2UDRhNnpScDFnMVVmYjhidGNLRkpERTdnY0hyQkZHekRNVlhaWTRDalhoN1hnZjlfOGc1MHhLcE9NM1NkVktGVFUyN2JxMDJqSzRXY2Vrbmd2SHAtLWdJUGNQQjhRMHc4QjY5emZPWWNzV0VTaWNFZlZQdjRCeUQzVDFRdWhTWnJQX3J4MXQxdC1QRU43RQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA's RTX Spark Superchip brings 120B-parameter local AI agents to Windows PCs
+            - figure [ref=e2595]
+          - generic [ref=e2596]:
+            - time [ref=e2597]: 14 hours ago
+            - separator [ref=e2598]
+            - generic [ref=e2599]: By Jak Connor
+      - generic [ref=e2600]:
+        - separator [ref=e2602]
+        - generic [ref=e2604]:
+          - generic [ref=e2605]:
+            - link [ref=e2607] [cursor=pointer]:
+              - /url: ./read/CBMioAFBVV95cUxNZFhhZkxkV0h2bzYwam1iWVh3WFJSYUVpSWpPMHBEZUUzNVhKZjd0M3pfbkhTTVotUjcxVDNqWmpMblNiYjFOQXlFZ3lUT3c5QWdWMExWQ244cXdNVmZweEd0QVJhQ0pndzB6LXZBR0U1dExYVEc1WVRscjVOeHFwRFAycmxFUXpiYVpYQ3J4SDRtVmdTWkM2SU9KTTlpVTR6?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2609]:
+              - generic [ref=e2610]:
+                - generic [ref=e2613]: UC Today
+                - generic [ref=e2617]:
+                  - generic:
+                    - button "More - Zoom Launches ZoomMate – an AI Agent That Finishes the Work Your Meetings Start" [ref=e2618] [cursor=pointer]:
+                      - img [ref=e2620]
+                    - tooltip [ref=e2622]: More
+              - link "Zoom Launches ZoomMate – an AI Agent That Finishes the Work Your Meetings Start - UC Today - 4 hours ago" [ref=e2623] [cursor=pointer]:
+                - /url: ./read/CBMioAFBVV95cUxNZFhhZkxkV0h2bzYwam1iWVh3WFJSYUVpSWpPMHBEZUUzNVhKZjd0M3pfbkhTTVotUjcxVDNqWmpMblNiYjFOQXlFZ3lUT3c5QWdWMExWQ244cXdNVmZweEd0QVJhQ0pndzB6LXZBR0U1dExYVEc1WVRscjVOeHFwRFAycmxFUXpiYVpYQ3J4SDRtVmdTWkM2SU9KTTlpVTR6?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Zoom Launches ZoomMate – an AI Agent That Finishes the Work Your Meetings Start
+            - figure [ref=e2624]
+          - time [ref=e2626]: 4 hours ago
+      - generic [ref=e2627]:
+        - separator [ref=e2629]
+        - generic [ref=e2631]:
+          - generic [ref=e2632]:
+            - link [ref=e2634] [cursor=pointer]:
+              - /url: ./read/CBMiugFBVV95cUxNUEFnb0kzSEhIeWVWN09EZ3FDeHN3T1dBOS1CZnRCbF9fZTBYNUQwblNqWG03YXNJZWxBRTVDdWE1MGRCVUgyZXROOGdzMGE2bTlSZnpYUHBpYVJMU2kwTlhhcWZSS0dsaGlfc21YUllpYnpOQkxtaElhajJwUzZHLXFLV081MlZXTnJCVkk4WEtOV2pySHdMWEVvR3F4djUzbTd2bjl4TEN3SWNZWFBpRk0yVkNwWll2a1E?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2636]:
+              - generic [ref=e2637]:
+                - generic [ref=e2640]: Stock Titan
+                - generic [ref=e2644]:
+                  - generic:
+                    - button "More - NVIDIA puts robot-building skills on GitHub for the AI agent era" [ref=e2645] [cursor=pointer]:
+                      - img [ref=e2647]
+                    - tooltip [ref=e2649]: More
+              - link "NVIDIA puts robot-building skills on GitHub for the AI agent era - Stock Titan - 15 hours ago" [ref=e2650] [cursor=pointer]:
+                - /url: ./read/CBMiugFBVV95cUxNUEFnb0kzSEhIeWVWN09EZ3FDeHN3T1dBOS1CZnRCbF9fZTBYNUQwblNqWG03YXNJZWxBRTVDdWE1MGRCVUgyZXROOGdzMGE2bTlSZnpYUHBpYVJMU2kwTlhhcWZSS0dsaGlfc21YUllpYnpOQkxtaElhajJwUzZHLXFLV081MlZXTnJCVkk4WEtOV2pySHdMWEVvR3F4djUzbTd2bjl4TEN3SWNZWFBpRk0yVkNwWll2a1E?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA puts robot-building skills on GitHub for the AI agent era
+            - figure [ref=e2651]
+          - time [ref=e2653]: 15 hours ago
+      - generic [ref=e2654]:
+        - separator [ref=e2656]
+        - generic [ref=e2658]:
+          - generic [ref=e2659]:
+            - link [ref=e2661] [cursor=pointer]:
+              - /url: ./read/CBMi7wFBVV95cUxNbkprY1ZpRFBQbmpScU9tMWVQaTk0bGhXak5zX2ZPQ3RpYmozaTkySjZLd1BNVTEtOTVlbFI4TVlBeFlvZ0dMS25ReFctV2JsMEduWlNtdUIwU2hjT1JYa0g2cmhqWE9nSnc4azZsTFRoN2RmeU52OTk0Q1FNLXdZR1phZWQ1dU9ZSFZJRnpHWnVxUl9qdDg3R1FpZy1jRjBKRjBYazBNeVd0QjI3R1dkU1FadDVlUDJTTl92Z2l3T1FfYlpJaDBKcVhvZFMtRUxFYnpreXctOG1FYnNTa25DMFBmQ1RyWW1hUUdXYmFfbw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2663]:
+              - generic [ref=e2664]:
+                - generic [ref=e2667]: Morningstar
+                - generic [ref=e2671]:
+                  - generic:
+                    - 'button "More - Dow Jones Top Company Headlines at 9 AM ET: Nvidia Introduces First PCs Designed for AI Agents | Motorola ..." [ref=e2672] [cursor=pointer]':
+                      - img [ref=e2674]
+                    - tooltip [ref=e2676]: More
+              - 'link "Dow Jones Top Company Headlines at 9 AM ET: Nvidia Introduces First PCs Designed for AI Agents | Motorola ... - Morningstar - 6 hours ago" [ref=e2677] [cursor=pointer]':
+                - /url: ./read/CBMi7wFBVV95cUxNbkprY1ZpRFBQbmpScU9tMWVQaTk0bGhXak5zX2ZPQ3RpYmozaTkySjZLd1BNVTEtOTVlbFI4TVlBeFlvZ0dMS25ReFctV2JsMEduWlNtdUIwU2hjT1JYa0g2cmhqWE9nSnc4azZsTFRoN2RmeU52OTk0Q1FNLXdZR1phZWQ1dU9ZSFZJRnpHWnVxUl9qdDg3R1FpZy1jRjBKRjBYazBNeVd0QjI3R1dkU1FadDVlUDJTTl92Z2l3T1FfYlpJaDBKcVhvZFMtRUxFYnpreXctOG1FYnNTa25DMFBmQ1RyWW1hUUdXYmFfbw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Dow Jones Top Company Headlines at 9 AM ET: Nvidia Introduces First PCs Designed for AI Agents | Motorola ..."
+            - figure [ref=e2678]
+          - time [ref=e2680]: 6 hours ago
+      - generic [ref=e2681]:
+        - separator [ref=e2683]
+        - generic [ref=e2685]:
+          - generic [ref=e2686]:
+            - link [ref=e2688] [cursor=pointer]:
+              - /url: ./read/CBMiekFVX3lxTE9NMFlNRlhWbHM4THhJb3g2TnMtdWpYSWlsUDJ3VXNUZFJxNmNtUFU0UHhqUmsyWE9mZVlZZW1GTTZtVjJLbGdBM3VUMU5ERXdieUtmNml4b0tNRklOZHFSa2hGSEVSdUFVMEo5WVVNNm15dGQ0VFJhMXdn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2690]:
+              - generic [ref=e2691]:
+                - generic [ref=e2694]: Crypto Briefing
+                - generic [ref=e2698]:
+                  - generic:
+                    - button "More - Anthropic reveals 31.5% hijack rate for Opus 4.8 browser agent before safeguards" [ref=e2699] [cursor=pointer]:
+                      - img [ref=e2701]
+                    - tooltip [ref=e2703]: More
+              - link "Anthropic reveals 31.5% hijack rate for Opus 4.8 browser agent before safeguards - Crypto Briefing - 3 hours ago" [ref=e2704] [cursor=pointer]:
+                - /url: ./read/CBMiekFVX3lxTE9NMFlNRlhWbHM4THhJb3g2TnMtdWpYSWlsUDJ3VXNUZFJxNmNtUFU0UHhqUmsyWE9mZVlZZW1GTTZtVjJLbGdBM3VUMU5ERXdieUtmNml4b0tNRklOZHFSa2hGSEVSdUFVMEo5WVVNNm15dGQ0VFJhMXdn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Anthropic reveals 31.5% hijack rate for Opus 4.8 browser agent before safeguards
+            - figure [ref=e2705]
+          - time [ref=e2707]: 3 hours ago
+      - generic [ref=e2708]:
+        - separator [ref=e2710]
+        - generic [ref=e2712]:
+          - generic [ref=e2713]:
+            - link [ref=e2715] [cursor=pointer]:
+              - /url: ./read/CBMi6AFBVV95cUxOTmNpbGd3c2NqU3hKc2RxNWxibFFocmhjcUQwVFQzUHdSX1dXY2pJeDQ0M3VaX1ZlSkVydHZPOWRKcWtTRnlfOGxJT3ZsZ1pDczFnekNSX0ExQm9fVTl4TUNDLWc5YXh4ZVlsaW5KWDdTcm5felRNcVRDYVB2d2M5Q2FMRjg5U0NuY05DaHpUc2kwQ2Jscm5BVHpFeXFaM0pFOEtuaE9NZmZCdjBDSkRNR1JDMkU3ME5kMEhtWVluZlRJY0dGSElvaFdDR3Q1azJIdUhldzFOVDN6UXRYUDZQb3BseUF0Sm5H?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2717]:
+              - generic [ref=e2718]:
+                - generic [ref=e2721]: The Fast Mode
+                - generic [ref=e2725]:
+                  - generic:
+                    - button "More - Kore.ai Launches New-Gen Agent Platform Artemis Edition to Power Enterprise Multi-Agent AI Systems" [ref=e2726] [cursor=pointer]:
+                      - img [ref=e2728]
+                    - tooltip [ref=e2730]: More
+              - link "Kore.ai Launches New-Gen Agent Platform Artemis Edition to Power Enterprise Multi-Agent AI Systems - The Fast Mode - 17 hours ago - By Ray Sharma" [ref=e2731] [cursor=pointer]:
+                - /url: ./read/CBMi6AFBVV95cUxOTmNpbGd3c2NqU3hKc2RxNWxibFFocmhjcUQwVFQzUHdSX1dXY2pJeDQ0M3VaX1ZlSkVydHZPOWRKcWtTRnlfOGxJT3ZsZ1pDczFnekNSX0ExQm9fVTl4TUNDLWc5YXh4ZVlsaW5KWDdTcm5felRNcVRDYVB2d2M5Q2FMRjg5U0NuY05DaHpUc2kwQ2Jscm5BVHpFeXFaM0pFOEtuaE9NZmZCdjBDSkRNR1JDMkU3ME5kMEhtWVluZlRJY0dGSElvaFdDR3Q1azJIdUhldzFOVDN6UXRYUDZQb3BseUF0Sm5H?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Kore.ai Launches New-Gen Agent Platform Artemis Edition to Power Enterprise Multi-Agent AI Systems
+            - figure [ref=e2732]
+          - generic [ref=e2733]:
+            - time [ref=e2734]: 17 hours ago
+            - separator [ref=e2735]
+            - generic [ref=e2736]: By Ray Sharma
+      - generic [ref=e2737]:
+        - separator [ref=e2739]
+        - generic [ref=e2741]:
+          - generic [ref=e2742]:
+            - link [ref=e2744] [cursor=pointer]:
+              - /url: ./read/CBMi9gFBVV95cUxNeWJEcDZ2NmZFNmk5bDJMdlRvOWFPVW1Ba1B1Q0RvTFlDay1VRlpWNWoxQXlJTWwwTnctQmoyLVduX185cVQybV9YMWJRalEtU2NQejUyajRvT1NUeTQ2aXhaT0NNZlNIZTh0YXVUaVVkTjg3akNJZmpRSUdhaWdEOTJCUXZ4dHRfVXdwc2QyM0s5cjZhVmI4cVFqTmNKV0hwLVNleER0YXE1MWpQSWwzNmRpVGc0N2pVQnJuMnRoaUFnTlN3Sm1xcUFLZEhZUktoYmd1Q3RqbGJZdDFvSklmVjVobE5RcnhwRDlvQmk3U1JTejN4U3c?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2746]:
+              - generic [ref=e2747]:
+                - generic [ref=e2750]: Gulfshore Business
+                - generic [ref=e2754]:
+                  - generic:
+                    - button "More - Entrepreneurs embrace AI system for improved customer care" [ref=e2755] [cursor=pointer]:
+                      - img [ref=e2757]
+                    - tooltip [ref=e2759]: More
+              - link "Entrepreneurs embrace AI system for improved customer care - Gulfshore Business - 15 hours ago" [ref=e2760] [cursor=pointer]:
+                - /url: ./read/CBMi9gFBVV95cUxNeWJEcDZ2NmZFNmk5bDJMdlRvOWFPVW1Ba1B1Q0RvTFlDay1VRlpWNWoxQXlJTWwwTnctQmoyLVduX185cVQybV9YMWJRalEtU2NQejUyajRvT1NUeTQ2aXhaT0NNZlNIZTh0YXVUaVVkTjg3akNJZmpRSUdhaWdEOTJCUXZ4dHRfVXdwc2QyM0s5cjZhVmI4cVFqTmNKV0hwLVNleER0YXE1MWpQSWwzNmRpVGc0N2pVQnJuMnRoaUFnTlN3Sm1xcUFLZEhZUktoYmd1Q3RqbGJZdDFvSklmVjVobE5RcnhwRDlvQmk3U1JTejN4U3c?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Entrepreneurs embrace AI system for improved customer care
+            - figure [ref=e2761]
+          - time [ref=e2763]: 15 hours ago
+      - generic [ref=e2764]:
+        - separator [ref=e2766]
+        - generic [ref=e2768]:
+          - generic [ref=e2769]:
+            - link [ref=e2771] [cursor=pointer]:
+              - /url: ./read/CBMizwFBVV95cUxQR2NZdVdReDlBa01kYkg3Qmo2SWZpMDhyb2thdUtiSFdxSVlLai14QXhkNGNFeVlXMHYxSlZqdldGTUZiLTYyR3BrR3VLeDBwZmw4THh1YldFU01ncDdEQ3B1eUZSX295cVltX0VnbVg1d1liZ1hLc0tGUVJXYTItc0JBRG1hemtJZ2pCZloxZ0ZmX3JXUl9oWW9IYmVTTndIcnhGa3MxOE14cEJzX19RUjl3VFg2eDNSRDlkbF84aDhOSFlfejBCZ0RUcTZtOXc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2773]:
+              - generic [ref=e2774]:
+                - generic [ref=e2777]: TweakTown
+                - generic [ref=e2781]:
+                  - generic:
+                    - button "More - NVIDIA says the keyboard-and-mouse era of PC computing is being replaced by AI agents" [ref=e2782] [cursor=pointer]:
+                      - img [ref=e2784]
+                    - tooltip [ref=e2786]: More
+              - link "NVIDIA says the keyboard-and-mouse era of PC computing is being replaced by AI agents - TweakTown - 14 hours ago - By Jak Connor" [ref=e2787] [cursor=pointer]:
+                - /url: ./read/CBMizwFBVV95cUxQR2NZdVdReDlBa01kYkg3Qmo2SWZpMDhyb2thdUtiSFdxSVlLai14QXhkNGNFeVlXMHYxSlZqdldGTUZiLTYyR3BrR3VLeDBwZmw4THh1YldFU01ncDdEQ3B1eUZSX295cVltX0VnbVg1d1liZ1hLc0tGUVJXYTItc0JBRG1hemtJZ2pCZloxZ0ZmX3JXUl9oWW9IYmVTTndIcnhGa3MxOE14cEJzX19RUjl3VFg2eDNSRDlkbF84aDhOSFlfejBCZ0RUcTZtOXc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA says the keyboard-and-mouse era of PC computing is being replaced by AI agents
+            - figure [ref=e2788]
+          - generic [ref=e2789]:
+            - time [ref=e2790]: 14 hours ago
+            - separator [ref=e2791]
+            - generic [ref=e2792]: By Jak Connor
+      - generic [ref=e2793]:
+        - separator [ref=e2795]
+        - generic [ref=e2797]:
+          - generic [ref=e2798]:
+            - link [ref=e2800] [cursor=pointer]:
+              - /url: ./read/CBMibEFVX3lxTE4yOW5hdWpHMWtOdTVSSm41a0JvZkxxTjMyLU1qeG1yb3FwMzluV281M05DS0ROd2RYZnNXUEFMYWJCZkpsME9iRllMalZOTW9faGxPMlpYQmx6RS1iS25uX1F1cUkxX0NDaDRNZg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2802]:
+              - generic [ref=e2803]:
+                - generic [ref=e2806]: ynetnews
+                - generic [ref=e2810]:
+                  - generic:
+                    - 'button "More - NVIDIA wants AI agents everywhere: in data centers, PCs and humanoid robots" [ref=e2811] [cursor=pointer]':
+                      - img [ref=e2813]
+                    - tooltip [ref=e2815]: More
+              - 'link "NVIDIA wants AI agents everywhere: in data centers, PCs and humanoid robots - ynetnews - 13 hours ago" [ref=e2816] [cursor=pointer]':
+                - /url: ./read/CBMibEFVX3lxTE4yOW5hdWpHMWtOdTVSSm41a0JvZkxxTjMyLU1qeG1yb3FwMzluV281M05DS0ROd2RYZnNXUEFMYWJCZkpsME9iRllMalZOTW9faGxPMlpYQmx6RS1iS25uX1F1cUkxX0NDaDRNZg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "NVIDIA wants AI agents everywhere: in data centers, PCs and humanoid robots"
+            - figure [ref=e2817]
+          - time [ref=e2819]: 13 hours ago
+      - generic [ref=e2820]:
+        - separator [ref=e2822]
+        - generic [ref=e2824]:
+          - generic [ref=e2825]:
+            - link [ref=e2827] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxPYkRMbXVWd1VmZkt2SWdUNUlZM21vc2tnQi1aSm9EakhQX29uZ2xaRklyQVBZcE9abnl3RDBOLXZVVndfVV9nMF9hSUlqU1BtV0RMQ3BKU3p3MVdfT1ZWN0R6UmdZbG5TSUY1UE1RVmIyaEhKVVM1UGxWX2VLNmg1VGY3NFdVVUJoajRIUnBGcFhSb0pZZlBpMVBjRnNGWmRkTjJmbGZpZlNEYjc0cnd3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2829]:
+              - generic [ref=e2830]:
+                - generic [ref=e2833]: Yahoo Finance
+                - generic [ref=e2837]:
+                  - generic:
+                    - button "More - airfocus by Lucid Ships the Product Intelligence Platform for the AI-Era Product Organization, with Bidirectional MCP and a Connected Intelligence Layer" [ref=e2838] [cursor=pointer]:
+                      - img [ref=e2840]
+                    - tooltip [ref=e2842]: More
+              - link "airfocus by Lucid Ships the Product Intelligence Platform for the AI-Era Product Organization, with Bidirectional MCP and a Connected Intelligence Layer - Yahoo Finance - 8 hours ago" [ref=e2843] [cursor=pointer]:
+                - /url: ./read/CBMirwFBVV95cUxPYkRMbXVWd1VmZkt2SWdUNUlZM21vc2tnQi1aSm9EakhQX29uZ2xaRklyQVBZcE9abnl3RDBOLXZVVndfVV9nMF9hSUlqU1BtV0RMQ3BKU3p3MVdfT1ZWN0R6UmdZbG5TSUY1UE1RVmIyaEhKVVM1UGxWX2VLNmg1VGY3NFdVVUJoajRIUnBGcFhSb0pZZlBpMVBjRnNGWmRkTjJmbGZpZlNEYjc0cnd3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: airfocus by Lucid Ships the Product Intelligence Platform for the AI-Era Product Organization, with Bidirectional MCP and a Connected Intelligence Layer
+            - figure [ref=e2844]
+          - time [ref=e2846]: 8 hours ago
+      - generic [ref=e2847]:
+        - separator [ref=e2849]
+        - generic [ref=e2851]:
+          - generic [ref=e2852]:
+            - link [ref=e2854] [cursor=pointer]:
+              - /url: ./read/CBMiqAFBVV95cUxPVXRZYlFibklLV09jbS1ieE9wbERPVVNHb3ZlNTBrRUI2QTV1WEdKZVBaQ0NXSy16QTNQbjd1elZLa2hEeFA3S2lZOWZUYi1KQzYxbVl2ek1naDhmU0ZNclpTUVdHNEU4bDdmSzdiMG03RG9pUU9qaUFBcmhwMVhNdXNVSFRhMERueXNtOE1RRzRuRTJRZUtXcFRiR3dHcUF2Zmp4Q3FFaHg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2856]:
+              - generic [ref=e2857]:
+                - generic [ref=e2860]: Moomoo
+                - generic [ref=e2864]:
+                  - generic:
+                    - 'button "More - [Toward the Era of AI Agent PCs] Software Stocks Strike Back: The Future Envisioned by NVIDIA × Microsoft—What Impact on Semiconductor Stocks?" [ref=e2865] [cursor=pointer]':
+                      - img [ref=e2867]
+                    - tooltip [ref=e2869]: More
+              - 'link "[Toward the Era of AI Agent PCs] Software Stocks Strike Back: The Future Envisioned by NVIDIA × Microsoft—What Impact on Semiconductor Stocks? - Moomoo - 11 hours ago" [ref=e2870] [cursor=pointer]':
+                - /url: ./read/CBMiqAFBVV95cUxPVXRZYlFibklLV09jbS1ieE9wbERPVVNHb3ZlNTBrRUI2QTV1WEdKZVBaQ0NXSy16QTNQbjd1elZLa2hEeFA3S2lZOWZUYi1KQzYxbVl2ek1naDhmU0ZNclpTUVdHNEU4bDdmSzdiMG03RG9pUU9qaUFBcmhwMVhNdXNVSFRhMERueXNtOE1RRzRuRTJRZUtXcFRiR3dHcUF2Zmp4Q3FFaHg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "[Toward the Era of AI Agent PCs] Software Stocks Strike Back: The Future Envisioned by NVIDIA × Microsoft—What Impact on Semiconductor Stocks?"
+            - figure [ref=e2871]
+          - time [ref=e2873]: 11 hours ago
+      - generic [ref=e2874]:
+        - separator [ref=e2876]
+        - generic [ref=e2878]:
+          - generic [ref=e2879]:
+            - link [ref=e2881] [cursor=pointer]:
+              - /url: ./read/CBMisgFBVV95cUxPNXE3U2VjcGlRUFlabDRKTnp5MXVZN0JFODlRbXBTQ0tnTW1adnpEOUZQLU15S3pTbkN0MnZPS0hEUl9GNnRIZjYwa0RfRHZEOUlUeEs4VGt1b2JsTjNrZ0IxZE5xdDZnRUV2WE1tTU1CYjVCOVZkOExzSy1ZYmJ2WWxaZDlJSklfS01SMkJ5MUhCQl83MjdvUFJxVXhBZFlrXzRzUUN5ZFQ1VDY3MXlsN3l3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2883]:
+              - generic [ref=e2884]:
+                - generic [ref=e2887]: The Register
+                - generic [ref=e2891]:
+                  - generic:
+                    - button "More - Agent-led devs need serverless OpenSearch, Amazon claims" [ref=e2892] [cursor=pointer]:
+                      - img [ref=e2894]
+                    - tooltip [ref=e2896]: More
+              - link "Agent-led devs need serverless OpenSearch, Amazon claims - The Register - 7 hours ago - By Lindsay Clark" [ref=e2897] [cursor=pointer]:
+                - /url: ./read/CBMisgFBVV95cUxPNXE3U2VjcGlRUFlabDRKTnp5MXVZN0JFODlRbXBTQ0tnTW1adnpEOUZQLU15S3pTbkN0MnZPS0hEUl9GNnRIZjYwa0RfRHZEOUlUeEs4VGt1b2JsTjNrZ0IxZE5xdDZnRUV2WE1tTU1CYjVCOVZkOExzSy1ZYmJ2WWxaZDlJSklfS01SMkJ5MUhCQl83MjdvUFJxVXhBZFlrXzRzUUN5ZFQ1VDY3MXlsN3l3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Agent-led devs need serverless OpenSearch, Amazon claims
+            - figure [ref=e2898]
+          - generic [ref=e2899]:
+            - time [ref=e2900]: 7 hours ago
+            - separator [ref=e2901]
+            - generic [ref=e2902]: By Lindsay Clark
+    - complementary [ref=e2903]:
+      - generic [ref=e2905]:
+        - generic [ref=e2908]:
+          - heading "AI agents" [level=2] [ref=e2909]
+          - generic [ref=e2910]: Search results
+        - generic [ref=e2913]:
+          - button "Save this search - AI agents" [ref=e2915]:
+            - img [ref=e2919]
+            - generic [ref=e2921]: Save
+          - tooltip [ref=e2922]: Save this search

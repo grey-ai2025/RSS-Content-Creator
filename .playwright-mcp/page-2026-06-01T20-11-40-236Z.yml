@@ -1,0 +1,308 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]
+          - button "Advanced search" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]:
+                - img [ref=e23]
+              - tooltip [ref=e25]: Advanced search
+          - button "Search" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+        - generic [ref=e30]:
+          - generic [ref=e35]:
+            - button "Help" [ref=e36] [cursor=pointer]:
+              - img [ref=e38]
+            - tooltip [ref=e40]: Help
+          - generic [ref=e45]:
+            - button "Settings" [ref=e46] [cursor=pointer]:
+              - img [ref=e48]
+            - tooltip [ref=e51]: Settings
+      - generic [ref=e53]:
+        - button "Google apps" [ref=e57] [cursor=pointer]:
+          - img [ref=e58]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e64]:
+      - tablist [ref=e65]:
+        - tab "Home" [selected] [ref=e66] [cursor=pointer]:
+          - tab "Home" [selected] [ref=e67]
+        - tab "For you" [ref=e68] [cursor=pointer]:
+          - tab "For you" [ref=e69]
+        - tab "Following" [ref=e70] [cursor=pointer]:
+          - tab "Following" [ref=e71]
+        - tab "U.S." [ref=e74] [cursor=pointer]:
+          - tab "U.S." [ref=e75]
+        - tab "World" [ref=e76] [cursor=pointer]:
+          - tab "World" [ref=e77]
+        - tab "Local" [ref=e78] [cursor=pointer]:
+          - tab "Local" [ref=e79]
+        - tab "Business" [ref=e80] [cursor=pointer]:
+          - tab "Business" [ref=e81]
+        - tab "Technology" [ref=e82] [cursor=pointer]:
+          - tab "Technology" [ref=e83]
+        - tab "Entertainment" [ref=e84] [cursor=pointer]:
+          - tab "Entertainment" [ref=e85]
+      - generic [ref=e89]:
+        - button "More" [ref=e90] [cursor=pointer]:
+          - img [ref=e92]
+        - tooltip [ref=e94]: More
+  - main [ref=e99]:
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - heading "Your briefing" [level=1] [ref=e105]
+          - paragraph [ref=e106]: Tuesday, June 2
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: Today
+              - img [ref=e113]
+              - generic [ref=e114]:
+                - generic [ref=e115]: 29°
+                - generic [ref=e116]: 27°
+            - generic [ref=e117]:
+              - generic [ref=e118]: Wed
+              - img [ref=e119]
+              - generic [ref=e120]:
+                - generic [ref=e121]: 29°
+                - generic [ref=e122]: 27°
+            - generic [ref=e123]:
+              - generic [ref=e124]: Thu
+              - img [ref=e125]
+              - generic [ref=e126]:
+                - generic [ref=e127]: 31°
+                - generic [ref=e128]: 27°
+            - generic [ref=e129]:
+              - generic [ref=e130]: Fri
+              - img [ref=e131]
+              - generic [ref=e132]:
+                - generic [ref=e133]: 29°
+                - generic [ref=e134]: 26°
+          - generic [ref=e135]:
+            - button "Expand to view forecast" [ref=e136] [cursor=pointer]:
+              - img [ref=e137]
+            - generic "Calabarzon, 27°C, thunderstorms" [ref=e139]:
+              - img "thunderstorms" [ref=e140]:
+                - img [ref=e142]
+              - generic [ref=e157]:
+                - generic [ref=e158]:
+                  - generic [ref=e159]: Calabarzon
+                  - button "Use precise location" [ref=e160] [cursor=pointer]:
+                    - img [ref=e161]
+                - generic [ref=e163]: 27°C
+                - link "Google Weather" [ref=e164] [cursor=pointer]:
+                  - /url: https://support.google.com/websearch/answer/13687874
+      - generic [ref=e166]:
+        - heading "Top stories" [level=3] [ref=e169]:
+          - link "Top stories" [ref=e170] [cursor=pointer]:
+            - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Top stories
+            - img [ref=e171]
+        - generic [ref=e176]:
+          - generic [ref=e177]:
+            - generic [ref=e178]:
+              - link [ref=e180] [cursor=pointer]:
+                - /url: ./read/CBMijgFBVV95cUxPTFlQSkVmanF0UWw3S3VzeFh2M3phazE4WG5xSHNYNVFDSmo3MGxsSjNMbV8zSzgzbVg2Zkk2T2g1amd4eG93OGtmbkdXTzJSLTBMTWNZVWN6NVNYWkhXYjhLclRFajVMd2VzZTJjWVB2MncwWWNMaUVHcXlvVmNnSkx2QVpXSkhaMGcyb3Zn0gGTAUFVX3lxTE52U1U2dENwazJPcjRkUFNqOEFIczlia1A2VkJnN2s2MmxBY2puY1BlYlk2bDRwRFdXaGh4QnFNWEpZbmxRdGUwRUh6a0VxSVM0TUpqVFhkQTJ6UGJoRVp6UlBsRmFSQlBfU0paU2drWGMtX1RkclpSNHZYdUEyRTB0VC0wUW9EMmY5dmdpQi1nMlJKZw?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e181]
+              - generic [ref=e182]:
+                - generic [ref=e185]: CNBC
+                - generic [ref=e189]:
+                  - generic:
+                    - 'button "More - Trump tells CNBC: ''I don''t care'' if Iran negotiations are over" [ref=e190] [cursor=pointer]':
+                      - img [ref=e192]
+                    - tooltip [ref=e194]: More
+              - 'link "Trump tells CNBC: ''I don''t care'' if Iran negotiations are over - CNBC - 3 hours ago - By Kevin Breuninger" [ref=e195] [cursor=pointer]':
+                - /url: ./read/CBMijgFBVV95cUxPTFlQSkVmanF0UWw3S3VzeFh2M3phazE4WG5xSHNYNVFDSmo3MGxsSjNMbV8zSzgzbVg2Zkk2T2g1amd4eG93OGtmbkdXTzJSLTBMTWNZVWN6NVNYWkhXYjhLclRFajVMd2VzZTJjWVB2MncwWWNMaUVHcXlvVmNnSkx2QVpXSkhaMGcyb3Zn0gGTAUFVX3lxTE52U1U2dENwazJPcjRkUFNqOEFIczlia1A2VkJnN2s2MmxBY2puY1BlYlk2bDRwRFdXaGh4QnFNWEpZbmxRdGUwRUh6a0VxSVM0TUpqVFhkQTJ6UGJoRVp6UlBsRmFSQlBfU0paU2drWGMtX1RkclpSNHZYdUEyRTB0VC0wUW9EMmY5dmdpQi1nMlJKZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Trump tells CNBC: 'I don't care' if Iran negotiations are over"
+              - generic [ref=e196]:
+                - time [ref=e197]: 3 hours ago
+                - separator [ref=e198]
+                - generic [ref=e199]: By Kevin Breuninger
+            - generic [ref=e200]:
+              - generic [ref=e201]:
+                - link [ref=e203] [cursor=pointer]:
+                  - /url: ./read/CBMif0FVX3lxTE9GTUlJc1NURGJieVpKUTE2Y2ZraTVoSXNUM2FieW15UVdLbUt1U0t6djJWNDlNanJjUXRseVJ3TUxaY29NX3NDeUNqZ2d6dmtKMGRlR056NTlFc2pCaEVtdWg5SEh2VFRNUUVjaVFIX3NGNTBLS1ltZWUzSUpBd1U?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e204]:
+                  - generic [ref=e207]: CNN
+                  - generic [ref=e211]:
+                    - generic:
+                      - 'button "More - Live updates: Trump insists Iran talks continue at ‘rapid pace’ after Iranian state media said they were suspended" [ref=e212] [cursor=pointer]':
+                        - img [ref=e214]
+                      - tooltip [ref=e216]: More
+                - 'link "Live updates: Trump insists Iran talks continue at ‘rapid pace’ after Iranian state media said they were suspended - CNN - 24 minutes ago - By Kevin Liptak, Eyad Kourdi & Dana Karni" [ref=e217] [cursor=pointer]':
+                  - /url: ./read/CBMif0FVX3lxTE9GTUlJc1NURGJieVpKUTE2Y2ZraTVoSXNUM2FieW15UVdLbUt1U0t6djJWNDlNanJjUXRseVJ3TUxaY29NX3NDeUNqZ2d6dmtKMGRlR056NTlFc2pCaEVtdWg5SEh2VFRNUUVjaVFIX3NGNTBLS1ltZWUzSUpBd1U?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Live updates: Trump insists Iran talks continue at ‘rapid pace’ after Iranian state media said they were suspended"
+                - generic [ref=e218]:
+                  - time [ref=e219]: 24 minutes ago
+                  - separator [ref=e220]
+                  - generic [ref=e221]: By Kevin Liptak, Eyad Kourdi & Dana Karni
+              - generic [ref=e222]:
+                - link [ref=e224] [cursor=pointer]:
+                  - /url: ./read/CBMisAFBVV95cUxPaXNlcS1NcmJVaTVSY2J5anY3ckszNk9tM0J1emNhRVU4ZDVBNVN0MEtTUktuRGRCRUN4TDIxOUpGMG1MV2NkNThDUGZIYW5PSGlZdTVQc2NnT1hGNnRTS3NLaGEwMWJ4ZkF4X2RRbDhpMVpTVndYTDZ6X2RpSi1IYVFKSVVqRGdhQ0Z0Qk5aMnBzcGo2OFplZUZPcjBVQXJYT09WMmgwRUthdlZLZWZvbg?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e225]:
+                  - generic [ref=e228]: USA Today
+                  - generic [ref=e232]:
+                    - generic:
+                      - button "More - Trump says he doesn't care if 'very boring' talks with Iran are over" [ref=e233] [cursor=pointer]:
+                        - img [ref=e235]
+                      - tooltip [ref=e237]: More
+                - link "Trump says he doesn't care if 'very boring' talks with Iran are over - USA Today - 56 minutes ago - By Joey Garrison" [ref=e238] [cursor=pointer]:
+                  - /url: ./read/CBMisAFBVV95cUxPaXNlcS1NcmJVaTVSY2J5anY3ckszNk9tM0J1emNhRVU4ZDVBNVN0MEtTUktuRGRCRUN4TDIxOUpGMG1MV2NkNThDUGZIYW5PSGlZdTVQc2NnT1hGNnRTS3NLaGEwMWJ4ZkF4X2RRbDhpMVpTVndYTDZ6X2RpSi1IYVFKSVVqRGdhQ0Z0Qk5aMnBzcGo2OFplZUZPcjBVQXJYT09WMmgwRUthdlZLZWZvbg?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump says he doesn't care if 'very boring' talks with Iran are over
+                - generic [ref=e239]:
+                  - time [ref=e240]: 56 minutes ago
+                  - separator [ref=e241]
+                  - generic [ref=e242]: By Joey Garrison
+              - generic [ref=e243]:
+                - link [ref=e245] [cursor=pointer]:
+                  - /url: ./read/CBMif0FVX3lxTFBSUHpKdFZmVERQYzNIejV5MWdFZ1B0eVdlOEVqek04RHZ4cnNkM1Y3eEZMS04yblJ5VmZRSWRxOVJxZkRDSHdYMTB2U3djSGFKTXFuc04zeGx5UTdPQ1dDdjdGa05WLUxFR0JvdXpRWnRLNmkzYXlwR0EzS0hDOE3SAYQBQVVfeXFMT0Z1aDdzejZNN2dHNW5mUnZxWnZ5RUtPXzA1VS1KSWZNWUItSTJRTThvS2pZLVctOFFvRGdDRHBfVmxMZV91Ti1tTjY5dzE3V3RGR3VLd0wzQkhXNkJLMlhvb2M1R0RsZUE2ckhrWmFEeWdQNV9QVlB1c2RTZVRidlpsVjJp?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e246]:
+                  - generic [ref=e249]: CNBC
+                  - generic [ref=e253]:
+                    - generic:
+                      - 'button "More - Iran stops negotiations with U.S., vows to ''completely'' block Strait of Hormuz: State media" [ref=e254] [cursor=pointer]':
+                        - img [ref=e256]
+                      - tooltip [ref=e258]: More
+                - 'link "Iran stops negotiations with U.S., vows to ''completely'' block Strait of Hormuz: State media - CNBC - 6 hours ago - By Kevin Breuninger" [ref=e259] [cursor=pointer]':
+                  - /url: ./read/CBMif0FVX3lxTFBSUHpKdFZmVERQYzNIejV5MWdFZ1B0eVdlOEVqek04RHZ4cnNkM1Y3eEZMS04yblJ5VmZRSWRxOVJxZkRDSHdYMTB2U3djSGFKTXFuc04zeGx5UTdPQ1dDdjdGa05WLUxFR0JvdXpRWnRLNmkzYXlwR0EzS0hDOE3SAYQBQVVfeXFMT0Z1aDdzejZNN2dHNW5mUnZxWnZ5RUtPXzA1VS1KSWZNWUItSTJRTThvS2pZLVctOFFvRGdDRHBfVmxMZV91Ti1tTjY5dzE3V3RGR3VLd0wzQkhXNkJLMlhvb2M1R0RsZUE2ckhrWmFEeWdQNV9QVlB1c2RTZVRidlpsVjJp?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Iran stops negotiations with U.S., vows to 'completely' block Strait of Hormuz: State media"
+                - generic [ref=e260]:
+                  - time [ref=e261]: 6 hours ago
+                  - separator [ref=e262]
+                  - generic [ref=e263]: By Kevin Breuninger
+          - link "See more headlines & perspectives" [ref=e266] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pZd0ltZkVSRVc4M2ozX2pSekV5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e267]
+            - generic [ref=e269]: See more headlines & perspectives
+        - generic [ref=e273]:
+          - link "Israel-Lebanon ceasefire" [ref=e275] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pHcGJpaUVSRlVEbDh5YTFPc3dDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Israel-Lebanon ceasefire chevron_right
+          - generic [ref=e276]:
+            - generic [ref=e277]:
+              - link [ref=e279] [cursor=pointer]:
+                - /url: ./read/CBMijAFBVV95cUxQam5sOGlHejhlQkNHdktLc2lJalVETWt0YW84eVdjQ3gtLU9NRTdLYkRhVzlwdk1uLURyQWpJRkV0UTZCRE05SUtlVWs1MWwtMF9ISUpHWkNqZm5hUHlrR3VrOXpNNXJwRWJRbFNhMEJxME9kOHNwVEJhenJTR2lnaTdWNGpFSW1vbGZmRQ?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e280]
+              - generic [ref=e281]:
+                - generic [ref=e284]: Axios
+                - generic [ref=e288]:
+                  - generic:
+                    - button "More - Lebanese official told U.S. that Hezbollah ready for full ceasefire with Israel" [ref=e289] [cursor=pointer]:
+                      - img [ref=e291]
+                    - tooltip [ref=e293]: More
+              - link "Lebanese official told U.S. that Hezbollah ready for full ceasefire with Israel - Axios - 1 hour ago - By Barak Ravid" [ref=e294] [cursor=pointer]:
+                - /url: ./read/CBMijAFBVV95cUxQam5sOGlHejhlQkNHdktLc2lJalVETWt0YW84eVdjQ3gtLU9NRTdLYkRhVzlwdk1uLURyQWpJRkV0UTZCRE05SUtlVWs1MWwtMF9ISUpHWkNqZm5hUHlrR3VrOXpNNXJwRWJRbFNhMEJxME9kOHNwVEJhenJTR2lnaTdWNGpFSW1vbGZmRQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Lebanese official told U.S. that Hezbollah ready for full ceasefire with Israel
+              - generic [ref=e295]:
+                - time [ref=e296]: 1 hour ago
+                - separator [ref=e297]
+                - generic [ref=e298]: By Barak Ravid
+            - generic [ref=e299]:
+              - generic [ref=e300]:
+                - link [ref=e302] [cursor=pointer]:
+                  - /url: ./read/CBMiuwFBVV95cUxOaFlBcjlwS3dhN0dfcVlRY1QyQktOSkFQVWNMcHp4NEdnZFBnUUxmQnpOd2lHOEprMlJERGxhMG1JZ09McTJIbXJUaUtNY3JqMDZDVlI1NWJJLWNESjV2ZndFc2JtelkxYjhVSUNIa3RpaVdhZ3hDd0NpXzVEckNSLVlEa28xREp4X2RIY2Y4bjhBLS1lTGZDZHNwUXRLVm5BRmREVXVRRjVfU3lSTEtDOC0zbWpDSDhiTHVB0gHAAUFVX3lxTFBwNGZYT1FqdTZtR0o4dHd2S1FUMkZiT1NlYXhfNnl0VUI4OW5qQkMyWUF2MFAyWHc2cWlKYUtkbXluVkpEMnd1c1drNXBGSHo3Q05ZcHhqTGtaekdCTUIwUHVSWXJ1TmJDMTVoMGxGSU95dWdrMmNZbXRkd3dxLWVYeXNKN1lBb052Rm5scVFVVkF4M04yZ2NEa0ZhZkRwNW1VOERQTExOc2V2c3RSZWhPT3dNcE1pdHRhb3YzdG1Eag?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e303]:
+                  - generic [ref=e306]: Al Jazeera
+                  - generic [ref=e310]:
+                    - generic:
+                      - 'button "More - Iran war live: Trump says he spoke to Netanyahu, Hezbollah about Lebanon" [ref=e311] [cursor=pointer]':
+                        - img [ref=e313]
+                      - tooltip [ref=e315]: More
+                - 'link "Iran war live: Trump says he spoke to Netanyahu, Hezbollah about Lebanon - Al Jazeera - 12 hours ago" [ref=e316] [cursor=pointer]':
+                  - /url: ./read/CBMiuwFBVV95cUxOaFlBcjlwS3dhN0dfcVlRY1QyQktOSkFQVWNMcHp4NEdnZFBnUUxmQnpOd2lHOEprMlJERGxhMG1JZ09McTJIbXJUaUtNY3JqMDZDVlI1NWJJLWNESjV2ZndFc2JtelkxYjhVSUNIa3RpaVdhZ3hDd0NpXzVEckNSLVlEa28xREp4X2RIY2Y4bjhBLS1lTGZDZHNwUXRLVm5BRmREVXVRRjVfU3lSTEtDOC0zbWpDSDhiTHVB0gHAAUFVX3lxTFBwNGZYT1FqdTZtR0o4dHd2S1FUMkZiT1NlYXhfNnl0VUI4OW5qQkMyWUF2MFAyWHc2cWlKYUtkbXluVkpEMnd1c1drNXBGSHo3Q05ZcHhqTGtaekdCTUIwUHVSWXJ1TmJDMTVoMGxGSU95dWdrMmNZbXRkd3dxLWVYeXNKN1lBb052Rm5scVFVVkF4M04yZ2NEa0ZhZkRwNW1VOERQTExOc2V2c3RSZWhPT3dNcE1pdHRhb3YzdG1Eag?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Iran war live: Trump says he spoke to Netanyahu, Hezbollah about Lebanon"
+                - time [ref=e318]: 12 hours ago
+              - generic [ref=e319]:
+                - link [ref=e321] [cursor=pointer]:
+                  - /url: ./read/CBMixwFBVV95cUxNS2wxLTZUQkR4N3MySVp5a1ZBaTlNLXB6NXNuV1Z2VFlRNkRSZUNjcWpNTnZCc1BObWtlTUR3SHdSRUYzRmxza2NpUzFlWi1vR3JLUjZyNWEtQ0NUc1dpRlN2ZS1odzlYT3plRURLTENIMm9zejZsaTFwbDVndl9OSWFLRmtJWEg2NWlSQzExTGFKNGlmbE9temtiTVV4RUh1VVFyV3U3OUhGa194SFdvTDhoOUE1VTdMZHY4aWdjTjlkV2RKenlN?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e322]:
+                  - generic [ref=e325]: The Times of Israel
+                  - generic [ref=e329]:
+                    - generic:
+                      - button "More - Hezbollah MP claims truce accepted by Israel covers all of Lebanon, not just Beirut" [ref=e330] [cursor=pointer]:
+                        - img [ref=e332]
+                      - tooltip [ref=e334]: More
+                - link "Hezbollah MP claims truce accepted by Israel covers all of Lebanon, not just Beirut - The Times of Israel - 34 minutes ago" [ref=e335] [cursor=pointer]:
+                  - /url: ./read/CBMixwFBVV95cUxNS2wxLTZUQkR4N3MySVp5a1ZBaTlNLXB6NXNuV1Z2VFlRNkRSZUNjcWpNTnZCc1BObWtlTUR3SHdSRUYzRmxza2NpUzFlWi1vR3JLUjZyNWEtQ0NUc1dpRlN2ZS1odzlYT3plRURLTENIMm9zejZsaTFwbDVndl9OSWFLRmtJWEg2NWlSQzExTGFKNGlmbE9temtiTVV4RUh1VVFyV3U3OUhGa194SFdvTDhoOUE1VTdMZHY4aWdjTjlkV2RKenlN?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Hezbollah MP claims truce accepted by Israel covers all of Lebanon, not just Beirut
+                - time [ref=e337]: 34 minutes ago
+              - generic [ref=e338]:
+                - link [ref=e340] [cursor=pointer]:
+                  - /url: ./read/CBMisgFBVV95cUxQOGFKUlVNZXlYa1FTV3VJeS1jelhsakdHVDEzVHRJX0lQV0VpWHFLclFxVVBJb3Q0d0NtVUpTN0MzZzdPVHFOdlI2QXJWUnpzc3JsalNCZWo1Uy1JUkNIcEpQVnZtQkQ0SWV0d1dmcUhicjBqUG1CYUtXSXhSbUpmMHpEdkVCVUE2amFnUFZ5LTBYbFVWT1BCUGJjU1FqX3VWcGQ3MmhmNndWemtLOENFdmNB?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e341]:
+                  - generic [ref=e344]: WSJ
+                  - generic [ref=e348]:
+                    - generic:
+                      - button "More - Oil Futures Rise On Concerns About U.S.-Iran Talks" [ref=e349] [cursor=pointer]:
+                        - img [ref=e351]
+                      - tooltip [ref=e353]: More
+                - link "Oil Futures Rise On Concerns About U.S.-Iran Talks - WSJ - 1 hour ago" [ref=e354] [cursor=pointer]:
+                  - /url: ./read/CBMisgFBVV95cUxQOGFKUlVNZXlYa1FTV3VJeS1jelhsakdHVDEzVHRJX0lQV0VpWHFLclFxVVBJb3Q0d0NtVUpTN0MzZzdPVHFOdlI2QXJWUnpzc3JsalNCZWo1Uy1JUkNIcEpQVnZtQkQ0SWV0d1dmcUhicjBqUG1CYUtXSXhSbUpmMHpEdkVCVUE2amFnUFZ5LTBYbFVWT1BCUGJjU1FqX3VWcGQ3MmhmNndWemtLOENFdmNB?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Oil Futures Rise On Concerns About U.S.-Iran Talks
+                - time [ref=e356]: 1 hour ago
+          - link "See more headlines & perspectives - Israel-Lebanon ceasefire" [ref=e359] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pHcGJpaUVSRlVEbDh5YTFPc3dDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - img [ref=e360]
+            - generic [ref=e362]: See more headlines & perspectives
+        - generic [ref=e366]:
+          - generic [ref=e367]:
+            - link [ref=e369] [cursor=pointer]:
+              - /url: ./read/CBMiWkFVX3lxTE0wc3lMT3hUc01OVVUtMzFXb29BREozUmQ5UEFrYW5UbFlwbjE1TDFiczZoQWFBSkxDNXgzdVFaREp0TVdBNmZGOGw2QVlyQjhSRVI1MEdmUjJndw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e371]:
+              - generic [ref=e372]:
+                - generic [ref=e375]: BBC
+                - generic [ref=e379]:
+                  - generic:
+                    - button "More - US says it struck Iranian radar sites as Iran targets American forces in Kuwait" [ref=e380] [cursor=pointer]:
+                      - img [ref=e382]
+                    - tooltip [ref=e384]: More
+              - link "US says it struck Iranian radar sites as Iran targets American forces in Kuwait - BBC - 6 hours ago" [ref=e385] [cursor=pointer]:
+                - /url: ./read/CBMiWkFVX3lxTE0wc3lMT3hUc01OVVUtMzFXb29BREozUmQ5UEFrYW5UbFlwbjE1TDFiczZoQWFBSkxDNXgzdVFaREp0TVdBNmZGOGw2QVlyQjhSRVI1MEdmUjJndw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: US says it struck Iranian radar sites as Iran targets American forces in Kuwait
+            - figure [ref=e386]
+          - generic [ref=e387]:
+            - time [ref=e388]: 6 hours ago
+            - link "See more headlines & perspectives - US says it struck Iranian radar sites as Iran targets American forces in Kuwait" [ref=e389] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzNkp1ZEVSRWR4cGhvR3ZNeTdTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e390]
+              - generic [ref=e392]: See more
+        - generic [ref=e396]:
+          - generic [ref=e397]:
+            - link [ref=e399] [cursor=pointer]:
+              - /url: ./read/CBMinAFBVV95cUxQV3pLWjJqQnBSRDJDZ2NhZHd1WFA5ODBaanh6amJMS2lsTUpJTC1qUE1tS3laM3U5alY1b1d6cERuOVFSakFsZC1LV0ZPTWtQOFVCbXNQLVRjZW1SeHhBVW81NnYxQnlzc2M0MTg4NUhMOVJJTVNqZ0RDNExhdW16OVBMYmwzV1llSlo0VWx5WTU0amdOdlNtN182V27SAaIBQVVfeXFMT0hqeFdsMHV6UUVNNVNDRnZSNkxyQXBETUl0ZnV3d3llVVFvdFBNektqVVNpMU1qNUVmWDk5Q3ZMUHUyd0ZsZlVpREN3SVZSUUVfZGxTREM4dWswMndEYmtGWGsxMzZBakZQcGJpclVxbmJqczh1Nld1a0hVTmFZSW52WEdfUXJZMDBlZmF0TTRETGNxSDh1Ylp6R0ozcElKdEd3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e401]:
+              - generic [ref=e402]:
+                - generic [ref=e405]: Fox News
+                - generic [ref=e409]:
+                  - generic:
+                    - button "More - Hiker discovers body of missing New Mexico nuclear lab worker, police say" [ref=e410] [cursor=pointer]:
+                      - img [ref=e412]
+                    - tooltip [ref=e414]: More
+              - link "Hiker discovers body of missing New Mexico nuclear lab worker, police say - Fox News - 3 hours ago" [ref=e415] [cursor=pointer]:
+                - /url: ./read/CBMinAFBVV95cUxQV3pLWjJqQnBSRDJDZ2NhZHd1WFA5ODBaanh6amJMS2lsTUpJTC1qUE1tS3laM3U5alY1b1d6cERuOVFSakFsZC1LV0ZPTWtQOFVCbXNQLVRjZW1SeHhBVW81NnYxQnlzc2M0MTg4NUhMOVJJTVNqZ0RDNExhdW16OVBMYmwzV1llSlo0VWx5WTU0amdOdlNtN182V27SAaIBQVVfeXFMT0hqeFdsMHV6UUVNNVNDRnZSNkxyQXBETUl0ZnV3d3llVVFvdFBNektqVVNpMU1qNUVmWDk5Q3ZMUHUyd0ZsZlVpREN3SVZSUUVfZGxTREM4dWswMndEYmtGWGsxMzZBakZQcGJpclVxbmJqczh1Nld1a0hVTmFZSW52WEdfUXJZMDBlZmF0TTRETGNxSDh1Ylp6R0ozcElKdEd3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Hiker discovers body of missing New Mexico nuclear lab worker, police say
+            - figure [ref=e416]
+          - generic [ref=e417]:
+            - time [ref=e418]: 3 hours ago
+            - link "See more headlines & perspectives - Hiker discovers body of missing New Mexico nuclear lab worker, police say" [ref=e419] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pscklhaUVSRVNnUjIwc3FjR295Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - img [ref=e420]
+              - generic [ref=e422]: See more
+      - generic [ref=e425]:
+        - generic [ref=e426]:
+          - heading "Local news" [level=3] [ref=e428]:
+            - link "Local news" [ref=e429] [cursor=pointer]:
+              - /url: ./topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Local news
+              - img [ref=e430]
+          - generic [ref=e434]:
+            - button "Manage local news" [ref=e435] [cursor=pointer]:
+              - img [ref=e436]
+            - tooltip [ref=e439]: Manage local news
+        - tablist [ref=e441]

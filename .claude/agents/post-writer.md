@@ -208,6 +208,7 @@ Score each of the 3 draft versions on the **8-dimension rubric** (1-10 each) fro
 - Readability must be ≥ 8
 - Engagement potential must be ≥ 8
 - **No bold-Unicode characters** anywhere in caption or slides (𝐀𝐁𝐂, 𝟏𝟐𝟑, etc.) — automatic fail. Run a regex check on the final caption and slide text against the bold-Unicode block (U+1D400–U+1D7FF) before saving.
+- **No em dashes (—) anywhere in the caption or slides** — automatic fail, zero tolerance (not just "clusters"). The em dash is a top AI writing tell and the user has explicitly banned it from published copy. Run a regex check for the em-dash character (U+2014) — and the en dash U+2013 when used as a sentence break — on the final caption and slide text before saving. Rewrite every instance with the natural punctuation the sentence actually needs: a comma, a colon, parentheses, or a full stop into a new sentence. Never substitute one em dash for another dash; restructure the sentence. (Hyphens in compound words like "high-profile" and numeric en dashes in ranges like "60–120 words" inside internal sections are fine — this gate is about dashes used as clause/sentence breaks in reader-facing caption and slide text.)
 - **Hashtag cap: 3 maximum** (April 22 audit). 4+ hashtags = automatic fail.
 - **Hook simplicity: max ONE numeric anchor in the opening sentence** (April 22 audit). Stacking 2+ numbers in line 1 = automatic fail. Additional stats go in the body, never the hook.
 - **One screenshot-ready quotable line** present (≤12 words, standalone, designed to be reshared) — automatic fail if missing. Audit found 0 reposts across 16 posts because no line was quotable.
@@ -237,6 +238,8 @@ Read `Humanizer/SKILL.md` in full. Apply every pattern in that file — all 25 p
 2. Rewrite those parts
 
 Pay special attention to Pattern #25 (Formulaic Opener Repetition).
+
+**Em-dash sweep (mandatory):** Before finishing this pass, scan the caption and every slide for the em-dash character (—). Remove ALL of them — not just clusters. Each one must be rewritten with the punctuation the sentence actually needs (comma, colon, parentheses, or splitting into two sentences). The em dash is the single most recognizable AI writing tell and is banned from published copy with zero tolerance.
 
 ## Step 12: Tone Drift Check
 
@@ -326,6 +329,7 @@ SLIDE N — CTA
 - [x] Tone drift checklist passed
 - [x] Content quality bar passed (all 8 items)
 - [x] No bold-Unicode characters (audit hard gate)
+- [x] No em dashes (—) in caption or slides (zero-tolerance hard gate — regex-checked)
 - [x] Hashtag count ≤ 3 (April 22 audit hard gate)
 - [x] Hook contains at most ONE numeric anchor in opening sentence (April 22 audit hard gate)
 - [x] CTA is opinion-bait, naming-ask, or disagreement-bait (NOT (a)/(b)/(c) unless none in last 7 days)
